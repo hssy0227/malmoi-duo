@@ -9,6 +9,9 @@ CATS = [
     ("move", "교통·길찾기"), ("stay", "숙소·호텔"), ("time", "시간·숫자"), ("phone", "약속·전화"),
     ("work", "업무·회의"), ("social", "스몰토크"), ("health", "건강·응급"), ("travel", "관광·여가"),
     ("trouble", "부탁·문제해결"), ("opinion", "의견·토론"), ("life", "경험 이야기"),
+    ("cook", "요리·레시피"), ("hobby", "취미·운동"), ("biz", "비즈니스·협상"), ("home", "집·생활"),
+    ("money", "돈·금융"), ("tech", "IT·디지털"), ("nature", "날씨·자연"), ("culture", "문화·명절"),
+    ("family", "가족·관계"), ("study", "배움·언어"),
 ]
 CAT_KEYS = {k for k, _ in CATS}
 

@@ -1,0 +1,167 @@
+# 복합문 확장 (돈·IT)
+@money
+3|은행 계좌를 만들려면 뭐가 필요해요?|Mở tài khoản ngân hàng cần những gì?|mở tài khoản=계좌를 개설하다; ngân hàng=은행
+4|외국인은 여권과 거주증이 있어야 계좌를 만들 수 있어요.|Người nước ngoài phải có hộ chiếu và thẻ tạm trú thì mới mở được tài khoản.|thẻ tạm trú=거주증; người nước ngoài=외국인
+3|오늘 환율이 어때요?|Tỷ giá hôm nay thế nào?|tỷ giá=환율
+4|공항보다 시내 금은방에서 환전하는 게 환율이 더 좋아요.|Đổi tiền ở tiệm vàng trong phố được giá hơn ở sân bay.|tiệm vàng=금은방; được giá=값을 잘 받다
+3|달러를 동으로 바꾸고 싶어요.|Tôi muốn đổi đô la sang tiền đồng.|đổi=바꾸다; sang=~로
+4|베트남 돈은 0이 많아서 처음엔 계산할 때 자꾸 헷갈려요.|Tiền Việt nhiều số không nên lúc đầu tính toán cứ bị nhầm.|số không=0; tính toán=계산하다; nhầm=헷갈리다
+3|이 카드로 해외 결제가 되나요?|Thẻ này thanh toán ở nước ngoài được không?|thanh toán=결제하다; nước ngoài=해외
+4|해외에서 카드를 쓰면 수수료가 붙으니까 현금을 조금 준비하는 게 좋아요.|Dùng thẻ ở nước ngoài thì bị tính phí nên chuẩn bị ít tiền mặt thì hơn.|tính phí=수수료를 받다; tiền mặt=현금
+3|요즘은 거의 QR 코드로 결제해요.|Bây giờ hầu như toàn thanh toán bằng mã QR.|hầu như=거의; mã QR=QR 코드
+4|길거리 노점에서도 QR로 계좌이체를 받는 걸 보고 놀랐어요.|Tôi ngạc nhiên khi thấy cả hàng rong cũng nhận chuyển khoản qua QR.|ngạc nhiên=놀라다; hàng rong=노점; chuyển khoản=계좌이체
+3|이번 달 월급이 들어왔어요.|Lương tháng này về rồi.|lương=월급; về=들어오다
+4|월급이 들어오자마자 카드값과 공과금으로 절반이 나갔어요.|Lương vừa về là đã mất một nửa cho tiền thẻ và hóa đơn.|vừa ... là=~하자마자; một nửa=절반; hóa đơn=공과금·청구서|vừa A là B = A하자마자 B
+3|저는 매달 월급의 20%를 저축해요.|Mỗi tháng tôi tiết kiệm hai mươi phần trăm lương.|tiết kiệm=저축하다
+4|목돈을 모으려면 쓰기 전에 먼저 떼어 놓아야 해요.|Muốn có một khoản tiền lớn thì phải để dành trước rồi mới tiêu.|khoản tiền=금액; để dành=모아 두다; tiêu=쓰다
+3|정기 예금 금리가 얼마예요?|Lãi suất tiết kiệm có kỳ hạn là bao nhiêu?|lãi suất=금리; có kỳ hạn=정기
+4|요즘 금리가 내려서 예금만으로는 물가 상승을 따라가기 어려워요.|Dạo này lãi suất giảm nên chỉ gửi tiết kiệm thì khó theo kịp lạm phát.|gửi tiết kiệm=예금하다; theo kịp=따라잡다; lạm phát=인플레이션
+3|주식 투자 하세요?|Anh có đầu tư chứng khoán không?|chứng khoán=주식
+4|주식은 단기 수익을 좇기보다 길게 보고 분산 투자하는 게 안전해요.|Chơi chứng khoán thì nên đầu tư dài hạn và đa dạng hóa chứ đừng chạy theo lãi ngắn hạn.|đa dạng hóa=분산하다; chạy theo=좇다; lãi=수익
+4|시장이 급락할 때마다 팔고 싶어지지만 원칙을 지키려고 해요.|Mỗi lần thị trường lao dốc tôi lại muốn bán, nhưng tôi cố giữ nguyên tắc.|lao dốc=급락하다; nguyên tắc=원칙
+3|베트남 사람들은 금을 많이 사 두나요?|Người Việt có hay tích trữ vàng không?|tích trữ=비축하다; vàng=금
+4|베트남에서는 은행에 맡기기보다 금이나 부동산으로 재산을 지키는 사람이 많아요.|Ở Việt Nam nhiều người giữ tài sản bằng vàng hoặc bất động sản hơn là gửi ngân hàng.|tài sản=재산; bất động sản=부동산
+3|이번 달은 지출이 너무 많았어요.|Tháng này tôi chi tiêu nhiều quá.|chi tiêu=지출하다
+4|가계부를 쓰기 시작하니까 쓸데없는 지출이 눈에 보이더라고요.|Từ khi ghi sổ chi tiêu, tôi mới thấy rõ những khoản tiêu vô ích.|sổ chi tiêu=가계부; khoản=항목; vô ích=쓸데없는
+3|커피값만 줄여도 한 달에 꽤 아낄 수 있어요.|Chỉ cần bớt tiền cà phê thôi là mỗi tháng tiết kiệm được kha khá.|bớt=줄이다; kha khá=꽤
+4|구독 서비스를 정리했더니 매달 나가던 돈이 확 줄었어요.|Tôi hủy bớt các dịch vụ đăng ký nên tiền mất hàng tháng giảm hẳn.|hủy=해지하다; dịch vụ đăng ký=구독 서비스; hàng tháng=매달
+3|돈 좀 빌려줄 수 있어요? 다음 주에 갚을게요.|Cho tôi vay ít tiền được không? Tuần sau tôi trả.|vay=빌리다; trả=갚다
+4|친구 사이엔 돈거래를 안 하는 게 좋다고들 하잖아요.|Người ta bảo bạn bè thì đừng nên dính vào chuyện tiền bạc.|dính vào=얽히다; tiền bạc=돈 문제
+3|대출 금리가 너무 올랐어요.|Lãi suất vay tăng cao quá.|lãi suất vay=대출 금리
+4|집을 사려고 대출을 알아봤는데 이자 부담이 생각보다 커요.|Tôi tìm hiểu vay mua nhà thì thấy gánh nặng lãi lớn hơn tôi nghĩ.|tìm hiểu=알아보다; gánh nặng=부담; lãi=이자
+3|ATM이 어디 있어요?|Cây ATM ở đâu?|cây ATM=현금인출기
+4|ATM은 한 번에 뽑을 수 있는 금액이 정해져 있어서 여러 번 뽑았어요.|Cây ATM giới hạn số tiền rút mỗi lần nên tôi phải rút nhiều lần.|giới hạn=제한하다; rút=인출하다
+3|송금 수수료가 얼마예요?|Phí chuyển tiền là bao nhiêu?|phí=수수료; chuyển tiền=송금하다
+4|한국으로 송금할 때 은행보다 앱을 쓰면 수수료가 훨씬 싸요.|Chuyển tiền về Hàn Quốc qua ứng dụng thì phí rẻ hơn ngân hàng nhiều.|ứng dụng=앱; rẻ=싼
+3|비밀번호를 세 번 틀려서 카드가 잠겼어요.|Tôi nhập sai mật khẩu ba lần nên thẻ bị khóa.|nhập=입력하다; khóa=잠기다
+4|카드를 잃어버렸으면 바로 은행에 전화해서 정지시켜야 해요.|Nếu mất thẻ thì phải gọi ngay cho ngân hàng để khóa thẻ.|mất=잃어버리다; khóa thẻ=카드를 정지하다
+3|영수증은 꼭 챙기세요.|Nhớ giữ hóa đơn nhé.|giữ=보관하다
+4|출장 경비는 영수증이 있어야 회사에서 정산해 줘요.|Chi phí công tác phải có hóa đơn thì công ty mới thanh toán lại.|chi phí công tác=출장 경비; thanh toán lại=정산해 주다
+3|팁을 얼마나 줘야 할지 모르겠어요.|Tôi không biết nên boa bao nhiêu.|boa=팁을 주다
+4|베트남은 팁 문화가 강하지 않지만 마사지나 투어에서는 주는 경우가 많아요.|Ở Việt Nam văn hóa boa không mạnh, nhưng khi mát-xa hay đi tour thì nhiều người vẫn boa.|văn hóa=문화
+3|올해는 돈을 좀 모으고 싶어요.|Năm nay tôi muốn để dành được ít tiền.|để dành=모으다
+4|여행 자금을 마련하려고 매달 따로 적금을 붓고 있어요.|Để có tiền đi du lịch, mỗi tháng tôi gửi riêng một khoản tiết kiệm.|gửi=넣다·예치하다; riêng=따로
+3|물가가 많이 올랐어요.|Giá cả tăng nhiều quá.|giá cả=물가
+4|월급은 그대로인데 물가만 올라서 생활이 점점 빠듯해져요.|Lương vẫn thế mà giá cả cứ tăng nên cuộc sống ngày càng chật vật.|vẫn thế=그대로; chật vật=빠듯한
+3|이거 할부로 살 수 있어요?|Cái này mua trả góp được không?|trả góp=할부로 내다
+4|무이자 할부라서 큰맘 먹고 노트북을 샀어요.|Vì được trả góp không lãi suất nên tôi mạnh dạn mua cái laptop.|không lãi suất=무이자; mạnh dạn=큰맘 먹고
+3|세금 신고는 언제까지 해야 해요?|Hạn khai thuế là khi nào?|khai thuế=세금 신고하다; hạn=기한
+4|외국인 근로자도 소득이 일정 수준을 넘으면 개인 소득세를 내야 해요.|Lao động nước ngoài có thu nhập vượt mức quy định cũng phải nộp thuế thu nhập cá nhân.|thu nhập=소득; vượt=넘다; thuế thu nhập cá nhân=개인 소득세
+3|보험료가 매달 자동으로 빠져나가요.|Phí bảo hiểm tự động trừ mỗi tháng.|phí bảo hiểm=보험료; trừ=빠지다
+4|보험은 들 때는 돈이 아깝지만 막상 일이 생기면 정말 큰 도움이 돼요.|Lúc mua bảo hiểm thì thấy tiếc tiền, nhưng khi có chuyện thật thì lại giúp ích rất nhiều.|tiếc tiền=돈이 아깝다; có chuyện=일이 생기다
+3|이 가격이면 남는 게 있어요?|Giá này thì còn lãi không?|lãi=이익
+4|원자재 가격이 올라서 판매가를 올리지 않으면 손해를 보게 돼요.|Giá nguyên liệu tăng nên nếu không tăng giá bán thì sẽ bị lỗ.|nguyên liệu=원자재; giá bán=판매가; lỗ=손해 보다
+3|계산이 틀린 것 같아요.|Hình như tính sai rồi.|tính sai=계산이 틀리다
+4|거스름돈을 덜 받은 것 같은데 다시 확인해 주시겠어요?|Hình như tôi nhận thiếu tiền thừa, anh kiểm tra lại giúp tôi được không?|nhận thiếu=덜 받다; tiền thừa=거스름돈
+3|큰돈인데 잔돈으로 바꿔 주실 수 있어요?|Tờ này mệnh giá lớn, anh đổi tiền lẻ giúp tôi được không?|tờ=장(지폐); mệnh giá=액면가; tiền lẻ=잔돈
+4|50만 동짜리 지폐는 작은 가게에서 거슬러 주기 어려워해요.|Tờ năm trăm nghìn thì quán nhỏ thường khó trả lại tiền thừa.|trả lại=거슬러 주다
+3|이번 보너스로 부모님 선물을 샀어요.|Tôi dùng tiền thưởng lần này mua quà cho bố mẹ.|tiền thưởng=보너스; bố mẹ=부모님
+4|설 보너스가 나오면 많은 사람들이 고향 가는 비용으로 써요.|Khi có thưởng Tết, nhiều người dùng để làm chi phí về quê.|thưởng Tết=설 보너스; chi phí=비용
+3|세뱃돈은 보통 얼마나 줘요?|Tiền mừng tuổi thường cho bao nhiêu?|tiền mừng tuổi=세뱃돈(북부)|남부는 lì xì
+4|세뱃돈은 액수보다 새 지폐를 빨간 봉투에 넣어 주는 게 중요해요.|Tiền mừng tuổi quan trọng là tiền mới bỏ trong phong bao đỏ chứ không phải số tiền.|phong bao đỏ=빨간 봉투; số tiền=액수
+3|요즘 코인 하는 사람이 많네요.|Dạo này nhiều người chơi tiền ảo quá.|tiền ảo=가상화폐
+4|가상화폐는 변동성이 커서 잃어도 괜찮은 돈으로만 해야 해요.|Tiền ảo biến động mạnh nên chỉ nên dùng số tiền mà mất cũng không sao.|biến động=변동하다; mất cũng không sao=잃어도 괜찮은
+3|이건 제가 낼게요.|Cái này để tôi trả.|trả=계산하다·지불하다
+4|각자 낸 금액을 앱에 적어 두고 나중에 나눠서 정산하자.|Mình ghi lại số tiền mỗi người đã trả trên ứng dụng rồi chia sau nhé.|ghi lại=기록하다; chia=나누다
+3|이번 달 카드값이 걱정이에요.|Tôi lo về tiền thẻ tháng này.|lo=걱정하다
+4|충동구매를 줄이려고 장바구니에 담아 두고 하루 지난 뒤에 결제해요.|Để bớt mua sắm bốc đồng, tôi bỏ vào giỏ hàng rồi để qua một ngày mới thanh toán.|bốc đồng=충동적인; giỏ hàng=장바구니
+3|노후 준비는 하고 계세요?|Anh có chuẩn bị cho tuổi già chưa?|tuổi già=노후
+4|노후 준비는 일찍 시작할수록 복리 덕분에 부담이 줄어요.|Chuẩn bị cho tuổi già càng sớm thì nhờ lãi kép mà gánh nặng càng nhẹ.|lãi kép=복리; gánh nặng=부담; nhẹ=가벼운
+3|부동산 가격이 너무 비싸요.|Giá bất động sản đắt quá.|bất động sản=부동산
+4|하노이 집값이 몇 년 새 두 배 가까이 올라서 젊은 사람들은 집 사기가 힘들어요.|Giá nhà ở Hà Nội tăng gần gấp đôi trong vài năm nên người trẻ rất khó mua nhà.|gần=거의; người trẻ=젊은이
+3|이 상품은 원금이 보장되나요?|Sản phẩm này có đảm bảo vốn gốc không?|đảm bảo=보장하다; vốn gốc=원금
+4|수익률이 높다는 건 그만큼 위험도 크다는 뜻이에요.|Lợi suất cao cũng có nghĩa là rủi ro lớn tương ứng.|lợi suất=수익률; có nghĩa là=~라는 뜻이다; tương ứng=그만큼
+3|저는 돈 관리를 잘 못해요.|Tôi quản lý tiền không giỏi.|quản lý=관리하다
+4|돈을 쓰는 데도 원칙이 있어야 나중에 후회하지 않아요.|Tiêu tiền cũng phải có nguyên tắc thì sau này mới không hối hận.|tiêu tiền=돈을 쓰다; hối hận=후회하다
+3|이번 달은 적자예요.|Tháng này tôi bị âm tiền.|âm tiền=적자가 나다
+4|예상치 못한 병원비가 나가는 바람에 비상금을 다 써 버렸어요.|Vì phải trả tiền viện phí bất ngờ nên tôi tiêu hết quỹ dự phòng.|viện phí=병원비; bất ngờ=예상치 못한; quỹ dự phòng=비상금
+3|가격 비교해 보고 살게요.|Tôi so sánh giá rồi mới mua.|so sánh=비교하다
+4|온라인이 더 싸긴 하지만 직접 보고 사야 마음이 놓여요.|Mua trên mạng rẻ hơn thật nhưng phải xem tận mắt tôi mới yên tâm.|tận mắt=직접 눈으로; yên tâm=마음이 놓이다
+3|할인 쿠폰 있어요?|Anh có mã giảm giá không?|mã giảm giá=할인 쿠폰
+4|쇼핑 앱에서 대규모 세일할 때 사면 거의 반값이에요.|Mua lúc ứng dụng mua sắm có đợt sale lớn thì gần như được nửa giá.|đợt=회·차례; nửa giá=반값
+3|돈이 전부는 아니에요.|Tiền không phải là tất cả.|tất cả=전부
+4|돈을 많이 버는 것도 중요하지만 어떻게 쓰느냐가 더 중요하다고 생각해요.|Kiếm nhiều tiền cũng quan trọng, nhưng tôi nghĩ tiêu thế nào còn quan trọng hơn.|kiếm tiền=돈을 벌다; còn ... hơn=더욱 ~하다
+4|은행 앱으로 이체하려면 휴대폰으로 받은 인증번호를 입력해야 해요.|Muốn chuyển khoản qua ứng dụng ngân hàng thì phải nhập mã OTP gửi về điện thoại.|mã OTP=인증번호; gửi về=보내오다
+3|잔액이 부족하다고 나와요.|Nó báo là số dư không đủ.|số dư=잔액; không đủ=부족하다
+
+@tech
+3|휴대폰 배터리가 너무 빨리 닳아요.|Pin điện thoại tụt nhanh quá.|pin=배터리; tụt=떨어지다
+4|업데이트한 뒤로 휴대폰이 확 느려져서 초기화를 해야 할 것 같아요.|Từ khi cập nhật, điện thoại chạy chậm hẳn, chắc phải khôi phục cài đặt gốc.|cập nhật=업데이트하다; khôi phục cài đặt gốc=공장 초기화
+3|와이파이 비밀번호 좀 알려 주세요.|Cho tôi xin mật khẩu wifi.|cho tôi xin=~ 좀 주세요(정중)
+4|공용 와이파이를 쓸 때는 은행 앱 같은 건 안 쓰는 게 좋아요.|Khi dùng wifi công cộng thì không nên dùng các ứng dụng như ngân hàng.|công cộng=공용의
+3|유심은 어디서 사요?|Mua sim ở đâu?|sim=유심
+4|공항에서 유심을 사면 조금 비싸지만 바로 개통해 줘서 편해요.|Mua sim ở sân bay thì hơi đắt nhưng được kích hoạt ngay nên tiện.|kích hoạt=개통하다
+3|데이터를 다 썼어요.|Tôi hết dung lượng 4G rồi.|dung lượng=용량; hết=다 떨어지다
+4|이 요금제는 데이터를 다 써도 속도만 느려지고 계속 쓸 수 있어요.|Gói cước này dùng hết dung lượng thì chỉ bị giảm tốc độ chứ vẫn dùng được.|gói cước=요금제; tốc độ=속도
+3|비밀번호를 잊어버려서 로그인이 안 돼요.|Tôi quên mật khẩu nên không đăng nhập được.|đăng nhập=로그인하다
+4|보안을 위해 비밀번호는 석 달마다 바꾸고 2단계 인증을 켜 두세요.|Để bảo mật, nên đổi mật khẩu ba tháng một lần và bật xác thực hai bước.|bảo mật=보안; xác thực hai bước=2단계 인증
+3|이 앱 어떻게 써요?|Ứng dụng này dùng thế nào?|ứng dụng=앱
+4|그랩 앱 하나로 차도 부르고 음식도 시키고 결제까지 할 수 있어요.|Chỉ với ứng dụng Grab là có thể gọi xe, đặt đồ ăn và cả thanh toán.|chỉ với=~만으로; đặt đồ ăn=음식을 주문하다
+3|사진을 클라우드에 백업해 두세요.|Anh sao lưu ảnh lên đám mây đi.|sao lưu=백업하다; đám mây=클라우드
+4|휴대폰을 잃어버렸는데 백업을 안 해 둬서 사진이 다 날아갔어요.|Tôi làm mất điện thoại mà chưa sao lưu nên mất hết ảnh.|làm mất=잃어버리다; mất hết=다 잃다
+3|컴퓨터가 갑자기 꺼졌어요.|Máy tính tự nhiên bị tắt.|máy tính=컴퓨터; tắt=꺼지다
+4|저장하지 않은 상태에서 컴퓨터가 꺼져서 처음부터 다시 했어요.|Máy tắt đột ngột khi tôi chưa lưu file nên phải làm lại từ đầu.|đột ngột=갑자기; lưu=저장하다; làm lại=다시 하다
+3|프린터가 연결이 안 돼요.|Máy in không kết nối được.|máy in=프린터; kết nối=연결하다
+4|드라이버를 다시 설치하고 나서야 프린터가 인식됐어요.|Cài lại driver xong thì máy in mới nhận.|cài=설치하다; nhận=인식하다
+3|이 파일 좀 메일로 보내 줄래요?|Anh gửi file này qua email cho tôi được không?|gửi=보내다
+4|용량이 커서 메일로는 안 보내지니까 링크로 공유할게요.|File nặng quá nên không gửi qua email được, tôi chia sẻ bằng đường link nhé.|nặng=용량이 큰; chia sẻ=공유하다
+3|요즘 AI로 번역을 많이 해요.|Dạo này tôi hay dịch bằng AI.|dịch=번역하다
+4|AI 번역이 많이 좋아졌지만 미묘한 뉘앙스는 아직 사람이 확인해야 해요.|Dịch bằng AI đã tốt hơn nhiều nhưng sắc thái tinh tế thì vẫn cần người kiểm tra.|sắc thái=뉘앙스; tinh tế=미묘한
+3|회사에서 AI 에이전트를 도입했어요.|Công ty tôi đã đưa AI agent vào sử dụng.|đưa vào sử dụng=도입하다
+4|반복적인 보고서 작업은 AI에게 맡기고 사람은 판단이 필요한 일에 집중해요.|Việc làm báo cáo lặp đi lặp lại thì giao cho AI, còn con người tập trung vào việc cần ra quyết định.|lặp đi lặp lại=반복되는; giao=맡기다; ra quyết định=결정을 내리다
+3|이 사이트는 너무 느려요.|Trang web này chậm quá.|trang web=웹사이트
+4|사람이 몰리는 시간엔 서버가 못 버텨서 사이트가 자주 다운돼요.|Giờ cao điểm đông người truy cập nên máy chủ không chịu nổi, trang hay bị sập.|truy cập=접속하다; máy chủ=서버; chịu nổi=견디다; sập=다운되다
+3|데이터 분석을 공부하고 있어요.|Tôi đang học phân tích dữ liệu.|phân tích dữ liệu=데이터 분석
+4|데이터가 아무리 많아도 품질이 낮으면 쓸 만한 결과가 안 나와요.|Dữ liệu nhiều đến mấy mà chất lượng kém thì cũng không ra kết quả dùng được.|đến mấy=아무리 ~해도; kém=낮은; kết quả=결과
+3|화면이 깨졌어요.|Màn hình bị vỡ rồi.|màn hình=화면; vỡ=깨지다
+4|액정 교체 비용이 새 휴대폰 값의 절반이라 그냥 바꿀까 고민 중이에요.|Thay màn hình mất nửa giá máy mới nên tôi đang phân vân có nên đổi máy luôn không.|thay=교체하다; phân vân=고민하다; đổi máy=기기를 바꾸다
+3|충전기를 안 가져왔어요.|Tôi quên mang sạc.|sạc=충전기
+4|요즘 휴대폰은 고속 충전이 돼서 30분만 꽂아 둬도 절반은 차요.|Điện thoại bây giờ sạc nhanh nên cắm ba mươi phút là đầy một nửa.|sạc nhanh=고속 충전; cắm=꽂다; đầy=차다
+3|이 노트북 사양이 어떻게 돼요?|Cấu hình laptop này thế nào?|cấu hình=사양
+4|영상 편집을 하려면 메모리가 최소 16GB는 돼야 버벅거리지 않아요.|Muốn dựng video thì RAM ít nhất phải mười sáu GB mới không bị giật lag.|dựng video=영상 편집하다; giật lag=버벅거리다
+3|스팸 문자가 너무 많이 와요.|Tôi nhận được nhiều tin nhắn rác quá.|tin nhắn rác=스팸 문자
+4|모르는 링크는 누르지 마세요, 요즘 온라인 사기가 정말 교묘해요.|Đừng bấm vào đường link lạ, dạo này lừa đảo qua mạng tinh vi lắm.|bấm=누르다; lạ=낯선; lừa đảo=사기; tinh vi=교묘한
+3|화상 회의 소리가 안 들려요.|Tôi không nghe thấy tiếng trong cuộc họp trực tuyến.|nghe thấy=들리다; tiếng=소리
+4|이어폰을 꽂았는데도 소리가 스피커로 나와서 설정을 다시 확인했어요.|Tôi đã cắm tai nghe mà âm thanh vẫn phát ra loa nên phải kiểm tra lại cài đặt.|tai nghe=이어폰; âm thanh=소리; loa=스피커; cài đặt=설정
+3|이 앱은 무료예요?|Ứng dụng này miễn phí không?|miễn phí=무료
+4|기본 기능은 무료지만 광고 없이 쓰려면 매달 구독료를 내야 해요.|Chức năng cơ bản thì miễn phí, nhưng muốn dùng không quảng cáo thì phải trả phí hàng tháng.|chức năng=기능; cơ bản=기본; quảng cáo=광고
+3|자료를 엑셀로 정리해 주세요.|Anh tổng hợp số liệu bằng Excel giúp tôi.|số liệu=자료·수치
+4|수작업으로 하던 집계를 자동화했더니 하루 걸리던 일이 10분으로 줄었어요.|Tôi tự động hóa việc tổng hợp thủ công nên việc mất cả ngày giờ chỉ còn mười phút.|tự động hóa=자동화하다; thủ công=수작업
+3|이메일이 스팸함에 들어가 있었어요.|Email bị rơi vào thư mục thư rác.|thư mục=폴더; thư rác=스팸
+4|중요한 메일이 스팸함에 들어갈 수 있으니 답이 없으면 한번 확인해 주세요.|Thư quan trọng có thể bị vào mục thư rác nên nếu không thấy trả lời thì anh kiểm tra giúp.|mục=항목·폴더
+3|블루투스 연결이 안 돼요.|Bluetooth không kết nối được.|kết nối=연결하다
+4|기기를 껐다 켜니까 언제 그랬냐는 듯이 잘 돼요.|Tắt máy bật lại thì lại chạy bình thường như chưa có chuyện gì.|tắt máy bật lại=껐다 켜다; như chưa có chuyện gì=아무 일 없었던 듯
+3|저는 기계를 잘 못 다뤄요.|Tôi không rành máy móc.|rành=능숙한; máy móc=기계
+4|부모님께 영상 통화하는 법을 알려 드리는 데 한참 걸렸어요.|Tôi mất cả buổi mới hướng dẫn được bố mẹ cách gọi video.|hướng dẫn=안내하다; gọi video=영상 통화하다
+3|이 사진 좀 보정해 줄 수 있어요?|Anh chỉnh ảnh này giúp tôi được không?|chỉnh ảnh=사진을 보정하다
+4|요즘은 AI가 사진 배경을 자연스럽게 지워 줘서 정말 편해요.|Bây giờ AI xóa phông nền trong ảnh rất tự nhiên nên tiện vô cùng.|xóa=지우다; phông nền=배경; tự nhiên=자연스러운
+3|SNS를 너무 많이 하는 것 같아요.|Hình như tôi dùng mạng xã hội nhiều quá.|mạng xã hội=SNS
+4|자기 전에 휴대폰 보는 습관 때문에 잠드는 시간이 점점 늦어져요.|Vì thói quen xem điện thoại trước khi ngủ nên tôi ngủ ngày càng muộn.|thói quen=습관; ngày càng=점점
+3|이 링크가 안 열려요.|Đường link này không mở được.|mở=열다
+4|회사 보안 정책 때문에 외부 클라우드 서비스에 접속할 수 없어요.|Do chính sách bảo mật của công ty nên không truy cập được dịch vụ đám mây bên ngoài.|chính sách=정책; bên ngoài=외부
+3|소프트웨어를 최신 버전으로 업데이트하세요.|Anh cập nhật phần mềm lên bản mới nhất đi.|phần mềm=소프트웨어; bản=버전
+4|보안 패치를 미루면 해킹 위험이 커지니까 업데이트는 바로 하는 게 좋아요.|Trì hoãn bản vá bảo mật thì nguy cơ bị tấn công cao hơn, nên cập nhật ngay thì tốt.|trì hoãn=미루다; bản vá=패치; tấn công=공격하다; nguy cơ=위험
+3|온라인으로 주문했는데 아직 안 왔어요.|Tôi đặt hàng trên mạng mà vẫn chưa nhận được.|đặt hàng=주문하다
+4|배송 조회를 해 보니 물류센터에 사흘째 멈춰 있더라고요.|Tra cứu đơn thì thấy hàng nằm ở kho trung chuyển ba ngày rồi.|tra cứu=조회하다; kho trung chuyển=물류센터
+3|코딩을 배워 보고 싶어요.|Tôi muốn thử học lập trình.|lập trình=코딩·프로그래밍
+4|처음부터 어려운 언어를 배우기보다 파이썬으로 시작하면 진입 장벽이 낮아요.|Thay vì học ngôn ngữ khó ngay từ đầu, bắt đầu bằng Python thì dễ tiếp cận hơn.|ngôn ngữ=언어; tiếp cận=접근하다
+3|이 기능 정말 편리하네요.|Chức năng này tiện thật.|tiện=편리한
+4|기술이 편리해질수록 개인 정보 보호에 더 신경 써야 해요.|Công nghệ càng tiện lợi thì càng phải chú ý bảo vệ thông tin cá nhân.|công nghệ=기술; chú ý=주의하다; thông tin cá nhân=개인 정보
+3|화면 공유가 안 돼요.|Không chia sẻ màn hình được.|chia sẻ màn hình=화면 공유
+4|회의 5분 전에 미리 접속해서 마이크와 카메라를 점검해 두세요.|Anh vào phòng họp trước năm phút để kiểm tra micro và camera nhé.|vào=접속하다
+3|이 앱 평점이 좋네요.|Ứng dụng này được đánh giá tốt.|đánh giá=평가하다
+4|리뷰가 칭찬 일색이면 오히려 조작된 건 아닌지 의심하게 돼요.|Đánh giá toàn khen thì tôi lại nghi có phải bị làm giả không.|khen=칭찬하다; nghi=의심하다; làm giả=조작하다
+3|휴대폰을 새로 바꿨어요.|Tôi vừa đổi điện thoại mới.|đổi=바꾸다
+4|새 휴대폰으로 데이터를 옮기는 데 생각보다 오래 걸렸어요.|Chuyển dữ liệu sang điện thoại mới mất nhiều thời gian hơn tôi tưởng.|chuyển=옮기다; tưởng=생각하다
+3|이 코드는 왜 오류가 나요?|Sao đoạn code này bị lỗi?|đoạn=부분·단락; lỗi=오류
+4|오류 메시지를 그대로 검색해 보면 대부분 누군가 이미 해결해 놓았어요.|Cứ tra nguyên thông báo lỗi thì đa phần đã có người giải quyết rồi.|tra=검색하다; nguyên=그대로; đa phần=대부분
+3|전자 서명으로 계약했어요.|Tôi ký hợp đồng bằng chữ ký điện tử.|chữ ký điện tử=전자 서명
+4|출력하고 스캔할 필요 없이 앱에서 바로 서명할 수 있어서 시간이 많이 절약돼요.|Không cần in rồi quét tài liệu mà ký ngay trên ứng dụng nên tiết kiệm được nhiều thời gian.|in=출력하다; quét=스캔하다
+3|기술 발전 속도가 정말 빨라요.|Công nghệ phát triển nhanh thật.|phát triển=발전하다
+4|몇 년 전만 해도 상상도 못 했던 일들이 지금은 일상이 됐어요.|Mấy năm trước còn chẳng dám tưởng tượng, vậy mà giờ đã thành chuyện thường ngày.|dám=감히 ~하다; tưởng tượng=상상하다; chuyện thường ngày=일상
+3|게임하느라 밤을 새웠어요.|Tôi thức trắng đêm chơi game.|thức trắng đêm=밤을 새우다
+4|아이들 스마트폰 사용 시간을 정해 두지 않으면 끝도 없이 해요.|Nếu không giới hạn thời gian dùng điện thoại thì trẻ con dùng mãi không thôi.|giới hạn=제한하다; mãi không thôi=끝도 없이
+3|이거 무선 충전돼요?|Cái này sạc không dây được không?|không dây=무선
+4|전기차가 늘면서 충전소 부족 문제가 점점 커지고 있어요.|Xe điện ngày càng nhiều nên vấn đề thiếu trạm sạc cũng lớn dần.|xe điện=전기차; trạm sạc=충전소; lớn dần=점점 커지다
+3|비밀번호가 너무 많아서 다 못 외워요.|Nhiều mật khẩu quá nên tôi không nhớ hết.|nhớ=기억하다
+4|비밀번호 관리 앱을 쓰면 하나만 기억하면 돼서 안전하고 편해요.|Dùng ứng dụng quản lý mật khẩu thì chỉ cần nhớ một cái, vừa an toàn vừa tiện.|quản lý=관리하다; an toàn=안전한

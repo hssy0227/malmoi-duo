@@ -1,0 +1,221 @@
+# 복합문 확장 (기존 상황 보강 3)
+@health
+4|어제 먹은 해산물이 잘못됐는지 밤새 배가 아파서 한숨도 못 잤어요.|Chắc hải sản hôm qua có vấn đề nên cả đêm tôi đau bụng, không chợp mắt được.|có vấn đề=문제가 있다; chợp mắt=눈을 붙이다
+3|병원에 같이 가 줄 수 있어요?|Anh đi bệnh viện cùng tôi được không?|cùng=함께
+4|베트남어로 증상을 설명하기 어려우니 통역이 되는 병원을 찾아야 해요.|Tôi khó giải thích triệu chứng bằng tiếng Việt nên phải tìm bệnh viện có phiên dịch.|triệu chứng=증상; phiên dịch=통역
+3|국제 병원은 어디에 있어요?|Bệnh viện quốc tế ở đâu?|bệnh viện quốc tế=국제 병원
+4|국제 병원은 비싸지만 영어나 한국어를 하는 의사가 있어서 마음이 놓여요.|Bệnh viện quốc tế đắt nhưng có bác sĩ nói tiếng Anh hoặc tiếng Hàn nên yên tâm.|yên tâm=마음이 놓이다
+3|접수는 어디서 해요?|Đăng ký khám ở đâu?|đăng ký khám=접수하다
+4|처음 오셨으면 이 서류를 작성하고 여권과 함께 내 주세요.|Nếu đến lần đầu thì anh điền tờ khai này và nộp kèm hộ chiếu.|điền=작성하다; tờ khai=신청서; nộp kèm=함께 제출하다
+3|이 약은 식전에 먹어요, 식후에 먹어요?|Thuốc này uống trước hay sau khi ăn?|trước khi ăn=식전; sau khi ăn=식후
+4|이 항생제는 증상이 나아져도 처방된 기간 동안 끝까지 드셔야 해요.|Thuốc kháng sinh này dù đỡ rồi cũng phải uống hết liệu trình được kê.|kháng sinh=항생제; liệu trình=복용 기간; kê=처방하다
+3|어디가 아프세요?|Anh đau ở đâu?|đau=아프다
+4|사흘 전부터 기침이 나고 밤만 되면 열이 오르는데 낮에는 좀 괜찮아요.|Tôi bị ho từ ba hôm trước, cứ tối là sốt, ban ngày thì đỡ hơn.|cứ tối là=밤만 되면; đỡ=나아지다
+3|피검사를 해야 하나요?|Có cần xét nghiệm máu không?|xét nghiệm máu=피검사
+4|검사 결과는 내일 오후에 나오니 그때 다시 오시면 돼요.|Kết quả xét nghiệm có vào chiều mai, lúc đó anh quay lại là được.|kết quả=결과
+3|약국에서 감기약 살 수 있어요?|Ở hiệu thuốc mua được thuốc cảm không?|thuốc cảm=감기약
+4|베트남 약국에선 처방전 없이 살 수 있는 약이 많지만 함부로 먹으면 안 돼요.|Ở hiệu thuốc Việt Nam nhiều thuốc mua được không cần đơn, nhưng không nên uống bừa.|đơn=처방전; bừa=함부로
+3|요즘 허리가 자주 아파요.|Dạo này tôi hay đau lưng.|đau lưng=허리 아프다
+4|하루 종일 앉아서 일하니 허리가 아파서 한 시간마다 일어나 스트레칭해요.|Ngồi làm cả ngày nên đau lưng, cứ một tiếng tôi lại đứng dậy giãn cơ.|giãn cơ=스트레칭하다
+3|잠을 잘 못 자요.|Tôi bị mất ngủ.|mất ngủ=잠을 못 자다
+4|스트레스 때문에 잠 못 드는 날이 많아서 자기 전엔 휴대폰을 안 보려고 해요.|Vì căng thẳng mà nhiều đêm tôi mất ngủ, nên trước khi ngủ tôi cố không xem điện thoại.|căng thẳng=스트레스
+3|종합 검진을 받았어요.|Tôi đã đi khám sức khỏe tổng quát.|khám sức khỏe tổng quát=종합 검진
+4|회사에서 1년에 한 번 검진을 해 주는데 올해는 콜레스테롤 수치가 좀 높게 나왔어요.|Công ty cho khám sức khỏe mỗi năm một lần, năm nay chỉ số cholesterol của tôi hơi cao.|chỉ số=수치
+3|치과에 가야 해요.|Tôi phải đi nha khoa.|nha khoa=치과
+4|이가 시려서 치과에 갔더니 충치가 두 개나 있대요.|Răng ê buốt nên tôi đi nha khoa, hóa ra có tới hai cái răng sâu.|ê buốt=시리다; răng sâu=충치
+3|어지럽고 속이 메스꺼워요.|Tôi chóng mặt và buồn nôn.|buồn nôn=메스꺼운
+4|더운 날 물을 충분히 안 마셔서 탈수가 온 것 같아요.|Trời nóng mà tôi không uống đủ nước nên hình như bị mất nước.|uống đủ nước=물을 충분히 마시다; mất nước=탈수
+3|응급 상황이에요!|Đây là trường hợp khẩn cấp!|khẩn cấp=긴급한
+4|사람이 쓰러졌는데 의식이 없어요, 빨리 구급차를 불러 주세요!|Có người ngất xỉu và bất tỉnh, gọi cấp cứu nhanh lên!|ngất xỉu=쓰러지다; bất tỉnh=의식이 없다; cấp cứu=응급구조
+3|다리를 다쳐서 걷기 힘들어요.|Tôi bị đau chân nên đi lại khó khăn.|đi lại=걷다·다니다
+4|오토바이에서 넘어져 다리가 까졌는데 덧나지 않게 소독해야 해요.|Tôi ngã xe máy bị trầy chân, phải sát trùng để không bị nhiễm trùng.|ngã xe=오토바이에서 넘어지다; nhiễm trùng=감염되다
+3|며칠 쉬어야 해요?|Tôi phải nghỉ mấy ngày?|nghỉ=쉬다
+4|의사가 적어도 일주일은 무리하지 말고 푹 쉬라고 했어요.|Bác sĩ dặn ít nhất một tuần không được làm việc nặng, phải nghỉ ngơi hoàn toàn.|dặn=당부하다; làm việc nặng=무리하다
+3|요즘 건강 때문에 술을 끊었어요.|Dạo này tôi bỏ rượu vì sức khỏe.|bỏ rượu=술을 끊다
+4|술을 끊은 뒤로 아침에 몸이 가볍고 피부도 좋아졌어요.|Từ khi bỏ rượu, buổi sáng người tôi nhẹ nhõm và da cũng đẹp hơn.|nhẹ nhõm=가뿐한; da=피부
+3|마스크를 쓰는 게 좋겠어요.|Nên đeo khẩu trang thì hơn.|đeo khẩu trang=마스크를 쓰다
+4|감기 기운이 있으면 주변 사람을 위해서라도 마스크를 쓰는 게 예의예요.|Nếu có dấu hiệu cảm thì vì người xung quanh cũng nên đeo khẩu trang cho lịch sự.|dấu hiệu=기운·징후; xung quanh=주변
+3|보험 서류 좀 받을 수 있을까요?|Cho tôi xin giấy tờ để làm bảo hiểm được không?|giấy tờ=서류
+4|보험 청구를 하려면 진단서, 영수증, 처방전 사본이 모두 필요해요.|Muốn yêu cầu bồi thường bảo hiểm thì cần giấy chẩn đoán, hóa đơn và bản sao đơn thuốc.|yêu cầu bồi thường=보험 청구; giấy chẩn đoán=진단서; bản sao=사본
+3|운동하다가 발목을 접질렸어요.|Tôi bị trẹo cổ chân khi tập thể dục.|trẹo=접질리다; cổ chân=발목
+4|붓기가 빠질 때까지는 얼음찜질을 하고 다리를 높이 올려 두세요.|Cho đến khi hết sưng thì chườm đá và kê chân lên cao.|hết sưng=붓기가 빠지다; chườm đá=얼음찜질하다; kê=받치다
+3|요즘 눈이 침침해요.|Dạo này mắt tôi mờ.|mờ=침침한
+4|화면을 오래 보면 눈이 쉽게 피로해지니 20분마다 먼 곳을 보세요.|Nhìn màn hình lâu mắt dễ mỏi, cứ hai mươi phút nên nhìn ra xa.|mỏi=피로하다; nhìn ra xa=먼 곳을 보다
+3|정신 건강도 중요해요.|Sức khỏe tinh thần cũng quan trọng.|tinh thần=정신
+4|몸이 아프면 바로 병원에 가면서도 마음이 아플 땐 참기만 하는 경우가 많아요.|Ốm thì đi viện ngay, nhưng khi tâm lý không ổn thì nhiều người chỉ biết chịu đựng.|tâm lý=심리; chịu đựng=참다
+3|아이가 열이 나요.|Con tôi bị sốt.|sốt=열이 나다
+4|아이 열이 39도를 넘으면 해열제를 먹이고 그래도 안 내리면 바로 병원에 가세요.|Nếu con sốt trên ba mươi chín độ thì cho uống hạ sốt, vẫn không giảm thì đưa đi viện ngay.|hạ sốt=해열제; đưa đi viện=병원에 데려가다
+
+@travel
+4|하노이에서 이틀 머문 다음 기차로 후에에 내려가서 사흘 지낼 계획이에요.|Tôi định ở Hà Nội hai ngày rồi đi tàu vào Huế ở thêm ba ngày.|định=계획하다; vào=(남쪽으로) 가다
+3|어디부터 가 보면 좋을까요?|Nên đi đâu trước nhỉ?|trước=먼저
+4|시간이 많지 않다면 구시가지와 호안끼엠 호수 주변부터 둘러보세요.|Nếu không có nhiều thời gian thì nên dạo quanh phố cổ và hồ Hoàn Kiếm trước.|dạo quanh=둘러보다
+3|사파에 가면 뭘 해야 해요?|Đi Sa Pa thì nên làm gì?|nên=~하는 게 좋다
+4|사파에선 소수 민족 마을을 걸으며 계단식 논을 구경하는 트레킹이 인기예요.|Ở Sa Pa, đi bộ qua các bản làng dân tộc và ngắm ruộng bậc thang là hoạt động được ưa chuộng.|bản làng=마을; hoạt động=활동
+3|이 투어는 얼마예요?|Tour này bao nhiêu tiền?|tour=투어
+4|가격에 숙박, 식사, 가이드, 입장료가 다 포함됐는지 확인해 주세요.|Anh kiểm tra giúp giá này đã bao gồm chỗ ở, ăn uống, hướng dẫn viên và vé vào cửa chưa.|chỗ ở=숙박; ăn uống=식사
+3|여기는 처음 와 봐요.|Tôi mới đến đây lần đầu.|lần đầu=처음
+4|사진으로만 보던 곳을 직접 보니 생각보다 훨씬 크고 아름다워요.|Chỉ xem qua ảnh, giờ tận mắt thấy mới biết nơi này rộng và đẹp hơn tôi tưởng nhiều.|tận mắt=직접 눈으로; tưởng=생각하다
+3|기념품으로 뭘 사면 좋을까요?|Nên mua gì làm quà lưu niệm?|quà lưu niệm=기념품
+4|커피 원두나 연꽃차는 가볍고 부피도 작아서 선물로 가져가기 좋아요.|Cà phê hạt hay trà sen nhẹ và gọn nên rất hợp mang về làm quà.|trà sen=연꽃차; gọn=부피가 작은
+3|여기서 배를 타요?|Lên thuyền ở đây à?|lên thuyền=배에 타다
+4|성수기엔 배표가 일찍 매진되니 하루 전에 미리 예약하세요.|Mùa cao điểm vé thuyền hết sớm nên anh đặt trước một ngày nhé.|vé thuyền=배표; hết=매진되다
+3|사진 찍기 좋은 곳이 어디예요?|Chỗ nào chụp ảnh đẹp?|chụp ảnh=사진 찍다
+4|기찻길 마을은 기차가 지나갈 때 위험할 수 있으니 안내를 꼭 따르세요.|Phố đường tàu có thể nguy hiểm khi tàu chạy qua nên nhất định phải làm theo hướng dẫn.|phố đường tàu=기찻길 마을; làm theo=따르다
+3|호이안 야경이 정말 아름다워요.|Cảnh đêm Hội An đẹp thật.|cảnh đêm=야경
+4|호이안은 밤이면 등불이 켜지고 강에 소원 등을 띄워서 정말 낭만적이에요.|Hội An về đêm đèn lồng sáng rực, người ta thả đèn hoa đăng trên sông nên rất lãng mạn.|sáng rực=환하게 밝다; thả=띄우다; đèn hoa đăng=소원 등; lãng mạn=낭만적인
+3|날씨가 좋아서 다행이에요.|May mà thời tiết đẹp.|may mà=다행히
+4|우기에 왔는데 운 좋게도 여행 내내 비가 한 번도 안 왔어요.|Tôi đến vào mùa mưa mà may mắn suốt chuyến đi không mưa lần nào.|may mắn=운 좋게; suốt=내내
+3|여행 경비는 얼마나 들었어요?|Chuyến đi hết bao nhiêu tiền?|hết=들다·쓰다
+4|항공권을 일찍 사고 현지 음식을 주로 먹어서 경비가 생각보다 적게 들었어요.|Mua vé máy bay sớm và chủ yếu ăn đồ địa phương nên chi phí ít hơn tôi nghĩ.|chủ yếu=주로; chi phí=경비
+3|짐을 너무 많이 쌌어요.|Tôi mang nhiều đồ quá.|mang=가져가다
+4|다음엔 꼭 필요한 것만 챙기고 나머지는 현지에서 살래요.|Lần sau tôi chỉ mang đồ thật cần thiết, còn lại mua ở đó.|cần thiết=필요한; còn lại=나머지
+3|투어 일정이 어떻게 돼요?|Lịch trình tour thế nào?|lịch trình=일정
+4|오전엔 동굴을 보고 점심 먹은 뒤 오후엔 카약을 타는 일정이에요.|Buổi sáng tham quan hang động, ăn trưa xong thì buổi chiều chèo thuyền kayak.|tham quan=관광하다; chèo=노 젓다
+3|이 지역은 뭐로 유명해요?|Vùng này nổi tiếng về gì?|nổi tiếng về=~로 유명한
+4|닌빈은 '육지의 하롱베이'라고 불릴 만큼 석회암 산과 강이 어우러진 풍경이 유명해요.|Ninh Bình nổi tiếng với cảnh núi đá vôi và sông nước, đến mức được gọi là "Hạ Long trên cạn".|đến mức=~할 정도로; trên cạn=육지의
+3|가이드 없이 다녀도 괜찮아요?|Đi tự túc không cần hướng dẫn viên có ổn không?|đi tự túc=자유 여행하다
+4|자유 여행은 일정을 마음대로 짤 수 있지만 교통과 예약은 직접 챙겨야 해요.|Đi tự túc thì tự do lên lịch, nhưng việc đi lại và đặt chỗ phải tự lo.|tự do=마음대로; tự lo=스스로 챙기다
+3|여권을 잃어버렸어요.|Tôi bị mất hộ chiếu.|mất=잃어버리다
+4|여권 사본과 사진을 따로 챙겨 두면 잃어버렸을 때 재발급이 훨씬 빨라요.|Mang theo bản sao hộ chiếu và ảnh riêng thì khi mất sẽ làm lại nhanh hơn nhiều.|bản sao=사본; làm lại=재발급하다
+3|여기는 입장 시간이 정해져 있어요?|Ở đây có giờ vào cửa cố định không?|cố định=정해진
+4|호찌민 묘소는 오전에만 개방하고 복장 규정도 엄격하니 미리 확인하세요.|Lăng Chủ tịch chỉ mở buổi sáng và quy định trang phục nghiêm ngặt nên kiểm tra trước.|lăng=묘소; nghiêm ngặt=엄격한
+3|여기서 일몰을 보려면 몇 시에 와야 해요?|Muốn ngắm hoàng hôn ở đây thì mấy giờ đến?|ngắm=감상하다
+4|일몰 30분 전에는 와야 좋은 자리를 잡을 수 있어요.|Phải đến trước hoàng hôn ba mươi phút mới có chỗ đẹp.|chỗ đẹp=좋은 자리
+3|또 오고 싶어요.|Tôi muốn quay lại nữa.|quay lại=다시 오다
+4|이번엔 북부만 봤으니 다음엔 남쪽 메콩 델타까지 가 보고 싶어요.|Lần này tôi chỉ đi miền Bắc, lần sau tôi muốn xuống tận đồng bằng sông Cửu Long.|xuống tận=~까지 내려가다
+3|현지 음식은 꼭 먹어 보세요.|Nhất định phải thử món địa phương.|nhất định=꼭
+4|후에 음식은 맵고 간이 세서 하노이 음식과는 또 다른 매력이 있어요.|Món Huế cay và đậm vị, có sức hấp dẫn khác hẳn món Hà Nội.|đậm vị=간이 센; sức hấp dẫn=매력
+3|이 근처에 해변 있어요?|Gần đây có bãi biển không?|bãi biển=해변
+4|다낭 미케 해변은 시내에서 가까워서 아침에 수영하고 출근하는 사람도 있어요.|Bãi biển Mỹ Khê ở Đà Nẵng gần trung tâm nên có người bơi sáng sớm rồi mới đi làm.|gần trung tâm=시내에서 가까운
+3|비자가 필요해요?|Có cần visa không?|visa=비자
+4|한국인은 일정 기간 무비자로 머물 수 있지만 더 있으려면 전자 비자를 받아야 해요.|Người Hàn được miễn visa một thời gian nhất định, muốn ở lâu hơn thì phải xin visa điện tử.|miễn visa=무비자; xin=신청하다; visa điện tử=전자 비자
+3|여행 중에 아팠어요.|Tôi bị ốm trong chuyến đi.|chuyến đi=여행
+4|여행자 보험을 들어 둬서 병원비 걱정 없이 치료를 받을 수 있었어요.|Nhờ có bảo hiểm du lịch mà tôi được chữa trị không phải lo viện phí.|chữa trị=치료하다; viện phí=병원비
+
+@trouble
+4|분명히 창가 자리로 예약했는데 시스템에 기록이 없대요.|Rõ ràng tôi đã đặt ghế cạnh cửa sổ mà họ bảo trên hệ thống không có.|rõ ràng=분명히; ghế cạnh cửa sổ=창가 자리
+3|이건 제 잘못이 아니에요.|Đây không phải lỗi của tôi.|lỗi=잘못
+4|제 실수도 아닌데 추가 요금을 내라고 하니 납득이 안 돼요.|Không phải lỗi của tôi mà lại bắt trả thêm phí, tôi không chấp nhận được.|bắt=강요하다; chấp nhận=납득하다
+3|책임자 좀 불러 주세요.|Anh gọi người phụ trách ra đây giúp tôi.|người phụ trách=책임자
+4|직원분 잘못은 아니지만 결정 권한이 있는 분과 직접 얘기하고 싶어요.|Không phải lỗi của anh, nhưng tôi muốn nói chuyện trực tiếp với người có quyền quyết định.|quyền quyết định=결정 권한
+3|이걸 어떻게 해결할 수 있을까요?|Việc này giải quyết thế nào được?|giải quyết=해결하다
+4|환불이 어렵다면 다른 날짜로 바꿔 주셔도 괜찮아요.|Nếu khó hoàn tiền thì đổi sang ngày khác cho tôi cũng được.|đổi sang=~로 바꾸다
+3|다시 확인해 주시겠어요?|Anh kiểm tra lại giúp tôi được không?|kiểm tra lại=다시 확인하다
+4|예약 번호를 불러 드릴 테니 한 번만 더 확인해 주세요.|Tôi đọc mã đặt chỗ, anh kiểm tra thêm lần nữa giúp tôi nhé.|mã đặt chỗ=예약 번호
+3|가방을 택시에 두고 내렸어요.|Tôi để quên túi trên taxi.|để quên=두고 내리다
+4|그랩으로 탄 거라 앱에서 기사님께 연락할 수 있을 거예요.|Tôi đi Grab nên chắc có thể liên lạc với tài xế qua ứng dụng.|liên lạc=연락하다
+3|도둑맞은 것 같아요.|Hình như tôi bị trộm.|bị trộm=도둑맞다
+4|붐비는 시장에서는 가방을 앞으로 메고 휴대폰은 손에 꼭 쥐고 다니세요.|Ở chợ đông người nên đeo túi phía trước và cầm chặt điện thoại.|đeo=메다; cầm chặt=꼭 쥐다
+3|경찰서가 어디예요?|Đồn công an ở đâu?|đồn công an=경찰서
+4|분실 신고서가 있어야 보험 처리가 되니 경찰서에 같이 가 주실 수 있어요?|Phải có biên bản báo mất thì mới làm bảo hiểm được, anh đi đồn công an cùng tôi được không?|biên bản báo mất=분실 신고서
+3|말이 안 통해서 답답해요.|Không hiểu nhau nên bực quá.|bực=답답한
+4|말이 잘 안 통할 땐 번역 앱에 써서 보여 주면 오해가 줄어요.|Khi khó hiểu nhau thì gõ vào app dịch rồi đưa xem sẽ ít hiểu lầm hơn.|gõ=입력하다; đưa xem=보여 주다
+3|그럴 의도는 아니었어요.|Tôi không có ý đó.|ý=의도
+4|제 말이 기분 나쁘게 들렸다면 죄송해요, 전혀 그런 뜻이 아니었어요.|Nếu lời tôi nghe khó chịu thì xin lỗi anh, tôi hoàn toàn không có ý đó.|khó chịu=기분 나쁜; hoàn toàn=전혀
+3|조금만 더 기다려 주세요.|Anh chờ thêm một chút nữa nhé.|chờ thêm=더 기다리다
+4|지금 확인 중이니 10분만 기다려 주시면 결과를 알려 드릴게요.|Tôi đang kiểm tra, anh chờ mười phút tôi sẽ báo kết quả.|báo=알리다
+3|이 서비스에 정말 실망했어요.|Tôi thật sự thất vọng về dịch vụ này.|thất vọng=실망하다
+4|문제가 생긴 것보다 아무도 책임지려 하지 않는 태도가 더 실망스러워요.|Điều làm tôi thất vọng không phải là sự cố mà là thái độ không ai chịu trách nhiệm.|sự cố=사고·문제; thái độ=태도
+3|도움이 필요해요.|Tôi cần giúp đỡ.|giúp đỡ=도움
+4|길을 잃었는데 휴대폰 배터리까지 나가서 정말 난감해요.|Tôi bị lạc đường mà điện thoại lại hết pin, thật là khó xử.|lạc đường=길을 잃다; khó xử=난감한
+3|휴대폰 좀 잠깐 빌릴 수 있을까요?|Cho tôi mượn điện thoại một lát được không?|mượn=빌리다
+4|급한 일이라서 그런데 한국에 있는 가족에게 문자 한 통만 보내도 될까요?|Có việc gấp, tôi gửi một tin nhắn cho gia đình ở Hàn Quốc được không?|việc gấp=급한 일; tin nhắn=문자
+3|일이 꼬였어요.|Mọi việc rối tung lên rồi.|rối tung=엉망이 되다
+4|일이 이렇게 된 이상 누구 탓을 하기보다 해결책부터 찾는 게 중요해요.|Việc đã thế này thì tìm cách giải quyết quan trọng hơn là đổ lỗi cho ai.|đổ lỗi=탓하다; cách giải quyết=해결책
+3|계약 내용과 달라요.|Khác với nội dung hợp đồng.|nội dung=내용
+4|계약서에 명시된 조건과 다르니 서면으로 해명해 주셨으면 합니다.|Khác với điều kiện ghi trong hợp đồng nên mong anh giải trình bằng văn bản.|ghi=명시하다; giải trình=해명하다; văn bản=서면
+3|비행기를 놓쳤어요.|Tôi bị lỡ chuyến bay.|lỡ=놓치다
+4|다음 비행기로 바꿀 수 있는지, 추가 비용은 얼마인지 알려 주세요.|Anh cho tôi biết có đổi sang chuyến sau được không và phải trả thêm bao nhiêu.|đổi sang=바꾸다; trả thêm=추가로 내다
+3|제가 대신 사과드릴게요.|Tôi xin lỗi thay cho anh ấy.|thay cho=대신
+4|저희 직원 실수로 불편을 드렸으니 이번 비용은 받지 않겠습니다.|Do nhân viên của chúng tôi sơ suất gây bất tiện nên lần này chúng tôi không tính phí.|sơ suất=실수; bất tiện=불편
+3|오해가 풀려서 다행이에요.|May là đã hết hiểu lầm.|hết hiểu lầm=오해가 풀리다
+4|처음엔 화가 났는데 사정을 듣고 나니 이해가 되더라고요.|Lúc đầu tôi bực, nhưng nghe hoàn cảnh xong thì tôi hiểu được.|hoàn cảnh=사정
+3|다음부터는 조심할게요.|Lần sau tôi sẽ cẩn thận hơn.|cẩn thận=조심하다
+4|같은 문제가 반복되지 않도록 절차를 바꾸고 다음 주까지 결과를 공유드리겠습니다.|Để vấn đề không lặp lại, chúng tôi sẽ thay đổi quy trình và chia sẻ kết quả trước tuần sau.|lặp lại=반복되다; quy trình=절차
+3|다 해결됐어요.|Mọi chuyện đã ổn rồi.|ổn=괜찮아지다
+4|덕분에 큰일 날 뻔한 걸 막았어요, 이 은혜는 꼭 갚을게요.|Nhờ anh mà tránh được chuyện lớn, ơn này tôi nhất định sẽ trả.|tránh=피하다; ơn=은혜; trả=갚다
+
+@opinion
+4|제 생각엔 단기 비용보다 장기적인 효과를 먼저 따져 봐야 할 것 같아요.|Theo tôi, nên cân nhắc hiệu quả dài hạn trước rồi mới tính đến chi phí ngắn hạn.|cân nhắc=따져 보다; tính đến=고려하다
+3|그 말도 일리가 있네요.|Nói vậy cũng có lý.|có lý=일리가 있다
+4|일리는 있지만 현실적으로 실행할 수 있을지는 좀 의문이에요.|Nói thì có lý nhưng thực tế có làm được không thì tôi còn nghi ngờ.|thực tế=현실적으로; nghi ngờ=의문을 갖다
+3|저는 반대 입장이에요.|Tôi có quan điểm ngược lại.|quan điểm=입장; ngược lại=반대의
+4|반대한다고 아이디어 자체가 나쁘다는 게 아니라 시기가 이르다는 거예요.|Phản đối không có nghĩa là ý tưởng tồi, mà là thời điểm còn sớm.|ý tưởng=아이디어; tồi=나쁜; thời điểm=시기
+3|어떻게 생각하세요?|Anh nghĩ sao?|nghĩ sao=어떻게 생각하다
+4|솔직한 의견을 듣고 싶으니 부담 갖지 말고 말씀해 주세요.|Tôi muốn nghe ý kiến thật lòng nên anh cứ nói thoải mái.|thật lòng=솔직한
+3|상황에 따라 다르죠.|Còn tùy tình huống.|tình huống=상황
+4|같은 정책이라도 도시와 농촌에서는 효과가 전혀 다르게 나타날 수 있어요.|Cùng một chính sách nhưng ở thành phố và nông thôn có thể cho hiệu quả hoàn toàn khác.|chính sách=정책; nông thôn=농촌
+3|제가 잘못 생각했네요.|Tôi đã nghĩ sai rồi.|nghĩ sai=잘못 생각하다
+4|처음엔 반대했지만 데이터를 보고 나니 제가 틀렸다는 걸 인정해요.|Lúc đầu tôi phản đối, nhưng xem số liệu xong thì tôi thừa nhận mình đã sai.|thừa nhận=인정하다
+4|그 지적 덕분에 우리가 놓친 위험 요소를 찾을 수 있었어요.|Nhờ ý kiến đó mà chúng ta phát hiện được rủi ro bị bỏ sót.|phát hiện=발견하다; bỏ sót=놓치다
+3|결론이 뭐예요?|Kết luận là gì?|kết luận=결론
+4|결론부터 말하면 찬성인데 몇 가지 조건이 붙어야 해요.|Nói kết luận trước thì tôi đồng ý, nhưng phải kèm vài điều kiện.|kèm=붙다; điều kiện=조건
+3|저는 중립이에요.|Tôi giữ trung lập.|trung lập=중립
+4|양쪽 말을 다 들어 보니 둘 다 맞는 부분이 있어서 한쪽 편을 들기 어려워요.|Nghe cả hai bên thì thấy bên nào cũng có phần đúng nên khó đứng về một phía.|đứng về một phía=한쪽 편을 들다
+3|예를 들면요?|Ví dụ như thế nào?|ví dụ=예
+4|예를 들어 재택근무는 출퇴근 시간을 줄여 주지만 팀워크에는 불리할 수 있어요.|Ví dụ, làm việc ở nhà giúp tiết kiệm thời gian đi lại nhưng có thể bất lợi cho tinh thần đồng đội.|tinh thần đồng đội=팀워크; bất lợi=불리한
+3|그건 너무 이상적인 생각이에요.|Đó là suy nghĩ quá lý tưởng.|lý tưởng=이상적인
+4|이상은 좋지만 예산과 인력이 받쳐 주지 않으면 실현하기 어려워요.|Lý tưởng thì đẹp nhưng nếu ngân sách và nhân lực không đáp ứng được thì khó thành hiện thực.|nhân lực=인력; đáp ứng=뒷받침하다; hiện thực=현실
+3|요즘 AI에 대해 어떻게 생각해요?|Dạo này anh nghĩ gì về AI?|nghĩ gì về=~에 대해 어떻게 생각하다
+4|AI가 일을 대신해 주면 사람은 더 창의적인 일에 집중할 수 있다고 봐요.|Tôi cho rằng khi AI làm thay, con người có thể tập trung vào những việc sáng tạo hơn.|làm thay=대신 하다; sáng tạo=창의적인
+4|다만 AI가 내린 결론을 그대로 믿기보다는 사람이 반드시 검증해야 해요.|Có điều, thay vì tin ngay kết luận của AI, con người nhất định phải kiểm chứng.|có điều=다만; kiểm chứng=검증하다
+3|그건 각자의 선택이죠.|Đó là lựa chọn của mỗi người.|lựa chọn=선택
+4|남에게 피해를 주지 않는 한 각자의 선택을 존중해야 한다고 생각해요.|Miễn là không gây hại cho người khác thì nên tôn trọng lựa chọn của mỗi người.|miễn là=~하는 한; gây hại=피해를 주다|miễn là A thì B = A하는 한 B
+3|저도 같은 생각이에요.|Tôi cũng nghĩ giống anh.|giống=같은
+4|말씀하신 내용에 전적으로 동의하고 한 가지만 덧붙이고 싶어요.|Tôi hoàn toàn đồng ý với anh, và muốn bổ sung thêm một điểm.|bổ sung=덧붙이다
+3|그 문제는 더 논의가 필요해요.|Vấn đề đó cần bàn thêm.|bàn thêm=더 논의하다
+4|감정이 격해진 상태에서는 결론 내리지 말고 내일 다시 얘기합시다.|Đang lúc nóng giận thì đừng kết luận, mai mình bàn lại.|nóng giận=감정이 격해진; bàn lại=다시 논의하다
+3|뉴스 봤어요?|Anh xem tin tức chưa?|tin tức=뉴스
+4|기사 제목만 보고 판단하기보다 원문을 끝까지 읽어 보는 게 중요해요.|Thay vì phán đoán qua tiêu đề, quan trọng là đọc hết bài gốc.|phán đoán=판단하다; tiêu đề=제목; bài gốc=원문
+3|둘 다 장단점이 있어요.|Cả hai đều có ưu và nhược điểm.|ưu điểm=장점; nhược điểm=단점
+4|도시 생활은 편리하고 시골 생활은 여유롭다는 점에서 각자 매력이 있어요.|Sống ở thành phố thì tiện, sống ở quê thì thong thả, mỗi nơi có sức hút riêng.|sức hút=매력; thong thả=여유로운
+3|저라면 다르게 했을 거예요.|Nếu là tôi thì tôi đã làm khác.|nếu là tôi=저라면
+4|결과만 보면 실패지만 과정에서 배운 게 많으니 의미 없는 시도는 아니었어요.|Nhìn kết quả thì thất bại, nhưng học được nhiều trong quá trình nên không phải là thử vô ích.|thử=시도; vô ích=의미 없는
+3|그건 오해예요.|Đó là hiểu lầm thôi.|hiểu lầm=오해
+4|사실관계부터 확인하고 의견을 말해도 늦지 않아요.|Kiểm tra sự thật trước rồi mới nêu ý kiến cũng chưa muộn.|sự thật=사실관계; nêu=말하다
+3|요점만 말씀해 주세요.|Anh nói ý chính thôi.|ý chính=요점
+4|길게 설명하기보다 핵심 세 가지만 짚어 주시면 결정하기 쉬울 것 같아요.|Thay vì giải thích dài, anh chỉ ra ba ý chính thì dễ quyết định hơn.|chỉ ra=짚다
+
+@life
+4|베트남에 처음 왔을 땐 아무것도 몰라서 실수투성이였지만 지금은 그때가 그리워요.|Hồi mới sang Việt Nam tôi chẳng biết gì nên toàn mắc lỗi, nhưng giờ lại thấy nhớ thời đó.|mắc lỗi=실수하다; nhớ=그리워하다
+3|어릴 때 꿈이 뭐였어요?|Hồi nhỏ ước mơ của anh là gì?|ước mơ=꿈
+4|어릴 땐 선생님이 되고 싶었는데 지금 회사에서 후배들을 가르치니 꿈을 반쯤 이룬 셈이에요.|Hồi nhỏ tôi muốn làm giáo viên, giờ ở công ty tôi hướng dẫn đàn em nên coi như đạt được nửa ước mơ.|đàn em=후배; coi như=~인 셈이다; đạt được=이루다
+3|가장 행복했던 순간이 언제예요?|Khoảnh khắc hạnh phúc nhất của anh là khi nào?|khoảnh khắc=순간; hạnh phúc=행복한
+4|첫아이를 처음 품에 안았을 때가 인생에서 가장 벅찬 순간이었어요.|Lần đầu bế đứa con đầu lòng là khoảnh khắc xúc động nhất đời tôi.|con đầu lòng=첫아이; xúc động=벅찬
+3|요즘 새로운 도전을 하고 있어요.|Dạo này tôi đang thử thách bản thân với điều mới.|thử thách=도전하다
+4|마흔이 넘어서 새 언어를 배우기가 쉽진 않지만 머리가 젊어지는 느낌이에요.|Ngoài bốn mươi học ngôn ngữ mới không dễ, nhưng tôi thấy đầu óc như trẻ lại.|ngoài bốn mươi=마흔 넘어; trẻ lại=젊어지다
+3|후회되는 일 있어요?|Anh có điều gì hối tiếc không?|hối tiếc=후회하다
+4|젊었을 때 여행을 더 많이 못 다닌 게 조금 아쉬워요.|Hồi trẻ tôi không đi du lịch nhiều hơn, giờ nghĩ lại thấy hơi tiếc.|hồi trẻ=젊었을 때; nghĩ lại=돌이켜 생각하다
+3|그때 정말 힘들었어요.|Hồi đó vất vả thật.|vất vả=힘든
+4|프로젝트가 실패했을 땐 포기하고 싶었지만 팀원들 덕분에 버틸 수 있었어요.|Khi dự án thất bại tôi muốn bỏ cuộc, nhưng nhờ đồng đội mà tôi trụ được.|bỏ cuộc=포기하다; đồng đội=팀원; trụ=버티다
+3|요즘 제 삶에 만족해요.|Dạo này tôi hài lòng với cuộc sống.|hài lòng=만족하다
+4|큰 성공은 아니어도 가족이 건강하고 일이 즐거우면 그걸로 충분해요.|Dù không thành công lớn, nhưng gia đình khỏe mạnh và công việc vui là đủ rồi.|thành công=성공; đủ=충분하다
+3|처음 혼자 해외에 갔던 때가 기억나요.|Tôi vẫn nhớ lần đầu một mình ra nước ngoài.|ra nước ngoài=해외에 가다
+4|공항에서 헤매다 비행기를 놓칠 뻔했는데 낯선 사람이 도와줘서 겨우 탔어요.|Tôi lạc trong sân bay suýt lỡ chuyến bay, may có người lạ giúp nên kịp lên máy bay.|lạc=헤매다; người lạ=낯선 사람
+3|저는 계획적인 편이에요.|Tôi là người có kế hoạch.|có kế hoạch=계획적인
+4|계획대로 되는 게 좋긴 하지만 가끔은 즉흥적인 일이 더 기억에 남아요.|Mọi việc theo kế hoạch thì tốt, nhưng đôi khi những điều ngẫu hứng lại đáng nhớ hơn.|ngẫu hứng=즉흥적인; đáng nhớ=기억에 남는
+3|올해 목표를 세웠어요.|Tôi đã đặt mục tiêu cho năm nay.|đặt mục tiêu=목표를 세우다
+4|올해는 베트남어 시험에 붙고 하프 마라톤을 완주하는 게 목표예요.|Năm nay mục tiêu của tôi là thi đỗ tiếng Việt và chạy hết nửa marathon.|thi đỗ=시험에 붙다; chạy hết=완주하다
+3|요즘 감사 일기를 쓰고 있어요.|Dạo này tôi viết nhật ký biết ơn.|nhật ký=일기; biết ơn=감사하다
+4|하루를 돌아보며 감사한 일 세 가지를 적다 보니 마음이 한결 편해졌어요.|Mỗi ngày nhìn lại và ghi ba điều biết ơn, lòng tôi nhẹ nhõm hơn hẳn.|nhìn lại=돌아보다
+3|최근에 감동받은 일이 있어요.|Gần đây tôi có chuyện cảm động.|cảm động=감동하다
+4|비 오는 날 우산 없이 서 있는데 모르는 아주머니가 같이 쓰자고 하셨어요.|Hôm trời mưa tôi đứng trú không có ô, một cô lạ mặt rủ tôi che chung.|trú=비를 피하다; lạ mặt=낯선; che chung=같이 쓰다
+3|인생은 생각대로 되지 않아요.|Cuộc đời không như mình nghĩ.|cuộc đời=인생
+4|계획했던 길과는 다르게 왔지만 지금 이 자리도 나쁘지 않아요.|Tôi đi con đường khác với dự định, nhưng chỗ đứng bây giờ cũng không tệ.|dự định=계획; tệ=나쁜
+3|저는 실패가 두렵지 않아요.|Tôi không sợ thất bại.|thất bại=실패
+4|실패해 봐야 뭐가 부족한지 알 수 있으니 오히려 기회라고 생각해요.|Có thất bại mới biết mình thiếu gì, nên tôi coi đó là cơ hội.|thiếu=부족하다; coi=여기다
+3|어렸을 때 살던 동네에 가 봤어요.|Tôi về thăm khu phố hồi nhỏ.|khu phố=동네
+4|어릴 때 살던 동네가 완전히 바뀌어서 다니던 학교도 찾기 힘들었어요.|Khu phố hồi nhỏ thay đổi hoàn toàn, đến trường tôi từng học cũng khó tìm.|từng=~하던
+3|나이가 드니까 생각이 바뀌네요.|Có tuổi rồi suy nghĩ cũng thay đổi.|có tuổi=나이가 들다
+4|젊을 땐 성공이 전부인 줄 알았는데 지금은 건강과 관계가 더 소중해요.|Hồi trẻ tôi tưởng thành công là tất cả, giờ thì sức khỏe và các mối quan hệ quý hơn.|tưởng=~인 줄 알다; mối quan hệ=관계
+3|요즘 마음이 편해요.|Dạo này lòng tôi thanh thản.|thanh thản=편안한
+4|남과 비교하지 않으려고 노력하면서부터 마음이 훨씬 편해졌어요.|Từ khi cố gắng không so sánh mình với người khác, tôi thấy thanh thản hơn nhiều.|so sánh=비교하다
+3|그 경험이 저를 바꿨어요.|Trải nghiệm đó đã thay đổi tôi.|trải nghiệm=경험
+4|봉사 활동을 하면서 가진 것에 감사하는 법을 배웠어요.|Qua hoạt động tình nguyện, tôi học được cách biết ơn những gì mình có.|hoạt động tình nguyện=봉사 활동
+3|은퇴하면 뭘 하고 싶어요?|Nghỉ hưu rồi anh muốn làm gì?|nghỉ hưu=은퇴하다
+4|은퇴하면 작은 와인 바를 열어서 좋아하는 사람들과 이야기하며 지내고 싶어요.|Nghỉ hưu tôi muốn mở một quán rượu vang nhỏ để trò chuyện với những người mình quý.|mở=열다; quán rượu vang=와인 바
+3|요즘 감사한 게 많아요.|Dạo này tôi thấy biết ơn nhiều điều.|biết ơn=감사하다
+4|평범한 하루가 얼마나 소중한지 한 번 크게 아프고 나서야 알았어요.|Phải ốm một trận tôi mới biết một ngày bình thường quý giá thế nào.|ốm một trận=한 번 크게 아프다; bình thường=평범한
+3|10년 뒤엔 어디서 살고 있을까요?|Mười năm nữa không biết tôi sẽ sống ở đâu?|không biết=~일지 모르겠다
+4|어디에 살든 좋아하는 일을 하며 가족과 함께라면 행복할 것 같아요.|Dù sống ở đâu, chỉ cần làm việc mình thích và có gia đình bên cạnh là tôi hạnh phúc.|dù ... ở đâu=어디에 살든; bên cạnh=곁에

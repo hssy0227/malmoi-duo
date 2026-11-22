@@ -281,6 +281,7 @@ for(const L of ["vi","en"]){
     w.k=m.slice(0,4).join(" · "); w.w=[]; ITEM[L][w.id]=w; return w;
   });
 }
+const CATS_OF={};for(const L of ["vi","en"])CATS_OF[L]=CATKEYS.filter(c=>SENT[L].some(s=>s.c===c));
 const allOf=(L,type)=>type==="w"?WORD[L]:type==="a"?SENT[L].concat(WORD[L]):SENT[L];
 function pool(L,sc){
   sc=sc||S.scope[L];
@@ -374,7 +375,7 @@ function vHome(){
   const days=[];for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");days.push([k,"일월화수목금토"[d.getDay()]])}
   const mx=Math.max(10,...days.map(d=>S.hist[d[0]]||0));
   const todo=st.due+Math.min(st.newLeft,pool(L).filter(it=>!S.p[L][it.id]).length);
-  const catRows=CATKEYS.map(c=>{const list=SENT[L].filter(s=>s.c===c);const done=list.filter(s=>S.p[L][s.id]).length;const pct=Math.round(done/list.length*100);
+  const catRows=CATS_OF[L].map(c=>{const list=SENT[L].filter(s=>s.c===c);const done=list.filter(s=>S.p[L][s.id]).length;const pct=Math.round(done/list.length*100);
     return `<button class="cat" data-act="catgo" data-c="${c}"><div class="n">${esc(CAT[c])}</div><div class="c">${done} / ${list.length} · ${pct}%</div><div class="bar"><i style="width:${pct}%"></i></div></button>`}).join("");
   return `
   <div class="hero">
@@ -576,7 +577,7 @@ function mic(){
 }
 
 /* ---------- 사전 ---------- */
-let DS={q:"",type:"s",cat:"",star:false,open:null};
+let DS={q:"",type:"s",cat:"",star:false,open:null,lim:200};
 const fold=s=>untone(s.toLowerCase());
 function dictList(){
   const L=S.lang,q=fold(DS.q.trim());
@@ -593,12 +594,13 @@ function itemRow(L,it){
 }
 function renderDictList(){
   const L=S.lang,list=dictList(),el=$("#dlist");if(!el)return;
-  el.innerHTML=list.length?`<div class="list">${list.map(it=>itemRow(L,it)).join("")}</div><div class="cnt">${list.length}개</div>`:`<div class="box empty mut">찾는 항목이 없어요</div>`;
+  const shown=list.slice(0,DS.lim);
+  el.innerHTML=list.length?`<div class="list">${shown.map(it=>itemRow(L,it)).join("")}</div><div class="row" style="margin-top:8px"><span class="cnt" style="margin:0">${list.length}개 중 ${shown.length}개 표시</span><span class="sp"></span>${list.length>shown.length?`<button class="btn sm" data-act="dmore">200개 더 보기</button>`:""}</div>`:`<div class="box empty mut">찾는 항목이 없어요</div>`;
 }
 function vDict(){
   return `<div class="search">${IC.search}<input id="dq" type="search" placeholder="한국어·원어·단어로 검색 (성조 없이도 됨)" value="${esc(DS.q)}" autocomplete="off"></div>
   <div class="row" style="margin-top:10px"><div class="seg" style="margin:0">${[["s","문장"],["w","단어"]].map(([k,n])=>`<button class="${DS.type===k?"on":""}" data-act="dtype" data-k="${k}">${n}</button>`).join("")}</div><button class="chip ${DS.star?"on":""}" data-act="dstar">${IC.star}즐겨찾기</button></div>
-  <div class="hscroll" style="margin-top:8px"><button class="chip ${DS.cat?"":"on"}" data-act="dcat" data-c="">전체</button>${CATKEYS.map(c=>`<button class="chip ${DS.cat===c?"on":""}" data-act="dcat" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
+  <div class="hscroll" style="margin-top:8px"><button class="chip ${DS.cat?"":"on"}" data-act="dcat" data-c="">전체</button>${CATS_OF[S.lang].map(c=>`<button class="chip ${DS.cat===c?"on":""}" data-act="dcat" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
   <div id="dlist"></div>`;
 }
 
@@ -635,7 +637,7 @@ let draft=null;
 function scopeSheet(){
   const L=S.lang;draft=draft||JSON.parse(JSON.stringify(S.scope[L]));
   const n=pool(L,draft).length;
-  openSheet(`<h3>상황</h3><div class="chips"><button class="chip ${draft.cats.length?"":"on"}" data-act="sc" data-c="">전체</button>${CATKEYS.map(c=>`<button class="chip ${draft.cats.includes(c)?"on":""}" data-act="sc" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
+  openSheet(`<h3>상황</h3><div class="chips"><button class="chip ${draft.cats.length?"":"on"}" data-act="sc" data-c="">전체</button>${CATS_OF[L].map(c=>`<button class="chip ${draft.cats.includes(c)?"on":""}" data-act="sc" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
    <h3>레벨</h3><div class="chips">${[[1,"Lv1 기초"],[2,"Lv2 초중급"],[3,"Lv3 중급"],[4,"Lv4 고급"]].map(([l,nm])=>`<button class="chip ${draft.lv.includes(l)?"on":""}" data-act="sl" data-l="${l}">${nm}</button>`).join("")}</div>
    <h3>종류</h3><div class="chips">${[["s","문장"],["w","단어"],["a","문장+단어"]].map(([k,nm])=>`<button class="chip ${draft.type===k?"on":""}" data-act="st" data-k="${k}">${nm}</button>`).join("")}<button class="chip ${draft.star?"on":""}" data-act="sst">${IC.star}즐겨찾기만</button></div>
    <div class="row" style="margin-top:18px"><span class="sm mut nw">해당 항목 ${n}개</span><span class="sp"></span><button class="btn" data-act="scx">취소</button><button class="btn pri" data-act="scok" ${n?"":"disabled"}>적용</button></div>`);
@@ -647,7 +649,7 @@ function render(){
   document.querySelectorAll("#langSeg button").forEach(b=>b.classList.toggle("on",b.dataset.l===S.lang));
   document.querySelectorAll("#tabs a").forEach(a=>a.classList.toggle("on",a.dataset.v===view));
   $("#view").innerHTML=VIEWS[view]();
-  if(view==="dict"){renderDictList();const q=$("#dq");let t=0;q.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{DS.q=q.value;DS.open=null;renderDictList()},120)})}
+  if(view==="dict"){renderDictList();const q=$("#dq");let t=0;q.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{DS.q=q.value;DS.open=null;DS.lim=200;renderDictList()},150)})}
 }
 function go(v){toggleHelp(false);if(!VIEWS[v])v="home";if(v!==view){view=v;if(location.hash!=="#"+v)try{history.replaceState(null,"","#"+v)}catch(e){location.hash=v}window.scrollTo(0,0)}render()}
 window.addEventListener("hashchange",()=>{const v=location.hash.slice(1);if(VIEWS[v]&&v!==view){view=v;render();window.scrollTo(0,0)}});
@@ -655,7 +657,7 @@ document.getElementById("tabs").addEventListener("click",e=>{const a=e.target.cl
 
 const ACT={
   go:b=>go(b.dataset.v),
-  lang:b=>{if(S.lang===b.dataset.l)return;S.lang=b.dataset.l;save();try{if(hasTTS)speechSynthesis.cancel()}catch(e){}DS.open=null;render()},
+  lang:b=>{if(S.lang===b.dataset.l)return;S.lang=b.dataset.l;save();try{if(hasTTS)speechSynthesis.cancel()}catch(e){}DS.open=null;if(DS.cat&&!CATS_OF[S.lang].includes(DS.cat))DS.cat="";render()},
   say:b=>{const it=ITEM[S.lang][b.dataset.id];if(it)speak(it.t)},
   sayt:b=>speak(decodeURIComponent(b.dataset.t),b.dataset.l||S.lang,!!b.dataset.slow),
   star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;save();b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
@@ -684,10 +686,11 @@ const ACT={
   sphide1:b=>{b.outerHTML=`<div class="tg">${esc(ITEM[S.lang][SP.order[SP.i%SP.order.length]].t)}</div>`},
   spmove:b=>{try{rec&&rec.abort()}catch(e){}SP.i=(SP.i+(+b.dataset.d)+SP.order.length)%SP.order.length;SP.res=null;SP.err="";SP.state="idle";render();window.scrollTo(0,0)},
   spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();save();ACT.spmove({dataset:{d:1}})},
-  dtype:b=>{DS.type=b.dataset.k;DS.open=null;render()},
-  dcat:b=>{DS.cat=b.dataset.c;DS.open=null;render()},
+  dtype:b=>{DS.type=b.dataset.k;DS.open=null;DS.lim=200;render()},
+  dcat:b=>{DS.cat=b.dataset.c;DS.open=null;DS.lim=200;render()},
   dstar:()=>{DS.star=!DS.star;render()},
   dopen:b=>{DS.open=DS.open===b.dataset.id?null:b.dataset.id;renderDictList()},
+  dmore:()=>{DS.lim+=200;renderDictList()},
   tog:b=>{const k=b.dataset.k;S.set[k]=!S.set[k];save();render()},
   export:()=>{let framed=false;try{framed=window.self!==window.top}catch(e){framed=true}if(framed){ACT.copyx();return}try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([exportJSON()],{type:"application/json"}));a.download="malmoi-duo-backup-"+today()+".json";document.body.appendChild(a);a.click();a.remove();toast("백업 파일을 저장했어요")}catch(e){toast("저장이 막혔어요. '백업 복사'를 쓰세요")}},
   copyx:()=>{const t=exportJSON();(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>toast("백업 내용을 복사했어요"),()=>openSheet(`<h3>백업 내용</h3><p class="sm mut">아래 내용을 길게 눌러 전체 복사해 메모에 보관하세요.</p><textarea readonly>${esc(t)}</textarea><button class="btn blk" style="margin-top:10px" data-act="closesheet">닫기</button>`))},

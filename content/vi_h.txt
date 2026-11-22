@@ -1,0 +1,162 @@
+# 복합문 확장 (날씨·자연, 문화·명절)
+@nature
+3|오늘 오후에 소나기가 온다니까 우산 챙기세요.|Nghe nói chiều nay có mưa rào nên anh nhớ mang ô.|mưa rào=소나기; ô=우산(북부)
+4|하노이는 사계절이 뚜렷해서 겨울이 생각보다 꽤 추워요.|Hà Nội có bốn mùa rõ rệt nên mùa đông lạnh hơn người ta tưởng.|bốn mùa=사계절; rõ rệt=뚜렷한; tưởng=생각하다
+3|호찌민은 일 년 내내 덥고 건기와 우기만 있어요.|Thành phố Hồ Chí Minh nóng quanh năm, chỉ có mùa khô và mùa mưa.|quanh năm=일 년 내내; mùa khô=건기; mùa mưa=우기
+4|봄에는 습도가 너무 높아서 바닥과 벽에 물이 맺혀요.|Mùa xuân độ ẩm cao đến mức sàn và tường đọng nước.|độ ẩm=습도; sàn=바닥; đọng nước=물이 맺히다
+3|오늘 기온이 몇 도예요?|Hôm nay bao nhiêu độ?|độ=도
+4|낮엔 35도까지 올라가니까 한낮에는 밖에 안 나가는 게 좋아요.|Ban ngày lên tới ba mươi lăm độ nên giữa trưa tốt nhất đừng ra ngoài.|lên tới=~까지 오르다; giữa trưa=한낮; tốt nhất=가장 좋은 것은
+3|태풍이 온대요.|Nghe nói sắp có bão.|bão=태풍
+4|태풍이 북부 해안에 상륙하면서 항공편이 줄줄이 결항됐어요.|Bão đổ bộ vào ven biển miền Bắc nên hàng loạt chuyến bay bị hủy.|đổ bộ=상륙하다; ven biển=해안; hàng loạt=줄줄이
+3|비가 그치면 산책하러 가요.|Tạnh mưa thì mình đi dạo nhé.|tạnh mưa=비가 그치다; đi dạo=산책하다
+4|비가 갑자기 쏟아지는 바람에 길이 순식간에 물에 잠겼어요.|Mưa đổ xuống bất ngờ nên đường ngập chỉ trong chốc lát.|đổ xuống=쏟아지다; ngập=물에 잠기다; chốc lát=순식간
+3|오늘 미세먼지가 심하네요.|Hôm nay bụi mịn nhiều quá.|bụi mịn=미세먼지
+4|공기 질 지수가 200을 넘으면 노인과 아이들은 외출을 자제해야 해요.|Khi chỉ số chất lượng không khí vượt hai trăm thì người già và trẻ nhỏ nên hạn chế ra ngoài.|chỉ số=지수; chất lượng=질; hạn chế=자제하다
+3|가을 하늘이 정말 맑고 높네요.|Trời thu trong xanh và cao thật.|trời thu=가을 하늘; trong xanh=맑고 푸른
+4|하노이는 가을이 제일 아름다워서 이때 여행 오는 걸 추천해요.|Hà Nội đẹp nhất vào mùa thu nên tôi khuyên đi du lịch vào dịp này.|khuyên=권하다; dịp=시기
+3|내일 날씨는 어떨까요?|Không biết ngày mai thời tiết thế nào nhỉ?|thời tiết=날씨
+4|일기예보에선 맑다고 했는데 오후에 갑자기 비가 왔어요.|Dự báo thời tiết bảo trời nắng mà chiều lại mưa bất chợt.|dự báo thời tiết=일기예보; bất chợt=갑자기
+3|바람이 많이 불어요.|Gió to quá.|gió=바람; to=센
+4|바람이 너무 세서 오토바이 타기가 위험할 정도였어요.|Gió thổi mạnh đến mức đi xe máy cũng nguy hiểm.|thổi=불다; đến mức=~할 정도로; nguy hiểm=위험한
+3|햇볕이 쨍쨍하니까 선크림 꼭 바르세요.|Nắng gắt lắm, nhớ bôi kem chống nắng.|nắng gắt=햇볕이 쨍쨍한; bôi=바르다; kem chống nắng=선크림
+4|자외선 지수가 높은 날엔 모자와 선글라스를 같이 챙기는 게 좋아요.|Những ngày chỉ số UV cao nên mang theo cả mũ và kính râm.|kính râm=선글라스
+3|안개가 껴서 앞이 잘 안 보여요.|Sương mù dày nên không nhìn rõ phía trước.|sương mù=안개; nhìn rõ=잘 보다
+4|사파는 해발이 높아서 여름에도 아침저녁으로 쌀쌀해요.|Sa Pa ở độ cao lớn nên mùa hè sáng tối vẫn se lạnh.|độ cao=고도; se lạnh=쌀쌀한
+3|눈 오는 걸 본 적 있어요?|Anh đã bao giờ thấy tuyết rơi chưa?|tuyết=눈; rơi=내리다
+4|베트남 북부 산간 지방에도 아주 드물게 눈이 내리기도 해요.|Ở vùng núi phía Bắc Việt Nam thỉnh thoảng cũng có tuyết, dù rất hiếm.|vùng núi=산간 지방; hiếm=드문
+3|이 계절엔 모기가 많아요.|Mùa này nhiều muỗi lắm.|muỗi=모기
+4|우기가 시작되면 모기가 늘어서 뎅기열을 조심해야 해요.|Khi mùa mưa bắt đầu thì muỗi nhiều lên nên phải cẩn thận sốt xuất huyết.|sốt xuất huyết=뎅기열
+3|오늘 노을이 정말 예뻐요.|Hôm nay hoàng hôn đẹp quá.|hoàng hôn=노을
+4|해 질 무렵 호수에 비친 노을을 보면 하루의 피로가 싹 풀려요.|Ngắm hoàng hôn phản chiếu trên mặt hồ là bao mệt mỏi trong ngày tan biến hết.|phản chiếu=비치다; mặt hồ=호수면; tan biến=사라지다
+3|공기가 정말 상쾌하네요.|Không khí trong lành thật.|trong lành=맑은·상쾌한
+4|도시를 벗어나 시골에 오니 공기도 맑고 마음도 편해요.|Ra khỏi thành phố về quê, không khí trong lành mà lòng cũng thanh thản.|ra khỏi=벗어나다; thanh thản=편안한
+3|하롱베이에는 섬이 2천 개 가까이 있어요.|Vịnh Hạ Long có gần hai nghìn hòn đảo.|hòn đảo=섬
+4|석회암 섬들이 바다 위로 솟은 풍경은 직접 봐야 그 웅장함을 느낄 수 있어요.|Phải tận mắt thấy những đảo đá vôi nhô lên giữa biển mới cảm nhận được sự hùng vĩ.|đá vôi=석회암; nhô lên=솟아오르다; cảm nhận=느끼다; hùng vĩ=웅장한
+3|논이 정말 아름다워요.|Ruộng lúa đẹp quá.|ruộng lúa=논
+4|무캉짜이의 계단식 논은 추수 직전인 9월에 황금빛으로 물들어요.|Ruộng bậc thang Mù Cang Chải nhuộm vàng vào tháng chín, ngay trước mùa gặt.|ruộng bậc thang=계단식 논; nhuộm=물들다; mùa gặt=추수철
+3|강물이 많이 불었어요.|Nước sông dâng cao quá.|sông=강; dâng=불어나다
+4|홍강이 범람할까 봐 주민들이 모래주머니를 쌓고 있어요.|Người dân đang chất bao cát vì sợ sông Hồng tràn bờ.|chất=쌓다; bao cát=모래주머니; tràn bờ=범람하다
+3|이 나무 이름이 뭐예요?|Cây này tên là gì?|cây=나무
+4|하노이 거리는 계절마다 다른 꽃이 피어서 걷기만 해도 즐거워요.|Đường phố Hà Nội mỗi mùa lại có loài hoa khác nở nên chỉ đi bộ thôi cũng vui.|loài hoa=꽃의 종류; nở=피다
+3|봄이 오니 꽃이 피기 시작했어요.|Xuân về nên hoa bắt đầu nở.|xuân về=봄이 오다
+4|설 무렵이면 꽃시장이 복숭아꽃과 금귤나무를 사려는 사람들로 붐벼요.|Gần Tết, chợ hoa đông nghịt người mua hoa đào và cây quất.|đông nghịt=붐비는; hoa đào=복숭아꽃; cây quất=금귤나무
+3|기후 변화가 정말 심각해요.|Biến đổi khí hậu nghiêm trọng thật.|biến đổi khí hậu=기후 변화; nghiêm trọng=심각한
+4|해수면이 계속 오르면 메콩 델타의 농경지가 바닷물에 잠길 수 있어요.|Nếu mực nước biển tiếp tục dâng thì đất nông nghiệp ở đồng bằng sông Cửu Long có thể bị nhấn chìm.|mực nước biển=해수면; đất nông nghiệp=농경지; đồng bằng sông Cửu Long=메콩 델타; nhấn chìm=잠기게 하다
+3|일회용 플라스틱을 줄이려고 해요.|Tôi cố gắng giảm đồ nhựa dùng một lần.|đồ nhựa=플라스틱 제품; dùng một lần=일회용
+4|장 볼 때 장바구니를 챙기는 작은 습관이 환경을 지키는 첫걸음이에요.|Thói quen nhỏ như mang túi khi đi chợ là bước đầu để bảo vệ môi trường.|túi=가방; bước đầu=첫걸음; bảo vệ=지키다; môi trường=환경
+3|분리수거를 해야 해요.|Phải phân loại rác.|phân loại rác=분리수거하다
+4|분리수거 규칙이 지역마다 달라서 이사하면 다시 알아봐야 해요.|Quy định phân loại rác mỗi nơi một khác nên chuyển đến chỗ mới thì phải tìm hiểu lại.|mỗi nơi một khác=곳마다 다르다; tìm hiểu=알아보다
+3|여름이 점점 길어지는 것 같아요.|Hình như mùa hè ngày càng dài.|ngày càng=점점
+4|폭염이 이어지면서 전력 수요가 사상 최고치를 기록했어요.|Nắng nóng kéo dài khiến nhu cầu điện đạt mức cao kỷ lục.|nắng nóng=폭염; khiến=~하게 만들다; kỷ lục=기록
+3|햇빛이 강하면 태양광 발전량이 늘어요.|Nắng mạnh thì sản lượng điện mặt trời tăng.|sản lượng=생산량; điện mặt trời=태양광 발전
+4|구름 낀 날엔 태양광 발전이 줄어서 가스 발전이 그 공백을 메워요.|Ngày nhiều mây thì điện mặt trời giảm, nên điện khí phải bù vào khoảng trống đó.|mây=구름; bù=메우다; khoảng trống=공백
+3|일기예보가 자주 틀려요.|Dự báo thời tiết hay sai.|sai=틀리다
+4|기상 모델마다 예보가 달라서 여러 개를 비교해 보는 게 좋아요.|Mỗi mô hình khí tượng dự báo một kiểu nên so sánh nhiều nguồn thì tốt hơn.|mô hình=모델; khí tượng=기상; nguồn=출처
+3|번개가 치니까 밖에 나가지 마세요.|Đang có sấm sét, đừng ra ngoài.|sấm sét=천둥번개
+4|천둥소리에 놀라서 아이가 밤새 잠을 못 잤어요.|Con tôi giật mình vì tiếng sấm nên cả đêm không ngủ được.|tiếng sấm=천둥소리; giật mình=놀라다
+3|여기 경치가 그림 같아요.|Phong cảnh ở đây đẹp như tranh.|như tranh=그림 같은
+4|계곡물이 얼음처럼 차가워서 발만 담가도 더위가 싹 가셨어요.|Nước suối lạnh như băng, chỉ ngâm chân thôi đã hết nóng.|suối=계곡; băng=얼음; ngâm chân=발을 담그다
+3|바닷가에서 일출을 보고 싶어요.|Tôi muốn ngắm bình minh trên biển.|bình minh=일출
+4|일출을 보려면 새벽 다섯 시에는 일어나서 바닷가로 나가야 해요.|Muốn ngắm bình minh thì năm giờ sáng phải dậy ra biển.|dậy=일어나다
+3|이 동물은 멸종 위기종이에요.|Loài vật này đang có nguy cơ tuyệt chủng.|nguy cơ=위험; tuyệt chủng=멸종하다
+4|국립공원에서는 야생 동물에게 먹이를 주는 게 금지돼 있어요.|Trong vườn quốc gia, việc cho động vật hoang dã ăn bị cấm.|vườn quốc gia=국립공원; hoang dã=야생의; bị cấm=금지되다
+3|오늘은 날이 흐려요.|Hôm nay trời âm u.|âm u=흐린
+4|며칠째 날이 흐리고 비가 오락가락해서 빨래가 하나도 안 말라요.|Mấy hôm nay trời âm u, mưa lúc có lúc không nên quần áo chẳng khô gì cả.|lúc có lúc không=오락가락하다; khô=마르다
+3|겨울엔 난방이 없어서 집 안이 추워요.|Mùa đông không có sưởi nên trong nhà lạnh lắm.|sưởi=난방
+4|하노이 집은 대부분 난방 시설이 없어서 겨울엔 실내가 오히려 더 춥게 느껴져요.|Phần lớn nhà ở Hà Nội không có hệ thống sưởi nên mùa đông trong nhà còn thấy lạnh hơn.|hệ thống=시설; phần lớn=대부분
+3|산에 오르니 공기가 확 달라요.|Lên núi thì không khí khác hẳn.|lên núi=산에 오르다
+4|산에서는 날씨가 갑자기 바뀔 수 있으니 얇은 겉옷을 꼭 챙기세요.|Leo núi thì thời tiết có thể đổi bất ngờ nên nhớ mang áo khoác mỏng.|áo khoác=겉옷; mỏng=얇은
+3|비 냄새가 나요.|Có mùi mưa.|mùi=냄새
+4|긴 가뭄 끝에 비가 내리자 농민들 얼굴에 웃음이 돌아왔어요.|Sau đợt hạn hán kéo dài, trời mưa xuống khiến nụ cười trở lại trên gương mặt nông dân.|hạn hán=가뭄; nụ cười=미소; nông dân=농민
+3|날씨 때문에 계획이 바뀌었어요.|Kế hoạch bị thay đổi vì thời tiết.|kế hoạch=계획
+4|야외 행사는 날씨를 장담할 수 없으니 실내 예비 장소를 미리 정해 두세요.|Sự kiện ngoài trời thì không chắc được thời tiết nên hãy chọn trước địa điểm dự phòng trong nhà.|sự kiện=행사; ngoài trời=야외; địa điểm=장소; dự phòng=예비의
+3|바다가 잔잔해요.|Biển lặng sóng.|lặng sóng=잔잔한
+4|파도가 높을 때는 수영 금지 깃발이 걸리니까 꼭 확인하세요.|Khi sóng cao sẽ có cờ cấm tắm, nhớ để ý nhé.|sóng=파도; cờ=깃발; cấm tắm=수영 금지; để ý=주의하다
+3|오늘 정말 후덥지근하네요.|Hôm nay oi quá.|oi=후덥지근한
+4|덥고 습한 날씨에 익숙하지 않아서 처음 몇 주는 정말 지쳤어요.|Chưa quen với thời tiết nóng ẩm nên mấy tuần đầu tôi mệt rã rời.|nóng ẩm=덥고 습한; mệt rã rời=녹초가 되다
+3|별이 정말 많이 보여요.|Nhìn thấy nhiều sao quá.|sao=별
+4|도시 불빛에서 멀어질수록 밤하늘의 별이 더 선명하게 보여요.|Càng xa ánh đèn thành phố thì sao trên bầu trời đêm càng rõ.|ánh đèn=불빛; bầu trời=하늘; rõ=선명한
+3|오늘 무지개가 떴어요!|Hôm nay có cầu vồng!|cầu vồng=무지개
+4|자연을 지키지 않으면 우리 아이들은 이런 풍경을 사진으로만 보게 될 거예요.|Nếu không bảo vệ thiên nhiên thì con cháu chúng ta sẽ chỉ còn thấy cảnh này qua ảnh.|thiên nhiên=자연; con cháu=후손; chỉ còn=~만 남다
+
+@culture
+3|설은 베트남에서 가장 큰 명절이에요.|Tết là dịp lễ lớn nhất ở Việt Nam.|dịp lễ=명절
+4|설이 다가오면 사람들은 집을 청소하고 새 옷을 장만하며 한 해를 마무리해요.|Gần Tết, mọi người dọn dẹp nhà cửa, sắm quần áo mới để khép lại một năm.|sắm=장만하다; khép lại=마무리하다
+3|설에 고향에 가세요?|Tết anh có về quê không?|về quê=고향에 가다
+4|설 연휴에는 귀성객이 많아서 버스표 구하기가 하늘의 별 따기예요.|Dịp Tết người về quê đông nên mua được vé xe khó như lên trời.|khó như lên trời=하늘의 별 따기
+3|새해 첫 방문객이 중요하다고 해요.|Người ta nói người xông đất đầu năm rất quan trọng.|xông đất=새해 첫 방문(풍습)
+4|새해 첫날 집에 처음 들어오는 사람이 그해 집안의 운을 좌우한다고 믿어요.|Người ta tin rằng người đầu tiên bước vào nhà ngày mùng một sẽ quyết định vận may cả năm của gia đình.|tin rằng=~라고 믿다; vận may=운; quyết định=좌우하다
+3|추석에는 아이들이 등불을 들고 다녀요.|Tết Trung thu trẻ con cầm đèn lồng đi chơi.|Tết Trung thu=중추절; đèn lồng=등불
+4|베트남 추석은 한국과 달리 아이들을 위한 명절이라 월병을 먹고 사자춤을 봐요.|Khác với Hàn Quốc, Trung thu ở Việt Nam là tết của trẻ em, người ta ăn bánh trung thu và xem múa lân.|khác với=~와 달리; bánh trung thu=월병; múa lân=사자춤
+3|오늘은 제삿날이에요.|Hôm nay là ngày giỗ.|ngày giỗ=제삿날
+4|베트남 사람들은 생일보다 조상의 제삿날을 더 크게 챙겨요.|Người Việt coi trọng ngày giỗ tổ tiên hơn cả sinh nhật.|coi trọng=중시하다; tổ tiên=조상
+3|집집마다 조상을 모시는 제단이 있어요.|Nhà nào cũng có bàn thờ tổ tiên.|bàn thờ=제단
+4|매달 음력 초하루와 보름에는 향을 피우고 과일을 올려요.|Ngày mùng một và ngày rằm âm lịch hàng tháng người ta thắp hương và cúng hoa quả.|âm lịch=음력; rằm=보름; thắp hương=향을 피우다; cúng=올리다·바치다
+3|아오자이가 정말 아름다워요.|Áo dài đẹp quá.|áo dài=아오자이
+4|아오자이는 평소엔 잘 안 입지만 졸업식이나 결혼식 같은 특별한 날엔 많이 입어요.|Áo dài ngày thường ít mặc, nhưng vào dịp đặc biệt như lễ tốt nghiệp hay đám cưới thì mọi người hay mặc.|lễ tốt nghiệp=졸업식; đám cưới=결혼식
+3|결혼식에 초대받았어요.|Tôi được mời dự đám cưới.|được mời=초대받다; dự=참석하다
+4|베트남 결혼식에서는 축의금을 봉투에 넣어 입구의 함에 넣어요.|Ở đám cưới Việt Nam, người ta bỏ tiền mừng vào phong bì rồi cho vào hòm ở lối vào.|tiền mừng=축의금; phong bì=봉투; hòm=함; lối vào=입구
+3|축의금은 보통 얼마 내요?|Tiền mừng cưới thường bao nhiêu?|tiền mừng cưới=결혼 축의금
+4|친한 정도와 식장에 따라 다르지만 보통 50만 동에서 100만 동 정도예요.|Tùy độ thân thiết và nhà hàng tổ chức, nhưng thường khoảng năm trăm nghìn đến một triệu.|độ thân thiết=친한 정도; tổ chức=개최하다
+3|장례식에는 흰 옷을 입어요.|Đám tang thì mặc đồ trắng.|đám tang=장례식; đồ trắng=흰 옷
+4|한국처럼 베트남도 장례식에서는 화려한 옷을 피하고 엄숙하게 애도해요.|Giống Hàn Quốc, ở đám tang Việt Nam người ta tránh mặc đồ sặc sỡ và chia buồn một cách trang nghiêm.|giống=~와 같다; sặc sỡ=화려한; chia buồn=애도하다; trang nghiêm=엄숙한
+3|베트남 사람들은 숫자 9를 좋아해요.|Người Việt thích số chín.|số=숫자
+4|숫자 9는 '오래간다'는 뜻과 이어져서 행운의 숫자로 여겨져요.|Số chín được xem là con số may mắn vì gắn với ý nghĩa trường tồn.|được xem là=~로 여겨지다; may mắn=행운의; gắn với=~와 연결되다; trường tồn=오래 존속하다
+3|여기서는 신발을 벗어야 해요.|Ở đây phải cởi giày.|cởi giày=신발을 벗다
+4|절에 들어갈 때는 노출이 심한 옷을 피하고 모자를 벗는 게 예의예요.|Vào chùa thì nên tránh mặc hở hang và bỏ mũ ra cho lịch sự.|hở hang=노출이 심한; lịch sự=예의 바른
+3|어른께는 두 손으로 드려야 해요.|Đưa đồ cho người lớn thì phải đưa bằng hai tay.|người lớn=어른; hai tay=두 손
+4|식사 자리에서는 어른이 먼저 젓가락을 드신 뒤에 먹기 시작하는 게 예의예요.|Trong bữa ăn, phải đợi người lớn cầm đũa trước rồi mới bắt đầu ăn, như vậy mới lễ phép.|cầm đũa=젓가락을 들다; lễ phép=예의 바른
+3|베트남 사람들은 "밥 먹었어요?"로 인사해요.|Người Việt chào nhau bằng câu "Ăn cơm chưa?".|chào nhau=서로 인사하다
+4|베트남어는 나이와 관계에 따라 쓰는 호칭이 수십 가지라 처음엔 정말 헷갈려요.|Tiếng Việt có hàng chục cách xưng hô tùy tuổi tác và quan hệ nên lúc đầu rất dễ nhầm.|hàng chục=수십; xưng hô=호칭하다; dễ nhầm=헷갈리기 쉬운
+3|수상 인형극은 북부의 전통 예술이에요.|Múa rối nước là nghệ thuật truyền thống miền Bắc.|truyền thống=전통
+4|수상 인형극은 원래 농민들이 논에서 추수를 축하하며 즐기던 놀이였대요.|Nghe nói múa rối nước vốn là trò chơi nông dân bày ra trên ruộng để mừng mùa gặt.|vốn là=원래 ~이다; bày ra=펼치다; mừng=축하하다
+3|베트남 전통 음악을 들어 보고 싶어요.|Tôi muốn nghe thử nhạc truyền thống Việt Nam.|nghe thử=들어 보다
+4|까쭈는 유네스코 무형문화유산으로 지정된 북부 전통 성악이에요.|Ca trù là loại hình hát truyền thống miền Bắc được UNESCO công nhận là di sản văn hóa phi vật thể.|loại hình=장르; công nhận=인정하다; di sản văn hóa phi vật thể=무형문화유산
+3|이 사원은 천 년이 넘었대요.|Nghe nói ngôi chùa này hơn một nghìn năm tuổi.|ngôi chùa=사원; tuổi=~년 된
+4|문묘는 베트남 최초의 대학으로 지금도 시험철이면 학생들이 합격을 빌러 와요.|Văn Miếu là trường đại học đầu tiên của Việt Nam, đến giờ mùa thi học sinh vẫn đến cầu đỗ đạt.|đầu tiên=최초의; mùa thi=시험철; cầu=빌다; đỗ đạt=합격하다
+3|베트남 역사에 관심이 많아요.|Tôi rất quan tâm đến lịch sử Việt Nam.|quan tâm=관심을 갖다; lịch sử=역사
+4|역사를 알고 나니 거리 이름 대부분이 위인들 이름이라는 걸 알게 됐어요.|Sau khi tìm hiểu lịch sử, tôi mới nhận ra phần lớn tên phố là tên các danh nhân.|nhận ra=깨닫다; tên phố=거리 이름; danh nhân=위인
+3|커피 문화가 정말 발달했네요.|Văn hóa cà phê phát triển thật.|phát triển=발달하다
+4|베트남 사람들은 길가 작은 의자에 앉아 커피를 마시며 몇 시간이고 수다를 떨어요.|Người Việt có thể ngồi ghế nhựa ven đường uống cà phê và tán chuyện hàng giờ liền.|ghế nhựa=플라스틱 의자; ven đường=길가; tán chuyện=수다 떨다; hàng giờ liền=몇 시간이고
+3|오토바이가 정말 많네요.|Xe máy nhiều thật.|xe máy=오토바이
+4|오토바이는 단순한 교통수단이 아니라 가족의 생계와 일상이 담긴 공간이에요.|Xe máy không chỉ là phương tiện đi lại mà còn gắn liền với sinh kế và đời sống của cả gia đình.|phương tiện=수단; gắn liền=밀접하게 연결되다; sinh kế=생계
+3|베트남 사람들은 흥정을 즐기는 것 같아요.|Hình như người Việt thích mặc cả.|mặc cả=흥정하다
+4|시장에서 흥정하는 건 무례한 게 아니라 일종의 대화이자 관계 맺기예요.|Mặc cả ở chợ không phải là bất lịch sự mà là một cách trò chuyện và làm quen.|bất lịch sự=무례한; trò chuyện=대화하다; làm quen=관계를 맺다
+3|한국 문화에 관심 있는 베트남 사람이 많아요.|Nhiều người Việt quan tâm đến văn hóa Hàn Quốc.|quan tâm=관심을 갖다
+4|K팝과 드라마 덕분에 한국어를 배우는 베트남 학생이 해마다 늘고 있어요.|Nhờ K-pop và phim Hàn mà số học sinh Việt Nam học tiếng Hàn tăng lên hằng năm.|tăng lên=늘다; hằng năm=해마다
+3|문화 차이 때문에 오해가 생기기도 해요.|Đôi khi có hiểu lầm vì khác biệt văn hóa.|khác biệt=차이; hiểu lầm=오해
+4|베트남에서는 대놓고 거절하기보다 돌려서 말하는 게 더 자연스러워요.|Ở Việt Nam, nói vòng vo thì tự nhiên hơn là từ chối thẳng thừng.|nói vòng vo=돌려 말하다; từ chối=거절하다; thẳng thừng=대놓고
+3|오늘은 음력 보름이에요.|Hôm nay là rằm âm lịch.|rằm=보름
+4|음력 7월 보름에는 떠도는 영혼들을 위해 음식을 차려 놓는 풍습이 있어요.|Rằm tháng bảy âm lịch có tục cúng cô hồn, bày đồ ăn cho những linh hồn lang thang.|tục=풍습; cúng cô hồn=떠도는 영혼에게 제를 올리다; linh hồn=영혼; lang thang=떠도는
+3|훙왕 기념일은 공휴일이에요.|Giỗ Tổ Hùng Vương là ngày nghỉ lễ.|Giỗ Tổ Hùng Vương=훙왕 기념일; ngày nghỉ lễ=공휴일
+4|9월 2일 독립기념일에는 거리마다 국기가 걸리고 사람들이 바딘 광장에 모여요.|Ngày Quốc khánh hai tháng chín, phố phường treo cờ và người dân tụ tập ở quảng trường Ba Đình.|Quốc khánh=독립기념일; treo cờ=국기를 걸다; tụ tập=모이다; quảng trường=광장
+3|선물은 두 손으로 받으세요.|Nhận quà thì nên nhận bằng hai tay.|nhận=받다
+4|선물을 받으면 그 자리에서 바로 열지 않는 게 예의라고 여기는 사람도 있어요.|Có người cho rằng nhận quà xong không mở ngay trước mặt người tặng mới là lịch sự.|cho rằng=~라고 여기다; trước mặt=앞에서; người tặng=준 사람
+3|이 축제는 매년 열려요.|Lễ hội này năm nào cũng tổ chức.|lễ hội=축제
+4|후에 축제 기간엔 궁중 음악과 전통 공연이 열려서 옛 왕조의 분위기를 느낄 수 있어요.|Trong Festival Huế có nhã nhạc cung đình và biểu diễn truyền thống, giúp du khách cảm nhận không khí triều đại xưa.|nhã nhạc cung đình=궁중 음악; du khách=관광객; triều đại=왕조
+3|베트남 사람들은 영적인 걸 많이 믿나요?|Người Việt có tin nhiều vào tâm linh không?|tâm linh=영적인 것
+4|중요한 일을 앞두고 점을 보거나 좋은 날을 고르는 사람이 아직도 많아요.|Trước việc hệ trọng, vẫn có nhiều người đi xem bói hoặc chọn ngày lành.|hệ trọng=중대한; xem bói=점을 보다; ngày lành=길일
+3|이 노래는 베트남 사람이면 다 알아요.|Bài hát này người Việt nào cũng biết.|người Việt nào cũng=베트남 사람이면 누구나
+4|박물관에 가 보니 베트남이 얼마나 많은 전쟁을 겪었는지 실감이 났어요.|Đi bảo tàng tôi mới thấm thía Việt Nam đã trải qua bao nhiêu cuộc chiến.|bảo tàng=박물관; thấm thía=실감하다; trải qua=겪다; cuộc chiến=전쟁
+3|한국과 베트남은 비슷한 점이 많아요.|Hàn Quốc và Việt Nam có nhiều điểm giống nhau.|điểm=점; giống nhau=비슷하다
+4|두 나라 모두 유교의 영향을 받아서 가족과 어른을 중시하는 점이 닮았어요.|Cả hai nước đều chịu ảnh hưởng của Nho giáo nên giống nhau ở chỗ coi trọng gia đình và người lớn.|chịu ảnh hưởng=영향을 받다; Nho giáo=유교; ở chỗ=~라는 점에서
+3|설날 음식으로는 뭐가 있어요?|Ngày Tết có những món gì?|món=음식
+4|반쯩 말고도 고기 젤리, 절인 양파, 넴 같은 음식을 차려요.|Ngoài bánh chưng ra còn có thịt đông, dưa hành, nem và nhiều món khác.|ngoài ... ra=~ 외에도; thịt đông=고기 젤리; dưa hành=절인 양파
+3|여성의 날에는 꽃을 선물해요.|Ngày Phụ nữ thì người ta tặng hoa.|Ngày Phụ nữ=여성의 날; tặng=선물하다
+4|베트남엔 3월 8일과 10월 20일, 여성을 위한 날이 두 번이나 있어서 꽃집이 대목을 맞아요.|Việt Nam có tới hai ngày dành cho phụ nữ là mùng tám tháng ba và hai mươi tháng mười, nên các tiệm hoa đắt hàng lắm.|dành cho=~를 위한; tiệm hoa=꽃집; đắt hàng=장사가 잘되다
+3|스승의 날에 선생님께 꽃을 드렸어요.|Ngày Nhà giáo tôi tặng hoa cho thầy cô.|Ngày Nhà giáo=스승의 날(11/20); thầy cô=선생님들
+4|베트남에서는 스승을 존경하고 도리를 중시하는 전통이 아직도 강해요.|Ở Việt Nam truyền thống tôn sư trọng đạo vẫn còn rất mạnh.|tôn sư trọng đạo=스승을 존경하고 도리를 중시함
+3|이 그림에는 무슨 뜻이 담겨 있어요?|Bức tranh này mang ý nghĩa gì?|bức tranh=그림; mang=담다; ý nghĩa=의미
+4|동호 민화는 설에 걸어 두면 복이 온다고 해서 옛날엔 집집마다 있었어요.|Tranh Đông Hồ treo trong nhà dịp Tết được cho là mang lại may mắn nên ngày xưa nhà nào cũng có.|treo=걸다; được cho là=~라고 여겨지다; ngày xưa=옛날
+3|베트남 문화를 더 깊이 알고 싶어요.|Tôi muốn hiểu sâu hơn về văn hóa Việt Nam.|hiểu sâu=깊이 이해하다
+4|언어만 배워서는 부족하고 그 나라 사람들의 생활 방식을 이해해야 진짜 소통이 돼요.|Chỉ học ngôn ngữ thôi thì chưa đủ, phải hiểu lối sống của người dân thì mới thật sự giao tiếp được.|lối sống=생활 방식; thật sự=진정으로; giao tiếp=소통하다
+3|건배할 때는 눈을 마주쳐요.|Khi cụng ly thì nhìn vào mắt nhau.|cụng ly=잔을 부딪치다
+4|베트남 술자리에선 잔을 들 때마다 다 같이 "못, 하이, 바, 요!"를 외치는 게 분위기예요.|Trong bàn nhậu ở Việt Nam, mỗi lần nâng ly là mọi người hô "Một, hai, ba, dô!" cho vui.|bàn nhậu=술자리; nâng ly=잔을 들다; hô=외치다
+3|이 지역 특산물이 뭐예요?|Đặc sản vùng này là gì?|đặc sản=특산물; vùng=지역
+4|지역마다 특산물이 달라서 여행할 때 그 지역 음식을 맛보는 재미가 있어요.|Mỗi vùng có đặc sản riêng nên khi đi du lịch, nếm thử món địa phương là một niềm vui.|riêng=고유의; niềm vui=즐거움
+3|베트남에는 54개 민족이 살아요.|Việt Nam có năm mươi tư dân tộc.|dân tộc=민족
+4|북부 산간 지방의 소수 민족들은 저마다 고유한 언어와 의상, 축제를 지키고 있어요.|Các dân tộc thiểu số ở vùng núi phía Bắc mỗi dân tộc đều giữ ngôn ngữ, trang phục và lễ hội riêng.|dân tộc thiểu số=소수 민족; trang phục=의상; giữ=지키다
+3|전통을 지키는 건 중요해요.|Giữ gìn truyền thống là điều quan trọng.|giữ gìn=보존하다
+4|도시화가 빨라지면서 옛 거리의 모습이 사라져 가는 게 아쉬워요.|Đô thị hóa diễn ra nhanh khiến diện mạo phố cổ dần mất đi, thật đáng tiếc.|đô thị hóa=도시화; diện mạo=모습; phố cổ=옛 거리; đáng tiếc=아쉬운
+3|새해 인사를 드리러 갔어요.|Tôi đi chúc Tết.|chúc Tết=새해 인사를 하다
+4|설 첫날은 아버지께, 둘째 날은 어머니께, 셋째 날은 선생님께 인사드린다는 말이 있어요.|Có câu "mùng một Tết cha, mùng hai Tết mẹ, mùng ba Tết thầy".|câu=말·구절; Tết cha=아버지께 세배하다|설 사흘간 세배 순서를 이르는 속담

@@ -1,0 +1,164 @@
+# 복합문 확장 (비즈니스·집)
+@biz
+3|저희 제안서를 검토해 보셨는지 궁금합니다.|Không biết anh đã xem qua bản đề xuất của chúng tôi chưa.|không biết=~인지 궁금하다; xem qua=훑어보다; đề xuất=제안
+4|가격 조건만 맞으면 장기 계약도 고려할 수 있습니다.|Nếu điều kiện giá phù hợp thì chúng tôi có thể cân nhắc hợp đồng dài hạn.|phù hợp=맞는; cân nhắc=고려하다; dài hạn=장기|nếu A thì B = 만약 A면 B
+4|물량을 늘리면 단가를 조금 낮춰 주실 수 있을까요?|Nếu chúng tôi tăng số lượng thì anh có thể giảm đơn giá một chút không?|số lượng=물량; đơn giá=단가
+4|그 가격은 저희 원가보다도 낮아서 받아들이기 어렵습니다.|Mức giá đó còn thấp hơn giá vốn của chúng tôi nên khó chấp nhận.|mức giá=가격 수준; giá vốn=원가; chấp nhận=받아들이다
+3|납기는 언제까지 맞춰 주실 수 있나요?|Bên anh có thể giao hàng trước ngày nào?|bên anh=귀사; giao hàng=납품하다
+4|결제 조건은 선금 30%에 잔금은 납품 후 60일 이내로 하고 싶습니다.|Về điều kiện thanh toán, chúng tôi muốn đặt cọc ba mươi phần trăm, phần còn lại trong vòng sáu mươi ngày sau khi giao hàng.|đặt cọc=선금을 내다; phần còn lại=잔금; trong vòng=~ 이내
+4|양해각서를 먼저 체결하고 세부 조건은 차차 협의하시죠.|Chúng ta ký biên bản ghi nhớ trước, còn các điều kiện chi tiết thì bàn dần.|biên bản ghi nhớ=양해각서(MOU); chi tiết=세부; dần=차차
+3|이 건은 본사 승인이 필요합니다.|Việc này cần được trụ sở chính phê duyệt.|trụ sở chính=본사; phê duyệt=승인하다
+4|현지 규제가 바뀔 수 있어서 계약서에 관련 조항을 넣고 싶습니다.|Vì quy định ở địa phương có thể thay đổi nên chúng tôi muốn đưa điều khoản liên quan vào hợp đồng.|quy định=규정; điều khoản=조항; liên quan=관련된
+4|가스 공급이 끊기면 발전소 가동에 차질이 생기니 백업 계획이 꼭 필요합니다.|Nếu nguồn cung khí bị gián đoạn thì nhà máy sẽ gặp trục trặc, nên nhất thiết phải có phương án dự phòng.|nguồn cung=공급원; gián đoạn=중단되다; trục trặc=차질; dự phòng=예비의; nhất thiết=반드시
+3|저희 회사를 간단히 소개해 드리겠습니다.|Tôi xin giới thiệu sơ qua về công ty chúng tôi.|sơ qua=간단히
+4|저희는 LNG 도입부터 발전, 판매까지 밸류체인 전체를 운영하고 있습니다.|Chúng tôi vận hành toàn bộ chuỗi giá trị, từ nhập khẩu LNG đến phát điện và bán điện.|chuỗi giá trị=밸류체인; nhập khẩu=수입하다; phát điện=발전하다
+4|베트남 전력 시장은 성장 속도가 빨라서 투자 매력이 큽니다.|Thị trường điện Việt Nam tăng trưởng nhanh nên rất hấp dẫn để đầu tư.|thị trường=시장; tăng trưởng=성장하다; hấp dẫn=매력적인; đầu tư=투자하다
+3|명함 교환하시죠.|Mình trao đổi danh thiếp nhé.|trao đổi=교환하다
+4|회의 결과를 정리해서 내일 오전까지 이메일로 보내 드리겠습니다.|Tôi sẽ tổng hợp kết quả cuộc họp và gửi email cho anh trước sáng mai.|tổng hợp=정리하다
+4|말씀하신 조건을 내부적으로 검토한 뒤 다음 주 중에 회신드리겠습니다.|Sau khi xem xét nội bộ các điều kiện anh nêu, chúng tôi sẽ phản hồi trong tuần sau.|xem xét=검토하다; nêu=제시하다; phản hồi=회신하다
+3|이 부분은 서로 양보가 필요할 것 같습니다.|Phần này có lẽ hai bên cần nhượng bộ.|nhượng bộ=양보하다
+4|저희가 원하는 건 눈앞의 이익보다 오래 함께할 수 있는 파트너십입니다.|Điều chúng tôi mong muốn là quan hệ đối tác lâu dài chứ không phải lợi ích trước mắt.|quan hệ đối tác=파트너십; lâu dài=오래가는; lợi ích trước mắt=눈앞의 이익
+4|경쟁사보다 가격은 조금 높지만 품질과 사후 서비스는 확실히 앞섭니다.|Giá của chúng tôi hơi cao hơn đối thủ nhưng chất lượng và dịch vụ hậu mãi thì chắc chắn vượt trội.|đối thủ=경쟁사; chất lượng=품질; hậu mãi=사후 서비스; vượt trội=앞서다
+3|견적서를 보내 주실 수 있나요?|Anh gửi cho tôi bảng báo giá được không?|bảng báo giá=견적서
+4|견적서에 운송비와 세금이 포함되어 있는지 확인 부탁드립니다.|Nhờ anh kiểm tra giúp xem báo giá đã bao gồm phí vận chuyển và thuế chưa.|phí vận chuyển=운송비; thuế=세금
+3|계약서 초안은 언제쯤 받을 수 있을까요?|Khi nào tôi có thể nhận được bản dự thảo hợp đồng?|bản dự thảo=초안
+4|법무팀 검토가 끝나야 서명할 수 있어서 일주일쯤 더 걸릴 것 같습니다.|Phải đợi bộ phận pháp chế xem xong mới ký được, nên chắc mất thêm khoảng một tuần.|bộ phận pháp chế=법무팀; ký=서명하다
+4|납기가 지연되면 지체상금을 부과한다는 조항을 넣겠습니다.|Chúng tôi sẽ thêm điều khoản phạt nếu giao hàng chậm trễ.|phạt=벌금을 부과하다; chậm trễ=지연되다
+3|오늘 미팅은 아주 생산적이었어요.|Buổi gặp hôm nay rất hiệu quả.|hiệu quả=효과적인·생산적인
+4|첫 거래인 만큼 소량으로 시작해서 신뢰를 쌓아 가고 싶습니다.|Vì là lần hợp tác đầu tiên nên chúng tôi muốn bắt đầu với số lượng nhỏ để xây dựng lòng tin.|hợp tác=협력하다; lòng tin=신뢰
+4|환율 위험을 줄이기 위해 달러 대신 동화로 결제하는 방안도 검토할 수 있습니다.|Để giảm rủi ro tỷ giá, chúng ta có thể cân nhắc thanh toán bằng tiền đồng thay vì đô la.|rủi ro tỷ giá=환율 위험; tiền đồng=베트남 동화; đô la=달러
+3|그 조건이면 저희도 동의할 수 있습니다.|Với điều kiện đó thì chúng tôi có thể đồng ý.|với=~이면·~로
+4|아쉽게도 이번엔 함께하기 어렵지만 다음 기회엔 꼭 협력하고 싶습니다.|Rất tiếc lần này chúng tôi chưa thể hợp tác, nhưng mong là sẽ có dịp lần sau.|rất tiếc=유감스럽게도; dịp=기회
+3|담당자를 소개해 주실 수 있을까요?|Anh có thể giới thiệu người phụ trách cho tôi không?|người phụ trách=담당자
+4|현장 실사를 먼저 해 보고 투자 여부를 결정하겠습니다.|Chúng tôi sẽ khảo sát thực địa trước rồi mới quyết định có đầu tư hay không.|khảo sát thực địa=현장 실사; có ... hay không=~할지 말지
+4|인허가 절차가 예상보다 오래 걸려서 일정이 석 달가량 밀렸습니다.|Thủ tục cấp phép mất nhiều thời gian hơn dự kiến nên tiến độ bị lùi khoảng ba tháng.|thủ tục=절차; cấp phép=인허가; lùi=밀리다
+3|다음 미팅은 화상으로 해도 될까요?|Buổi họp tới mình họp trực tuyến được không?|họp trực tuyến=화상 회의하다
+4|베트남에서 사업할 때는 공식 절차 못지않게 인간관계가 중요하다고 들었습니다.|Tôi nghe nói làm ăn ở Việt Nam thì quan hệ con người quan trọng không kém thủ tục chính thức.|không kém=~ 못지않게; chính thức=공식적인
+4|이번 계약이 성사되면 양사 모두에게 큰 전환점이 될 겁니다.|Nếu hợp đồng lần này thành công thì sẽ là bước ngoặt lớn cho cả hai công ty.|thành công=성사되다; bước ngoặt=전환점
+3|자료 공유해 주셔서 감사합니다.|Cảm ơn anh đã chia sẻ tài liệu.|chia sẻ=공유하다; tài liệu=자료
+4|숫자만 보면 좋아 보이지만 시장 리스크를 더 꼼꼼히 따져 봐야 합니다.|Nhìn con số thì có vẻ tốt nhưng cần phân tích kỹ hơn rủi ro thị trường.|con số=숫자; phân tích=분석하다
+4|저희 쪽 사정도 조금만 이해해 주시면 감사하겠습니다.|Rất mong anh thông cảm cho hoàn cảnh bên tôi một chút.|thông cảm=이해하다; hoàn cảnh=사정
+3|이 내용은 대외비입니다.|Nội dung này là thông tin mật.|thông tin mật=기밀 정보
+4|비밀유지계약을 먼저 맺은 다음에 상세 데이터를 공유하겠습니다.|Sau khi ký thỏa thuận bảo mật, chúng tôi sẽ chia sẻ dữ liệu chi tiết.|thỏa thuận bảo mật=비밀유지계약(NDA); dữ liệu=데이터
+3|오늘 저녁 식사 자리에 모시고 싶습니다.|Chúng tôi muốn mời anh dùng bữa tối nay.|dùng bữa=식사하다(정중)
+4|식사 자리에서는 업무 얘기보다 서로 알아 가는 시간을 갖는 게 좋겠습니다.|Trong bữa ăn thì mình nên dành thời gian tìm hiểu nhau hơn là bàn công việc.|tìm hiểu nhau=서로 알아 가다; hơn là=~보다는
+4|올해 매출 목표를 달성하려면 신규 고객을 최소 다섯 곳은 확보해야 합니다.|Muốn đạt mục tiêu doanh thu năm nay thì phải có thêm ít nhất năm khách hàng mới.|đạt=달성하다; doanh thu=매출; khách hàng=고객
+3|이 제품의 주요 고객층은 누구인가요?|Khách hàng chính của sản phẩm này là ai?|sản phẩm=제품; chính=주요
+4|시장 점유율은 아직 낮지만 성장률은 업계 최고 수준입니다.|Thị phần còn thấp nhưng tốc độ tăng trưởng thuộc hàng cao nhất ngành.|thị phần=시장 점유율; thuộc hàng=~에 속하다; ngành=업계
+4|가격 경쟁보다는 차별화된 서비스로 승부해야 한다고 생각합니다.|Tôi nghĩ chúng ta nên cạnh tranh bằng dịch vụ khác biệt chứ không phải bằng giá.|cạnh tranh=경쟁하다; khác biệt=차별화된
+3|예산은 어느 정도로 생각하고 계세요?|Anh dự tính ngân sách khoảng bao nhiêu?|dự tính=예상하다
+4|비용은 줄이면서 품질은 유지할 방법을 같이 찾아봅시다.|Mình cùng tìm cách vừa giảm chi phí vừa giữ được chất lượng.|vừa ... vừa=~하면서도
+4|프로젝트가 성공하려면 처음부터 양측의 역할과 책임을 명확히 해야 합니다.|Muốn dự án thành công thì ngay từ đầu phải làm rõ vai trò và trách nhiệm của hai bên.|làm rõ=명확히 하다; vai trò=역할; trách nhiệm=책임
+3|진행 상황을 주기적으로 공유해 주세요.|Anh cập nhật tiến độ cho tôi định kỳ nhé.|cập nhật=업데이트하다; định kỳ=주기적으로
+4|문제가 생기면 숨기지 말고 바로 알려 주셔야 같이 해결할 수 있어요.|Nếu có vấn đề thì đừng giấu mà báo ngay để mình cùng giải quyết.|giấu=숨기다; báo ngay=바로 알리다
+4|이 시장은 진입 장벽이 높지만 일단 자리를 잡으면 수익이 안정적입니다.|Thị trường này rào cản gia nhập cao, nhưng một khi đã có chỗ đứng thì lợi nhuận sẽ ổn định.|rào cản=장벽; gia nhập=진입하다; một khi=일단 ~하면; chỗ đứng=입지
+3|좋은 파트너를 만나서 다행입니다.|Thật may là chúng tôi gặp được đối tác tốt.|may=다행인
+4|저희가 제시한 일정이 무리라면 솔직하게 말씀해 주세요.|Nếu tiến độ chúng tôi đưa ra là quá sức thì anh cứ nói thẳng.|quá sức=무리한; nói thẳng=솔직하게 말하다
+4|이번 분기에는 비용 절감보다 시장 확대에 집중하기로 했습니다.|Quý này chúng tôi quyết định tập trung mở rộng thị trường thay vì cắt giảm chi phí.|tập trung=집중하다; mở rộng=확대하다; cắt giảm=절감하다
+3|우선순위를 다시 정해야겠어요.|Chắc phải sắp xếp lại thứ tự ưu tiên.|sắp xếp lại=다시 정하다
+4|이 정도 투자 규모면 이사회 승인이 필요합니다.|Quy mô đầu tư cỡ này thì cần hội đồng quản trị thông qua.|quy mô=규모; hội đồng quản trị=이사회; thông qua=통과시키다
+4|입찰 서류는 마감 사흘 전까지 내야 탈락하지 않습니다.|Hồ sơ dự thầu phải nộp trước hạn chót ba ngày thì mới không bị loại.|hồ sơ dự thầu=입찰 서류; bị loại=탈락하다
+3|이 분야 경력이 몇 년이나 되세요?|Anh có bao nhiêu năm kinh nghiệm trong lĩnh vực này?|kinh nghiệm=경험; lĩnh vực=분야
+4|현지 인력을 채용하면 비용도 줄고 문화적 이해도 높아집니다.|Tuyển nhân sự địa phương vừa giảm chi phí vừa hiểu văn hóa hơn.|tuyển=채용하다; nhân sự=인력
+4|협상이 길어지고 있지만 서둘러 불리한 조건을 받아들이는 것보다는 낫습니다.|Đàm phán kéo dài nhưng vẫn hơn là vội vàng chấp nhận điều kiện bất lợi.|vội vàng=서두르다; bất lợi=불리한
+3|이번 주 안에 결론을 내리죠.|Mình chốt trong tuần này nhé.|chốt=결론짓다
+4|계약 기간 중 한쪽이 조건을 위반하면 상대방은 계약을 해지할 수 있습니다.|Trong thời hạn hợp đồng, nếu một bên vi phạm điều kiện thì bên kia có quyền chấm dứt hợp đồng.|thời hạn=기간; vi phạm=위반하다; chấm dứt=해지하다
+4|불가항력으로 이행이 불가능한 경우에는 책임이 면제됩니다.|Trường hợp không thể thực hiện do bất khả kháng thì được miễn trách nhiệm.|bất khả kháng=불가항력; miễn=면제하다; thực hiện=이행하다
+3|이건 제 개인적인 의견입니다.|Đây là ý kiến cá nhân của tôi.|cá nhân=개인
+4|회사 입장이 아직 정해지지 않았으니 공식 답변은 조금 기다려 주세요.|Quan điểm của công ty chưa được quyết nên anh chờ thêm câu trả lời chính thức nhé.|quan điểm=입장; câu trả lời=답변
+4|ESG 기준을 충족하지 못하면 해외 투자 유치가 점점 어려워질 겁니다.|Nếu không đáp ứng tiêu chuẩn ESG thì việc thu hút vốn đầu tư nước ngoài sẽ ngày càng khó.|đáp ứng=충족하다; tiêu chuẩn=기준; thu hút=유치하다; ngày càng=점점
+3|발표 자료는 영어로 할까요, 베트남어로 할까요?|Tài liệu thuyết trình nên chuẩn bị bằng tiếng Anh hay tiếng Việt?|thuyết trình=발표
+4|통역이 있긴 하지만 핵심 메시지는 제가 직접 베트남어로 전하고 싶습니다.|Tuy có phiên dịch nhưng tôi muốn tự nói thông điệp chính bằng tiếng Việt.|tuy ... nhưng=비록 ~지만; thông điệp=메시지|tuy A nhưng B = 비록 A지만 B
+4|탄소 감축 목표 때문에 석탄 발전을 LNG로 전환하려는 수요가 늘고 있습니다.|Do mục tiêu giảm phát thải carbon nên nhu cầu chuyển điện than sang LNG đang tăng.|giảm phát thải=배출 감축; điện than=석탄 발전; nhu cầu=수요
+3|저희 담당 엔지니어가 내일 현장에 갈 겁니다.|Kỹ sư phụ trách bên tôi sẽ xuống hiện trường vào ngày mai.|kỹ sư=엔지니어; hiện trường=현장
+4|이번 프로젝트에서 얻은 교훈은 다음 사업에 반드시 반영하겠습니다.|Chúng tôi nhất định sẽ áp dụng bài học từ dự án này cho các dự án sau.|bài học=교훈; áp dụng=반영·적용하다
+4|협력 관계를 강화하기 위해 정기적인 고위급 회의를 제안드립니다.|Để tăng cường quan hệ hợp tác, tôi đề xuất tổ chức họp cấp cao định kỳ.|tăng cường=강화하다; cấp cao=고위급; tổ chức=개최하다
+3|오늘 회의는 여기까지 하죠.|Cuộc họp hôm nay đến đây thôi.|đến đây=여기까지
+4|앞으로도 좋은 관계를 이어 가길 바랍니다.|Mong rằng hai bên sẽ tiếp tục duy trì mối quan hệ tốt đẹp.|tiếp tục=계속하다; duy trì=유지하다; tốt đẹp=좋은
+4|이 수치는 지난 3년 평균을 기준으로 추정한 겁니다.|Con số này được ước tính dựa trên mức trung bình ba năm qua.|ước tính=추정하다; dựa trên=~을 기반으로; trung bình=평균
+3|그 점은 미처 생각하지 못했네요.|Điểm đó tôi chưa nghĩ tới.|nghĩ tới=생각이 미치다
+4|가격을 깎아 드리기는 어렵지만 대신 유지보수 기간을 1년 늘려 드릴 수 있습니다.|Giảm giá thì khó, nhưng bù lại chúng tôi có thể kéo dài thời gian bảo trì thêm một năm.|bù lại=대신에; bảo trì=유지보수
+4|우리 측 요구를 다 관철하기보다 핵심 조건 두세 가지에 집중하는 게 현실적입니다.|Thay vì đòi hết mọi yêu cầu, tập trung vào hai ba điều kiện cốt lõi thì thực tế hơn.|đòi=요구하다; cốt lõi=핵심; thực tế=현실적인
+3|회의 전에 안건을 미리 보내 주세요.|Anh gửi trước nội dung cuộc họp cho tôi nhé.|gửi trước=미리 보내다
+4|신규 사업은 실패하더라도 빨리 배우고 방향을 바꾸는 게 중요합니다.|Với mảng kinh doanh mới, dù thất bại thì điều quan trọng là học nhanh và đổi hướng kịp thời.|dù=~하더라도; đổi hướng=방향을 바꾸다; kịp thời=제때
+4|고객의 불만을 빨리 해결할수록 재구매율이 높아집니다.|Giải quyết phàn nàn của khách càng nhanh thì tỷ lệ mua lại càng cao.|phàn nàn=불만; tỷ lệ mua lại=재구매율
+3|계약서에 서명해 주셔서 감사합니다.|Cảm ơn anh đã ký hợp đồng.|ký=서명하다
+4|이번 협력이 베트남 에너지 전환에 작게나마 도움이 되길 바랍니다.|Hy vọng sự hợp tác lần này sẽ góp một phần nhỏ vào quá trình chuyển đổi năng lượng của Việt Nam.|hy vọng=바라다; góp=기여하다; chuyển đổi năng lượng=에너지 전환
+
+@home
+3|이사 온 지 한 달 됐는데 아직 짐 정리를 다 못 했어요.|Chuyển đến được một tháng rồi mà tôi vẫn chưa dọn đồ xong.|chuyển đến=이사 오다; dọn đồ=짐 정리하다
+3|월세는 매달 5일까지 집주인에게 보내면 돼요.|Tiền thuê nhà thì mỗi tháng chuyển cho chủ nhà trước ngày mùng năm là được.|tiền thuê nhà=월세; chủ nhà=집주인; mùng năm=5일|1~10일 앞에는 mùng을 붙임
+4|계약하기 전에 전기랑 수도가 괜찮은지 꼭 확인하세요.|Trước khi ký hợp đồng nhớ kiểm tra xem điện nước có ổn không.|điện nước=전기·수도; nhớ=잊지 말고
+4|이 아파트는 관리비에 주차비와 인터넷 요금이 포함돼 있어요.|Phí quản lý của chung cư này đã bao gồm tiền gửi xe và tiền mạng.|phí quản lý=관리비; chung cư=아파트; tiền gửi xe=주차비; tiền mạng=인터넷 요금
+3|에어컨에서 물이 새요.|Điều hòa bị chảy nước.|chảy nước=물이 새다
+4|수리 기사가 내일 오전에 온다고 했는데 아직 연락이 없어요.|Thợ sửa nói sáng mai sẽ đến nhưng vẫn chưa thấy liên lạc.|thợ sửa=수리 기사; chưa thấy=아직 ~가 없다
+3|이번 달 전기 요금이 너무 많이 나왔어요.|Tiền điện tháng này cao quá.|tiền điện=전기 요금
+4|여름에 에어컨을 하루 종일 틀었더니 전기 요금이 두 배로 나왔어요.|Mùa hè bật điều hòa cả ngày nên tiền điện tăng gấp đôi.|bật=켜다; gấp đôi=두 배
+3|쓰레기는 몇 시에 버려야 해요?|Rác thì đổ lúc mấy giờ?|rác=쓰레기; đổ rác=쓰레기를 버리다
+4|하노이에서는 저녁에 쓰레기차가 종을 울리며 지나갈 때 내다 놓으면 돼요.|Ở Hà Nội, buổi tối xe rác vừa đi vừa rung chuông, lúc đó mang rác ra là được.|xe rác=쓰레기차; rung chuông=종을 울리다; mang ra=내놓다
+3|세탁기가 고장 나서 빨래를 못 하고 있어요.|Máy giặt hỏng nên tôi không giặt đồ được.|máy giặt=세탁기; giặt đồ=빨래하다
+4|우기에는 빨래가 잘 안 말라서 건조기가 꼭 필요해요.|Mùa mưa quần áo phơi lâu khô nên rất cần máy sấy.|mùa mưa=우기; phơi=널어 말리다; khô=마른; máy sấy=건조기
+3|이웃이 밤늦게까지 시끄러워서 잠을 못 자요.|Hàng xóm ồn ào đến khuya nên tôi không ngủ được.|hàng xóm=이웃; ồn ào=시끄러운; khuya=늦은 밤
+4|직접 말하기는 좀 그래서 관리사무소에 얘기해 볼까 해요.|Nói trực tiếp thì hơi ngại nên tôi định báo với ban quản lý.|ngại=꺼려지다; ban quản lý=관리사무소
+3|집에서 회사까지 오토바이로 20분 걸려요.|Từ nhà đến công ty đi xe máy mất hai mươi phút.|mất=걸리다
+4|회사 근처로 이사하면 출퇴근 시간을 하루 한 시간은 아낄 수 있어요.|Nếu chuyển đến gần công ty thì mỗi ngày tiết kiệm được ít nhất một tiếng đi lại.|tiết kiệm=아끼다; đi lại=오가다
+3|가구가 다 갖춰진 집을 찾고 있어요.|Tôi đang tìm nhà có sẵn đồ nội thất.|đồ nội thất=가구; có sẵn=갖춰진
+4|가구 딸린 집은 월세가 조금 비싸지만 이사하기는 훨씬 편해요.|Nhà có đồ thì tiền thuê đắt hơn một chút nhưng chuyển đến tiện hơn nhiều.|tiện=편한
+3|보증금은 보통 몇 달 치를 내요?|Tiền cọc thường là mấy tháng?|tiền cọc=보증금
+4|베트남에서는 보통 보증금 두 달 치에 월세 석 달 치를 미리 내요.|Ở Việt Nam thường đặt cọc hai tháng và trả trước ba tháng tiền nhà.|trả trước=선불하다
+3|가사도우미를 일주일에 두 번 불러요.|Tôi thuê người giúp việc tuần hai lần.|người giúp việc=가사도우미
+4|맞벌이라 집안일을 나눠서 하는데도 늘 시간이 부족해요.|Hai vợ chồng đều đi làm nên chia nhau việc nhà, vậy mà lúc nào cũng thiếu thời gian.|vợ chồng=부부; chia nhau=나누다; việc nhà=집안일; vậy mà=그런데도
+3|오늘은 대청소하는 날이에요.|Hôm nay là ngày tổng vệ sinh.|tổng vệ sinh=대청소
+4|창문을 열었더니 오토바이 매연이 들어와서 금방 닫았어요.|Mở cửa sổ ra thì khói xe máy bay vào nên tôi đóng lại ngay.|khói=연기·매연; bay vào=날아 들어오다
+3|공기청정기를 하나 사야겠어요.|Chắc tôi phải mua một cái máy lọc không khí.|máy lọc không khí=공기청정기
+4|미세먼지가 심한 날에는 창문을 닫고 공기청정기를 계속 켜 둬요.|Những ngày bụi mịn nhiều tôi đóng cửa sổ và bật máy lọc suốt.|bụi mịn=미세먼지; suốt=계속
+3|전구 가는 것 좀 도와줄래요?|Anh giúp tôi thay bóng đèn được không?|thay=갈다; bóng đèn=전구
+4|변기가 막혀서 직접 뚫어 보려다가 결국 기사를 불렀어요.|Bồn cầu bị tắc, tôi định tự thông nhưng cuối cùng phải gọi thợ.|thông=뚫다; gọi thợ=기사를 부르다
+3|택배가 경비실에 와 있대요.|Nghe nói hàng giao đến để ở phòng bảo vệ.|hàng giao=택배; phòng bảo vệ=경비실
+4|집에 아무도 없으면 경비실에 맡겨 달라고 메모를 남겼어요.|Tôi để lại lời nhắn là nếu không có ai ở nhà thì gửi hàng ở phòng bảo vệ.|lời nhắn=메모; gửi=맡기다
+3|이 동네는 조용하고 살기 좋아요.|Khu này yên tĩnh, sống rất thích.|khu=동네
+4|집 근처에 시장, 병원, 학교가 다 있어서 생활하기 편해요.|Gần nhà có đủ chợ, bệnh viện, trường học nên sinh hoạt rất tiện.|đủ=모두 갖춘; sinh hoạt=생활하다
+3|집에 개미가 너무 많아요.|Nhà tôi nhiều kiến quá.|kiến=개미
+4|날씨가 습해서 벽에 곰팡이가 피는 바람에 페인트를 다시 칠해야 할 것 같아요.|Do trời ẩm nên tường bị mốc, chắc phải sơn lại.|ẩm=습한; tường=벽; mốc=곰팡이가 피다; sơn=칠하다
+3|와이파이가 너무 느려요.|Wifi chậm quá.|chậm=느린
+4|인터넷 회사에 전화했더니 내일 기사를 보내 준대요.|Tôi gọi cho nhà mạng thì họ bảo mai sẽ cử người đến.|nhà mạng=통신사; cử=보내다
+3|우리 집은 고양이 두 마리를 키워요.|Nhà tôi nuôi hai con mèo.|nuôi=기르다; mèo=고양이
+4|반려동물을 키워도 되는지 계약 전에 집주인한테 물어봐야 해요.|Trước khi ký hợp đồng phải hỏi chủ nhà xem có được nuôi thú cưng không.|thú cưng=반려동물
+3|열쇠를 잃어버려서 문을 못 열어요.|Tôi mất chìa khóa nên không mở cửa được.|mất=잃다
+4|도어락으로 바꾸면 열쇠 잃어버릴 걱정이 없어서 편해요.|Đổi sang khóa số thì không lo mất chìa khóa nữa, tiện lắm.|khóa số=도어락; lo=걱정하다
+3|주말엔 집에서 푹 쉬는 게 최고예요.|Cuối tuần ở nhà nghỉ ngơi là nhất.|là nhất=최고다
+4|집이 좁아서 물건을 살 때마다 어디에 둘지부터 고민하게 돼요.|Nhà chật nên mỗi lần mua đồ là tôi phải nghĩ xem để đâu trước.|chật=좁은; mỗi lần=~할 때마다; để đâu=어디에 둘지
+3|저는 정리 정돈을 잘하는 편이에요.|Tôi là người khá ngăn nắp.|ngăn nắp=정돈된
+4|안 쓰는 물건을 과감히 버렸더니 집이 훨씬 넓어 보여요.|Tôi mạnh dạn bỏ những đồ không dùng nên nhà trông rộng hơn hẳn.|mạnh dạn=과감히; bỏ=버리다; rộng=넓은
+3|이번 달에 집 계약이 끝나요.|Tháng này hợp đồng thuê nhà của tôi hết hạn.|hết hạn=만료되다
+4|계약을 연장하려면 최소 한 달 전에 집주인에게 알려야 해요.|Muốn gia hạn hợp đồng thì phải báo chủ nhà trước ít nhất một tháng.|gia hạn=연장하다; báo=알리다
+3|이사 업체를 알아보고 있어요.|Tôi đang tìm công ty chuyển nhà.|công ty chuyển nhà=이사 업체
+4|이삿날 비가 오는 바람에 짐이 다 젖었어요.|Hôm chuyển nhà trời mưa nên đồ đạc bị ướt hết.|đồ đạc=짐·세간; ướt=젖은
+3|수돗물은 끓여서 마셔야 해요.|Nước máy phải đun sôi mới uống được.|nước máy=수돗물; đun sôi=끓이다
+4|수돗물을 그냥 마시기엔 불안해서 정수기를 달았어요.|Uống nước máy trực tiếp thì không yên tâm nên tôi lắp máy lọc nước.|lắp=설치하다; máy lọc nước=정수기
+3|이 근처에 세탁소 있어요?|Gần đây có tiệm giặt là không?|tiệm giặt là=세탁소(북부)
+4|정전이 자주 돼서 냉장고 음식이 상할까 봐 걱정이에요.|Hay bị mất điện nên tôi sợ đồ ăn trong tủ lạnh bị hỏng.|mất điện=정전되다; sợ=~할까 봐 걱정하다; hỏng=상하다
+3|오늘 저녁엔 집에서 영화나 볼래요.|Tối nay tôi ở nhà xem phim thôi.|xem phim=영화 보다
+4|재택근무는 편하긴 한데 일과 휴식의 경계가 흐려져요.|Làm việc ở nhà thì thoải mái thật, nhưng ranh giới giữa làm và nghỉ bị mờ đi.|ranh giới=경계; mờ đi=흐려지다
+3|화분에 물 주는 걸 깜빡했어요.|Tôi quên tưới cây.|tưới cây=화분에 물 주다
+4|출장 가 있는 동안 옆집에 화분 물을 부탁했어요.|Trong thời gian đi công tác tôi nhờ nhà bên cạnh tưới cây giúp.|nhờ=부탁하다; nhà bên cạnh=옆집
+3|집들이에 초대해 주셔서 감사해요.|Cảm ơn anh đã mời tôi đến tân gia.|tân gia=집들이
+4|베트남에서는 새집에 들어가기 전에 좋은 날을 골라 입주 의식을 해요.|Ở Việt Nam, trước khi vào nhà mới người ta chọn ngày đẹp để làm lễ nhập trạch.|ngày đẹp=길일; lễ nhập trạch=입주 의식
+3|이 집은 햇빛이 잘 들어요.|Nhà này nhiều ánh nắng.|ánh nắng=햇빛
+4|방이 남향이라 겨울에도 따뜻하지만 여름에는 좀 더워요.|Phòng hướng nam nên mùa đông ấm, nhưng mùa hè thì hơi nóng.|hướng nam=남향; ấm=따뜻한
+3|아이 방을 새로 꾸며 줬어요.|Tôi vừa trang trí lại phòng cho con.|trang trí=꾸미다
+4|아이가 클수록 집이 점점 좁게 느껴져요.|Con càng lớn thì nhà càng thấy chật.|lớn=크다|càng A càng B = A할수록 B
+3|하루에 한 번은 환기를 해요.|Mỗi ngày tôi mở cửa cho thoáng một lần.|thoáng=바람이 잘 통하는
+4|집 앞 골목이 좁아서 차를 세울 데가 없어요.|Ngõ trước nhà hẹp nên không có chỗ đỗ ô tô.|đỗ=세우다(북부); ô tô=자동차|남부는 đậu xe
+3|관리비는 어디서 내요?|Phí quản lý nộp ở đâu?|nộp=내다·납부하다
+4|요즘은 앱으로 관리비도 내고 수리 요청도 할 수 있어서 편해요.|Bây giờ có thể nộp phí và yêu cầu sửa chữa qua ứng dụng nên tiện lắm.|yêu cầu=요청하다; sửa chữa=수리; ứng dụng=앱
+3|아침마다 아이 등교시키는 게 제 담당이에요.|Sáng nào đưa con đi học cũng là việc của tôi.|đưa ... đi học=등교시키다
+4|평일엔 바빠서 장은 주말에 한꺼번에 몰아서 봐요.|Ngày thường bận nên tôi dồn đi chợ một lần vào cuối tuần.|dồn=몰아서 하다; một lần=한 번에
+3|집이 너무 조용하니까 오히려 잠이 안 와요.|Nhà yên tĩnh quá nên tôi lại khó ngủ.|lại=오히려
+4|오래된 건물이라 엘리베이터가 자주 고장 나서 늘 계단으로 다녀요.|Tòa nhà cũ nên thang máy hay hỏng, tôi toàn đi thang bộ.|tòa nhà=건물; toàn=늘·온통; thang bộ=계단
+3|오늘 밤은 일찍 자야겠어요.|Tối nay chắc tôi phải ngủ sớm.|ngủ sớm=일찍 자다
+4|집안일을 미루다 보면 결국 주말이 청소로 다 날아가요.|Cứ dồn việc nhà lại thì cuối cùng cả cuối tuần chỉ để dọn dẹp.|cứ=자꾸; dọn dẹp=청소하다
+3|저는 집에서 직접 커피 내려 마시는 걸 좋아해요.|Tôi thích tự pha cà phê ở nhà.|tự pha=직접 내리다
+4|외식을 줄이고 집밥을 먹으니 한 달 생활비가 꽤 줄었어요.|Ăn ngoài ít đi, ăn cơm nhà nhiều hơn nên chi phí sinh hoạt mỗi tháng giảm đáng kể.|cơm nhà=집밥; chi phí sinh hoạt=생활비; đáng kể=꽤
+3|우리 동네엔 밤늦게까지 여는 가게가 많아요.|Khu tôi ở có nhiều quán mở cửa đến khuya.|mở cửa=영업하다
+4|집 근처에 새 지하철역이 생긴 뒤로 집값이 많이 올랐어요.|Từ khi gần nhà có ga tàu điện mới, giá nhà tăng nhiều.|ga tàu điện=전철역; giá nhà=집값

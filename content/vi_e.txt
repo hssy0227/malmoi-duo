@@ -1,0 +1,164 @@
+# 복합문 확장 (요리·취미)
+@cook
+3|먼저 양파는 얇게 썰고 마늘은 곱게 다져 주세요.|Trước tiên thái mỏng hành tây, còn tỏi thì băm nhỏ.|thái=썰다; hành tây=양파; tỏi=마늘; băm=다지다
+3|팬에 기름을 두르고 충분히 달궈지면 고기를 넣으세요.|Cho dầu vào chảo, khi chảo đủ nóng thì cho thịt vào.|dầu=기름; chảo=팬; đủ=충분히; thịt=고기|khi A thì B = A할 때(하면) B
+3|고기가 질겨지지 않도록 센 불에 빨리 볶아야 해요.|Phải xào nhanh trên lửa to để thịt không bị dai.|xào=볶다; lửa to=센 불; dai=질긴|để = ~하도록
+4|국물이 끓기 시작하면 불을 줄이고 거품을 걷어 내세요.|Khi nước dùng bắt đầu sôi thì hạ nhỏ lửa và hớt bọt đi.|sôi=끓다; hạ nhỏ lửa=불을 줄이다; hớt bọt=거품을 걷다
+4|쌀국수 육수는 소뼈를 최소 여섯 시간은 고아야 깊은 맛이 나요.|Nước dùng phở phải ninh xương bò ít nhất sáu tiếng thì mới đậm đà.|ninh=푹 고다; xương bò=소뼈; ít nhất=최소; mới=그래야 비로소|A thì mới B = A해야 비로소 B
+4|생강과 양파를 먼저 구워서 넣으면 육수 향이 훨씬 좋아져요.|Nếu nướng gừng và hành tây trước khi cho vào thì nước dùng thơm hơn nhiều.|nướng=굽다; gừng=생강; thơm=향긋한
+3|간은 느억맘으로 하고 설탕은 아주 조금만 넣어요.|Nêm bằng nước mắm, còn đường thì chỉ cho một chút thôi.|nêm=간하다; đường=설탕
+3|맛을 보고 싱거우면 소금을 조금 더 넣으세요.|Nếm thử, nếu nhạt thì cho thêm chút muối.|nếm=맛보다; nhạt=싱거운; muối=소금
+4|분짜 고기는 숯불에 구워야 특유의 불맛이 나요.|Thịt bún chả phải nướng trên than hoa thì mới có mùi khói đặc trưng.|than hoa=숯; mùi khói=불맛·연기 향; đặc trưng=특유의
+4|굽기 전에 고기를 느억맘, 설탕, 마늘에 최소 한 시간은 재워 두세요.|Trước khi nướng, ướp thịt với nước mắm, đường và tỏi ít nhất một tiếng.|ướp=재우다; trước khi=~하기 전에
+3|찍어 먹는 소스는 느억맘, 식초, 설탕, 물을 1:1:1:4로 섞어요.|Nước chấm pha theo tỉ lệ nước mắm, giấm, đường, nước là một, một, một, bốn.|pha=섞다; tỉ lệ=비율; giấm=식초
+4|넴을 바삭하게 튀기려면 기름을 너무 뜨겁게 하지 말고 두 번 튀기세요.|Muốn nem rán giòn thì đừng để dầu nóng quá và nên rán hai lần.|giòn=바삭한; rán=튀기다(북부); muốn ... thì=~하려면
+3|라이스페이퍼는 물에 살짝만 적셔야 찢어지지 않아요.|Bánh đa nem chỉ nên nhúng nước qua thôi thì mới không bị rách.|bánh đa nem=라이스페이퍼(북부); nhúng=담그다; rách=찢어지다|남부는 bánh tráng
+3|쌀은 씻어서 30분쯤 불려 두면 밥이 더 맛있어요.|Gạo vo sạch rồi ngâm khoảng ba mươi phút thì cơm ngon hơn.|gạo=쌀; vo=(쌀을) 씻다; ngâm=불리다; cơm=밥
+4|냉장고에 있던 재료로 대충 만들었는데 생각보다 맛있게 됐어요.|Tôi nấu đại bằng mấy thứ có trong tủ lạnh mà lại ngon hơn tôi nghĩ.|nấu=요리하다; đại=대충; tủ lạnh=냉장고; mà lại=그런데도
+3|요리하는 건 좋아하지만 설거지는 정말 싫어요.|Tôi thích nấu ăn nhưng rất ghét rửa bát.|nấu ăn=요리하다; ghét=싫어하다; rửa bát=설거지하다(북부)|남부는 rửa chén
+4|이 레시피는 간단해서 바쁜 평일 저녁에 만들기 딱 좋아요.|Công thức này đơn giản nên rất hợp để nấu vào buổi tối ngày thường bận rộn.|công thức=레시피; đơn giản=간단한; ngày thường=평일; bận rộn=바쁜
+3|채소는 마지막에 넣어야 아삭한 식감이 살아요.|Rau phải cho vào sau cùng thì mới giữ được độ giòn.|rau=채소; sau cùng=마지막에; giữ=유지하다
+4|생선 비린내를 없애려면 생강이나 레몬그라스를 같이 넣으세요.|Muốn khử mùi tanh của cá thì cho thêm gừng hoặc sả.|khử=없애다; tanh=비린; cá=생선; sả=레몬그라스
+3|돼지고기는 속까지 완전히 익혀야 해요.|Thịt lợn phải nấu chín kỹ đến tận bên trong.|thịt lợn=돼지고기(북부); chín=익은; kỹ=꼼꼼히|남부는 thịt heo
+4|밥이 남으면 다음 날 달걀을 넣고 볶음밥을 만들면 돼요.|Nếu thừa cơm thì hôm sau làm cơm rang với trứng là được.|thừa=남다; cơm rang=볶음밥(북부); trứng=달걀|남부는 cơm chiên
+3|이 소스는 냉장 보관하면 일주일쯤 먹을 수 있어요.|Nước sốt này để tủ lạnh thì dùng được khoảng một tuần.|nước sốt=소스; dùng=먹다·쓰다
+4|어머니께 배운 대로 했는데 아무리 해도 그 맛이 안 나요.|Tôi làm theo cách mẹ dạy mà làm thế nào cũng không ra được hương vị đó.|theo=~대로; dạy=가르치다; làm thế nào cũng=아무리 해도; hương vị=맛
+3|오늘 저녁은 제가 한국 음식을 해 드릴게요.|Tối nay để tôi nấu món Hàn cho mọi người ăn.|để tôi=제가 ~할게요; món Hàn=한국 음식
+4|김치찌개는 잘 익은 김치를 써야 깊은 맛이 나요.|Canh kim chi phải dùng kim chi chua thì mới đậm vị.|canh=국·찌개; chua=신(잘 익은); đậm vị=맛이 진한
+3|불을 끄고 뚜껑을 덮은 채로 5분 뜸 들이세요.|Tắt bếp rồi đậy nắp để ủ thêm năm phút.|tắt bếp=불을 끄다; đậy nắp=뚜껑을 덮다; ủ=뜸 들이다
+4|고수를 못 먹는 사람도 있으니까 따로 담아 두는 게 좋아요.|Có người không ăn được rau mùi nên để riêng ra thì hơn.|để riêng=따로 두다; thì hơn=~하는 게 낫다
+3|이 요리는 보기와 달리 손이 많이 가요.|Món này trông vậy thôi chứ tốn công lắm.|trông vậy thôi chứ=보기엔 그래도; tốn công=손이 많이 가다
+4|재료 준비만 미리 해 두면 조리는 15분이면 끝나요.|Chỉ cần chuẩn bị nguyên liệu trước thì nấu chỉ mất mười lăm phút.|chuẩn bị=준비하다; nguyên liệu=재료; chỉ cần ... thì=~만 하면
+3|반죽이 너무 되면 물을 조금씩 넣어 가며 저으세요.|Nếu bột đặc quá thì vừa cho thêm nước từng chút vừa khuấy.|bột=반죽·가루; đặc=된; vừa ... vừa=~하면서 ~하다; khuấy=젓다
+4|반미는 겉은 바삭하고 속은 부드러워야 제맛이에요.|Bánh mì phải giòn bên ngoài, mềm bên trong thì mới đúng vị.|bánh mì=반미(빵); mềm=부드러운; đúng vị=제맛
+3|오븐을 180도로 예열해 두세요.|Làm nóng lò nướng trước ở một trăm tám mươi độ.|làm nóng=예열하다; lò nướng=오븐; độ=도
+4|케이크가 다 익었는지 알고 싶으면 이쑤시개로 찔러 보세요.|Muốn biết bánh chín chưa thì lấy tăm xiên thử.|chín=다 익은; tăm=이쑤시개; xiên=찌르다
+3|저는 매운 걸 좋아해서 항상 고추를 더 넣어요.|Tôi thích ăn cay nên lúc nào cũng cho thêm ớt.|ăn cay=매운 것을 먹다; lúc nào cũng=항상
+4|에그 커피는 노른자에 연유를 넣고 거품이 날 때까지 저어야 해요.|Cà phê trứng phải đánh lòng đỏ với sữa đặc cho đến khi nổi bọt.|đánh=휘젓다; lòng đỏ=노른자; sữa đặc=연유; cho đến khi=~할 때까지
+3|베트남 커피는 핀으로 한 방울씩 천천히 내려요.|Cà phê Việt Nam được pha bằng phin, nhỏ giọt từ từ.|pha=타다·내리다; phin=베트남식 커피 필터; nhỏ giọt=한 방울씩 떨어지다
+4|장은 아침 일찍 봐야 신선한 걸 살 수 있어요.|Đi chợ thì phải đi sáng sớm mới mua được đồ tươi.|đi chợ=장 보다; tươi=신선한
+3|이 채소는 이름이 뭐고 어떻게 먹어요?|Rau này tên là gì và ăn như thế nào?|như thế nào=어떻게
+4|베트남 사람들은 거의 모든 음식에 생채소를 곁들여 먹어요.|Người Việt ăn kèm rau sống với hầu hết các món.|ăn kèm=곁들여 먹다; rau sống=생채소; hầu hết=거의 모든
+3|남은 음식은 밀폐 용기에 담아 두세요.|Đồ ăn thừa thì cho vào hộp kín.|đồ ăn thừa=남은 음식; hộp kín=밀폐 용기
+4|요리 실력이 늘수록 외식은 줄었어요.|Càng nấu ăn giỏi thì tôi càng ít đi ăn ngoài.|càng ... càng=~할수록 더; giỏi=잘하는; ăn ngoài=외식하다
+3|오늘은 귀찮아서 그냥 라면이나 끓여 먹을래요.|Hôm nay lười quá nên tôi nấu mì tôm ăn tạm.|lười=귀찮은·게으른; mì tôm=라면(북부); ăn tạm=대충 때우다|남부는 mì gói
+4|건강을 생각해서 튀긴 음식 대신 찐 음식을 먹으려고 해요.|Vì sức khỏe nên tôi cố ăn đồ hấp thay vì đồ chiên rán.|hấp=찌다; thay vì=~ 대신; chiên rán=튀기다|vì A nên B = A 때문에 B
+3|고기를 한입 크기로 잘라 주세요.|Cắt thịt thành miếng vừa ăn.|cắt=자르다; miếng=조각; vừa ăn=한입 크기
+4|소스가 너무 묽으면 전분물을 넣어 걸쭉하게 만드세요.|Nếu nước sốt loãng quá thì cho chút bột năng hòa nước cho sánh lại.|loãng=묽은; bột năng=전분; sánh=걸쭉한
+3|이 요리에는 어떤 와인이 어울릴까요?|Món này hợp với loại rượu vang nào?|hợp với=~와 어울리다; loại=종류
+4|해산물 요리에는 보통 산도가 높은 화이트 와인이 잘 어울려요.|Món hải sản thường hợp với vang trắng có độ chua cao.|vang trắng=화이트 와인; độ chua=산도
+3|음악을 들으면서 요리하면 기분이 좋아져요.|Vừa nấu ăn vừa nghe nhạc thì thấy vui hơn.|vừa ... vừa=~하면서; nghe nhạc=음악 듣다
+4|처음 만든 반쎄오는 다 찢어졌지만 맛은 괜찮았어요.|Lần đầu làm bánh xèo bị rách hết nhưng vị thì vẫn ổn.|bánh xèo=반쎄오(베트남식 부침개); vị=맛; ổn=괜찮은
+3|팬에 기름을 얇게 펴 발라 주세요.|Quét một lớp dầu mỏng lên chảo.|quét=바르다; lớp=층
+4|짜게 됐으면 물을 더 붓거나 감자를 넣어 간을 맞추면 돼요.|Nếu bị mặn thì đổ thêm nước hoặc cho khoai tây vào để chỉnh lại vị.|đổ=붓다; khoai tây=감자; chỉnh=조정하다
+3|이건 할머니가 자주 해 주시던 음식이에요.|Đây là món bà tôi hay nấu cho tôi ăn.|bà=할머니; hay=자주
+4|설에는 온 가족이 모여 반쯩을 싸고 밤새 솥을 지켜요.|Ngày Tết cả nhà quây quần gói bánh chưng rồi thức canh nồi bánh.|quây quần=모이다; gói=싸다; bánh chưng=반쯩(설 떡); canh=지키다
+3|요리 수업을 들어 보고 싶어요.|Tôi muốn tham gia một lớp học nấu ăn.|tham gia=참가하다; lớp học=수업
+4|하노이 쿠킹 클래스는 장보기부터 시작해서 직접 요리하고 맛보는 것까지 해요.|Lớp nấu ăn ở Hà Nội bắt đầu từ đi chợ, rồi tự tay nấu và thưởng thức.|tự tay=직접; thưởng thức=맛보다·즐기다
+3|칼이 무뎌서 토마토가 잘 안 썰려요.|Dao cùn quá nên thái cà chua không được.|dao=칼; cùn=무딘; cà chua=토마토
+4|양념이 고기에 골고루 배도록 칼집을 내 주세요.|Khứa vài đường lên thịt để gia vị ngấm đều.|khứa=칼집 내다; gia vị=양념; ngấm=배다; đều=골고루
+3|이건 데우기만 하면 바로 먹을 수 있어요.|Món này chỉ cần hâm nóng là ăn được ngay.|hâm nóng=데우다; ngay=바로
+4|전자레인지에 돌릴 때는 랩을 씌워야 수분이 날아가지 않아요.|Khi quay lò vi sóng phải bọc màng bọc để không bị mất nước.|lò vi sóng=전자레인지; màng bọc=랩
+3|면을 너무 오래 삶으면 불어요.|Đừng luộc mì lâu quá, sẽ bị nở.|luộc=삶다; nở=불다
+4|삶은 면을 바로 찬물에 헹궈야 쫄깃해요.|Mì luộc xong phải xả ngay qua nước lạnh thì mới dai.|xả=헹구다; nước lạnh=찬물; dai=쫄깃한
+3|좋은 냄새가 나네요, 뭐 만들어요?|Thơm quá, anh đang nấu gì thế?|thơm=좋은 냄새의; thế=(의문 어기, 북부)
+4|요즘 건강 때문에 싱겁게 먹고 있어서 간을 약하게 해요.|Dạo này vì sức khỏe tôi ăn nhạt nên nêm nhẹ tay thôi.|ăn nhạt=싱겁게 먹다; nêm nhẹ tay=간을 약하게 하다
+3|디저트로 망고 푸딩을 만들어 봤어요.|Tôi thử làm pudding xoài để tráng miệng.|xoài=망고; tráng miệng=디저트로 먹다
+4|과일은 꼭지가 싱싱하고 들었을 때 묵직한 걸 고르세요.|Khi chọn hoa quả thì chọn quả cuống còn tươi và cầm nặng tay.|hoa quả=과일(북부); cuống=꼭지; nặng tay=묵직한|남부는 trái cây
+3|이 음식은 차갑게 먹어야 더 맛있어요.|Món này ăn lạnh mới ngon.|lạnh=차가운
+4|레시피에는 30분이라고 되어 있는데 실제로는 한 시간 넘게 걸렸어요.|Công thức ghi là ba mươi phút nhưng thực tế mất hơn một tiếng.|ghi=적혀 있다; thực tế=실제로
+3|재료가 하나 없는데 다른 걸로 대신해도 될까요?|Thiếu một nguyên liệu, tôi dùng cái khác thay được không?|thiếu=부족하다; thay=대신하다
+4|쌀국수에 라임과 칠리소스를 넣는 건 남부식이고, 북부에서는 마늘 식초를 넣어요.|Vắt chanh và cho tương ớt vào phở là kiểu miền Nam, còn ngoài Bắc thì hay cho giấm tỏi.|tương ớt=칠리소스; kiểu=방식; miền Nam=남부; ngoài Bắc=북부
+3|아침은 보통 빵이랑 커피로 간단하게 먹어요.|Bữa sáng tôi thường ăn đơn giản, bánh mì với cà phê.|bữa sáng=아침 식사; đơn giản=간단히
+4|도시락을 싸 가면 점심값도 아끼고 건강에도 좋아요.|Mang cơm hộp đi làm vừa tiết kiệm tiền ăn trưa vừa tốt cho sức khỏe.|cơm hộp=도시락; tiết kiệm=아끼다|vừa A vừa B = A하기도 하고 B하기도 하다
+3|이 칼은 고기용이고 저건 채소용이에요.|Con dao này để thái thịt, còn con kia để thái rau.|con dao=칼; để=~용으로
+4|도마를 따로 쓰지 않으면 날고기의 세균이 채소로 옮을 수 있어요.|Nếu không dùng thớt riêng thì vi khuẩn từ thịt sống có thể lây sang rau.|thớt=도마; vi khuẩn=세균; thịt sống=날고기; lây=옮다
+3|오늘 장 본 게 다 합쳐서 30만 동 나왔어요.|Hôm nay đi chợ hết tổng cộng ba trăm nghìn.|tổng cộng=합계
+4|베트남 요리는 단맛, 짠맛, 신맛, 매운맛의 균형이 특징이에요.|Đặc trưng của món Việt là sự cân bằng giữa ngọt, mặn, chua và cay.|đặc trưng=특징; cân bằng=균형; chua=신
+3|오늘 저녁 뭐 먹을까요?|Tối nay mình ăn gì nhỉ?|nhỉ=~할까?(의견 구하기)
+4|배달시킬까 하다가 집에 있는 걸로 해 먹기로 했어요.|Định gọi đồ ăn về nhưng rồi tôi quyết định tự nấu bằng đồ có sẵn.|định=~하려고 하다; gọi đồ ăn=배달시키다; có sẵn=이미 있는
+3|정말 맛있어요, 레시피 좀 알려 주세요.|Ngon quá, chỉ cho tôi công thức với.|chỉ=알려 주다; với=~ 좀
+4|손님이 오기 전에 음식을 미리 만들어 두면 훨씬 여유로워요.|Làm sẵn đồ ăn trước khi khách đến thì sẽ thong thả hơn nhiều.|làm sẵn=미리 만들다; thong thả=여유로운
+3|다음엔 같이 시장에 가서 재료를 골라 봐요.|Lần sau mình cùng đi chợ chọn nguyên liệu nhé.|chọn=고르다
+
+@hobby
+3|주말마다 친구들과 사회인 야구를 하는데 요즘은 투수를 맡고 있어요.|Cuối tuần nào tôi cũng chơi bóng chày nghiệp dư với bạn bè, dạo này tôi đứng ở vị trí ném bóng.|nghiệp dư=아마추어; vị trí=포지션; ném bóng=공을 던지다
+4|공을 빠르게 던지려면 팔 힘만이 아니라 하체를 잘 써야 해요.|Muốn ném bóng nhanh thì phải biết dùng phần thân dưới chứ không chỉ sức tay.|thân dưới=하체; chứ không chỉ=~만이 아니라; sức tay=팔 힘
+3|어깨가 아파서 이번 주는 쉬기로 했어요.|Vì đau vai nên tuần này tôi quyết định nghỉ.|vai=어깨; quyết định=결정하다
+4|운동 전에 준비 운동을 충분히 하지 않으면 다치기 쉬워요.|Nếu không khởi động kỹ trước khi tập thì dễ bị chấn thương.|khởi động=준비 운동하다; dễ=~하기 쉬운; chấn thương=부상
+3|요즘 매일 아침 호수 주변을 달려요.|Dạo này sáng nào tôi cũng chạy bộ quanh hồ.|chạy bộ=달리기하다
+4|처음엔 3km도 힘들었는데 지금은 10km를 쉬지 않고 달려요.|Lúc đầu chạy ba cây số đã mệt, giờ tôi chạy mười cây số không nghỉ.|cây số=킬로미터(구어); không nghỉ=쉬지 않고
+3|헬스장에 등록했는데 바빠서 거의 못 갔어요.|Tôi đã đăng ký phòng gym nhưng bận quá nên hầu như không đi.|đăng ký=등록하다; hầu như không=거의 ~않다
+4|운동은 혼자 하는 것보다 친구랑 같이 하면 더 꾸준히 할 수 있어요.|Tập thể dục cùng bạn thì dễ duy trì hơn là tập một mình.|duy trì=유지하다; hơn là=~보다
+3|골프를 배운 지 1년 됐는데 아직 100타를 못 깨요.|Tôi học golf được một năm rồi mà vẫn chưa phá được một trăm gậy.|phá=깨다; gậy=타(골프)
+4|베트남에서는 골프가 비즈니스 교류 수단으로 많이 쓰여요.|Ở Việt Nam, golf được dùng nhiều như một cách để giao lưu làm ăn.|giao lưu=교류하다; làm ăn=사업하다
+3|수영은 어렸을 때 배웠는데 지금은 거의 잊어버렸어요.|Tôi học bơi từ hồi nhỏ nhưng giờ quên gần hết rồi.|bơi=수영하다; quên=잊다
+4|와인을 공부하고 나서야 같은 품종이라도 산지에 따라 맛이 다르다는 걸 알았어요.|Từ khi học về rượu vang, tôi mới biết cùng một giống nho nhưng vùng trồng khác thì vị cũng khác.|giống nho=포도 품종; vùng trồng=산지
+3|이 와인은 과일 향이 풍부하고 여운이 길어요.|Chai vang này nhiều hương trái cây và hậu vị kéo dài.|hương=향; hậu vị=여운·끝맛; kéo dài=오래 지속되다
+4|마시기 30분 전에 병을 열어 두면 향이 훨씬 살아나요.|Mở chai trước khoảng ba mươi phút thì hương vang sẽ dậy lên rõ hơn.|mở chai=병을 따다; dậy lên=살아나다
+3|요즘 사진 찍는 재미에 빠졌어요.|Dạo này tôi mê chụp ảnh.|mê=빠지다
+4|휴대폰으로 찍어도 빛만 잘 활용하면 꽤 괜찮은 사진이 나와요.|Chụp bằng điện thoại thôi nhưng nếu tận dụng ánh sáng tốt thì ảnh vẫn đẹp.|tận dụng=활용하다; ánh sáng=빛
+3|기타를 배우고 있는데 손가락이 너무 아파요.|Tôi đang học đàn ghi-ta mà ngón tay đau quá.|đàn ghi-ta=기타; ngón tay=손가락
+4|악기는 매일 조금씩 연습하는 게 일주일에 한 번 몰아서 하는 것보다 효과적이에요.|Tập nhạc cụ mỗi ngày một chút hiệu quả hơn là dồn vào một buổi mỗi tuần.|nhạc cụ=악기; hiệu quả=효과적인; dồn=몰아서 하다
+3|책 읽는 걸 좋아해서 출퇴근길에 주로 읽어요.|Tôi thích đọc sách nên thường đọc trong lúc đi làm và về nhà.|đọc sách=독서하다; trong lúc=~하는 동안
+4|요즘은 종이책보다 전자책을 많이 읽지만 가끔 종이 냄새가 그리워요.|Dạo này tôi đọc sách điện tử nhiều hơn sách giấy, nhưng đôi khi vẫn nhớ mùi giấy.|sách điện tử=전자책; đôi khi=가끔; nhớ=그리워하다
+3|등산을 좋아해서 한 달에 한 번은 산에 가요.|Tôi thích leo núi nên mỗi tháng đi ít nhất một lần.|leo núi=등산하다
+4|판시판 정상에 오르자 눈앞에 운해가 펼쳐져서 정말 감동적이었어요.|Khi lên đến đỉnh Phan Xi Păng, biển mây trải ra trước mắt, thật là xúc động.|đỉnh=정상; biển mây=운해; trải ra=펼쳐지다; xúc động=감동적인
+3|캠핑 가고 싶은데 장비가 하나도 없어요.|Tôi muốn đi cắm trại nhưng chẳng có đồ nghề gì cả.|cắm trại=캠핑하다; đồ nghề=장비
+4|장비를 다 사기보다는 처음엔 빌려서 해 보는 게 나아요.|Thay vì mua hết đồ, lúc đầu nên thuê thử trước thì hơn.|thay vì=~ 대신; thuê=빌리다
+3|축구는 보는 것만 좋아하고 직접 하는 건 잘 못해요.|Tôi chỉ thích xem bóng đá chứ tự chơi thì không giỏi.|chứ=~이지(대조); tự chơi=직접 하다
+4|어제 경기는 연장전까지 갔다가 결국 승부차기로 이겼어요.|Trận hôm qua kéo dài sang hiệp phụ và cuối cùng thắng trên chấm phạt đền.|trận=경기; hiệp phụ=연장전; chấm phạt đền=승부차기
+3|어느 팀 응원하세요?|Anh cổ vũ đội nào?|cổ vũ=응원하다; đội=팀
+4|베트남 대표팀이 이기기만 하면 사람들이 국기를 들고 거리로 쏟아져 나와요.|Hễ đội tuyển Việt Nam thắng là mọi người cầm cờ đổ ra đường.|hễ ... là=~하기만 하면; đội tuyển=대표팀; cờ=국기
+3|요즘 피클볼이 엄청 유행이래요.|Nghe nói dạo này pickleball đang rất thịnh hành.|thịnh hành=유행하다
+4|배드민턴은 쉬워 보이지만 막상 해 보면 운동량이 엄청나요.|Cầu lông trông có vẻ dễ nhưng chơi thật mới thấy rất tốn sức.|cầu lông=배드민턴; trông có vẻ=~해 보이다; tốn sức=힘이 많이 들다
+3|요가를 시작한 뒤로 허리 통증이 많이 줄었어요.|Từ khi tập yoga, tôi đỡ đau lưng nhiều.|đỡ=나아지다; đau lưng=허리 통증
+4|명상을 하면 머리가 맑아지고 잡생각이 줄어드는 것 같아요.|Ngồi thiền giúp đầu óc minh mẫn và bớt suy nghĩ lung tung.|ngồi thiền=명상하다; minh mẫn=맑은; lung tung=어지러운
+3|그림을 잘 그리진 못하지만 그리는 건 좋아해요.|Tôi vẽ không đẹp nhưng rất thích vẽ.|vẽ=그리다
+4|취미로 시작했다가 부업으로 만든 사람들이 꽤 많아요.|Có khá nhiều người bắt đầu từ sở thích rồi biến nó thành nghề tay trái.|biến ... thành=~을 ~로 바꾸다; nghề tay trái=부업
+3|퇴근 후에 게임을 한두 시간 하면 스트레스가 풀려요.|Sau giờ làm, chơi game một hai tiếng là tôi xả được căng thẳng.|xả=풀다; căng thẳng=스트레스
+4|게임을 너무 오래 했더니 손목이 아프기 시작했어요.|Chơi game lâu quá nên cổ tay tôi bắt đầu đau.|cổ tay=손목
+3|낚시는 기다림의 예술이라고들 하죠.|Người ta nói câu cá là nghệ thuật của sự chờ đợi.|câu cá=낚시하다; nghệ thuật=예술; chờ đợi=기다림
+4|하루 종일 앉아 있었는데 한 마리도 못 잡았지만 그래도 즐거웠어요.|Ngồi cả ngày mà chẳng câu được con nào, nhưng vẫn vui.|con=마리
+3|요즘은 정원 가꾸기가 제 힐링이에요.|Chăm vườn là cách tôi thư giãn dạo này.|chăm vườn=정원을 가꾸다; thư giãn=휴식하다
+4|토마토를 직접 키워 먹으니 사 먹는 것보다 훨씬 달아요.|Tự trồng cà chua ăn thì ngọt hơn hẳn mua ngoài chợ.|tự trồng=직접 키우다; hẳn=확연히
+3|요즘 커피 내리는 걸 배우고 있어요.|Dạo này tôi đang học pha cà phê.|pha cà phê=커피를 내리다
+4|원두를 어떻게 볶느냐에 따라 같은 커피도 맛이 완전히 달라져요.|Tùy cách rang hạt mà cùng một loại cà phê lại có vị hoàn toàn khác.|tùy=~에 따라; rang=볶다; hạt=원두·씨앗
+3|주말엔 아이들과 자전거를 타요.|Cuối tuần tôi đạp xe cùng các con.|đạp xe=자전거 타다
+4|자전거 도로만 잘 되어 있으면 출퇴근도 자전거로 하고 싶어요.|Nếu đường dành cho xe đạp tốt thì tôi cũng muốn đạp xe đi làm.|dành cho=~를 위한; xe đạp=자전거
+3|노래방 자주 가세요?|Anh có hay đi hát karaoke không?|đi hát=노래하러 가다
+4|베트남 사람들은 회식이 끝나면 노래방 가는 걸 정말 좋아해요.|Người Việt rất thích đi hát karaoke sau mỗi bữa liên hoan.|liên hoan=회식·파티
+3|춤은 못 추지만 보는 건 좋아해요.|Tôi không biết nhảy nhưng thích xem.|nhảy=춤추다
+4|배운 지 석 달밖에 안 됐는데 벌써 공연을 하게 됐어요.|Mới học được ba tháng mà tôi đã được biểu diễn rồi.|mới=겨우; biểu diễn=공연하다
+3|체스 둘 줄 알아요?|Anh có biết chơi cờ vua không?|cờ vua=체스
+4|바둑은 규칙은 간단한데 수가 무궁무진해서 평생 배워도 끝이 없어요.|Cờ vây luật thì đơn giản nhưng nước đi vô cùng nên học cả đời cũng không hết.|cờ vây=바둑; luật=규칙; nước đi=수; vô cùng=무궁무진한
+3|어릴 때는 우표를 모았어요.|Hồi nhỏ tôi sưu tầm tem.|sưu tầm=수집하다; tem=우표
+4|레고는 아이들 취미인 줄 알았는데 알고 보니 어른 수집가가 더 많대요.|Tôi cứ tưởng chơi Lego là sở thích của trẻ con, hóa ra người lớn sưu tầm còn nhiều hơn.|cứ tưởng=~인 줄 알았다; hóa ra=알고 보니; trẻ con=아이
+3|영화 보는 걸 좋아하는데 특히 공포 영화를 좋아해요.|Tôi thích xem phim, đặc biệt là phim kinh dị.|đặc biệt là=특히; phim kinh dị=공포 영화
+4|그 영화는 원작 소설만큼은 아니었지만 영상미는 훌륭했어요.|Bộ phim đó không hay bằng tiểu thuyết gốc nhưng hình ảnh thì tuyệt đẹp.|không ... bằng=~만큼 ~하지 않다; tiểu thuyết gốc=원작 소설
+3|요즘 넷플릭스에 볼 만한 거 있어요?|Dạo này trên Netflix có gì hay không?|hay=재미있는
+4|드라마 정주행하느라 밤을 새웠더니 오늘 하루 종일 졸려요.|Thức trắng đêm cày phim nên hôm nay tôi buồn ngủ cả ngày.|thức trắng đêm=밤을 새우다; cày phim=드라마를 몰아 보다(구어)
+3|저는 혼자 여행하는 걸 즐겨요.|Tôi thích đi du lịch một mình.|một mình=혼자
+4|혼자 여행하면 외로울 때도 있지만 현지 사람들과 이야기할 기회가 더 많아요.|Đi một mình đôi lúc cô đơn nhưng lại có nhiều cơ hội nói chuyện với người địa phương hơn.|cô đơn=외로운; cơ hội=기회
+3|주말에 뭐 해요? 저랑 테니스 칠래요?|Cuối tuần anh định làm gì? Đi đánh tennis với tôi không?|định=~할 예정이다; đánh tennis=테니스 치다
+4|테니스를 레슨 없이 독학하면 잘못된 자세가 굳기 쉬워요.|Nếu tự học tennis mà không có thầy thì dễ bị quen tư thế sai.|tự học=독학하다; tư thế=자세; sai=틀린
+3|뜨개질로 목도리를 만들어 봤어요.|Tôi đã thử đan một chiếc khăn quàng cổ.|đan=뜨개질하다; khăn quàng cổ=목도리
+4|손으로 뭔가를 만들다 보면 시간 가는 줄 몰라요.|Làm đồ thủ công thì quên cả thời gian.|đồ thủ công=수공예; quên cả=~마저 잊다
+3|요즘 살을 빼려고 열심히 운동해요.|Dạo này tôi tập thể dục chăm chỉ để giảm cân.|chăm chỉ=열심히; giảm cân=살을 빼다
+4|운동만 하고 식단 조절을 안 하면 살이 잘 안 빠져요.|Chỉ tập mà không ăn kiêng thì khó giảm cân lắm.|ăn kiêng=식단을 조절하다
+3|마라톤 대회에 처음 나가 봤어요.|Lần đầu tôi tham gia giải chạy marathon.|giải=대회
+4|완주는 했지만 다음 날 다리가 너무 아파서 계단을 못 내려갔어요.|Tôi chạy về đích được nhưng hôm sau chân đau đến mức không xuống cầu thang nổi.|về đích=결승선에 들어오다; cầu thang=계단; nổi=~해 낼 수 있다
+3|저는 아침보다 저녁 운동이 더 잘 맞아요.|Tôi tập buổi tối thì hợp hơn buổi sáng.|hợp=맞다
+4|꾸준히 운동하면서 체력뿐 아니라 자신감도 많이 생겼어요.|Nhờ tập luyện đều đặn mà tôi không chỉ khỏe hơn mà còn tự tin hơn.|đều đặn=꾸준히; không chỉ ... mà còn=~뿐만 아니라 ~도; tự tin=자신 있는
+3|이번 주말에 동호회 모임이 있어요.|Cuối tuần này tôi có buổi gặp mặt câu lạc bộ.|câu lạc bộ=동호회; buổi gặp mặt=모임
+4|같은 취미를 가진 사람들은 처음 만나도 금방 친해져요.|Những người có chung sở thích thì gặp lần đầu cũng nhanh thân.|chung=공통의; thân=친해지다
+3|요즘 퍼즐 맞추기에 빠졌어요.|Dạo này tôi nghiện ghép hình.|nghiện=중독되다·빠지다; ghép hình=퍼즐 맞추기
+4|천 조각짜리 퍼즐을 일주일 만에 다 맞췄어요.|Tôi ghép xong bộ xếp hình một nghìn mảnh chỉ trong một tuần.|bộ xếp hình=퍼즐 세트; mảnh=조각
+3|노래를 잘하고 싶어서 보컬 레슨을 받고 있어요.|Tôi muốn hát hay nên đang học thanh nhạc.|hát hay=노래를 잘하다; thanh nhạc=보컬·성악
+4|자기만의 취미가 있으면 일이 힘들 때도 버틸 힘이 생겨요.|Có sở thích riêng thì khi công việc vất vả mình cũng có động lực để vượt qua.|riêng=자기만의; động lực=원동력; vượt qua=이겨 내다
+3|요즘 스쿠버다이빙 자격증을 따려고 준비하고 있어요.|Dạo này tôi đang chuẩn bị lấy chứng chỉ lặn biển.|lấy chứng chỉ=자격증을 따다; lặn biển=스쿠버다이빙
+4|냐짱 바다는 물이 맑아서 다이빙하기 정말 좋아요.|Biển Nha Trang nước trong nên lặn rất thích.|trong=맑은
+3|어렸을 때부터 태권도를 했어요.|Tôi tập taekwondo từ hồi nhỏ.|tập=수련하다·연습하다
+4|베트남에서도 태권도가 인기가 많아서 곳곳에 도장이 있어요.|Taekwondo ở Việt Nam cũng rất được ưa chuộng nên chỗ nào cũng có võ đường.|được ưa chuộng=인기 있는; võ đường=도장
+3|저는 활동적인 취미보다 조용한 취미가 좋아요.|Tôi thích những sở thích yên tĩnh hơn là vận động nhiều.|yên tĩnh=조용한; vận động=움직이다
+4|은퇴하면 그동안 못 해 본 취미를 하나씩 해 보고 싶어요.|Khi nghỉ hưu tôi muốn lần lượt thử những sở thích mà trước giờ chưa có dịp làm.|lần lượt=차례로; trước giờ=그동안; dịp=기회
