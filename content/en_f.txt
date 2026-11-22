@@ -1,0 +1,121 @@
+# 토익 상황별 문장 (Lv3~4)
+@work
+3|분기 보고서 초안을 검토해 주시겠어요?|Could you review the draft of the quarterly report?|review=검토하다; draft=초안
+3|발표 자료는 회의 전에 배포될 예정입니다.|The presentation materials will be distributed before the meeting.|distribute=배포하다
+3|회의실이 다른 팀에 의해 이중 예약됐습니다.|The conference room was double-booked by another team.|double-book=이중 예약하다
+3|그 업무는 신입 사원에게 배정됐습니다.|The task was assigned to a new employee.|assign=배정하다
+3|교대 근무 일정이 게시판에 올라와 있습니다.|The shift schedule is posted on the bulletin board.|shift=교대 근무; bulletin board=게시판
+3|저 대신 고객 미팅에 참석해 주실 수 있나요?|Could you attend the client meeting on my behalf?|on one's behalf=~를 대신하여
+3|연차 휴가를 신청하려면 양식을 작성해야 합니다.|You need to fill out a form to request annual leave.|fill out=작성하다; annual leave=연차 휴가
+3|그는 지금 출장 중이라 다음 주에 돌아옵니다.|He is away on a business trip and will be back next week.|business trip=출장
+3|보고서 마감이 내일 정오로 앞당겨졌습니다.|The report deadline has been moved up to noon tomorrow.|deadline=마감
+3|복사기에 용지가 걸려서 수리 기사를 불렀어요.|The copier is jammed, so I called a technician.|jammed=(종이가) 걸린; copier=복사기
+3|새 직원 교육은 인사팀이 담당합니다.|The HR team is in charge of training new staff.|in charge of=~을 담당하는
+3|이 건은 팀장님 승인이 필요합니다.|This needs approval from the team leader.|approval=승인
+3|회의록을 모든 참석자에게 보내 주세요.|Please send the minutes to all attendees.|minutes=회의록; attendee=참석자
+3|그 프로젝트는 예산 범위 내에서 완료됐습니다.|The project was completed within budget.|within budget=예산 내에서
+4|인력이 부족해서 일부 업무를 외주로 돌렸습니다.|We were short-staffed, so we outsourced some of the work.|short-staffed=일손이 부족한; outsource=외주를 주다
+4|업무량이 너무 많아 우선순위를 다시 정해야 합니다.|The workload is so heavy that we need to reprioritize.|workload=업무량; reprioritize=우선순위를 재조정하다
+4|그는 동료들 사이에서 신망이 두텁습니다.|He is well respected among his colleagues.|colleague=동료
+4|직원 만족도 조사가 이번 주에 실시됩니다.|An employee satisfaction survey will be conducted this week.|conduct=실시하다
+4|업무 인수인계는 금요일까지 마무리해 주세요.|Please complete the handover by Friday.|handover=인수인계
+4|재택근무 정책이 다음 달부터 바뀝니다.|The remote work policy will change starting next month.|remote work=재택근무
+@biz
+3|견적서를 이메일로 보내 드리겠습니다.|I'll send you a quote by email.|quote=견적(서)
+3|대량 주문 시 할인이 가능한가요?|Is a discount available for bulk orders?|bulk order=대량 주문
+3|계약서에 서명하기 전에 조건을 다시 확인하고 싶습니다.|I'd like to go over the terms before signing the contract.|go over=검토하다; terms=조건
+3|저희 제품 샘플을 무료로 보내 드릴 수 있습니다.|We can send you free samples of our products.|sample=견본
+3|대금은 송장 수령 후 30일 이내에 지급됩니다.|Payment is due within thirty days of receipt of the invoice.|invoice=송장·청구서; due=지급 기일이 된
+3|배송 지연으로 위약금이 발생할 수 있습니다.|Delivery delays may result in a penalty.|result in=~을 초래하다; penalty=위약금
+3|그 거래처와 오랫동안 좋은 관계를 유지해 왔습니다.|We have maintained a good relationship with that client for years.|client=고객·거래처
+4|저희는 경쟁력 있는 가격을 제시할 수 있습니다.|We can offer you a competitive price.|competitive=경쟁력 있는
+4|최소 주문 수량은 500개입니다.|The minimum order quantity is five hundred units.|quantity=수량; unit=개·단위
+4|양측이 납품 일정에 합의했습니다.|Both sides have agreed on the delivery schedule.|delivery=납품·배송
+4|그 공급업체는 납기를 자주 어깁니다.|That supplier frequently misses delivery dates.|frequently=자주; miss=놓치다
+4|저희는 독점 판매권을 얻고자 합니다.|We would like to obtain exclusive distribution rights.|obtain=얻다; distribution rights=판매권
+4|가격 인상은 원자재 비용 상승 때문입니다.|The price increase is due to rising raw material costs.|raw material=원자재
+4|협상 결과는 양측 모두에게 만족스러웠습니다.|The outcome of the negotiation satisfied both parties.|outcome=결과; party=당사자
+4|이번 분기 매출 목표를 15% 초과 달성했습니다.|We surpassed this quarter's sales target by fifteen percent.|surpass=능가하다; target=목표
+4|그 회사는 우리의 주요 협력사 중 하나입니다.|The company is one of our key partners.|key=핵심의
+@phone
+3|메시지를 전해 드릴까요?|May I take a message for him?|take a message=메시지를 받아 두다
+3|지금 다른 전화를 받고 계십니다.|She's on another line at the moment.|on another line=다른 통화 중인
+3|담당 부서로 전화를 돌려 드리겠습니다.|I'll transfer your call to the appropriate department.|transfer=(전화를) 돌리다; appropriate=적절한
+3|회의 일정을 다시 잡아야 할 것 같습니다.|I'm afraid we need to reschedule the meeting.|reschedule=일정을 다시 잡다
+3|화요일 오후 2시가 괜찮으신가요?|Would Tuesday at two p.m. work for you?|work for=~에게 괜찮다
+3|확인 후 바로 다시 연락드리겠습니다.|I'll check and get back to you right away.|get back to=다시 연락하다
+3|성함 철자를 불러 주시겠어요?|Could you spell your name for me, please?|spell=철자를 말하다
+4|통화 가능한 시간을 알려 주시면 연락드리겠습니다.|Let me know when you're available, and I'll give you a call.|available=시간이 되는
+4|화상 회의 링크는 일정 초대장에 있습니다.|The video conference link is in the calendar invitation.|invitation=초대(장)
+4|그분은 오늘 하루 종일 외근입니다.|He's out of the office for the rest of the day.|out of the office=사무실에 없는
+@shop
+3|이 제품은 지금 30% 할인 중입니다.|This item is currently thirty percent off.|currently=현재
+3|교환은 구매 후 14일 이내에만 가능합니다.|Exchanges are accepted only within fourteen days of purchase.|exchange=교환; purchase=구매
+3|이 상품은 온라인 전용입니다.|This product is available online only.|available=구할 수 있는
+3|회원 카드를 제시하시면 포인트가 적립됩니다.|Show your membership card to earn points.|earn=적립하다·벌다
+3|해당 사이즈는 품절이라 주문해 드려야 합니다.|That size is sold out, so we'll have to order it for you.|sold out=품절된
+4|결제 금액이 두 번 청구된 것 같습니다.|I think I was charged twice for this purchase.|charge=청구하다
+4|이 쿠폰은 다른 할인과 중복 사용이 안 됩니다.|This coupon cannot be combined with other offers.|combine=결합하다; offer=할인·혜택
+4|배송 추적 번호를 받을 수 있을까요?|Could I get a tracking number for the shipment?|tracking number=운송장 번호; shipment=배송(품)
+4|제품에 결함이 있어서 환불을 요청하고 싶습니다.|The product is defective, so I'd like to request a refund.|defective=결함이 있는
+@stay
+3|체크아웃 시간을 연장할 수 있나요?|Is it possible to extend my checkout time?|extend=연장하다
+3|조식은 1층 레스토랑에서 제공됩니다.|Breakfast is served in the restaurant on the ground floor.|serve=제공하다; ground floor=1층
+3|객실에 수건을 더 가져다주시겠어요?|Could you bring some extra towels to my room?|extra=추가의
+3|공항 셔틀 서비스는 무료입니다.|The airport shuttle service is complimentary.|complimentary=무료의
+4|예약 확인 번호를 알려 주시겠어요?|May I have your confirmation number, please?|confirmation=확인
+4|보수 공사로 수영장이 일시 폐쇄됩니다.|The pool is temporarily closed for renovations.|renovation=보수 공사
+4|객실 업그레이드가 가능한지 확인해 드리겠습니다.|Let me check whether a room upgrade is available.|upgrade=상위 등급으로 바꾸기
+4|숙박 요금에는 세금과 봉사료가 포함되어 있습니다.|The room rate includes tax and service charges.|rate=요금; service charge=봉사료
+@travel
+3|탑승은 출발 30분 전에 시작됩니다.|Boarding begins thirty minutes before departure.|boarding=탑승; departure=출발
+3|수하물 허용 중량은 23킬로그램입니다.|The baggage allowance is twenty-three kilograms.|baggage allowance=수하물 허용량
+3|여권 유효 기간이 6개월 이상 남아 있어야 합니다.|Your passport must be valid for at least six months.|valid=유효한
+3|그 투어는 가이드와 점심 식사를 포함합니다.|The tour includes a guide and lunch.|include=포함하다
+4|기상 악화로 항공편이 지연되고 있습니다.|Flights are being delayed due to deteriorating weather.|deteriorating=악화되는
+4|입국 심사대에서 귀국 항공권을 보여 달라고 했어요.|Immigration asked me to show my return ticket.|immigration=입국 심사; return ticket=왕복(귀국) 항공권
+4|여행 일정표를 이메일로 보내 드렸습니다.|We've emailed you the travel itinerary.|itinerary=여행 일정표
+4|그 박물관은 매주 월요일 휴관합니다.|The museum is closed every Monday.|museum=박물관
+4|단체 관광객은 사전 예약이 필수입니다.|Advance booking is mandatory for tour groups.|mandatory=의무적인; advance booking=사전 예약
+@move
+3|다음 정류장에서 환승하세요.|Transfer at the next stop.|transfer=갈아타다
+3|이 열차는 급행이라 몇 개 역은 정차하지 않습니다.|This is an express train, so it skips some stations.|express=급행; skip=건너뛰다
+3|도로 공사로 우회해야 합니다.|We have to take a detour because of road construction.|detour=우회로; construction=공사
+4|출퇴근 시간에는 교통 체증이 심합니다.|Traffic is heavy during rush hour.|rush hour=출퇴근 혼잡 시간
+4|이 노선은 주말에 운행 횟수가 줄어듭니다.|Service on this line is reduced on weekends.|service=운행; reduce=줄이다
+4|주차 위반으로 과태료를 냈어요.|I got a fine for illegal parking.|fine=벌금; illegal=불법의
+@money
+3|계좌 이체 수수료가 얼마인가요?|How much is the fee for a bank transfer?|fee=수수료; transfer=이체
+3|이번 달 공과금 납부 기한이 지났어요.|This month's utility bill is overdue.|utility bill=공과금; overdue=기한이 지난
+4|대출 신청이 승인됐습니다.|Your loan application has been approved.|loan=대출; application=신청
+4|분할 납부가 가능한가요?|Is it possible to pay in installments?|installment=할부·분할 납부
+4|그 펀드는 연 5%의 수익률을 냈습니다.|The fund yielded a five percent annual return.|yield=(수익을) 내다; return=수익률
+4|환율 변동 때문에 해외 결제 금액이 달라졌어요.|The overseas charge changed because of exchange rate fluctuations.|exchange rate=환율; fluctuation=변동
+@home
+3|집주인이 다음 달에 월세를 올린대요.|The landlord is raising the rent next month.|landlord=집주인; rent=집세
+3|수도관이 새서 관리실에 신고했어요.|A pipe was leaking, so I reported it to the management office.|leak=새다
+4|임대 계약은 1년 단위로 갱신됩니다.|The lease is renewed on a yearly basis.|lease=임대차 계약; on a yearly basis=1년 단위로
+4|이사 업체에 견적을 요청했어요.|I asked a moving company for an estimate.|moving company=이삿짐 업체; estimate=견적
+4|건물 전체가 내일 오전에 단수됩니다.|The water will be shut off throughout the building tomorrow morning.|shut off=끊다·차단하다
+@health
+3|진료 예약을 변경하고 싶습니다.|I'd like to change my medical appointment.|appointment=예약
+3|처방전을 약국에 제출하세요.|Please take your prescription to the pharmacy.|prescription=처방전; pharmacy=약국
+4|이 약은 졸음을 유발할 수 있습니다.|This medication may cause drowsiness.|medication=약; drowsiness=졸음
+4|건강 검진 결과는 일주일 후에 나옵니다.|The results of your checkup will be available in a week.|checkup=건강 검진
+4|보험이 진료비의 일부를 보장합니다.|Your insurance covers part of the medical expenses.|insurance=보험; cover=보장하다
+@tech
+3|비밀번호를 정기적으로 변경해 주세요.|Please change your password regularly.|regularly=정기적으로
+3|시스템 점검으로 오늘 밤 서비스가 중단됩니다.|Service will be unavailable tonight due to system maintenance.|unavailable=이용할 수 없는; maintenance=점검
+4|소프트웨어를 최신 버전으로 업데이트하세요.|Please update the software to the latest version.|latest=최신의
+4|그 파일은 용량이 커서 첨부할 수 없었어요.|The file was too large to attach.|attach=첨부하다
+4|이 기기는 보증 기간이 아직 남아 있습니다.|This device is still under warranty.|under warranty=보증 기간 내인
+@trouble
+3|제 짐이 도착하지 않았어요.|My luggage didn't arrive.|luggage=짐
+3|주문한 것과 다른 상품이 배송됐어요.|I received a different item from the one I ordered.|item=상품
+4|이 문제를 담당자에게 전달해 주시겠어요?|Could you pass this issue on to the person in charge?|pass on=전달하다; person in charge=담당자
+4|보상 절차에 대해 안내받고 싶습니다.|I'd like some guidance on the compensation process.|guidance=안내; compensation=보상
+@study
+3|이 강좌는 온라인과 오프라인 모두 수강할 수 있습니다.|This course is offered both online and in person.|in person=직접·대면으로
+4|수료증은 과정을 마친 후 발급됩니다.|Certificates will be issued upon completion of the course.|certificate=수료증; completion=수료·완료
+4|등록 마감일은 이달 말입니다.|The enrollment deadline is the end of this month.|enrollment=등록
+4|장학금 신청 자격을 확인해 보세요.|Check whether you are eligible for the scholarship.|eligible=자격이 있는; scholarship=장학금

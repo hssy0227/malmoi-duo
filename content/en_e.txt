@@ -1,0 +1,154 @@
+# 토익·토플 핵심 어휘 문장 (Lv3~4)
+@toeic
+3|그 회의는 다음 주 목요일로 연기됐습니다.|The meeting has been postponed until next Thursday.|postpone=연기하다
+3|항공편이 악천후로 취소됐습니다.|The flight was canceled due to inclement weather.|inclement=(날씨가) 궂은; due to=~때문에
+3|신청서는 늦어도 금요일까지 제출해야 합니다.|Applications must be submitted no later than Friday.|submit=제출하다; no later than=늦어도 ~까지
+3|모든 직원은 안전 교육에 참석해야 합니다.|All employees are required to attend the safety training.|be required to=~해야 하다; attend=참석하다
+3|예약을 확정하려면 이 이메일에 회신해 주세요.|Please reply to this email to confirm your reservation.|confirm=확정하다·확인하다; reservation=예약
+3|불편을 드려 죄송합니다.|We apologize for any inconvenience this may cause.|inconvenience=불편
+3|보증 기간은 구매일로부터 1년입니다.|The warranty is valid for one year from the date of purchase.|warranty=품질 보증; valid=유효한
+3|영수증 원본을 지참하셔야 환불이 가능합니다.|Refunds are available only with the original receipt.|refund=환불; receipt=영수증
+3|그 직책에는 최소 3년의 경력이 필요합니다.|The position requires a minimum of three years of experience.|position=직책; minimum=최소
+3|지원자들은 이력서와 추천서 두 통을 보내야 합니다.|Candidates should send a résumé and two letters of reference.|candidate=지원자·후보; reference=추천(서)
+3|신제품 출시가 예정보다 앞당겨졌습니다.|The launch of the new product has been moved up.|launch=출시; move up=앞당기다
+3|그는 영업부장으로 승진했습니다.|He was promoted to sales manager.|promote=승진시키다
+3|분기 실적이 예상치를 웃돌았습니다.|Quarterly results exceeded expectations.|quarterly=분기의; exceed=넘어서다
+3|우리는 그 공급업체와 계약을 갱신하기로 했습니다.|We decided to renew our contract with the supplier.|renew=갱신하다; supplier=공급업체
+3|보수 공사 기간에는 주차장이 폐쇄됩니다.|The parking lot will be closed during the renovation.|renovation=보수·개조 공사
+3|공장은 엄격한 품질 기준을 준수합니다.|The factory complies with strict quality standards.|comply with=~을 준수하다; strict=엄격한
+3|이 할인은 신규 고객에게만 적용됩니다.|This discount applies only to new customers.|apply to=~에 적용되다
+3|그 회사는 지역 경쟁사를 인수했습니다.|The company acquired a regional competitor.|acquire=인수하다; competitor=경쟁사
+3|두 회사가 합병에 합의했습니다.|The two firms agreed to a merger.|firm=회사; merger=합병
+3|예산이 부족해서 프로젝트가 보류됐습니다.|The project was put on hold due to budget constraints.|put on hold=보류하다; constraint=제약
+3|참가 인원은 30명으로 제한됩니다.|Attendance is limited to thirty participants.|attendance=참석(자 수); participant=참가자
+3|세부 사항은 첨부 파일을 참고해 주세요.|Please refer to the attached file for details.|refer to=참고하다; attached=첨부된
+3|그 직원은 뛰어난 고객 응대로 표창을 받았습니다.|The employee was recognized for outstanding customer service.|recognize=인정·표창하다; outstanding=뛰어난
+3|저희는 신속하게 문제를 해결하도록 노력하겠습니다.|We will make every effort to resolve the issue promptly.|resolve=해결하다; promptly=신속히
+3|주문하신 상품은 3~5영업일 내에 배송됩니다.|Your order will be shipped within three to five business days.|ship=배송하다; business day=영업일
+3|재고가 일시적으로 소진됐습니다.|The item is temporarily out of stock.|temporarily=일시적으로; out of stock=품절인
+3|정책 변경 사항은 즉시 효력이 발생합니다.|The policy changes take effect immediately.|take effect=효력이 발생하다
+3|우리 매출의 대부분은 해외 시장에서 나옵니다.|The majority of our revenue comes from overseas markets.|majority=대부분; revenue=매출
+3|이사회가 새 예산안을 승인했습니다.|The board of directors approved the new budget.|board of directors=이사회; approve=승인하다
+3|그는 이번 분기 말에 은퇴할 예정입니다.|He is scheduled to retire at the end of the quarter.|be scheduled to=~할 예정이다; retire=은퇴하다
+3|새 정책에 대한 의견을 환영합니다.|We welcome feedback on the new policy.|feedback=의견·피드백
+3|가능한 한 빨리 답변 부탁드립니다.|I would appreciate a response at your earliest convenience.|appreciate=감사하다; at your earliest convenience=가능한 한 빨리
+3|그 제안은 만장일치로 통과됐습니다.|The proposal was approved unanimously.|unanimously=만장일치로
+3|그 자리는 아직 공석입니다.|The position is still vacant.|vacant=비어 있는
+3|자격을 갖춘 지원자만 연락드리겠습니다.|Only qualified applicants will be contacted.|qualified=자격을 갖춘; applicant=지원자
+3|가격은 사전 통지 없이 변경될 수 있습니다.|Prices are subject to change without prior notice.|be subject to=~될 수 있다; prior notice=사전 통지
+3|이 서비스는 추가 요금 없이 제공됩니다.|This service is provided at no additional charge.|additional=추가의; charge=요금
+3|회사는 직원들에게 유연 근무를 제공합니다.|The company offers employees flexible working hours.|flexible=유연한
+3|그 매장은 고객 만족도가 매우 높습니다.|The store has a very high level of customer satisfaction.|satisfaction=만족
+3|우리는 비용 절감 방안을 모색하고 있습니다.|We are looking for ways to cut costs.|cut costs=비용을 줄이다
+3|그 제품은 경쟁 제품보다 내구성이 좋습니다.|The product is more durable than its competitors.|durable=내구성 있는
+3|이 장비는 숙련된 기술자만 다룰 수 있습니다.|Only trained technicians may operate this equipment.|technician=기술자; operate=조작하다; equipment=장비
+3|그는 해외 지사로 전근됐습니다.|He was transferred to the overseas branch.|transfer=전근시키다; branch=지사
+3|그 회사는 전국에 지점을 두고 있습니다.|The company has branches nationwide.|nationwide=전국적으로
+3|직원 할인은 정가에서 20%입니다.|The employee discount is twenty percent off the regular price.|regular price=정가
+3|모든 방문객은 안내 데스크에서 등록해야 합니다.|All visitors must register at the front desk.|register=등록하다
+3|그 계약에는 몇 가지 조건이 있습니다.|The contract comes with several conditions.|condition=조건
+3|우리는 마감 기한을 맞추기 위해 야근했습니다.|We worked overtime to meet the deadline.|work overtime=초과 근무하다; meet a deadline=기한을 맞추다
+3|비용은 회사가 전액 부담합니다.|The company will cover the full cost.|cover=(비용을) 부담하다
+3|출장비는 영수증 제출 시 환급됩니다.|Travel expenses will be reimbursed upon submission of receipts.|reimburse=환급하다; upon=~하는 즉시
+4|그 결정은 전 직원에게 상당한 영향을 미칠 것입니다.|The decision will have a substantial impact on all staff.|substantial=상당한; impact=영향
+4|그 정책은 논란의 여지가 많습니다.|The policy is highly controversial.|controversial=논란이 많은
+4|그 연구는 이전 결과를 뒷받침합니다.|The study substantiates the earlier findings.|substantiate=입증하다; findings=결과·발견
+4|그 회사는 시장 점유율을 꾸준히 늘려 왔습니다.|The company has steadily increased its market share.|steadily=꾸준히; market share=시장 점유율
+4|이 문제는 신중한 검토가 필요합니다.|This matter warrants careful consideration.|warrant=~을 정당화하다·필요로 하다; consideration=고려
+4|그 회의는 예정보다 일찍 끝났습니다.|The meeting adjourned earlier than planned.|adjourn=(회의를) 휴회·종료하다
+4|그는 그 직책에 이상적인 후보입니다.|He is an ideal candidate for the post.|ideal=이상적인; post=직위
+4|협상은 교착 상태에 빠졌습니다.|The negotiations have reached a stalemate.|negotiation=협상; stalemate=교착 상태
+4|그 결과는 예비적인 것이며 확정되지 않았습니다.|The results are preliminary and not yet final.|preliminary=예비의
+4|그녀는 그 분야에서 손꼽히는 권위자입니다.|She is a leading authority in the field.|authority=권위자; field=분야
+4|이 혜택은 정규직 직원에게만 해당됩니다.|These benefits are exclusive to full-time employees.|benefit=혜택·복리후생; exclusive to=~에게만 해당되는
+4|그는 그 제안을 정중히 거절했습니다.|He politely declined the offer.|decline=거절하다
+4|그 문제는 다음 회의 안건에 포함될 것입니다.|The issue will be included on the agenda for the next meeting.|agenda=안건
+4|정부는 새 규제를 도입할 계획입니다.|The government plans to introduce new regulations.|introduce=도입하다; regulation=규제
+4|그 프로그램은 참가자들에게 실무 경험을 제공합니다.|The program gives participants hands-on experience.|hands-on=실무의·직접 해 보는
+4|이 자료는 기밀이므로 외부에 공유하지 마세요.|This material is confidential, so please do not share it externally.|confidential=기밀의; externally=외부에
+4|추가 정보가 필요하시면 주저 말고 연락 주세요.|Should you need further information, please do not hesitate to contact us.|further=추가의; hesitate=주저하다
+4|그 행사는 성황리에 마무리됐습니다.|The event concluded with great success.|conclude=끝나다·결론짓다
+4|임대 계약은 자동으로 갱신됩니다.|The lease renews automatically.|lease=임대차 계약
+4|그 회사는 파산 신청을 했습니다.|The company filed for bankruptcy.|file for=~을 신청하다; bankruptcy=파산
+4|그 정책은 장기적으로 이익이 될 것입니다.|The policy will prove beneficial in the long run.|beneficial=유익한; in the long run=장기적으로
+4|이 수치는 대략적인 추정치입니다.|These figures are rough estimates.|figure=수치; estimate=추정치
+4|그녀는 탁월한 협상 능력으로 유명합니다.|She is renowned for her exceptional negotiating skills.|renowned=유명한; exceptional=탁월한
+4|그 결정은 아직 최종 승인을 기다리고 있습니다.|The decision is still pending final approval.|pending=~을 기다리는·미결의; approval=승인
+4|그 문서는 원본과 동일해야 합니다.|The document must be identical to the original.|identical=동일한
+4|회사는 그 혐의를 강하게 부인했습니다.|The company strongly denied the allegations.|deny=부인하다; allegation=혐의·주장
+4|참석이 어려우시면 미리 알려 주세요.|If you are unable to attend, please notify us in advance.|notify=알리다; in advance=미리
+4|그는 마지막 순간에 계획을 변경했습니다.|He altered the plan at the last minute.|alter=변경하다
+4|그 연구는 정부 보조금으로 자금을 지원받았습니다.|The research was funded by a government grant.|fund=자금을 대다; grant=보조금
+4|관련 서류를 모두 갖추어 주세요.|Please make sure all relevant documents are in order.|relevant=관련된; in order=제대로 갖춰진
+4|그 기업은 엄청난 성장 잠재력을 지니고 있습니다.|The firm has tremendous growth potential.|tremendous=엄청난; potential=잠재력
+4|품질 문제로 제품 리콜이 결정됐습니다.|A product recall was issued due to quality concerns.|recall=회수(리콜); issue=발표·발행하다
+4|그 회사는 소송에 휘말렸습니다.|The company became involved in a lawsuit.|lawsuit=소송
+4|직원들은 그 변화에 금세 적응했습니다.|The staff quickly adapted to the changes.|adapt to=~에 적응하다
+4|연구진은 몇 가지 결정적인 증거를 찾아냈습니다.|The researchers uncovered some conclusive evidence.|uncover=밝혀내다; conclusive=결정적인
+4|그 제안은 실현 가능성이 낮아 보입니다.|The proposal does not seem very feasible.|feasible=실현 가능한
+4|그 계획은 처음 의도대로 진행되지 않았습니다.|The plan did not proceed as originally intended.|proceed=진행되다; intend=의도하다
+4|그 회사는 매년 수익의 일부를 기부합니다.|The company donates a portion of its profits every year.|donate=기부하다; portion=일부
+4|이 수치에는 세금이 포함되지 않았습니다.|These figures do not include tax.|include=포함하다
+4|그 조치는 일시적인 해결책일 뿐입니다.|The measure is merely a temporary solution.|measure=조치; merely=단지
+4|그는 업계에서 30년 넘게 일해 왔습니다.|He has worked in the industry for over three decades.|decade=10년
+4|그 회사는 재정적으로 안정돼 있습니다.|The company is financially stable.|financially=재정적으로; stable=안정된
+4|이번 변화는 점진적으로 이뤄질 것입니다.|The changes will be implemented gradually.|implement=시행하다; gradually=점진적으로
+4|그 계획에 대해 다양한 의견이 오갔습니다.|A wide range of opinions were exchanged on the plan.|a wide range of=다양한
+4|그 소프트웨어는 기존 시스템과 호환됩니다.|The software is compatible with our existing system.|compatible=호환되는; existing=기존의
+4|그녀는 그 직무에 필요한 자격을 모두 갖췄습니다.|She meets all the qualifications for the job.|qualification=자격 요건
+4|그 상품은 특정 지역에서만 구할 수 있습니다.|The product is available only in certain regions.|available=구할 수 있는; certain=특정한
+4|사고 원인은 아직 조사 중입니다.|The cause of the accident is still under investigation.|under investigation=조사 중인
+4|그 발표는 투자자들의 관심을 끌었습니다.|The announcement attracted investors' attention.|announcement=발표; attract=끌다
+4|우리는 그 결정의 근거를 설명해야 합니다.|We need to explain the rationale behind the decision.|rationale=근거·이유
+4|고객 정보는 엄격하게 보호됩니다.|Customer information is strictly protected.|strictly=엄격하게
+4|그는 프로젝트의 진행 상황을 정기적으로 보고합니다.|He reports on the project's progress on a regular basis.|progress=진행 상황; on a regular basis=정기적으로
+4|그 제품은 환경 친화적인 소재로 만들어졌습니다.|The product is made from environmentally friendly materials.|environmentally friendly=친환경적인; material=소재
+4|그 결정은 내부 반발에 부딪혔습니다.|The decision met with internal opposition.|meet with=~에 부딪히다; opposition=반대
+4|신규 직원들은 2주간의 오리엔테이션을 받습니다.|New hires undergo a two-week orientation.|new hire=신입 직원; undergo=겪다·받다
+4|그 공석은 내부 승진으로 채워질 것입니다.|The vacancy will be filled through internal promotion.|vacancy=공석; promotion=승진
+4|우리는 그 분야에서 선도적인 위치를 유지하고 있습니다.|We maintain a leading position in the sector.|maintain=유지하다; sector=부문
+4|그 광고 캠페인은 기대만큼 효과적이지 않았습니다.|The advertising campaign was not as effective as expected.|effective=효과적인
+4|그 공장은 생산 능력을 두 배로 늘렸습니다.|The plant doubled its production capacity.|plant=공장; capacity=능력·용량
+4|협력 업체 선정 기준이 강화됐습니다.|The criteria for selecting partners have been tightened.|criteria=기준(복수); tighten=강화하다
+4|그 사건은 회사 평판에 큰 타격을 줬습니다.|The incident severely damaged the company's reputation.|severely=심하게; reputation=평판
+4|이 지역은 관광 산업에 크게 의존합니다.|This region relies heavily on tourism.|rely on=~에 의존하다
+4|그 계약은 쌍방 합의로 해지됐습니다.|The contract was terminated by mutual agreement.|terminate=종료하다; mutual=상호의
+4|예상치 못한 지연에 대해 양해 부탁드립니다.|We ask for your patience regarding the unexpected delay.|patience=인내·양해; regarding=~에 관하여
+4|그 회사는 업계 표준을 새로 정립했습니다.|The company set a new industry standard.|set a standard=표준을 세우다
+4|그는 비판에도 불구하고 계획을 고수했습니다.|He stuck to his plan despite the criticism.|stick to=고수하다; despite=~에도 불구하고
+4|매출 감소는 주로 계절적 요인 때문입니다.|The drop in sales is largely due to seasonal factors.|largely=주로; seasonal=계절적인; factor=요인
+4|그 보고서는 몇 가지 중대한 결함을 지적했습니다.|The report pointed out several critical flaws.|point out=지적하다; flaw=결함
+4|그 회사는 해외 진출을 적극적으로 모색하고 있습니다.|The company is actively seeking to expand abroad.|seek to=~하려고 노력하다; abroad=해외로
+4|모든 문의는 고객 서비스 부서로 해 주세요.|All inquiries should be directed to the customer service department.|inquiry=문의; direct=보내다·향하게 하다
+4|그의 의견은 대다수 직원의 생각을 대변합니다.|His view reflects what most employees think.|reflect=반영하다
+4|이 조항은 양측 모두에게 구속력이 있습니다.|This clause is binding on both parties.|clause=조항; binding=구속력 있는; party=당사자
+4|그 행사는 연례적으로 열립니다.|The event is held annually.|annually=매년
+4|그 결과는 우리의 가설과 일치합니다.|The results are consistent with our hypothesis.|consistent with=~와 일치하는; hypothesis=가설
+4|그녀는 그 직책을 맡기에 경험이 부족합니다.|She lacks the experience needed for the role.|lack=~이 부족하다
+4|새 시스템 도입으로 업무가 훨씬 수월해졌습니다.|The introduction of the new system has made work much easier.|introduction=도입
+4|그 문제는 즉각적인 조치가 필요합니다.|The problem requires immediate action.|immediate=즉각적인
+4|그는 회의 내용을 간략히 요약했습니다.|He briefly summarized what was discussed at the meeting.|briefly=간략히; summarize=요약하다
+4|그 비용은 예상보다 훨씬 많이 들었습니다.|The cost turned out to be far higher than anticipated.|turn out=~로 드러나다; anticipate=예상하다
+4|그 조사 결과는 다음 주에 공개될 예정입니다.|The survey results are due to be released next week.|survey=설문 조사; be due to=~할 예정이다; release=공개하다
+4|그들은 서로 다른 접근 방식을 택했습니다.|They adopted different approaches.|adopt=채택하다; approach=접근법
+4|그 결정은 신중하게 검토한 끝에 내려졌습니다.|The decision was made after careful deliberation.|deliberation=숙고·심의
+4|우리는 그 사안에 대해 중립을 유지할 것입니다.|We will remain neutral on the matter.|remain=유지하다; neutral=중립의
+4|그 계획은 여러 단계에 걸쳐 시행됩니다.|The plan will be carried out in several phases.|carry out=수행하다; phase=단계
+4|그는 회의 도중 날카로운 질문을 던졌습니다.|He raised some pointed questions during the meeting.|raise=(질문을) 제기하다; pointed=날카로운
+4|그 회사는 업계에서 존경받는 기업입니다.|The company is highly regarded in the industry.|highly regarded=높이 평가받는
+4|그 차이는 무시할 만한 수준입니다.|The difference is negligible.|negligible=무시해도 될 정도의
+4|이 정책은 모든 지점에 일률적으로 적용됩니다.|This policy applies uniformly to all branches.|uniformly=일률적으로
+4|그 문제에 대한 해결책은 간단하지 않습니다.|There is no straightforward solution to the problem.|straightforward=간단한·명확한
+4|그 회사의 성장은 놀라울 정도로 빨랐습니다.|The company's growth has been remarkably fast.|remarkably=놀라울 정도로
+4|그 분야는 경쟁이 매우 치열합니다.|The field is fiercely competitive.|fiercely=치열하게; competitive=경쟁이 심한
+4|그 프로젝트는 전적으로 자원봉사자들에 의해 운영됩니다.|The project is run entirely by volunteers.|entirely=전적으로; volunteer=자원봉사자
+4|그는 마감 직전에 보고서를 제출했습니다.|He turned in the report just before the deadline.|turn in=제출하다
+4|이번 조치는 고객 불만을 줄이기 위한 것입니다.|This measure is intended to reduce customer complaints.|be intended to=~하기 위한 것이다; complaint=불만
+4|그 결과는 아직 검증되지 않았습니다.|The results have yet to be verified.|have yet to=아직 ~하지 않았다; verify=검증하다
+4|이 기계는 정기적인 점검이 필요합니다.|This machine requires regular maintenance.|maintenance=유지보수·점검
+4|그 회사는 향후 5년간 공격적인 확장을 계획하고 있습니다.|The company plans an aggressive expansion over the next five years.|aggressive=공격적인; expansion=확장
+4|그 협정은 다음 달 발효됩니다.|The agreement will come into force next month.|come into force=발효되다
+4|우리는 그 위험을 과소평가했습니다.|We underestimated the risk.|underestimate=과소평가하다
+4|그녀는 그 상황을 침착하게 처리했습니다.|She handled the situation calmly.|handle=처리하다; calmly=침착하게
+4|그 수치는 전년도 대비 두 배입니다.|The figure is double that of the previous year.|previous=이전의
+4|그 문제는 예상보다 훨씬 복잡한 것으로 드러났습니다.|The issue proved far more complicated than expected.|prove=~로 판명되다; complicated=복잡한

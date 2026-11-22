@@ -1,0 +1,86 @@
+# 책·독서 (서점·도서관·장르·감상·독서 습관)
+@book
+1|책 읽는 거 좋아해요.|Tôi thích đọc sách.|đọc sách=책을 읽다
+1|이 책 재미있어요.|Cuốn sách này hay lắm.|cuốn=권; sách=책
+1|무슨 책 읽어요?|Anh đang đọc sách gì?|đang=~하는 중
+1|이 책 빌려줄 수 있어요?|Cho tôi mượn cuốn này được không?|mượn=빌리다
+1|서점이 어디 있어요?|Hiệu sách ở đâu ạ?|hiệu sách=서점
+1|이 책 얼마예요?|Cuốn sách này giá bao nhiêu?|giá=가격
+1|다 읽었어요.|Tôi đọc xong rồi.|xong=끝내다
+2|요즘 읽고 있는 책이 있어요?|Dạo này anh có đang đọc cuốn nào không?|dạo này=요즘
+2|이 작가 좋아해요.|Tôi thích tác giả này.|tác giả=작가
+2|소설을 주로 읽어요.|Tôi chủ yếu đọc tiểu thuyết.|chủ yếu=주로; tiểu thuyết=소설
+2|만화책도 좋아해요.|Tôi cũng thích truyện tranh.|truyện tranh=만화책
+2|시집을 선물받았어요.|Tôi được tặng một tập thơ.|tập thơ=시집; tặng=선물하다
+2|자기 전에 책을 조금씩 읽어요.|Trước khi ngủ tôi đọc sách một chút.|trước khi=~하기 전에
+2|한 달에 책 두 권은 읽으려고 해요.|Tôi cố đọc ít nhất hai cuốn mỗi tháng.|cố=노력하다; ít nhất=적어도
+2|이 책 베스트셀러예요.|Cuốn này là sách bán chạy nhất đấy.|bán chạy=잘 팔리는
+2|번역본이 있어요?|Có bản dịch không?|bản dịch=번역본
+2|한국어판도 나왔어요?|Đã có bản tiếng Hàn chưa?|bản=판·본
+2|도서관 카드를 만들고 싶어요.|Tôi muốn làm thẻ thư viện.|thẻ thư viện=도서관 카드; thư viện=도서관
+2|며칠 동안 빌릴 수 있어요?|Được mượn trong bao nhiêu ngày?|trong=~동안
+2|반납일이 언제예요?|Hạn trả sách là khi nào?|hạn=기한; trả=반납하다
+2|전자책으로 읽는 게 편해요.|Đọc sách điện tử tiện hơn.|sách điện tử=전자책; tiện=편한
+2|종이책 냄새가 좋아요.|Tôi thích mùi sách giấy.|mùi=냄새; sách giấy=종이책
+2|몇 쪽까지 읽었어요?|Anh đọc đến trang bao nhiêu rồi?|trang=쪽·페이지
+2|책갈피 좀 줄래요?|Cho tôi cái kẹp sách với.|kẹp sách=책갈피
+3|어떤 장르를 좋아해요?|Anh thích thể loại sách nào?|thể loại=장르
+3|추리 소설을 읽기 시작하면 멈출 수가 없어요.|Cứ đọc truyện trinh thám là không dừng được.|truyện trinh thám=추리 소설; dừng=멈추다
+3|역사 소설을 읽으면 그 시대에 사는 느낌이에요.|Đọc tiểu thuyết lịch sử thấy như mình đang sống ở thời đó.|lịch sử=역사; thời=시대
+3|자기계발서는 잘 안 읽어요.|Tôi ít khi đọc sách self-help.|ít khi=좀처럼 ~않다
+3|에세이는 가볍게 읽기 좋아요.|Tản văn thì đọc nhẹ nhàng, rất dễ chịu.|tản văn=에세이·수필; dễ chịu=기분 좋은
+3|이 책 추천해 줄래요?|Anh giới thiệu cho tôi một cuốn được không?|giới thiệu=추천하다
+3|이 책은 첫 장부터 확 빠져들었어요.|Cuốn này cuốn hút tôi ngay từ chương đầu.|cuốn hút=빠져들게 하다; chương=장
+3|몇 장 읽다가 덮었어요.|Đọc được vài chương thì tôi gấp lại.|gấp=덮다·접다
+3|문장이 아름다워서 천천히 읽게 돼요.|Câu văn đẹp quá nên tôi đọc chậm lại.|câu văn=문장
+3|이 책은 문장이 쉬워서 베트남어 공부용으로 좋아요.|Cuốn này câu chữ dễ nên hợp để học tiếng Việt.|câu chữ=문장·글; hợp=적합한
+3|모르는 단어는 사전에서 찾아봐요.|Từ nào không biết thì tôi tra từ điển.|tra=찾아보다; từ điển=사전
+3|인상 깊은 문장에 밑줄을 쳐요.|Tôi gạch chân những câu ấn tượng.|gạch chân=밑줄 치다; ấn tượng=인상 깊은
+3|이 책은 몇 번을 다시 읽었어요.|Cuốn này tôi đọc đi đọc lại mấy lần rồi.|đọc đi đọc lại=거듭 읽다
+3|작가의 다른 작품도 읽어 보고 싶어요.|Tôi muốn đọc thêm các tác phẩm khác của tác giả.|tác phẩm=작품
+3|이 책 영화로도 나왔대요.|Nghe nói cuốn này đã được dựng thành phim.|dựng thành phim=영화화하다
+3|영화보다 원작이 훨씬 나아요.|Nguyên tác hay hơn phim nhiều.|nguyên tác=원작
+3|이 책은 두꺼워서 다 읽는 데 오래 걸렸어요.|Cuốn này dày quá nên tôi đọc mất nhiều thời gian.|dày=두꺼운
+3|중고 서점에서 싸게 샀어요.|Tôi mua rẻ ở hiệu sách cũ.|sách cũ=헌책
+3|하노이에 책 거리가 있다고 들었어요.|Nghe nói ở Hà Nội có phố sách.|phố sách=책 거리
+3|주말마다 동네 북카페에 가요.|Cuối tuần nào tôi cũng đi cà phê sách gần nhà.|cà phê sách=북카페
+3|독서 모임에 가입했어요.|Tôi tham gia một câu lạc bộ đọc sách.|tham gia=참가하다; câu lạc bộ=동호회
+3|이번 달 모임 책은 뭐예요?|Sách của buổi gặp tháng này là gì?|buổi gặp=모임
+3|출퇴근길에 오디오북을 들어요.|Tôi nghe sách nói trên đường đi làm.|sách nói=오디오북; đường đi làm=출근길
+3|그 책 결말이 너무 슬펐어요.|Kết thúc cuốn sách buồn quá.|kết thúc=결말
+3|주인공한테 감정 이입이 많이 됐어요.|Tôi rất đồng cảm với nhân vật chính.|đồng cảm=공감하다
+3|이 시는 외우고 싶을 만큼 좋아요.|Bài thơ này hay đến mức muốn học thuộc.|bài thơ=시 한 편; học thuộc=외우다
+3|어린이 책으로 베트남어를 시작했어요.|Tôi bắt đầu học tiếng Việt bằng sách thiếu nhi.|sách thiếu nhi=어린이 책
+3|신간이 언제 나와요?|Khi nào sách mới ra?|sách mới=신간; ra=나오다
+3|사인회에 가서 작가님을 직접 만났어요.|Tôi đi buổi ký tặng và gặp trực tiếp tác giả.|buổi ký tặng=사인회; trực tiếp=직접
+4|이 소설은 전쟁 이후 하노이 사람들의 삶을 담담하게 그려요.|Cuốn tiểu thuyết khắc họa nhẹ nhàng cuộc sống của người Hà Nội sau chiến tranh.|khắc họa=그려 내다; cuộc sống=삶
+4|읽는 내내 작가의 어린 시절이 떠올라서 마음이 따뜻해졌어요.|Suốt lúc đọc tôi cứ hình dung về tuổi thơ của tác giả, thấy lòng ấm áp.|suốt=내내; hình dung=떠올리다; tuổi thơ=어린 시절; ấm áp=따뜻한
+4|등장인물이 많아서 처음엔 관계를 정리하면서 읽어야 했어요.|Nhân vật nhiều quá nên lúc đầu tôi phải vừa đọc vừa ghi lại quan hệ.|quan hệ=관계
+4|이 책을 읽고 나서 세상을 보는 시각이 바뀌었어요.|Đọc xong cuốn này cách nhìn thế giới của tôi đã thay đổi.|cách nhìn=시각; thế giới=세상
+4|짧은 단편이 여러 편 묶여 있어서 틈틈이 읽기 좋아요.|Sách gồm nhiều truyện ngắn nên tranh thủ đọc lúc rảnh rất tiện.|truyện ngắn=단편 소설; tranh thủ=틈을 내다; lúc rảnh=한가할 때
+4|번역이 매끄럽지 않아서 원서로 다시 읽어 보려고요.|Bản dịch không được trôi chảy nên tôi định đọc lại bản gốc.|trôi chảy=매끄러운; bản gốc=원서
+4|베트남 문학의 고전이라는 「쭈옌 끼에우」을 꼭 읽어 보고 싶어요.|Tôi rất muốn đọc Truyện Kiều, tác phẩm kinh điển của văn học Việt Nam.|kinh điển=고전의; văn học=문학
+4|문장이 짧고 리듬감이 있어서 소리 내어 읽기 좋아요.|Câu văn ngắn và có nhịp điệu nên đọc to lên rất hay.|nhịp điệu=리듬; đọc to=소리 내어 읽다
+4|소리 내서 읽으면 성조 연습에도 도움이 돼요.|Đọc thành tiếng cũng giúp luyện thanh điệu.|đọc thành tiếng=소리 내어 읽다; thanh điệu=성조
+4|처음 몇 장은 지루했는데 중반부터 손을 놓을 수가 없었어요.|Mấy chương đầu hơi chán nhưng từ giữa sách thì tôi không thể rời tay.|rời tay=손을 떼다
+4|마지막 페이지를 덮고 한참 동안 여운이 남았어요.|Gấp trang cuối lại rồi mà dư âm vẫn còn mãi.|dư âm=여운
+4|이 책은 어려운 개념을 쉬운 예로 잘 풀어냈어요.|Cuốn sách giải thích những khái niệm khó bằng ví dụ dễ hiểu.|khái niệm=개념; ví dụ=예
+4|읽은 내용을 짧게라도 기록해 두면 오래 기억에 남아요.|Ghi lại nội dung đã đọc dù chỉ ngắn thôi cũng giúp nhớ lâu.|nội dung=내용; nhớ lâu=오래 기억하다
+4|이 작가는 사소한 일상에서 깊은 의미를 끌어내는 재주가 있어요.|Tác giả này có tài rút ra ý nghĩa sâu sắc từ những điều nhỏ nhặt hằng ngày.|tài=재주; rút ra=끌어내다; nhỏ nhặt=사소한
+4|책 속 배경이 된 골목을 직접 걸어 보니 감회가 새로웠어요.|Đi bộ trên con ngõ làm bối cảnh trong sách, tôi thấy xúc động lạ thường.|ngõ=골목; bối cảnh=배경; xúc động=감동하다
+4|요즘은 스마트폰 때문에 책 한 권 끝까지 읽기가 쉽지 않아요.|Dạo này vì điện thoại mà đọc hết một cuốn sách không dễ chút nào.|đọc hết=끝까지 읽다
+4|하루 20분이라도 꾸준히 읽는 습관을 들이고 있어요.|Tôi đang tập thói quen đọc đều đặn mỗi ngày dù chỉ hai mươi phút.|thói quen=습관; đều đặn=꾸준히
+4|모임에서 같은 책을 읽고도 해석이 다 달라서 재미있었어요.|Cùng đọc một cuốn mà mỗi người hiểu một kiểu, thú vị lắm.|kiểu=방식; thú vị=흥미로운
+4|이 책은 반전이 있어서 스포일러 없이 읽는 게 좋아요.|Cuốn này có cú twist nên đọc mà không biết trước thì hay hơn.|biết trước=미리 알다
+4|작가가 서문에서 이 책을 쓰게 된 계기를 밝혔어요.|Trong lời tựa tác giả kể lý do mình viết cuốn sách.|lời tựa=서문; lý do=이유
+4|각주가 많아서 읽는 속도가 자꾸 느려져요.|Chú thích nhiều quá nên tốc độ đọc cứ bị chậm lại.|chú thích=각주; tốc độ=속도
+4|이 책은 다음 세대에게도 꼭 물려주고 싶어요.|Tôi rất muốn để lại cuốn sách này cho thế hệ sau.|để lại=남겨 주다; thế hệ=세대
+4|베트남어로 된 책을 처음으로 끝까지 읽어서 뿌듯해요.|Lần đầu đọc hết một cuốn sách tiếng Việt nên tôi thấy tự hào lắm.|tự hào=뿌듯한
+4|다음에는 사전 없이 읽을 수 있는 수준이 되고 싶어요.|Lần sau tôi muốn đạt trình độ đọc được mà không cần từ điển.|đạt=도달하다; trình độ=수준
+4|그 책은 판매 금지됐다가 나중에야 재출간됐대요.|Nghe nói cuốn đó từng bị cấm rồi sau mới được tái bản.|cấm=금지하다; tái bản=재출간하다
+4|읽다 만 책이 책상에 잔뜩 쌓여 있어요.|Sách đọc dở chất đầy trên bàn tôi.|đọc dở=읽다 만; chất đầy=잔뜩 쌓이다
+4|그림책이지만 어른이 읽어도 생각할 거리가 많아요.|Tuy là sách tranh nhưng người lớn đọc cũng có nhiều điều để suy ngẫm.|sách tranh=그림책; suy ngẫm=곱씹다
+4|이 시인의 시는 하노이의 가을을 정말 아름답게 표현해요.|Thơ của nhà thơ này tả mùa thu Hà Nội đẹp vô cùng.|nhà thơ=시인; tả=묘사하다; vô cùng=무척
+4|신문 칼럼을 매일 하나씩 읽으면서 시사 어휘를 늘리고 있어요.|Mỗi ngày tôi đọc một bài bình luận trên báo để mở rộng vốn từ thời sự.|bài bình luận=칼럼; vốn từ=어휘량; thời sự=시사
+4|책을 고를 때는 목차와 첫 페이지를 먼저 봐요.|Khi chọn sách tôi xem mục lục và trang đầu trước.|mục lục=목차; chọn=고르다
+4|좋은 책은 읽을 때마다 새로운 걸 발견하게 해 줘요.|Sách hay thì mỗi lần đọc lại phát hiện ra điều mới.|phát hiện=발견하다

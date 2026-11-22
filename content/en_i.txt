@@ -1,0 +1,102 @@
+# 토익 생활·업무 문장 보강 (Lv3~4)
+@money
+3|매달 일정 금액을 적금으로 넣고 있어요.|I put a fixed amount into a savings account every month.|fixed amount=정해진 금액; savings account=저축 계좌
+3|이번 달 지출이 예산을 초과했어요.|My spending exceeded my budget this month.|spending=지출; exceed=초과하다
+3|카드 명세서에 모르는 결제가 있어요.|There's a charge on my card statement that I don't recognize.|statement=명세서; recognize=알아보다
+3|해외에서 카드를 쓰면 수수료가 붙나요?|Is there a fee for using my card abroad?|abroad=해외에서
+3|연말정산 서류를 제출해야 해요.|I need to submit my year-end tax documents.|year-end=연말의; tax=세금
+4|금리가 오르면서 대출 이자 부담이 커졌어요.|As interest rates rose, my loan payments became heavier.|interest rate=금리; loan payment=대출 상환금
+4|그 은행은 신규 고객에게 우대 금리를 제공합니다.|The bank offers preferential rates to new customers.|preferential=우대의
+4|계좌 개설에는 신분증과 주소 증명이 필요합니다.|Opening an account requires ID and proof of address.|proof of address=주소 증명
+4|보험료가 매년 자동으로 인상됩니다.|The insurance premium goes up automatically every year.|premium=보험료
+4|퇴직 연금에 더 많이 적립하기로 했어요.|I decided to contribute more to my retirement plan.|contribute=적립하다·기여하다; retirement plan=퇴직 연금
+4|그는 분산 투자로 위험을 줄였습니다.|He reduced his risk by diversifying his investments.|diversify=분산하다; investment=투자
+4|송금이 처리되기까지 영업일 기준 이틀이 걸립니다.|The transfer takes two business days to process.|process=처리하다
+4|그 가계는 소득의 30%를 주거비로 씁니다.|The household spends thirty percent of its income on housing.|household=가구·가계; income=소득; housing=주거
+4|세금 공제를 받으려면 영수증을 보관하세요.|Keep your receipts to qualify for tax deductions.|qualify for=~의 자격을 얻다; deduction=공제
+4|그 회사는 직원들에게 주식 매수 선택권을 줍니다.|The company grants stock options to its employees.|grant=부여하다; stock option=주식 매수 선택권
+4|물가가 올라서 생활비 부담이 커졌어요.|Rising prices have increased the cost of living.|cost of living=생활비
+@home
+3|세탁기가 고장 나서 수리 기사를 불렀어요.|The washing machine broke down, so I called a repair technician.|break down=고장 나다; repair=수리
+3|관리비에 난방비가 포함돼 있나요?|Does the maintenance fee include heating?|maintenance fee=관리비; heating=난방
+3|이번 주말에 대청소를 할 거예요.|I'm going to do a thorough cleaning this weekend.|thorough=철저한
+3|분리수거는 화요일과 금요일에 합니다.|Recycling is collected on Tuesdays and Fridays.|recycling=재활용(품); collect=수거하다
+4|보증금은 계약 종료 시 돌려받습니다.|The security deposit is returned at the end of the lease.|security deposit=보증금
+4|이웃집 공사 소음 때문에 잠을 설쳤어요.|I couldn't sleep well because of construction noise next door.|construction=공사; next door=옆집에
+4|에너지 효율 등급이 높은 가전을 샀어요.|I bought an appliance with a high energy efficiency rating.|appliance=가전제품; rating=등급
+4|그 아파트는 역에서 걸어서 5분 거리입니다.|The apartment is within a five-minute walk of the station.|within=~이내에
+4|입주 전에 도배와 바닥 공사를 마칠 예정입니다.|The wallpapering and flooring will be finished before move-in.|wallpapering=도배; flooring=바닥재; move-in=입주
+4|가구는 조립이 필요한 상태로 배송됩니다.|The furniture is delivered unassembled.|furniture=가구; unassembled=조립되지 않은
+@study
+3|그 강의는 매주 화요일 저녁에 열립니다.|The lecture is held every Tuesday evening.|lecture=강의
+3|과제 제출 기한을 연장받을 수 있을까요?|Could I get an extension on the assignment?|extension=연장; assignment=과제
+3|시험 범위는 1장부터 5장까지입니다.|The exam covers chapters one through five.|cover=다루다; chapter=장
+4|그 과목은 선수 과목을 이수해야 들을 수 있습니다.|You must complete a prerequisite before taking that course.|prerequisite=선수 과목·전제 조건
+4|논문 초안에 대한 피드백을 받고 싶습니다.|I'd like some feedback on my thesis draft.|thesis=논문
+4|그 교수님은 연구 실적이 뛰어납니다.|The professor has an outstanding research record.|research record=연구 실적
+4|출석률이 성적에 반영됩니다.|Attendance is factored into your grade.|factor into=~에 반영하다; grade=성적
+4|그녀는 수석으로 졸업했습니다.|She graduated at the top of her class.|graduate=졸업하다
+4|이 학위는 업계에서 높이 평가받습니다.|This degree is highly valued in the industry.|degree=학위; valued=평가받는
+4|토론 수업에서는 근거를 들어 주장해야 합니다.|In seminar discussions, you must support your claims with evidence.|seminar=토론 수업; claim=주장
+4|도서관 자료는 2주간 대출할 수 있습니다.|Library materials can be borrowed for two weeks.|borrow=빌리다
+4|표절은 엄격히 금지됩니다.|Plagiarism is strictly prohibited.|plagiarism=표절; prohibit=금지하다
+4|그는 장학금 덕분에 학비 걱정 없이 공부했습니다.|Thanks to a scholarship, he studied without worrying about tuition.|tuition=수업료
+@biz
+4|그 회사는 경쟁 입찰에서 계약을 따냈습니다.|The company won the contract through competitive bidding.|bidding=입찰
+4|계약 조건을 일부 수정하자고 제안했습니다.|We proposed amending some of the contract terms.|amend=수정하다; terms=조건
+4|그 공급망 문제로 납품이 2주 늦어졌습니다.|The supply chain issue delayed delivery by two weeks.|supply chain=공급망
+4|그 제품의 판매 실적이 기대에 못 미쳤습니다.|Sales of the product fell short of expectations.|fall short of=~에 못 미치다
+4|신규 시장 진출을 위한 현지 파트너를 찾고 있습니다.|We are looking for a local partner to enter a new market.|enter a market=시장에 진출하다
+4|그 계약은 3년 후 재협상할 수 있습니다.|The contract can be renegotiated after three years.|renegotiate=재협상하다
+4|우리 측 제안을 재검토해 주시면 감사하겠습니다.|We would appreciate it if you could reconsider our offer.|reconsider=재고하다
+4|그 거래는 아직 최종 단계에 이르지 못했습니다.|The deal has not yet been finalized.|finalize=마무리하다
+4|양사는 기술 협력 양해각서를 체결했습니다.|The two companies signed a memorandum of understanding on technical cooperation.|memorandum of understanding=양해각서; cooperation=협력
+4|그 브랜드는 고급 시장을 목표로 합니다.|The brand targets the premium market.|target=겨냥하다; premium=고급의
+4|고객 피드백을 반영해 제품을 개선했습니다.|We improved the product based on customer feedback.|based on=~에 근거하여
+4|올해 광고 예산이 대폭 삭감됐습니다.|This year's advertising budget was cut drastically.|drastically=대폭
+4|그 기업은 업계 최초로 그 기술을 상용화했습니다.|The firm was the first in the industry to commercialize the technology.|commercialize=상용화하다
+4|경쟁사 대비 우리 강점을 분명히 해야 합니다.|We need to clarify our strengths relative to competitors.|clarify=분명히 하다; relative to=~에 비해
+@cook
+3|이 요리는 전날 미리 준비해 둘 수 있어요.|This dish can be prepared a day in advance.|in advance=미리
+3|재료는 모두 현지에서 조달합니다.|All the ingredients are sourced locally.|ingredient=재료; source=조달하다
+4|그 식당은 제철 재료로 메뉴를 바꿉니다.|The restaurant changes its menu based on seasonal ingredients.|seasonal=제철의
+4|알레르기가 있으시면 주문 시 알려 주세요.|Please let us know of any allergies when ordering.|allergy=알레르기
+4|오븐을 180도로 예열해 주세요.|Preheat the oven to one hundred eighty degrees.|preheat=예열하다
+4|이 소스는 냉장 보관하면 일주일 갑니다.|This sauce keeps for a week in the refrigerator.|keep=(음식이) 상하지 않고 가다
+@hobby
+3|요즘 주말마다 등산을 다녀요.|These days I go hiking every weekend.|go hiking=등산하다
+3|사진 동호회에 가입했어요.|I joined a photography club.|photography=사진(술)
+4|그 마라톤 대회에 참가 신청을 했어요.|I signed up for the marathon.|sign up for=~에 신청하다
+4|악기를 배우는 건 인내심이 필요해요.|Learning an instrument requires patience.|instrument=악기; patience=인내심
+4|취미 덕분에 스트레스가 많이 풀려요.|My hobby helps me relieve a lot of stress.|relieve=덜다·완화하다
+4|그 전시회는 다음 달까지 열립니다.|The exhibition runs until next month.|exhibition=전시회; run=계속되다
+@nature
+3|이번 주말에 폭우가 예상됩니다.|Heavy rain is expected this weekend.|heavy rain=폭우
+4|태풍 경보가 해안 지역에 발령됐습니다.|A typhoon warning has been issued for coastal areas.|warning=경보; coastal=해안의
+4|기온이 평년보다 훨씬 높습니다.|Temperatures are well above average for this time of year.|above average=평균 이상의
+4|미세먼지 때문에 야외 활동을 자제하세요.|Avoid outdoor activities due to fine dust.|fine dust=미세먼지
+@culture
+4|그 축제는 매년 수만 명의 관광객을 끌어모읍니다.|The festival attracts tens of thousands of tourists every year.|attract=끌어모으다
+4|그 전통은 수백 년 동안 이어져 왔습니다.|The tradition has been carried on for centuries.|carry on=이어 가다; century=세기
+4|공연 중에는 사진 촬영이 금지됩니다.|Photography is not permitted during the performance.|permit=허용하다; performance=공연
+@family
+3|부모님과 주말마다 영상 통화를 해요.|I video-call my parents every weekend.|video-call=영상 통화하다
+4|육아 휴직을 1년 동안 쓸 계획이에요.|I plan to take a year of parental leave.|parental leave=육아 휴직
+4|형은 저와 성격이 정반대예요.|My brother and I have completely opposite personalities.|opposite=정반대의; personality=성격
+4|가족 모임은 보통 명절에 해요.|We usually have family gatherings on holidays.|gathering=모임
+@greet
+3|만나 뵙게 되어 영광입니다.|It's an honor to meet you.|honor=영광
+4|오래전부터 말씀 많이 들었습니다.|I've heard a great deal about you.|a great deal=많이
+4|이쪽은 제 직장 동료인 사라입니다.|This is Sarah, a colleague of mine.|colleague=동료
+@daily
+3|요즘 일과 생활의 균형을 맞추려고 노력해요.|These days I'm trying to maintain a good work-life balance.|work-life balance=일과 삶의 균형
+4|아침 일찍 일어나는 습관을 들이고 있어요.|I'm trying to get into the habit of waking up early.|get into the habit of=~하는 습관을 들이다
+4|출근길이 너무 막혀서 지각할 뻔했어요.|My commute was so congested that I was almost late.|commute=출퇴근길; congested=혼잡한
+@time
+4|그 행사는 오전 9시 정각에 시작합니다.|The event starts promptly at nine a.m.|promptly=정각에
+4|업무 시간 외에는 이메일에 답하지 않습니다.|I don't answer emails outside of business hours.|business hours=업무 시간
+4|일정이 겹쳐서 하나를 취소해야 했어요.|My schedule overlapped, so I had to cancel one appointment.|overlap=겹치다
+@food
+3|창가 자리로 예약할 수 있을까요?|Could I reserve a table by the window?|reserve=예약하다
+4|그 레스토랑은 몇 주 전에 예약해야 합니다.|You need to book that restaurant weeks in advance.|book=예약하다
+4|단체 손님은 봉사료가 자동으로 추가됩니다.|A service charge is automatically added for large groups.|automatically=자동으로

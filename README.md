@@ -1,11 +1,12 @@
 # 말모이 듀오 — 베트남어·영어 회화 연습 PWA
 
-혼자 쓰는 회화 연습 앱. 베트남어(북부 표준) 2,100문장·단어 2,876개, 영어 668문장·표현 749개.
-상황 25개(영어는 15개) × 레벨 4단계(기초~고급), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
+혼자 쓰는 회화 연습 앱. 베트남어(북부 표준) 2,386문장·단어 3,098개, 영어 1,833문장·표현 2,061개.
+상황 27개(베트남어)·33개(영어) × 레벨 4단계(기초~고급), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
 
 ## 폴더 구조
 ```
 content/     문장 원본 (vi_*.txt, en_*.txt) ← 문장 추가·수정은 여기서
+sources/     첨부 비즈니스 영어 DB 600개 + 한국어 해석 → `python3 sources/gen_biz.py`로 content/en_x_biz.txt 생성
 src/         앱 소스 (app.html, sw.js, manifest.json, icons/)
 build.py     content + src → dist 생성
 dist/        배포되는 결과물 (Vercel이 이 폴더를 서비스)
@@ -26,7 +27,8 @@ push하면 Vercel이 자동으로 배포합니다 (보통 1분 이내).
 2|포장해 주세요.|Cho tôi mang về.|mang về=가지고 가다
 ```
 - 카테고리: greet daily food shop move stay time phone work social health travel trouble opinion life
-  cook hobby biz home money tech nature culture family study (현재 베트남어 전용)
+  cook hobby biz home money tech nature culture family study
+  movie book (베트남어) · toeic acad mgmt org econ fin ai energy (영어)
 - 메모 칸에 연결 문형을 적어 두면 카드 뒷면에 표시됨 (예: vì A nên B = A 때문에 B)
 - 레벨: 1 기초 · 2 초중급 · 3 중급 · 4 고급
 - 진도는 원어 문장 기준 ID로 저장 → 순서를 바꾸거나 추가해도 기존 진도 유지 (원어를 고친 문장만 새 카드)

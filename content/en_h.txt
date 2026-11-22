@@ -1,0 +1,104 @@
+# 토익·토플 고급 어휘 + 토플 스피킹형 의견 문장 (Lv3~4)
+@toeic
+4|그 지연은 불가피했습니다.|The delay was unavoidable.|unavoidable=불가피한
+4|그는 그 정책의 열렬한 지지자입니다.|He is an ardent supporter of the policy.|ardent=열렬한; supporter=지지자
+4|그 결정은 성급했던 것으로 드러났습니다.|The decision turned out to be premature.|premature=시기상조의·성급한
+4|그 보고서는 지나치게 장황합니다.|The report is excessively wordy.|excessively=지나치게; wordy=장황한
+4|그녀는 세부 사항에 매우 꼼꼼합니다.|She is meticulous about details.|meticulous=꼼꼼한
+4|그 조치는 문제를 오히려 악화시켰습니다.|The measure only aggravated the problem.|aggravate=악화시키다
+4|회사는 그 실수를 공개적으로 인정했습니다.|The company publicly acknowledged the mistake.|acknowledge=인정하다
+4|그 협상은 순조롭게 진행되고 있습니다.|The negotiations are proceeding smoothly.|smoothly=순조롭게
+4|그 소문은 근거 없는 것으로 밝혀졌습니다.|The rumor proved to be unfounded.|unfounded=근거 없는
+4|그 제품은 시장에서 큰 반향을 일으켰습니다.|The product caused quite a stir in the market.|cause a stir=반향을 일으키다
+4|그는 회의 내내 무관심한 태도를 보였습니다.|He appeared indifferent throughout the meeting.|indifferent=무관심한
+4|그 계획은 처음부터 결함이 있었습니다.|The plan was flawed from the outset.|flawed=결함 있는; from the outset=처음부터
+4|그 정책은 소비 위축을 초래할 수 있습니다.|The policy could lead to a decline in consumption.|lead to=초래하다; consumption=소비
+4|그 문제를 해결할 실질적인 방안이 필요합니다.|We need practical measures to tackle the problem.|practical=실질적인; tackle=다루다·해결하다
+4|그는 그 결정에 강하게 이의를 제기했습니다.|He strongly objected to the decision.|object to=~에 반대하다
+4|비용 대비 효과를 따져 봐야 합니다.|We need to weigh the costs against the benefits.|weigh=저울질하다
+4|그 회사는 시장 변화에 신속하게 대응했습니다.|The company responded swiftly to market changes.|swiftly=신속하게
+4|그 가격은 합리적인 수준입니다.|The price is reasonable.|reasonable=합리적인·적당한
+4|그 정보는 아직 공식적으로 확인되지 않았습니다.|The information has not been officially confirmed.|officially=공식적으로
+4|그 제안은 검토할 가치가 충분합니다.|The proposal is well worth considering.|be worth -ing=~할 가치가 있다
+4|그는 그 문제를 의도적으로 회피했습니다.|He deliberately avoided the issue.|deliberately=의도적으로; avoid=피하다
+4|이번 결과는 고무적입니다.|These results are encouraging.|encouraging=고무적인
+4|그 기업은 혁신적인 문화로 잘 알려져 있습니다.|The company is well known for its innovative culture.|innovative=혁신적인
+4|그 계획은 현실적인 대안이 아닙니다.|The plan is not a viable alternative.|viable=실행 가능한; alternative=대안
+4|직원들의 사기가 크게 떨어졌습니다.|Employee morale has dropped significantly.|morale=사기
+4|그 분쟁은 법정 밖에서 해결됐습니다.|The dispute was settled out of court.|dispute=분쟁; settle=해결하다
+4|그는 그 직책에서 물러나기로 했습니다.|He decided to step down from the position.|step down=물러나다
+4|그 정책은 일시적으로 중단됐습니다.|The policy has been suspended temporarily.|suspend=일시 중단하다
+4|우리는 그 위험을 최소화하려고 노력하고 있습니다.|We are trying to minimize the risk.|minimize=최소화하다
+4|그 결과는 우리의 예상을 완전히 뒤엎었습니다.|The results completely defied our expectations.|defy=거스르다·뒤엎다
+4|그 상황은 점점 통제 불능이 되고 있습니다.|The situation is getting out of hand.|out of hand=통제 불능의
+4|그 회사는 매우 까다로운 고객을 상대합니다.|The company deals with very demanding clients.|demanding=까다로운; deal with=상대하다
+4|그 계약은 몇 가지 조건부로 체결됐습니다.|The contract was signed with several stipulations.|stipulation=조건·규정
+4|그는 그 프로젝트에 결정적인 기여를 했습니다.|He made a decisive contribution to the project.|decisive=결정적인; contribution=기여
+4|그 문제는 시간이 지나면 저절로 해결될 것입니다.|The problem will resolve itself over time.|resolve itself=저절로 해결되다
+4|그 정책은 광범위한 지지를 받고 있습니다.|The policy enjoys widespread support.|widespread=광범위한
+4|그 결정은 신중하지 못했다는 비판을 받았습니다.|The decision was criticized as imprudent.|imprudent=경솔한
+4|그 회사는 불황에도 꾸준한 이익을 냈습니다.|The company stayed profitable despite the recession.|profitable=수익성 있는; recession=불황
+4|그 수치는 과장된 것일 가능성이 있습니다.|The figures may have been exaggerated.|exaggerate=과장하다
+4|그 일은 내 권한 밖의 일입니다.|That falls outside my area of responsibility.|fall outside=~의 범위 밖이다
+4|그의 설명은 모호하고 일관성이 없었습니다.|His explanation was vague and inconsistent.|vague=모호한; inconsistent=일관성 없는
+4|그 정책은 장기적인 관점에서 수립됐습니다.|The policy was formulated with a long-term perspective.|formulate=수립하다; perspective=관점
+4|그 제품은 젊은 층을 겨냥하고 있습니다.|The product is aimed at younger consumers.|be aimed at=~을 겨냥하다
+4|그는 그 자리에 적임자입니다.|He is the right person for the job.|right person=적임자
+4|그 문제는 더 이상 미룰 수 없습니다.|The issue can no longer be put off.|put off=미루다
+4|그 프로그램은 참가자들로부터 호평을 받았습니다.|The program was well received by participants.|well received=호평받은
+4|그 기술은 아직 초기 단계에 있습니다.|The technology is still in its infancy.|infancy=초기 단계·유아기
+4|그 협약은 법적 구속력이 없습니다.|The accord is not legally binding.|accord=협약; legally=법적으로
+4|그 문제의 근본 원인을 파악해야 합니다.|We need to identify the root cause of the problem.|root cause=근본 원인
+4|그의 주장은 논리적 비약이 있습니다.|His argument contains a leap in logic.|leap=비약
+4|그 회사는 새로운 분야로 사업을 다각화했습니다.|The company diversified into new areas of business.|diversify=다각화하다
+4|그 조사 결과는 예상과 상반됩니다.|The survey findings run counter to expectations.|run counter to=~와 상반되다
+4|그녀는 어려운 상황에서도 냉정을 잃지 않았습니다.|She kept her composure in a difficult situation.|composure=평정
+4|그 사업은 막대한 초기 투자가 필요합니다.|The venture requires a hefty initial investment.|venture=(모험적) 사업; hefty=막대한; initial=초기의
+4|그는 비판을 겸허하게 받아들였습니다.|He accepted the criticism with humility.|humility=겸손
+4|그 회사는 공정 거래 규정을 위반했습니다.|The company violated fair trade regulations.|violate=위반하다
+4|그 결정은 직원들의 강한 반발을 샀습니다.|The decision provoked strong backlash from employees.|provoke=유발하다; backlash=반발
+4|그 문제에 대한 대중의 인식이 높아졌습니다.|Public awareness of the issue has increased.|awareness=인식
+4|그 계획에는 추가 자금이 필수적입니다.|Additional funding is indispensable to the plan.|indispensable=필수 불가결한; funding=자금
+4|그 기업은 지속 가능한 경영을 추구합니다.|The company pursues sustainable management.|pursue=추구하다; sustainable=지속 가능한
+@opinion
+3|저는 재택근무가 생산성을 높인다고 생각합니다.|I believe working from home increases productivity.|productivity=생산성
+3|제 생각에는 대중교통을 확충하는 게 더 효과적입니다.|In my view, expanding public transportation would be more effective.|in my view=제 생각에는; expand=확충하다
+3|이 문제에는 장단점이 모두 있습니다.|There are both advantages and disadvantages to this issue.|advantage=장점; disadvantage=단점
+3|첫째, 비용이 훨씬 적게 듭니다.|First of all, it costs much less.|first of all=우선·첫째
+3|게다가 시간을 많이 절약할 수 있습니다.|In addition, it saves a great deal of time.|in addition=게다가; a great deal of=많은
+4|반면에 단점도 무시할 수 없습니다.|On the other hand, the drawbacks cannot be ignored.|on the other hand=반면에; drawback=단점
+4|이런 이유로 저는 그 제안에 찬성합니다.|For these reasons, I'm in favor of the proposal.|in favor of=~에 찬성하는
+4|개인적인 경험을 예로 들어 보겠습니다.|Let me give an example from my own experience.|give an example=예를 들다
+4|어떤 사람들은 그 반대라고 주장하기도 합니다.|Some people argue the opposite.|argue=주장하다; opposite=반대
+4|결국 그건 개인의 선택에 달려 있습니다.|Ultimately, it comes down to personal choice.|ultimately=결국; come down to=~로 귀결되다
+4|장기적으로 보면 이점이 비용보다 큽니다.|In the long term, the benefits outweigh the costs.|outweigh=~보다 크다
+4|학생들은 실용적인 기술을 배워야 한다고 생각합니다.|I think students should learn practical skills.|practical=실용적인
+4|기술 발전이 반드시 삶을 더 낫게 만드는 건 아닙니다.|Technological progress does not necessarily make life better.|not necessarily=반드시 ~인 것은 아니다
+4|그 주장에 부분적으로는 동의합니다.|I partly agree with that argument.|partly=부분적으로
+4|그 점에 대해서는 의견이 다릅니다.|I see things differently on that point.|see things differently=다르게 보다
+4|요컨대, 균형 잡힌 접근이 필요합니다.|In short, a balanced approach is needed.|in short=요컨대; balanced=균형 잡힌
+4|그 정책은 의도는 좋지만 실행이 어렵습니다.|The policy is well-intentioned but hard to implement.|well-intentioned=의도가 좋은; implement=시행하다
+4|그것이 제가 혼자 공부하는 걸 선호하는 이유입니다.|That's why I prefer studying on my own.|prefer=선호하다; on one's own=혼자서
+4|대학은 학생들에게 더 많은 선택권을 줘야 합니다.|Universities should give students more choices.|choice=선택(권)
+4|이 사례는 협업의 중요성을 잘 보여 줍니다.|This case clearly illustrates the importance of collaboration.|illustrate=보여 주다; collaboration=협업
+4|그 변화는 긍정적인 영향을 더 많이 줄 거라고 봅니다.|I expect the change to have more positive effects than negative ones.|positive=긍정적인; negative=부정적인
+4|무엇보다 건강이 가장 중요하다고 생각합니다.|Above all, I think health matters most.|above all=무엇보다
+4|그 결정은 지역 사회 전체에 이익이 될 것입니다.|The decision will benefit the entire community.|benefit=이익이 되다; community=지역 사회
+@life
+3|대학 시절 가장 기억에 남는 경험은 해외 교환 학생이었어요.|My most memorable experience in college was studying abroad as an exchange student.|memorable=기억에 남는; exchange student=교환 학생
+3|그 경험 덕분에 시야가 넓어졌어요.|That experience broadened my horizons.|broaden one's horizons=시야를 넓히다
+4|처음엔 힘들었지만 결국 많은 걸 배웠어요.|It was tough at first, but I ended up learning a lot.|end up=결국 ~하게 되다
+4|그 일을 계기로 진로를 바꾸게 됐어요.|That incident led me to change my career path.|career path=진로
+4|돌이켜 보면 그건 옳은 결정이었어요.|Looking back, it was the right decision.|looking back=돌이켜 보면
+4|그 선생님은 제 인생에 큰 영향을 주셨어요.|That teacher had a huge influence on my life.|influence=영향
+4|실패를 통해 끈기의 중요성을 배웠어요.|Failure taught me the importance of persistence.|persistence=끈기
+4|그때 그 기회를 잡지 않았다면 후회했을 거예요.|I would have regretted it if I hadn't taken that opportunity.|regret=후회하다; opportunity=기회
+4|낯선 환경에 적응하는 데 몇 달이 걸렸어요.|It took me a few months to adjust to the unfamiliar environment.|adjust to=적응하다; unfamiliar=낯선
+4|그 경험은 제게 자신감을 심어 줬어요.|The experience gave me a sense of confidence.|confidence=자신감
+@social
+3|요즘 어떤 일로 바쁘게 지내세요?|What have you been keeping busy with lately?|keep busy=바쁘게 지내다; lately=요즘
+3|그 소식 들으니 정말 반갑네요.|I'm really glad to hear that.|glad=기쁜
+4|다음에 기회가 되면 꼭 같이 식사해요.|Let's definitely grab a meal together next time we get the chance.|grab a meal=간단히 식사하다
+4|그 행사에서 업계 사람들을 많이 만났어요.|I met a lot of people from the industry at the event.|industry=업계
+4|명함 한 장 받을 수 있을까요?|Could I have one of your business cards?|business card=명함
+4|오늘 덕분에 즐거운 시간 보냈어요.|Thanks to you, I had a wonderful time today.|thanks to=~덕분에

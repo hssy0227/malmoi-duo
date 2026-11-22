@@ -1,0 +1,121 @@
+# 토플 학술·교양 문장 (Lv3~4)
+@acad
+3|광합성은 빛 에너지를 화학 에너지로 바꿉니다.|Photosynthesis converts light energy into chemical energy.|photosynthesis=광합성; convert=바꾸다
+3|많은 동물이 겨울잠으로 혹독한 겨울을 견딥니다.|Many animals survive harsh winters by hibernating.|harsh=혹독한; hibernate=겨울잠을 자다
+3|그 종은 서식지 파괴로 멸종 위기에 처해 있습니다.|The species is endangered due to habitat loss.|species=종; endangered=멸종 위기의; habitat=서식지
+3|화석은 고대 생물에 대한 단서를 제공합니다.|Fossils provide clues about ancient organisms.|fossil=화석; organism=생물
+3|산업혁명은 18세기 영국에서 시작됐습니다.|The Industrial Revolution began in eighteenth-century Britain.|revolution=혁명
+3|그 이론은 처음에 많은 학자에게 거부당했습니다.|The theory was initially rejected by many scholars.|initially=처음에; scholar=학자
+3|기후는 지역의 농업 방식에 큰 영향을 줍니다.|Climate strongly influences a region's farming practices.|influence=영향을 주다; practice=관행·방식
+3|그 실험은 여러 번 반복돼 같은 결과를 냈습니다.|The experiment was repeated several times with the same results.|experiment=실험
+3|빙하가 녹으면서 해수면이 상승하고 있습니다.|Sea levels are rising as glaciers melt.|glacier=빙하; melt=녹다
+3|고대 문명은 대개 큰 강 근처에서 발달했습니다.|Ancient civilizations usually developed near major rivers.|civilization=문명
+3|꿀벌은 식물의 수분에 중요한 역할을 합니다.|Bees play a vital role in pollinating plants.|vital=필수적인; pollinate=수분시키다
+3|그 지역의 인구는 지난 10년간 두 배가 됐습니다.|The region's population doubled over the past decade.|population=인구
+3|화산 폭발은 주변 기후를 일시적으로 바꿀 수 있습니다.|Volcanic eruptions can temporarily alter the local climate.|volcanic=화산의; eruption=분출
+3|그 작가의 초기 작품은 자연을 주제로 했습니다.|The author's early works focused on nature.|work=작품
+3|그 그림은 르네상스 양식의 특징을 잘 보여 줍니다.|The painting shows the typical features of Renaissance style.|typical=전형적인; feature=특징
+3|이주는 그 도시의 문화를 다양하게 만들었습니다.|Immigration diversified the city's culture.|immigration=이민·이주; diversify=다양화하다
+3|그 박테리아는 극한 환경에서도 살아남습니다.|The bacteria survive even in extreme environments.|extreme=극한의
+3|대부분의 행성은 같은 방향으로 공전합니다.|Most planets orbit in the same direction.|planet=행성; orbit=공전하다
+3|토양 침식은 농업 생산성을 떨어뜨립니다.|Soil erosion reduces agricultural productivity.|erosion=침식; agricultural=농업의
+3|그 언어는 사용자가 줄어 사라질 위기입니다.|The language is in danger of dying out as speakers decline.|die out=사라지다; decline=줄어들다
+4|그 가설은 아직 경험적으로 검증되지 않았습니다.|The hypothesis has not yet been empirically tested.|hypothesis=가설; empirically=경험적으로
+4|자연 선택은 진화의 핵심 메커니즘입니다.|Natural selection is the primary mechanism of evolution.|natural selection=자연 선택; evolution=진화
+4|그 생물은 주변 환경에 맞춰 몸 색깔을 바꿉니다.|The organism changes its color to blend in with its surroundings.|blend in=섞여 들다; surroundings=주변 환경
+4|공생 관계에서는 두 종이 모두 이익을 얻습니다.|In a symbiotic relationship, both species benefit.|symbiotic=공생의
+4|먹이 사슬의 한 고리가 무너지면 생태계 전체가 흔들립니다.|If one link in the food chain collapses, the whole ecosystem is affected.|food chain=먹이 사슬; ecosystem=생태계
+4|그 지층은 수백만 년에 걸쳐 형성됐습니다.|The rock layers formed over millions of years.|layer=층; form=형성되다
+4|판 구조론은 대륙 이동을 설명합니다.|Plate tectonics explains the movement of continents.|plate tectonics=판 구조론; continent=대륙
+4|그 시기에는 무역이 도시 성장의 원동력이었습니다.|Trade was the driving force behind urban growth during that period.|driving force=원동력; urban=도시의
+4|봉건 제도는 토지 소유를 중심으로 구성됐습니다.|The feudal system was organized around land ownership.|feudal=봉건의; ownership=소유
+4|그 발견은 기존 학설을 근본적으로 뒤집었습니다.|The discovery fundamentally overturned the prevailing theory.|overturn=뒤집다; prevailing=지배적인
+4|인쇄술의 발명은 지식의 확산을 가속했습니다.|The invention of printing accelerated the spread of knowledge.|invention=발명; accelerate=가속하다
+4|그 부족은 유목 생활을 했습니다.|The tribe led a nomadic way of life.|tribe=부족; nomadic=유목의
+4|그 작품은 당시 사회의 불평등을 비판합니다.|The work criticizes the inequality of society at the time.|criticize=비판하다; inequality=불평등
+4|그 건축 양식은 기능보다 장식을 중시했습니다.|The architectural style emphasized ornamentation over function.|architectural=건축의; ornamentation=장식
+4|심리학자들은 기억이 재구성된다고 봅니다.|Psychologists believe that memories are reconstructed.|psychologist=심리학자; reconstruct=재구성하다
+4|그 연구는 수면 부족이 인지 능력을 떨어뜨린다고 밝혔습니다.|The study found that sleep deprivation impairs cognitive function.|deprivation=결핍; impair=손상시키다; cognitive=인지의
+4|아이들은 모방을 통해 언어를 습득합니다.|Children acquire language through imitation.|acquire=습득하다; imitation=모방
+4|그 행동은 본능적인 것이지 학습된 것이 아닙니다.|The behavior is instinctive rather than learned.|instinctive=본능적인
+4|조수 간만의 차는 달의 인력 때문에 생깁니다.|Tides are caused by the moon's gravitational pull.|tide=조수; gravitational=중력의
+4|대기 중 이산화탄소 농도가 꾸준히 증가하고 있습니다.|The concentration of carbon dioxide in the atmosphere is steadily rising.|concentration=농도; atmosphere=대기
+4|사막 식물은 수분을 저장하도록 적응했습니다.|Desert plants have adapted to store water.|adapt=적응하다; store=저장하다
+4|그 동물은 주로 밤에 활동하는 야행성입니다.|The animal is nocturnal and mostly active at night.|nocturnal=야행성의
+4|철새는 수천 킬로미터를 이동합니다.|Migratory birds travel thousands of kilometers.|migratory=이주하는
+4|그 고고학 유적은 우연히 발견됐습니다.|The archaeological site was discovered by accident.|archaeological=고고학의; site=유적지
+4|그 문명이 쇠퇴한 원인은 여전히 논쟁 중입니다.|The causes of the civilization's decline are still debated.|decline=쇠퇴; debate=논쟁하다
+4|가뭄이 길어지면서 농작물 수확량이 급감했습니다.|Crop yields fell sharply as the drought dragged on.|crop yield=수확량; drought=가뭄; drag on=질질 끌다
+4|초기 정착민들은 원주민과 교역했습니다.|Early settlers traded with the indigenous people.|settler=정착민; indigenous=토착의
+4|그 소설은 인간 본성에 대한 깊은 통찰을 담고 있습니다.|The novel offers profound insights into human nature.|profound=심오한; insight=통찰
+4|그 시인은 은유를 능숙하게 사용합니다.|The poet makes skillful use of metaphor.|metaphor=은유
+4|경제학자들은 그 정책의 효과에 대해 의견이 갈립니다.|Economists are divided over the effectiveness of the policy.|be divided over=의견이 갈리다; effectiveness=효과
+4|수요와 공급이 시장 가격을 결정합니다.|Supply and demand determine market prices.|determine=결정하다
+4|그 이론은 관찰 가능한 현상을 설명하지 못합니다.|The theory fails to account for observable phenomena.|account for=설명하다; phenomenon=현상(복수 phenomena)
+4|빛은 입자이자 파동처럼 행동합니다.|Light behaves both as a particle and as a wave.|particle=입자; wave=파동
+4|그 원소는 자연 상태에서 매우 드뭅니다.|The element is extremely rare in nature.|element=원소
+4|세포는 생명의 기본 단위입니다.|The cell is the basic unit of life.|cell=세포; unit=단위
+4|유전자 변이가 그 질병의 원인입니다.|A genetic mutation is responsible for the disease.|genetic=유전의; mutation=돌연변이
+4|백신은 면역 체계가 병원체를 인식하도록 돕습니다.|Vaccines help the immune system recognize pathogens.|immune system=면역 체계; pathogen=병원체
+4|그 과정은 여러 단계로 나뉩니다.|The process can be divided into several stages.|stage=단계
+4|그 도시는 계획적으로 격자형으로 설계됐습니다.|The city was deliberately laid out in a grid pattern.|deliberately=의도적으로; lay out=배치하다
+4|그 제국은 정복을 통해 영토를 넓혔습니다.|The empire expanded its territory through conquest.|empire=제국; territory=영토; conquest=정복
+4|그 조약으로 오랜 전쟁이 끝났습니다.|The treaty brought an end to a long war.|treaty=조약
+4|그 운동은 여성의 참정권을 요구했습니다.|The movement demanded voting rights for women.|movement=(사회) 운동; voting rights=참정권
+4|그 사회는 엄격한 계급 구조를 갖고 있었습니다.|The society had a rigid class structure.|rigid=엄격한; class=계급
+4|연구자들은 그 데이터에서 뚜렷한 패턴을 발견했습니다.|Researchers identified a distinct pattern in the data.|identify=발견하다; distinct=뚜렷한
+4|그 결론은 제한된 표본에 근거하고 있습니다.|The conclusion is based on a limited sample.|sample=표본
+4|그 현상은 아직 완전히 이해되지 않았습니다.|The phenomenon is not yet fully understood.|fully=완전히
+4|그 주장은 설득력 있는 증거로 뒷받침됩니다.|The claim is supported by compelling evidence.|claim=주장; compelling=설득력 있는
+4|그 이론에는 몇 가지 반론이 제기됐습니다.|Several objections have been raised against the theory.|objection=반론
+4|교수님은 그 개념을 비유로 설명했습니다.|The professor explained the concept using an analogy.|concept=개념; analogy=비유
+4|그 강의는 생물 다양성의 중요성을 다뤘습니다.|The lecture addressed the importance of biodiversity.|address=다루다; biodiversity=생물 다양성
+4|그 동굴 벽화는 수만 년 전의 것으로 추정됩니다.|The cave paintings are estimated to be tens of thousands of years old.|estimate=추정하다
+4|그 지역은 비옥한 토양으로 유명했습니다.|The region was known for its fertile soil.|fertile=비옥한; soil=토양
+4|관개 시설 덕분에 건조한 땅에서도 농사가 가능해졌습니다.|Irrigation made farming possible even on dry land.|irrigation=관개
+4|그 산업은 값싼 노동력에 의존했습니다.|The industry depended on cheap labor.|depend on=~에 의존하다; labor=노동력
+4|도시화로 농촌 인구가 크게 줄었습니다.|Urbanization greatly reduced the rural population.|urbanization=도시화; rural=농촌의
+4|그 미생물은 유기물을 분해합니다.|The microorganisms break down organic matter.|microorganism=미생물; break down=분해하다; organic matter=유기물
+4|그 동물은 무리 지어 사냥합니다.|The animals hunt in packs.|pack=(동물) 무리
+4|산호초는 해양 생물에게 서식지를 제공합니다.|Coral reefs provide habitats for marine life.|coral reef=산호초; marine=해양의
+4|숲이 사라지면 지역 강수량이 줄어들 수 있습니다.|Deforestation can reduce local rainfall.|deforestation=삼림 벌채; rainfall=강수량
+4|그 별은 태양보다 훨씬 큰 질량을 가집니다.|The star has a far greater mass than the sun.|mass=질량
+4|은하는 수십억 개의 별로 이루어져 있습니다.|A galaxy consists of billions of stars.|galaxy=은하; consist of=~로 이루어지다
+4|그 실험은 통제된 조건에서 진행됐습니다.|The experiment was carried out under controlled conditions.|controlled=통제된
+4|변수 하나만 바꾸고 나머지는 일정하게 유지했습니다.|Only one variable was changed while the others were held constant.|variable=변수; constant=일정한
+4|그 예측은 관측 결과와 정확히 일치했습니다.|The prediction matched the observations precisely.|prediction=예측; observation=관측
+4|그 철학자는 이성이 지식의 원천이라고 주장했습니다.|The philosopher argued that reason is the source of knowledge.|philosopher=철학자; reason=이성
+4|그 작곡가는 민속 음악에서 영감을 받았습니다.|The composer drew inspiration from folk music.|composer=작곡가; draw inspiration=영감을 얻다; folk=민속의
+4|그 시대의 예술은 종교적 주제가 지배적이었습니다.|Religious themes dominated the art of that era.|dominate=지배하다; era=시대
+4|그 기술 혁신은 생산 방식을 완전히 바꿨습니다.|The technological innovation transformed methods of production.|innovation=혁신; transform=변화시키다
+4|그 도시는 교역로의 교차점에 위치했습니다.|The city was located at the crossroads of trade routes.|crossroads=교차로; trade route=교역로
+4|그 정책은 의도하지 않은 결과를 낳았습니다.|The policy produced unintended consequences.|unintended=의도하지 않은; consequence=결과
+4|역사학자들은 그 기록의 신빙성을 의심합니다.|Historians question the reliability of the records.|historian=역사학자; reliability=신빙성
+4|그 사건은 국가 정체성 형성에 중요한 계기가 됐습니다.|The event was a turning point in shaping national identity.|turning point=전환점; identity=정체성
+4|지진파를 분석하면 지구 내부 구조를 알 수 있습니다.|Analyzing seismic waves reveals the Earth's internal structure.|seismic=지진의; reveal=드러내다; internal=내부의
+4|그 곤충은 화학 신호로 의사소통합니다.|The insects communicate through chemical signals.|insect=곤충; signal=신호
+4|그 식물은 독성 물질로 포식자를 막습니다.|The plant defends itself against predators with toxic compounds.|predator=포식자; toxic=독성의; compound=화합물
+4|기온 변화는 꽃이 피는 시기에 영향을 줍니다.|Temperature changes affect when flowers bloom.|bloom=꽃이 피다
+4|그 언어학자는 두 언어의 공통 조상을 추적했습니다.|The linguist traced the common ancestor of the two languages.|linguist=언어학자; trace=추적하다; ancestor=조상
+4|그 연구는 동료 평가를 거쳐 학술지에 실렸습니다.|The study was peer-reviewed and published in a journal.|peer-reviewed=동료 평가를 거친; journal=학술지
+4|그 결과는 다른 연구진에 의해 재현됐습니다.|The results were replicated by other research teams.|replicate=재현하다
+4|그 학설은 이후 연구에 큰 영향을 미쳤습니다.|The theory had a profound influence on later research.|profound=지대한
+4|생태학자들은 그 지역의 생물 개체 수를 조사했습니다.|Ecologists surveyed the populations of organisms in the area.|ecologist=생태학자; survey=조사하다
+4|그 금속은 열과 전기를 잘 전도합니다.|The metal conducts heat and electricity well.|conduct=전도하다
+4|물은 4도에서 밀도가 가장 높습니다.|Water is densest at four degrees Celsius.|dense=밀도가 높은
+4|그 발명품은 처음엔 상업적으로 실패했습니다.|The invention was initially a commercial failure.|commercial=상업적인; failure=실패
+4|그 연설은 대중의 여론을 크게 움직였습니다.|The speech had a major effect on public opinion.|public opinion=여론
+4|그 인류학자는 그 공동체와 함께 수년간 살았습니다.|The anthropologist lived with the community for several years.|anthropologist=인류학자; community=공동체
+4|그 의식은 세대를 거쳐 전해 내려왔습니다.|The ritual has been passed down through generations.|ritual=의식; pass down=물려주다; generation=세대
+4|그 신화는 자연 현상을 설명하려는 시도였습니다.|The myth was an attempt to explain natural phenomena.|myth=신화; attempt=시도
+4|그 화학 반응은 열을 방출합니다.|The chemical reaction releases heat.|reaction=반응; release=방출하다
+4|그 무역 협정은 관세를 대폭 낮췄습니다.|The trade agreement significantly lowered tariffs.|tariff=관세
+4|그 지도는 당시 사람들의 세계관을 보여 줍니다.|The map reflects how people of the time viewed the world.|reflect=반영하다
+4|그 이론은 단순하지만 설명력이 뛰어납니다.|The theory is simple yet has great explanatory power.|explanatory=설명하는
+4|그 해석에는 여러 가지 문제점이 있습니다.|There are several problems with that interpretation.|interpretation=해석
+4|그 작가는 의식의 흐름 기법을 사용했습니다.|The writer used a stream-of-consciousness technique.|consciousness=의식; technique=기법
+4|두 학파는 그 문제를 전혀 다르게 해석합니다.|The two schools of thought interpret the issue quite differently.|school of thought=학파; interpret=해석하다
+4|그 종은 외래종의 유입으로 개체 수가 줄었습니다.|The species declined after invasive species were introduced.|invasive species=외래(침입)종
+4|그 수치는 통계적으로 유의미한 차이를 보입니다.|The figures show a statistically significant difference.|statistically=통계적으로; significant=유의미한
+4|그 강의의 핵심은 인과관계와 상관관계의 차이입니다.|The key point of the lecture is the difference between cause and correlation.|cause=원인; correlation=상관관계
+4|그 발견은 우연이었지만 획기적이었습니다.|The discovery was accidental but groundbreaking.|accidental=우연한; groundbreaking=획기적인

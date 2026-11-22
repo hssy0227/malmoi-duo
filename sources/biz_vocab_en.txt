@@ -1,0 +1,638 @@
+# BUSINESS & ADVANCED ENGLISH VOCABULARY DB
+# Schema: ID | CATEGORY | WORD / EXPRESSION | EXAMPLE SENTENCE
+
+## 01. Management & Strategy
+
+001 | Management | Bureaucratism | We need to eliminate bureaucratism and improve organizational efficiency.
+002 | Management | Bureaucracy | Excessive bureaucracy can hinder business innovation.
+003 | Management | Bureaucratic | The company needs to reduce bureaucratic procedures.
+004 | Management | Hierarchy | A rigid hierarchy can slow down decision-making.
+005 | Management | Autonomy | Employees should have greater autonomy in their roles.
+006 | Management | Accountability | Clear accountability is essential for successful execution.
+007 | Management | Responsibility | Each department must take responsibility for its performance.
+008 | Management | Empowerment | Employee empowerment encourages innovation and ownership.
+009 | Management | Delegation | Effective delegation improves managerial efficiency.
+010 | Management | Governance | Strong governance ensures transparency and accountability.
+011 | Management | Oversight | Management oversight is necessary to control operational risks.
+012 | Management | Compliance | All business units must ensure regulatory compliance.
+013 | Management | Adherence | Strict adherence to internal policies is required.
+014 | Management | Discretion | Managers should exercise discretion when making decisions.
+015 | Management | Prerogative | Resource allocation is a management prerogative.
+016 | Management | Mandate | The department has a clear mandate to drive transformation.
+017 | Management | Directive | The new directive requires immediate implementation.
+018 | Management | Protocol | All employees must follow established security protocols.
+019 | Management | Procedure | The approval procedure needs to be simplified.
+020 | Management | Convention | Existing conventions may prevent organizational innovation.
+021 | Management | Paradigm | Digital transformation requires a fundamental paradigm shift.
+022 | Management | Paradigm Shift | AI is driving a paradigm shift across industries.
+023 | Management | Restructuring | The company is considering organizational restructuring.
+024 | Management | Reorganization | The reorganization aims to improve operational efficiency.
+025 | Management | Rationalization | Business rationalization can eliminate unnecessary costs.
+026 | Management | Consolidation | The consolidation of departments will reduce overhead.
+027 | Management | Centralization | Centralization can improve consistency across business units.
+028 | Management | Decentralization | Decentralization enables faster local decision-making.
+029 | Management | Standardization | Standardization helps ensure consistent service quality.
+030 | Management | Institutionalization | We need to institutionalize successful business practices.
+031 | Management | Optimization | Process optimization can improve overall productivity.
+032 | Management | Streamlining | Streamlining internal procedures will reduce administrative burdens.
+033 | Management | Facilitation | Effective facilitation helps resolve complex issues.
+034 | Management | Implementation | Successful implementation requires strong leadership.
+035 | Management | Execution | Strategy execution is often more challenging than strategy development.
+036 | Management | Sustainability | Long-term sustainability should guide business decisions.
+037 | Management | Viability | We need to assess the long-term viability of this initiative.
+038 | Management | Feasibility | The feasibility study identified several potential risks.
+039 | Management | Scalability | Scalability is a key requirement for the new platform.
+040 | Management | Adaptability | Organizational adaptability is critical in changing markets.
+041 | Management | Agility | Business agility enables faster responses to market changes.
+042 | Management | Resilience | Organizational resilience helps companies withstand disruptions.
+043 | Management | Proactiveness | Proactiveness is essential for effective risk management.
+044 | Management | Foresight | Strategic foresight helps anticipate future market trends.
+045 | Management | Alignment | Organizational alignment is necessary for successful execution.
+046 | Management | Synergy | The merger is expected to generate operational synergies.
+047 | Management | Cohesion | Organizational cohesion improves cross-functional collaboration.
+048 | Management | Disparity | There is a significant disparity between planned and actual performance.
+049 | Management | Discrepancy | We identified a discrepancy in the financial statements.
+050 | Management | Impediment | Internal resistance remains a major impediment to transformation.
+
+## 02. Business Strategy & Corporate Planning
+
+051 | Strategy | Strategic Imperative | Digital transformation has become a strategic imperative.
+052 | Strategy | Strategic Foresight | Strategic foresight helps identify emerging opportunities.
+053 | Strategy | Strategic Alignment | Strategic alignment ensures consistent execution across departments.
+054 | Strategy | Competitive Advantage | Innovation can create a sustainable competitive advantage.
+055 | Strategy | Differentiation | Product differentiation is essential in competitive markets.
+056 | Strategy | Positioning | The company needs to strengthen its market positioning.
+057 | Strategy | Proposition | We need to communicate our value proposition clearly.
+058 | Strategy | Value Proposition | Our value proposition focuses on cost efficiency and reliability.
+059 | Strategy | Value Creation | The ultimate objective is long-term value creation.
+060 | Strategy | Value Capture | The company needs a strategy for effective value capture.
+061 | Strategy | Core Competency | Data analytics is becoming a core competency.
+062 | Strategy | Competitive Edge | Advanced technology gives us a competitive edge.
+063 | Strategy | Market Penetration | The company plans to increase market penetration.
+064 | Strategy | Market Saturation | Market saturation may limit future revenue growth.
+065 | Strategy | Diversification | Portfolio diversification can reduce business risks.
+066 | Strategy | Expansion | The company is pursuing international expansion.
+067 | Strategy | Consolidation | Industry consolidation may create new opportunities.
+068 | Strategy | Disruption | AI is causing significant disruption across industries.
+069 | Strategy | Disruptive Innovation | Disruptive innovation can reshape established markets.
+070 | Strategy | Transformation | Organizational transformation requires sustained commitment.
+071 | Strategy | Transition | The transition to renewable energy is accelerating.
+072 | Strategy | Roadmap | We need a clear roadmap for the next three years.
+073 | Strategy | Milestone | The project has reached a critical milestone.
+074 | Strategy | Deliverable | Each workstream must define its key deliverables.
+075 | Strategy | Benchmarking | Benchmarking helps identify industry best practices.
+076 | Strategy | Best Practice | We should adopt best practices from leading companies.
+077 | Strategy | Gap Analysis | The gap analysis revealed several operational weaknesses.
+078 | Strategy | SWOT Analysis | The SWOT analysis highlights our strategic priorities.
+079 | Strategy | Strategic Fit | We need to evaluate the strategic fit of the acquisition.
+080 | Strategy | Business Case | The business case must demonstrate measurable financial benefits.
+081 | Strategy | Business Model | The company is exploring a new business model.
+082 | Strategy | Revenue Stream | Subscription services have become a major revenue stream.
+083 | Strategy | Profitability | Long-term profitability remains a key concern.
+084 | Strategy | Productivity | Automation can significantly improve workforce productivity.
+085 | Strategy | Efficiency | Operational efficiency is a major competitive advantage.
+086 | Strategy | Effectiveness | We need to evaluate both efficiency and effectiveness.
+087 | Strategy | Cost-effectiveness | The proposed solution offers greater cost-effectiveness.
+088 | Strategy | Resource Allocation | Effective resource allocation is critical to execution.
+089 | Strategy | Capital Allocation | Capital allocation should reflect long-term strategic priorities.
+090 | Strategy | Portfolio Management | Portfolio management helps balance risk and return.
+091 | Strategy | Strategic Initiative | Several strategic initiatives are currently underway.
+092 | Strategy | Corporate Governance | Corporate governance promotes transparency and accountability.
+093 | Strategy | Organizational Culture | Organizational culture influences employee behavior.
+094 | Strategy | Change Management | Change management is essential for successful transformation.
+095 | Strategy | Transformation Agenda | AI adoption is a central part of our transformation agenda.
+096 | Strategy | Strategic Priority | Cybersecurity is one of our strategic priorities.
+097 | Strategy | Long-term Outlook | The long-term outlook remains positive.
+098 | Strategy | Growth Trajectory | The company is maintaining a strong growth trajectory.
+099 | Strategy | Market Dynamics | We need to understand changing market dynamics.
+100 | Strategy | Industry Landscape | AI is reshaping the competitive industry landscape.
+
+## 03. Organization & Human Resources
+
+101 | Organization | Bureaucrat | Excessive layers of bureaucrats can slow down decision-making.
+102 | Organization | Bureaucratic Structure | A bureaucratic structure may discourage innovation.
+103 | Organization | Organizational Inertia | Organizational inertia can prevent necessary changes.
+104 | Organization | Resistance | Resistance to change remains a major challenge.
+105 | Organization | Reluctance | Some employees show reluctance toward new technologies.
+106 | Organization | Hesitation | Management hesitation can delay critical decisions.
+107 | Organization | Commitment | Strong leadership commitment is essential.
+108 | Organization | Engagement | Employee engagement directly affects productivity.
+109 | Organization | Motivation | Recognition can improve employee motivation.
+110 | Organization | Retention | Talent retention is becoming increasingly important.
+111 | Organization | Attrition | High employee attrition can disrupt business operations.
+112 | Organization | Turnover | Employee turnover increased during the restructuring process.
+113 | Organization | Recruitment | The company is expanding its recruitment efforts.
+114 | Organization | Succession | Succession planning ensures leadership continuity.
+115 | Organization | Competency | Digital competency is becoming essential for employees.
+116 | Organization | Proficiency | Employees need greater proficiency in data analytics.
+117 | Organization | Expertise | The project requires specialized technical expertise.
+118 | Organization | Proficiency Gap | The proficiency gap needs to be addressed through training.
+119 | Organization | Upskilling | Upskilling is essential for AI-driven workplaces.
+120 | Organization | Reskilling | Reskilling helps employees adapt to changing job requirements.
+121 | Organization | Mentorship | Mentorship programs support professional development.
+122 | Organization | Leadership | Effective leadership is critical during organizational change.
+123 | Organization | Empower | Managers should empower employees to make decisions.
+124 | Organization | Collaborate | Different departments need to collaborate more closely.
+125 | Organization | Coordinate | We need to coordinate activities across multiple teams.
+126 | Organization | Facilitate | Senior managers should facilitate cross-functional discussions.
+127 | Organization | Mediate | Management may need to mediate internal conflicts.
+128 | Organization | Arbitrate | An independent committee will arbitrate the dispute.
+129 | Organization | Consensus | We need to reach a consensus before proceeding.
+130 | Organization | Disagreement | Constructive disagreement can lead to better decisions.
+131 | Organization | Conflict of Interest | We need to disclose any potential conflict of interest.
+132 | Organization | Misalignment | Misalignment between teams can delay implementation.
+133 | Organization | Fragmentation | Organizational fragmentation reduces operational efficiency.
+134 | Organization | Silos | Departmental silos often prevent information sharing.
+135 | Organization | Cross-functional | Cross-functional teams can accelerate innovation.
+136 | Organization | Interdepartmental | Interdepartmental communication needs improvement.
+137 | Organization | Hierarchical | A hierarchical structure can create communication barriers.
+138 | Organization | Collaborative | We need a more collaborative working environment.
+139 | Organization | Inclusive | An inclusive culture encourages diverse perspectives.
+140 | Organization | Autonomous | Autonomous teams can respond more quickly.
+141 | Organization | Ownership | Employees should take ownership of their projects.
+142 | Organization | Accountability Framework | We need a clear accountability framework.
+143 | Organization | Performance Appraisal | Performance appraisal should reflect actual business outcomes.
+144 | Organization | Incentive | The incentive structure needs to be reviewed.
+145 | Organization | Remuneration | Executive remuneration should reflect company performance.
+146 | Organization | Compensation | The compensation package includes performance-based bonuses.
+147 | Organization | Workforce | AI may reshape the future workforce.
+148 | Organization | Headcount | The company plans to optimize its headcount.
+149 | Organization | Organizational Effectiveness | Organizational effectiveness depends on clear roles and responsibilities.
+150 | Organization | Role Clarity | Role clarity is essential for effective collaboration.
+
+## 04. Economics & Macroeconomics
+
+151 | Economics | Inflation | Persistent inflation may affect consumer spending.
+152 | Economics | Deflation | Deflation can discourage business investment.
+153 | Economics | Stagflation | Stagflation presents challenges for monetary policymakers.
+154 | Economics | Recession | The economy may enter a technical recession.
+155 | Economics | Slowdown | Economic slowdown could weaken corporate earnings.
+156 | Economics | Downturn | The industry is facing a significant downturn.
+157 | Economics | Recovery | Economic recovery remains uneven across sectors.
+158 | Economics | Expansion | Economic expansion is supporting investment activity.
+159 | Economics | Contraction | Industrial production declined during the contraction.
+160 | Economics | Stimulus | Fiscal stimulus may support economic growth.
+161 | Economics | Tightening | Monetary tightening can reduce market liquidity.
+162 | Economics | Easing | Monetary easing may encourage investment.
+163 | Economics | Liquidity | Market liquidity has deteriorated significantly.
+164 | Economics | Solvency | Solvency is a key concern for highly leveraged companies.
+165 | Economics | Leverage | Excessive leverage increases financial vulnerability.
+166 | Economics | Leverage Ratio | Investors are monitoring the company's leverage ratio.
+167 | Economics | Yield | Bond yields rose following the inflation report.
+168 | Economics | Yield Curve | The yield curve reflects market expectations.
+169 | Economics | Inversion | Yield curve inversion has historically preceded some recessions.
+170 | Economics | Spread | Credit spreads widened amid market uncertainty.
+171 | Economics | Risk Premium | Investors demand a higher risk premium.
+172 | Economics | Real Interest Rate | Real interest rates influence investment decisions.
+173 | Economics | Nominal Rate | The nominal interest rate does not account for inflation.
+174 | Economics | Purchasing Power | Inflation reduces consumers' purchasing power.
+175 | Economics | Disposable Income | Higher disposable income can support consumption.
+176 | Economics | Fiscal Policy | Fiscal policy plays an important role in economic stabilization.
+177 | Economics | Monetary Policy | Monetary policy affects borrowing costs.
+178 | Economics | Fiscal Deficit | The fiscal deficit has widened.
+179 | Economics | Current Account | The current account surplus narrowed.
+180 | Economics | Trade Balance | Changes in energy imports affect the trade balance.
+181 | Economics | Capital Outflow | Rising uncertainty may trigger capital outflows.
+182 | Economics | Capital Inflow | Foreign investment contributed to capital inflows.
+183 | Economics | Currency Depreciation | Currency depreciation increases import costs.
+184 | Economics | Currency Appreciation | Currency appreciation can reduce import inflation.
+185 | Economics | Exchange Rate Volatility | Exchange rate volatility creates additional business risks.
+186 | Economics | Purchasing Managers' Index | The purchasing managers' index indicates manufacturing activity.
+187 | Economics | Consumer Confidence | Consumer confidence weakened amid economic uncertainty.
+188 | Economics | Business Sentiment | Business sentiment improved following policy changes.
+189 | Economics | Economic Indicator | Employment is an important economic indicator.
+190 | Economics | Leading Indicator | New orders are often considered a leading indicator.
+191 | Economics | Lagging Indicator | Unemployment is generally considered a lagging indicator.
+192 | Economics | Economic Outlook | The economic outlook remains uncertain.
+193 | Economics | Structural Change | The economy is undergoing structural change.
+194 | Economics | Secular Trend | Electrification is a long-term secular trend.
+195 | Economics | Headwind | Higher interest rates remain a major headwind.
+196 | Economics | Tailwind | Falling energy prices could provide a tailwind.
+197 | Economics | Macroeconomic | Macroeconomic conditions influence investment decisions.
+198 | Economics | Geopolitical | Geopolitical tensions have disrupted global supply chains.
+199 | Economics | Protectionism | Protectionism may increase international trade barriers.
+200 | Economics | Globalization | Globalization has transformed international business.
+
+## 05. Finance & Investment
+
+201 | Finance | Valuation | The current valuation appears relatively attractive.
+202 | Finance | Undervalued | The stock may be undervalued relative to its peers.
+203 | Finance | Overvalued | The market may be overvaluing future growth.
+204 | Finance | Intrinsic Value | We need to estimate the company's intrinsic value.
+205 | Finance | Market Capitalization | The company's market capitalization has increased substantially.
+206 | Finance | Enterprise Value | Enterprise value provides a broader measure of company value.
+207 | Finance | Earnings | Earnings growth exceeded market expectations.
+208 | Finance | Earnings Revision | Positive earnings revisions supported the stock price.
+209 | Finance | Earnings Momentum | Earnings momentum remains strong.
+210 | Finance | Earnings Visibility | Strong backlog improves earnings visibility.
+211 | Finance | Revenue Recognition | Revenue recognition must comply with accounting standards.
+212 | Finance | Profit Margin | Operating profit margin improved.
+213 | Finance | Gross Margin | Gross margin expanded due to lower input costs.
+214 | Finance | Operating Margin | The company achieved a higher operating margin.
+215 | Finance | Net Margin | Net margin declined because of higher interest expenses.
+216 | Finance | Free Cash Flow | Free cash flow remains a key valuation metric.
+217 | Finance | Cash Conversion | Strong cash conversion indicates efficient working capital management.
+218 | Finance | Working Capital | The company needs to optimize working capital.
+219 | Finance | Capital Expenditure | Capital expenditure increased due to AI infrastructure investment.
+220 | Finance | Depreciation | Depreciation expenses increased following the expansion.
+221 | Finance | Amortization | Amortization affects reported operating income.
+222 | Finance | Impairment | The company recorded an impairment charge.
+223 | Finance | Goodwill | Goodwill represents the premium paid in an acquisition.
+224 | Finance | Intangible Asset | Software licenses are recognized as intangible assets.
+225 | Finance | Tangible Asset | Manufacturing facilities are tangible assets.
+226 | Finance | Return on Equity | Return on equity improved year over year.
+227 | Finance | Return on Invested Capital | ROIC measures the efficiency of invested capital.
+228 | Finance | Return on Assets | Return on assets reflects asset utilization.
+229 | Finance | Earnings Per Share | Earnings per share increased significantly.
+230 | Finance | Dilution | Share issuance may cause earnings dilution.
+231 | Finance | Buyback | The company announced a share buyback program.
+232 | Finance | Dividend Payout | The dividend payout ratio remains sustainable.
+233 | Finance | Dividend Yield | Investors are attracted by the dividend yield.
+234 | Finance | Shareholder Return | Management aims to improve shareholder returns.
+235 | Finance | Capital Structure | The company is reviewing its capital structure.
+236 | Finance | Debt Maturity | Several debt maturities are approaching.
+237 | Finance | Refinancing | The company is considering refinancing its debt.
+238 | Finance | Creditworthiness | Creditworthiness is essential for obtaining favorable financing.
+239 | Finance | Default Risk | Higher leverage increases default risk.
+240 | Finance | Impairment Loss | The company recognized an impairment loss.
+241 | Finance | Write-off | The company decided to write off obsolete assets.
+242 | Finance | Provision | Additional provisions were made for potential liabilities.
+243 | Finance | Contingent Liability | The company disclosed a contingent liability.
+244 | Finance | Materiality | The auditor evaluated the materiality of the issue.
+245 | Finance | Liquidity Risk | Liquidity risk needs to be carefully monitored.
+246 | Finance | Counterparty Risk | Counterparty risk is a major concern in derivatives trading.
+247 | Finance | Credit Spread | Credit spreads widened in response to market uncertainty.
+248 | Finance | Volatility | Market volatility increased sharply.
+249 | Finance | Drawdown | The portfolio experienced a significant drawdown.
+250 | Finance | Risk-adjusted Return | We should evaluate risk-adjusted returns rather than absolute returns.
+
+## 06. Investment & Trading Expressions
+
+251 | Trading | Backwardation | The commodity market is currently in backwardation.
+252 | Trading | Contango | The futures curve has moved into contango.
+253 | Trading | Derivative | Derivatives can be used to hedge market exposure.
+254 | Trading | Futures Contract | The company entered into a futures contract.
+255 | Trading | Forward Contract | A forward contract can lock in future prices.
+256 | Trading | Option Premium | The option premium increased due to higher volatility.
+257 | Trading | Swap | The company entered into an interest rate swap.
+258 | Trading | Hedging | Hedging can reduce exposure to commodity price fluctuations.
+259 | Trading | Speculation | Speculation can amplify market volatility.
+260 | Trading | Arbitrage | Arbitrage opportunities may disappear quickly.
+261 | Trading | Basis Risk | Basis risk remains even after hedging.
+262 | Trading | Spread Trading | Spread trading focuses on price differences between contracts.
+263 | Trading | Long Position | The fund increased its long position.
+264 | Trading | Short Position | Investors increased their short positions.
+265 | Trading | Short Selling | Short selling can amplify downward pressure.
+266 | Trading | Short Squeeze | A short squeeze caused a sharp price increase.
+267 | Trading | Margin Call | A sharp market decline triggered margin calls.
+268 | Trading | Collateral | Additional collateral may be required.
+269 | Trading | Mark-to-Market | Derivative positions are marked to market daily.
+270 | Trading | Settlement | Settlement takes place after the contract expires.
+271 | Trading | Expiration | The option is approaching its expiration date.
+272 | Trading | Open Interest | Open interest increased significantly.
+273 | Trading | Trading Volume | Trading volume surged following the announcement.
+274 | Trading | Market Depth | Market depth declined during the sell-off.
+275 | Trading | Bid-Ask Spread | The bid-ask spread widened amid low liquidity.
+276 | Trading | Price Discovery | Exchanges play an important role in price discovery.
+277 | Trading | Price Volatility | Price volatility increased due to supply concerns.
+278 | Trading | Supply Shock | A supply shock pushed commodity prices higher.
+279 | Trading | Demand Shock | A demand shock can disrupt market equilibrium.
+280 | Trading | Inventory Drawdown | Inventory drawdown supported spot prices.
+281 | Trading | Inventory Build | An inventory build may indicate weakening demand.
+282 | Trading | Carry Cost | Carry costs influence futures pricing.
+283 | Trading | Roll Yield | Roll yield affects commodity ETF performance.
+284 | Trading | Curve Structure | The curve structure reflects supply and demand conditions.
+285 | Trading | Forward Curve | The forward curve provides insight into future prices.
+286 | Trading | Spot Market | Spot market prices fluctuate with immediate supply and demand.
+287 | Trading | Physical Delivery | Some futures contracts require physical delivery.
+288 | Trading | Settlement Price | The settlement price is used to calculate daily gains and losses.
+289 | Trading | Market Exposure | We need to reduce our market exposure.
+290 | Trading | Risk Mitigation | Risk mitigation is essential in commodity trading.
+291 | Trading | Position Sizing | Position sizing should reflect investment risk.
+292 | Trading | Portfolio Rebalancing | Portfolio rebalancing helps maintain target allocations.
+293 | Trading | Asset Allocation | Asset allocation determines the portfolio's risk profile.
+294 | Trading | Diversification | Diversification reduces concentration risk.
+295 | Trading | Concentration Risk | The portfolio has excessive concentration risk.
+296 | Trading | Downside Protection | Options can provide downside protection.
+297 | Trading | Upside Potential | The stock offers significant upside potential.
+298 | Trading | Risk Appetite | Investment decisions should reflect risk appetite.
+299 | Trading | Risk Tolerance | Risk tolerance varies across investors.
+300 | Trading | Asymmetric Risk | The investment offers an attractive asymmetric risk profile.
+
+## 07. IT / Digital Transformation / AI
+
+301 | Technology | Bureaucratic Bottleneck | Bureaucratic bottlenecks can delay technology adoption.
+302 | Technology | Digitalization | Digitalization can improve business process efficiency.
+303 | Technology | Digitization | Digitization converts physical information into digital formats.
+304 | Technology | Automation | Automation reduces repetitive manual tasks.
+305 | Technology | Hyperautomation | Hyperautomation combines multiple automation technologies.
+306 | Technology | Orchestration | Workflow orchestration coordinates multiple automated processes.
+307 | Technology | Interoperability | Interoperability enables different systems to communicate.
+308 | Technology | Integration | Integration connects applications and data sources.
+309 | Technology | Architecture | The architecture must support future expansion.
+310 | Technology | Infrastructure | Reliable infrastructure is essential for AI workloads.
+311 | Technology | Virtualization | Virtualization improves infrastructure utilization.
+312 | Technology | Containerization | Containerization simplifies application deployment.
+313 | Technology | Microservices | Microservices improve application modularity.
+314 | Technology | Latency | Low latency is critical for real-time applications.
+315 | Technology | Throughput | The system must support higher data throughput.
+316 | Technology | Bandwidth | Increased bandwidth supports data-intensive workloads.
+317 | Technology | Scalability | Scalability is essential for growing AI workloads.
+318 | Technology | Elasticity | Cloud elasticity allows resources to adjust dynamically.
+319 | Technology | Redundancy | Redundancy improves system availability.
+320 | Technology | Fault Tolerance | Fault tolerance enables systems to withstand failures.
+321 | Technology | Disaster Recovery | Disaster recovery plans should be tested regularly.
+322 | Technology | Business Continuity | Business continuity is essential during system outages.
+323 | Technology | Observability | Observability helps engineers understand system behavior.
+324 | Technology | Telemetry | Telemetry data supports performance monitoring.
+325 | Technology | Provisioning | Automated provisioning reduces infrastructure setup time.
+326 | Technology | Deployment | Deployment should follow a controlled release process.
+327 | Technology | Migration | Cloud migration requires careful planning.
+328 | Technology | Modernization | Legacy system modernization can improve agility.
+329 | Technology | Legacy System | Legacy systems may limit digital transformation.
+330 | Technology | Technical Debt | Technical debt can increase long-term maintenance costs.
+331 | Technology | Data Governance | Data governance establishes ownership and accountability.
+332 | Technology | Data Lineage | Data lineage tracks the origin and movement of data.
+333 | Technology | Data Provenance | Data provenance helps verify data authenticity.
+334 | Technology | Data Integrity | Data integrity ensures information remains accurate.
+335 | Technology | Data Consistency | Data consistency is important across integrated systems.
+336 | Technology | Data Silos | Data silos prevent enterprise-wide information sharing.
+337 | Technology | Metadata | Metadata provides context about enterprise data.
+338 | Technology | Data Lake | A data lake stores large volumes of raw data.
+339 | Technology | Data Warehouse | A data warehouse supports structured analytical queries.
+340 | Technology | Data Mesh | Data mesh promotes decentralized data ownership.
+341 | Technology | Data Fabric | Data fabric connects distributed data environments.
+342 | Technology | Data Catalog | A data catalog improves data discoverability.
+343 | Technology | Data Pipeline | The data pipeline needs continuous monitoring.
+344 | Technology | ETL | ETL processes extract, transform, and load data.
+345 | Technology | ELT | ELT transforms data after loading it into the target platform.
+346 | Technology | Chunking | Chunking divides documents into smaller retrieval units.
+347 | Technology | Embedding | Embeddings represent text as numerical vectors.
+348 | Technology | Vector Database | A vector database enables semantic similarity searches.
+349 | Technology | Retrieval-Augmented Generation | RAG grounds AI responses in external information.
+350 | Technology | Hallucination | We need to reduce hallucinations in generative AI systems.
+
+## 08. Advanced AI & Data Science
+
+351 | AI | Inference | Model inference generates predictions from new data.
+352 | AI | Fine-tuning | Fine-tuning adapts a pretrained model to specific tasks.
+353 | AI | Pretraining | Pretraining enables models to learn general patterns.
+354 | AI | Foundation Model | Foundation models support a wide range of applications.
+355 | AI | Large Language Model | Large language models can process and generate natural language.
+356 | AI | Multimodal | Multimodal models process text, images, and audio.
+357 | AI | Agentic AI | Agentic AI can perform multi-step tasks autonomously.
+358 | AI | AI Agent | AI agents can automate complex business workflows.
+359 | AI | Tool Calling | Tool calling allows models to interact with external systems.
+360 | AI | Function Calling | Function calling enables structured interactions with applications.
+361 | AI | Reasoning | Advanced reasoning improves complex problem-solving capabilities.
+362 | AI | Chain of Thought | Chain-of-thought techniques support multi-step reasoning.
+363 | AI | Context Window | A larger context window allows models to process more information.
+364 | AI | Tokenization | Tokenization divides text into model-readable units.
+365 | AI | Prompt Engineering | Prompt engineering improves the quality of AI outputs.
+366 | AI | Context Engineering | Context engineering provides relevant information to AI models.
+367 | AI | Grounding | Grounding connects model responses to reliable information.
+368 | AI | Explainability | Explainability helps users understand model decisions.
+369 | AI | Interpretability | Interpretability reveals how models produce predictions.
+370 | AI | Transparency | AI transparency improves user trust.
+371 | AI | Bias | Training data can introduce unintended bias.
+372 | AI | Algorithmic Bias | Algorithmic bias can produce unfair outcomes.
+373 | AI | Overfitting | Overfitting reduces a model's ability to generalize.
+374 | AI | Underfitting | Underfitting occurs when a model fails to capture important patterns.
+375 | AI | Generalization | Generalization measures performance on unseen data.
+376 | AI | Accuracy | Model accuracy improved after retraining.
+377 | AI | Precision | Precision measures the proportion of correct positive predictions.
+378 | AI | Recall | Recall measures the proportion of actual positives identified.
+379 | AI | F1 Score | The F1 score balances precision and recall.
+380 | AI | Benchmark | We need to benchmark the model against industry standards.
+381 | AI | Evaluation | Model evaluation should include real-world scenarios.
+382 | AI | Validation | Validation helps assess model performance.
+383 | AI | Calibration | Calibration improves the reliability of predicted probabilities.
+384 | AI | Drift | Data drift can reduce model performance over time.
+385 | AI | Concept Drift | Concept drift occurs when underlying relationships change.
+386 | AI | Data Drift | Data drift occurs when input data distributions change.
+387 | AI | Feature Engineering | Feature engineering improves predictive performance.
+388 | AI | Feature Selection | Feature selection identifies the most relevant variables.
+389 | AI | Hyperparameter | Hyperparameter tuning can improve model performance.
+390 | AI | Optimization Algorithm | The optimization algorithm determines how model parameters are updated.
+391 | AI | Neural Network | Neural networks learn complex patterns from data.
+392 | AI | Deep Learning | Deep learning is widely used in image recognition.
+393 | AI | Supervised Learning | Supervised learning uses labeled training data.
+394 | AI | Unsupervised Learning | Unsupervised learning identifies patterns in unlabeled data.
+395 | AI | Reinforcement Learning | Reinforcement learning improves decisions through feedback.
+396 | AI | Anomaly Detection | Anomaly detection identifies unusual patterns.
+397 | AI | Predictive Analytics | Predictive analytics helps anticipate future outcomes.
+398 | AI | Prescriptive Analytics | Prescriptive analytics recommends optimal actions.
+399 | AI | Time Series Forecasting | Time series forecasting predicts future observations.
+400 | AI | Model Deployment | Model deployment makes trained models available for production use.
+
+## 09. Energy / Power / LNG / Renewable Energy
+
+401 | Energy | Decarbonization | Decarbonization is reshaping the global energy industry.
+402 | Energy | Electrification | Electrification is increasing demand for reliable power.
+403 | Energy | Renewable Integration | Renewable integration requires flexible power systems.
+404 | Energy | Intermittency | Solar power intermittency creates balancing challenges.
+405 | Energy | Curtailment | Renewable curtailment can reduce project profitability.
+406 | Energy | Dispatchability | Dispatchability is essential for grid reliability.
+407 | Energy | Baseload | Nuclear power provides stable baseload generation.
+408 | Energy | Peaking Plant | Gas-fired plants can operate as peaking plants.
+409 | Energy | Load Factor | A higher load factor can improve asset economics.
+410 | Energy | Capacity Factor | The capacity factor measures actual generation against potential output.
+411 | Energy | Availability | Plant availability is a key operational metric.
+412 | Energy | Utilization | Higher utilization can improve asset returns.
+413 | Energy | Grid Stability | Grid stability becomes more challenging with renewable penetration.
+414 | Energy | Grid Congestion | Grid congestion can delay renewable energy projects.
+415 | Energy | Transmission | Transmission infrastructure is essential for power delivery.
+416 | Energy | Distribution | Distribution networks deliver electricity to end users.
+417 | Energy | Interconnection | Grid interconnection requires regulatory approval.
+418 | Energy | Ancillary Services | Ancillary services support grid reliability.
+419 | Energy | Frequency Regulation | Frequency regulation maintains grid stability.
+420 | Energy | Demand Response | Demand response helps balance electricity supply and demand.
+421 | Energy | Load Forecasting | Accurate load forecasting improves generation planning.
+422 | Energy | Heat Demand Forecasting | Heat demand forecasting supports CHP optimization.
+423 | Energy | Combined Heat and Power | Combined heat and power systems generate electricity and useful heat.
+424 | Energy | Cogeneration | Cogeneration improves overall energy efficiency.
+425 | Energy | Heat Recovery | Heat recovery reduces wasted thermal energy.
+426 | Energy | Thermal Efficiency | Thermal efficiency affects power plant economics.
+427 | Energy | Fuel Switching | Fuel switching can reduce emissions.
+428 | Energy | Fuel Flexibility | Fuel flexibility helps manage commodity price volatility.
+429 | Energy | LNG Regasification | LNG regasification converts liquid gas into gaseous form.
+430 | Energy | Liquefaction | Liquefaction reduces natural gas volume for transportation.
+431 | Energy | LNG Terminal | The LNG terminal provides storage and regasification services.
+432 | Energy | Storage Capacity | Storage capacity is essential for supply security.
+433 | Energy | Inventory Management | Effective inventory management reduces procurement risks.
+434 | Energy | Take-or-Pay | Take-or-pay clauses require buyers to pay for contracted volumes.
+435 | Energy | Destination Clause | Destination clauses can restrict cargo flexibility.
+436 | Energy | Contract Flexibility | Contract flexibility helps manage changing demand.
+437 | Energy | Portfolio Optimization | Portfolio optimization improves procurement economics.
+438 | Energy | Fuel Procurement | Fuel procurement requires careful market analysis.
+439 | Energy | Commodity Exposure | Commodity exposure should be managed through hedging.
+440 | Energy | Energy Security | Energy security remains a national priority.
+441 | Energy | Energy Transition | The energy transition requires substantial investment.
+442 | Energy | Carbon Intensity | Carbon intensity measures emissions per unit of output.
+443 | Energy | Carbon Capture | Carbon capture technologies can reduce industrial emissions.
+444 | Energy | Carbon Pricing | Carbon pricing influences investment decisions.
+445 | Energy | Renewable Portfolio | The company is expanding its renewable portfolio.
+446 | Energy | Solar Irradiance | Solar irradiance affects photovoltaic generation.
+447 | Energy | Photovoltaic | Photovoltaic systems convert sunlight into electricity.
+448 | Energy | Battery Storage | Battery storage helps manage renewable intermittency.
+449 | Energy | Energy Arbitrage | Energy arbitrage takes advantage of price differences over time.
+450 | Energy | Power Purchase Agreement | The company signed a long-term power purchase agreement.
+
+## 10. LNG & Commodity Trading
+
+451 | Commodity | Benchmark Price | JKM is a key benchmark price for Asian LNG.
+452 | Commodity | Price Assessment | Price assessments reflect prevailing market conditions.
+453 | Commodity | Price Differential | The price differential widened during the supply disruption.
+454 | Commodity | Indexation | LNG contracts may use oil-linked indexation.
+455 | Commodity | Oil-linked Pricing | Oil-linked pricing exposes buyers to crude oil movements.
+456 | Commodity | Gas-on-Gas Competition | Gas-on-gas competition influences spot market prices.
+457 | Commodity | Spot Cargo | The buyer secured an additional spot cargo.
+458 | Commodity | Cargo Diversion | Cargo diversion can improve portfolio flexibility.
+459 | Commodity | Destination Flexibility | Destination flexibility allows cargoes to be redirected.
+460 | Commodity | Shipping Constraint | Shipping constraints may disrupt LNG deliveries.
+461 | Commodity | Freight Rate | Freight rates increased due to vessel shortages.
+462 | Commodity | Vessel Availability | Vessel availability affects LNG transportation costs.
+463 | Commodity | Boil-off Rate | The boil-off rate affects LNG shipping economics.
+464 | Commodity | Shipping Capacity | Shipping capacity is essential for reliable deliveries.
+465 | Commodity | Regasification Capacity | Regasification capacity may constrain LNG imports.
+466 | Commodity | Send-out Capacity | Send-out capacity determines the rate of gas delivery.
+467 | Commodity | Pipeline Constraint | Pipeline constraints can affect regional gas prices.
+468 | Commodity | Gas Balancing | Gas balancing ensures supply meets demand.
+469 | Commodity | Nomination | Buyers must submit gas nominations within the required timeframe.
+470 | Commodity | Scheduling | Delivery scheduling requires coordination with terminal operators.
+471 | Commodity | Imbalance | Supply-demand imbalances can increase procurement costs.
+472 | Commodity | Seasonal Demand | Seasonal demand affects LNG procurement strategies.
+473 | Commodity | Heating Degree Days | Heating degree days help estimate heating demand.
+474 | Commodity | Cooling Degree Days | Cooling degree days help estimate cooling demand.
+475 | Commodity | Weather-driven Demand | Weather-driven demand can create significant price volatility.
+476 | Commodity | Demand Elasticity | Demand elasticity influences market responses to price changes.
+477 | Commodity | Supply Elasticity | Supply elasticity affects commodity price sensitivity.
+478 | Commodity | Marginal Cost | Marginal cost influences generation dispatch decisions.
+479 | Commodity | Merit Order | The merit order ranks power plants by marginal cost.
+480 | Commodity | Dispatch Ranking | Dispatch ranking reflects the competitiveness of generation units.
+481 | Commodity | Spark Spread | The spark spread measures the economics of gas-fired power generation.
+482 | Commodity | Dark Spread | The dark spread measures the economics of coal-fired generation.
+483 | Commodity | Clean Spark Spread | The clean spark spread accounts for carbon costs.
+484 | Commodity | Heat Rate | Heat rate measures the efficiency of thermal power generation.
+485 | Commodity | Fuel Cost Pass-through | Fuel cost pass-through determines how costs are reflected in electricity prices.
+486 | Commodity | Power Purchase Cost | Power purchase costs affect electricity retailers' margins.
+487 | Commodity | System Marginal Price | System marginal price reflects the marginal cost of electricity supply.
+488 | Commodity | Imbalance Settlement | Imbalance settlement compensates for deviations from scheduled supply.
+489 | Commodity | Market Clearing Price | The market clearing price balances supply and demand.
+490 | Commodity | Congestion Rent | Congestion rent arises from price differences across network constraints.
+491 | Commodity | Balancing Market | The balancing market manages real-time supply-demand deviations.
+492 | Commodity | Ancillary Market | The ancillary market supports grid reliability.
+493 | Commodity | Demand Forecast Error | Demand forecast error can increase operational costs.
+494 | Commodity | Weather Forecast Model | Weather forecast models support energy demand projections.
+495 | Commodity | Ensemble Forecast | Ensemble forecasts combine multiple model predictions.
+496 | Commodity | Forecast Horizon | Forecast horizon determines how far ahead predictions are made.
+497 | Commodity | Forecast Accuracy | Forecast accuracy is essential for generation planning.
+498 | Commodity | Scenario Analysis | Scenario analysis helps evaluate alternative market conditions.
+499 | Commodity | Sensitivity Analysis | Sensitivity analysis identifies key drivers of profitability.
+500 | Commodity | Operational Optimization | Operational optimization improves plant performance.
+
+## 11. Data Analysis & Statistics
+
+501 | Analytics | Correlation | Correlation does not necessarily imply causation.
+502 | Analytics | Causation | We need to distinguish causation from correlation.
+503 | Analytics | Regression | Regression analysis helps identify relationships between variables.
+504 | Analytics | Multicollinearity | Multicollinearity can affect regression model reliability.
+505 | Analytics | Heteroscedasticity | Heteroscedasticity violates a common regression assumption.
+506 | Analytics | Autocorrelation | Autocorrelation indicates dependence between observations over time.
+507 | Analytics | Variance | Variance measures the dispersion of data.
+508 | Analytics | Standard Deviation | Standard deviation measures the spread of observations.
+509 | Analytics | Distribution | The data follows an approximately normal distribution.
+510 | Analytics | Skewness | Skewness measures the asymmetry of a distribution.
+511 | Analytics | Kurtosis | Kurtosis describes the tail characteristics of a distribution.
+512 | Analytics | Outlier | Outliers can distort statistical analysis.
+513 | Analytics | Anomaly | The system detected an anomaly in the data.
+514 | Analytics | Deviation | Actual performance deviated from the forecast.
+515 | Analytics | Residual | Residuals represent differences between observed and predicted values.
+516 | Analytics | Bias | Forecast bias can lead to systematic errors.
+517 | Analytics | Accuracy | Forecast accuracy improved after model calibration.
+518 | Analytics | Precision | Measurement precision is important for reliable analysis.
+519 | Analytics | Confidence Interval | The confidence interval indicates estimation uncertainty.
+520 | Analytics | Statistical Significance | The result is not statistically significant.
+521 | Analytics | Hypothesis Testing | Hypothesis testing helps evaluate statistical assumptions.
+522 | Analytics | Null Hypothesis | The null hypothesis was rejected.
+523 | Analytics | Sample Size | A larger sample size can improve statistical power.
+524 | Analytics | Sampling Bias | Sampling bias can distort analytical results.
+525 | Analytics | Selection Bias | Selection bias may affect the validity of the study.
+526 | Analytics | Survivorship Bias | Survivorship bias can lead to misleading conclusions.
+527 | Analytics | Regression to the Mean | Extreme observations tend to move closer to the average.
+528 | Analytics | Normalization | Data normalization improves comparability.
+529 | Analytics | Standardization | Standardization converts variables to a common scale.
+530 | Analytics | Aggregation | Data aggregation simplifies large datasets.
+531 | Analytics | Granularity | We need to maintain sufficient data granularity.
+532 | Analytics | Temporal Resolution | Temporal resolution determines the frequency of observations.
+533 | Analytics | Spatial Resolution | Spatial resolution affects the accuracy of geographical analysis.
+534 | Analytics | Interpolation | Interpolation estimates values between known observations.
+535 | Analytics | Extrapolation | Extrapolation estimates values beyond the observed range.
+536 | Analytics | Imputation | Imputation replaces missing data with estimated values.
+537 | Analytics | Missing Value | Missing values must be handled appropriately.
+538 | Analytics | Data Leakage | Data leakage can produce overly optimistic model results.
+539 | Analytics | Cross-validation | Cross-validation evaluates model generalization.
+540 | Analytics | Backtesting | Backtesting evaluates a strategy using historical data.
+541 | Analytics | Walk-forward Validation | Walk-forward validation evaluates models across sequential time periods.
+542 | Analytics | Hyperparameter Tuning | Hyperparameter tuning improves model performance.
+543 | Analytics | Feature Importance | Feature importance identifies influential predictors.
+544 | Analytics | Variable Selection | Variable selection reduces model complexity.
+545 | Analytics | Multivariate Analysis | Multivariate analysis examines multiple variables simultaneously.
+546 | Analytics | Principal Component Analysis | PCA reduces dimensionality while retaining key information.
+547 | Analytics | Clustering | Clustering groups similar observations.
+548 | Analytics | Classification | Classification assigns observations to predefined categories.
+549 | Analytics | Forecasting | Forecasting estimates future business conditions.
+550 | Analytics | Model Robustness | Model robustness should be evaluated under different scenarios.
+
+## 12. TOEIC / TOEFL Advanced Vocabulary
+
+551 | Advanced | Abundant | The region has abundant renewable energy resources.
+552 | Advanced | Scarce | Skilled AI professionals remain scarce.
+553 | Advanced | Allocate | Management will allocate additional resources to the project.
+554 | Advanced | Alleviate | The new system should alleviate operational bottlenecks.
+555 | Advanced | Ambiguous | The contractual wording is ambiguous.
+556 | Advanced | Ambiguity | We need to eliminate ambiguity in the requirements.
+557 | Advanced | Amend | The contract needs to be amended.
+558 | Advanced | Amendment | The amendment will take effect next month.
+559 | Advanced | Anticipate | We anticipate stronger demand in the second half.
+560 | Advanced | Apparent | The apparent improvement requires further verification.
+561 | Advanced | Apparatus | The facility requires specialized testing apparatus.
+562 | Advanced | Apprehensive | Investors remain apprehensive about the economic outlook.
+563 | Advanced | Arbitrary | The decision should not be based on arbitrary criteria.
+564 | Advanced | Assess | We need to assess the potential impact.
+565 | Advanced | Assessment | A comprehensive risk assessment is required.
+566 | Advanced | Attain | The company aims to attain its growth targets.
+567 | Advanced | Attribute | We attribute the increase to higher demand.
+568 | Advanced | Attribute to | The improvement can be attributed to automation.
+569 | Advanced | Augment | AI can augment human decision-making.
+570 | Advanced | Authentic | We need authentic and verifiable information.
+571 | Advanced | Authoritative | Please refer to authoritative sources.
+572 | Advanced | Autonomous | Autonomous systems can perform tasks with limited intervention.
+573 | Advanced | Avert | Early intervention may avert a major crisis.
+574 | Advanced | Cease | The company decided to cease unprofitable operations.
+575 | Advanced | Coherent | We need a coherent strategy across all business units.
+576 | Advanced | Coincide | The launch will coincide with the new fiscal year.
+577 | Advanced | Compelling | The proposal presents a compelling business case.
+578 | Advanced | Comprehend | Employees need to comprehend the new procedures.
+579 | Advanced | Compensate | Higher margins may compensate for lower sales volumes.
+580 | Advanced | Compromise | We need to find a reasonable compromise.
+581 | Advanced | Concede | Management eventually conceded that the original plan was unrealistic.
+582 | Advanced | Concurrent | Several projects are running concurrently.
+583 | Advanced | Condense | Please condense the report into three pages.
+584 | Advanced | Conducive | The new environment is conducive to innovation.
+585 | Advanced | Confine | The investigation was confined to the affected business units.
+586 | Advanced | Conform | All processes must conform to regulatory requirements.
+587 | Advanced | Consecutive | The company reported consecutive quarters of growth.
+588 | Advanced | Consensus | The committee reached a consensus on the proposal.
+589 | Advanced | Constitute | These costs constitute a significant portion of total expenses.
+590 | Advanced | Constrain | Limited resources may constrain future expansion.
+591 | Advanced | Contemplate | The company is contemplating a strategic acquisition.
+592 | Advanced | Contend | Some analysts contend that valuations remain excessive.
+593 | Advanced | Contradict | The latest data contradicts the previous forecast.
+594 | Advanced | Contradiction | There is a contradiction between the two reports.
+595 | Advanced | Conventional | Conventional approaches may not be sufficient.
+596 | Advanced | Convey | The presentation should convey the key message clearly.
+597 | Advanced | Corroborate | Additional evidence is needed to corroborate the findings.
+598 | Advanced | Cumulative | The cumulative impact of these changes is substantial.
+599 | Advanced | Deem | The investment was deemed strategically important.
+600 | Advanced | Deteriorate | Market conditions could deteriorate further.

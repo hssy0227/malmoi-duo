@@ -1,0 +1,97 @@
+# 영화·드라마 보기 (극장·장르·감상·대사 표현)
+@movie
+1|영화 보러 가요.|Đi xem phim đi.|xem phim=영화를 보다
+1|무슨 영화 볼까요?|Xem phim gì nhỉ?|phim=영화
+1|이 영화 재미있어요.|Phim này hay lắm.|hay=재미있는·좋은
+1|이 영화 지루해요.|Phim này chán quá.|chán=지루한
+1|영화 좋아해요?|Anh có thích xem phim không?|thích=좋아하다
+1|팝콘 먹을래요?|Ăn bỏng ngô không?|bỏng ngô=팝콘
+1|무서운 영화는 싫어요.|Tôi không thích phim kinh dị.|phim kinh dị=공포 영화
+1|이 배우 알아요?|Anh có biết diễn viên này không?|diễn viên=배우
+2|요즘 뭐가 재미있어요?|Dạo này có phim gì hay không?|dạo này=요즘
+2|몇 시 영화가 있어요?|Có suất chiếu lúc mấy giờ?|suất chiếu=상영 회차
+2|7시 표로 두 장 주세요.|Cho tôi hai vé suất bảy giờ.|suất=회차
+2|가운데 자리로 주세요.|Cho tôi ghế ở giữa.|ghế=좌석; giữa=가운데
+2|자막 있어요?|Có phụ đề không?|phụ đề=자막
+2|더빙이에요, 자막이에요?|Phim lồng tiếng hay có phụ đề?|lồng tiếng=더빙하다
+2|상영 시간이 얼마나 돼요?|Phim dài bao lâu?|dài=길다
+2|영화가 곧 시작해요.|Phim sắp chiếu rồi.|sắp=곧; chiếu=상영하다
+2|휴대폰은 무음으로 해 주세요.|Làm ơn để điện thoại ở chế độ im lặng.|chế độ im lặng=무음 모드
+2|저는 액션 영화를 좋아해요.|Tôi thích phim hành động.|phim hành động=액션 영화
+2|로맨틱 코미디가 보고 싶어요.|Tôi muốn xem phim hài lãng mạn.|phim hài=코미디 영화; lãng mạn=로맨틱한
+2|애니메이션도 좋아해요.|Tôi cũng thích phim hoạt hình.|phim hoạt hình=애니메이션
+2|이 드라마 몇 부작이에요?|Bộ phim này có bao nhiêu tập?|bộ phim=(드라마) 한 편; tập=회·편
+2|어제 몇 화까지 봤어요?|Hôm qua anh xem đến tập mấy rồi?|đến=~까지
+2|스포일러 하지 마세요!|Đừng spoil nhé!|đừng=~하지 마
+2|결말이 어떻게 돼요?|Kết thúc thế nào?|kết thúc=결말·끝나다
+2|주인공이 누구예요?|Nhân vật chính là ai?|nhân vật chính=주인공
+2|그 배우 연기 정말 잘해요.|Diễn viên đó diễn rất đạt.|diễn=연기하다; đạt=훌륭한·잘 해낸
+2|음악이 정말 좋았어요.|Nhạc phim hay quá.|nhạc phim=영화 음악
+2|넷플릭스로 같이 볼래요?|Xem cùng nhau trên Netflix không?|cùng nhau=함께
+2|주말에 드라마 정주행했어요.|Cuối tuần tôi cày hết bộ phim rồi.|cày phim=정주행하다(속어); hết=다
+3|이 영화 평점이 어때요?|Phim này được chấm điểm thế nào?|chấm điểm=점수 매기다
+3|평이 좋아서 기대하고 있어요.|Phim được khen nhiều nên tôi đang rất mong.|khen=칭찬하다; mong=기대하다
+3|예고편 봤는데 재미있어 보였어요.|Tôi xem trailer rồi, trông có vẻ hay.|trông có vẻ=~해 보이다
+3|이 감독 작품은 다 봤어요.|Tôi đã xem hết phim của đạo diễn này.|đạo diễn=감독
+3|원작 소설을 영화로 만든 거래요.|Nghe nói phim chuyển thể từ tiểu thuyết.|chuyển thể=각색하다; tiểu thuyết=소설
+3|실화를 바탕으로 한 영화예요.|Đây là phim dựa trên chuyện có thật.|dựa trên=~에 바탕을 두다; chuyện có thật=실화
+3|속편이 나온대요.|Nghe nói sắp có phần tiếp theo.|phần tiếp theo=속편
+3|1편보다 2편이 더 나아요.|Phần hai hay hơn phần một.|phần=편
+3|마지막 장면에서 울었어요.|Tôi đã khóc ở cảnh cuối.|khóc=울다; cảnh=장면
+3|반전이 정말 충격적이었어요.|Cú twist thật sự gây sốc.|gây sốc=충격을 주다
+3|처음엔 좀 느린데 뒤로 갈수록 재미있어요.|Đầu phim hơi chậm nhưng càng về sau càng hay.|càng A càng B=A할수록 B하다
+3|이야기가 너무 뻔했어요.|Cốt truyện dễ đoán quá.|cốt truyện=줄거리; dễ đoán=뻔한
+3|줄거리가 좀 복잡해서 이해하기 어려웠어요.|Cốt truyện hơi phức tạp nên khó hiểu.|phức tạp=복잡한; khó hiểu=이해하기 어려운
+3|영상미가 정말 뛰어나요.|Hình ảnh trong phim đẹp xuất sắc.|hình ảnh=영상·화면; xuất sắc=뛰어난
+3|그 장면은 컴퓨터 그래픽이에요.|Cảnh đó là kỹ xảo máy tính.|kỹ xảo=특수 효과
+3|이 영화는 청소년 관람 불가예요.|Phim này cấm khán giả dưới mười tám tuổi.|cấm=금지하다; khán giả=관객
+3|한국 드라마가 베트남에서 인기가 많아요.|Phim Hàn Quốc rất được yêu thích ở Việt Nam.|được yêu thích=사랑받다
+3|베트남 영화 추천해 줄 수 있어요?|Anh giới thiệu cho tôi vài phim Việt được không?|giới thiệu=추천하다·소개하다
+3|자막 없이 보려고 연습 중이에요.|Tôi đang luyện xem phim không cần phụ đề.|luyện=연습하다
+3|대사가 너무 빨라서 못 알아들었어요.|Thoại nhanh quá nên tôi không nghe kịp.|thoại=대사; nghe kịp=제때 알아듣다
+3|이 대사 무슨 뜻이에요?|Câu thoại này nghĩa là gì?|câu thoại=대사 한 줄; nghĩa=뜻
+3|방금 뭐라고 했는지 다시 돌려 볼게요.|Để tôi tua lại xem vừa nói gì.|tua lại=되감다
+3|잠깐 멈춰 봐요.|Dừng lại một chút đã.|dừng lại=멈추다
+3|영화 끝나고 쿠키 영상 있어요.|Hết phim còn có cảnh after-credit đấy.|hết phim=영화가 끝나다
+3|영화관 화면이 커서 몰입감이 달라요.|Màn hình rạp to nên cảm giác cuốn hơn hẳn.|màn hình=화면; rạp=극장; cuốn=빠져들게 하는
+3|집에서 편하게 보는 게 더 좋아요.|Tôi thích xem ở nhà cho thoải mái hơn.|thoải mái=편안한
+3|그 배우는 이 역할로 상을 받았어요.|Diễn viên đó đoạt giải nhờ vai này.|đoạt giải=상을 받다; vai=배역
+3|그 캐릭터가 제일 마음에 들어요.|Tôi thích nhân vật đó nhất.|nhân vật=등장인물
+3|악역 연기가 소름 돋았어요.|Diễn vai phản diện mà làm tôi nổi da gà.|phản diện=악역; nổi da gà=소름 돋다
+3|둘의 케미가 정말 좋아요.|Hai người diễn ăn ý thật.|ăn ý=호흡이 잘 맞는
+3|주말에 영화 마라톤 할래요?|Cuối tuần xem phim liền mấy bộ không?|liền=연달아
+4|이 영화는 가족의 의미를 다시 생각해 보게 만들어요.|Bộ phim khiến người ta suy nghĩ lại về ý nghĩa của gia đình.|khiến=~하게 만들다; ý nghĩa=의미
+4|감독이 전하고 싶은 메시지가 분명하게 느껴졌어요.|Tôi cảm nhận rõ thông điệp mà đạo diễn muốn gửi gắm.|cảm nhận=느끼다; thông điệp=메시지; gửi gắm=전하다·담다
+4|전쟁의 아픔을 담담하게 그려서 오히려 더 슬펐어요.|Phim kể về nỗi đau chiến tranh một cách nhẹ nhàng nên lại càng buồn.|nỗi đau=아픔; chiến tranh=전쟁; nhẹ nhàng=담담하게
+4|등장인물의 감정선이 섬세하게 표현됐어요.|Diễn biến tâm lý nhân vật được thể hiện rất tinh tế.|diễn biến tâm lý=감정선; thể hiện=표현하다; tinh tế=섬세한
+4|열린 결말이라서 보고 나서도 계속 생각이 나요.|Kết thúc mở nên xem xong rồi tôi vẫn cứ nghĩ mãi.|kết thúc mở=열린 결말; mãi=계속
+4|중반부가 늘어져서 조금 지루하게 느껴졌어요.|Đoạn giữa phim bị lê thê nên hơi chán.|đoạn giữa=중반부; lê thê=늘어지는
+4|기대가 너무 커서 그런지 생각보다 실망스러웠어요.|Chắc tại kỳ vọng nhiều quá nên tôi thấy hơi thất vọng.|kỳ vọng=기대; thất vọng=실망한
+4|원작을 읽은 사람이라면 아쉬운 부분이 많을 거예요.|Ai đã đọc nguyên tác thì chắc sẽ thấy tiếc nhiều chỗ.|nguyên tác=원작
+4|배경이 된 하노이 거리 풍경이 너무 반가웠어요.|Cảnh phố Hà Nội làm bối cảnh khiến tôi thấy thân thuộc lắm.|bối cảnh=배경; thân thuộc=친숙한
+4|이 영화 덕분에 베트남 현대사에 관심이 생겼어요.|Nhờ bộ phim này mà tôi bắt đầu quan tâm đến lịch sử hiện đại Việt Nam.|nhờ=~덕분에; quan tâm=관심을 갖다; lịch sử hiện đại=현대사
+4|이 드라마는 회차가 거듭될수록 긴장감이 높아져요.|Bộ phim này càng về những tập sau càng gay cấn.|gay cấn=긴장감 넘치는
+4|다음 화가 너무 궁금해서 잠을 못 잤어요.|Tò mò tập sau quá nên tôi thức trắng luôn.|tò mò=궁금한; thức trắng=밤을 새우다
+4|이번 시즌은 전 시즌보다 완성도가 떨어지는 것 같아요.|Mùa này có vẻ không chỉn chu bằng mùa trước.|mùa=시즌; chỉn chu=완성도 높은·꼼꼼한
+4|배우들의 연기는 좋았지만 각본이 너무 아쉬웠어요.|Diễn viên diễn tốt nhưng kịch bản thì đáng tiếc quá.|kịch bản=각본; đáng tiếc=아쉬운
+4|이 장면은 대사 없이 표정만으로 모든 걸 보여 줘요.|Cảnh này không cần thoại, chỉ nét mặt thôi đã nói lên tất cả.|nét mặt=표정; nói lên=드러내다
+4|영화제에서 상을 받은 작품이라 기대가 됐어요.|Phim từng đoạt giải ở liên hoan phim nên tôi rất mong chờ.|liên hoan phim=영화제; từng=~한 적 있는
+4|흥행에는 실패했지만 저는 정말 좋게 봤어요.|Phim không thành công về doanh thu nhưng tôi thấy rất hay.|doanh thu=흥행 수익
+4|개봉 첫 주에 관객이 백만 명을 넘었대요.|Nghe nói tuần đầu công chiếu phim đã vượt một triệu lượt khán giả.|công chiếu=개봉하다; vượt=넘다; lượt=회·번
+4|이 장르는 호불호가 많이 갈려요.|Thể loại này có người rất thích, có người rất ghét.|thể loại=장르; ghét=싫어하다
+4|자막으로 보면서 모르는 표현을 메모해 둬요.|Tôi vừa xem có phụ đề vừa ghi lại những cách nói mình chưa biết.|ghi lại=메모하다; cách nói=표현
+4|같은 장면을 여러 번 따라 말하면서 발음 연습을 해요.|Tôi nói theo một cảnh nhiều lần để luyện phát âm.|nói theo=따라 말하다; phát âm=발음
+4|드라마로 공부하면 실제 회화 표현을 자연스럽게 익힐 수 있어요.|Học qua phim truyền hình thì có thể học cách nói tự nhiên trong giao tiếp thật.|phim truyền hình=TV 드라마; giao tiếp=의사소통·회화
+4|베트남어 더빙이 원어 느낌을 잘 살렸어요.|Bản lồng tiếng Việt giữ được cảm giác của bản gốc.|bản gốc=원판; giữ được=살리다·유지하다
+4|이 영화는 한 번 더 보면 놓친 복선이 보일 거예요.|Xem lại lần nữa sẽ thấy những chi tiết cài cắm mình bỏ lỡ.|chi tiết cài cắm=복선; bỏ lỡ=놓치다
+4|이 감독은 긴 롱테이크로 유명해요.|Đạo diễn này nổi tiếng với những cảnh quay dài.|cảnh quay=촬영 장면; nổi tiếng=유명한
+4|우리 둘 다 좋아할 만한 영화를 찾기가 쉽지 않네요.|Tìm được phim mà cả hai đều thích không dễ chút nào.|cả hai=둘 다; chút nào=조금도
+4|오늘은 가볍게 웃을 수 있는 영화가 보고 싶어요.|Hôm nay tôi muốn xem phim gì nhẹ nhàng, cười thoải mái.|nhẹ nhàng=가벼운; cười=웃다
+4|이 다큐멘터리를 보고 환경 문제에 대해 많이 생각하게 됐어요.|Xem bộ phim tài liệu này tôi đã suy nghĩ nhiều về vấn đề môi trường.|phim tài liệu=다큐멘터리; môi trường=환경
+4|영화를 보고 나서 같이 이야기 나누는 시간이 제일 좋아요.|Tôi thích nhất là lúc xem xong cùng nhau trò chuyện về phim.|trò chuyện=이야기 나누다
+4|평론가들은 극찬했지만 관객 반응은 엇갈렸어요.|Giới phê bình khen ngợi nhưng khán giả thì ý kiến trái chiều.|giới phê bình=평론가들; trái chiều=엇갈린
+4|어릴 때 보던 만화가 실사판으로 나와서 반가웠어요.|Bộ phim hoạt hình hồi nhỏ tôi hay xem được làm bản người đóng nên vui lắm.|hồi nhỏ=어릴 때; bản người đóng=실사판
+4|이 영화의 촬영지가 바로 퐁냐 동굴이래요.|Nghe nói phim được quay ở chính động Phong Nha.|quay=촬영하다; động=동굴
+4|그 배우가 베트남어로 인사해서 팬들이 열광했어요.|Diễn viên đó chào bằng tiếng Việt khiến người hâm mộ phát cuồng.|người hâm mộ=팬; phát cuồng=열광하다
+4|조조로 보면 표가 훨씬 싸요.|Xem suất sớm thì vé rẻ hơn nhiều.|suất sớm=조조 회차
+4|온라인으로 예매하면 줄 안 서도 돼요.|Đặt vé online thì không phải xếp hàng.|đặt vé=예매하다; xếp hàng=줄 서다

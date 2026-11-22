@@ -1,0 +1,115 @@
+# 여행 회화 보강 (공항·이동·숙소·관광·현지 생활)
+@travel
+1|여행 왔어요.|Tôi đi du lịch.|du lịch=여행
+1|여기 처음 와 봐요.|Đây là lần đầu tôi đến đây.|lần đầu=처음
+1|사진 좀 찍어 주시겠어요?|Anh chụp giúp tôi một tấm ảnh được không?|chụp ảnh=사진 찍다; giúp=도와주다
+1|여기서 사진 찍어도 돼요?|Ở đây có được chụp ảnh không?|được=해도 되다
+1|입장료가 얼마예요?|Vé vào cửa bao nhiêu tiền?|vé vào cửa=입장권
+1|몇 시에 문 열어요?|Mấy giờ mở cửa ạ?|mở cửa=문을 열다
+1|몇 시에 문 닫아요?|Mấy giờ đóng cửa ạ?|đóng cửa=문을 닫다
+1|화장실이 어디예요?|Nhà vệ sinh ở đâu ạ?|nhà vệ sinh=화장실
+1|경치가 정말 아름다워요.|Phong cảnh đẹp quá.|phong cảnh=경치
+2|이 근처에 볼 만한 곳이 있어요?|Gần đây có chỗ nào đáng xem không?|đáng xem=볼 만한; chỗ=곳
+2|여기서 걸어갈 수 있어요?|Từ đây đi bộ được không?|đi bộ=걷다
+2|걸어서 얼마나 걸려요?|Đi bộ mất bao lâu?|mất=(시간이) 걸리다; bao lâu=얼마나 오래
+2|지도에서 좀 가리켜 주세요.|Chỉ giúp tôi trên bản đồ với.|chỉ=가리키다; bản đồ=지도
+2|한국어 안내서가 있어요?|Có tờ hướng dẫn bằng tiếng Hàn không?|tờ hướng dẫn=안내서; bằng=~로
+2|가이드 투어가 있어요?|Ở đây có tour có hướng dẫn viên không?|hướng dẫn viên=가이드
+2|이 투어는 몇 시간짜리예요?|Tour này kéo dài mấy tiếng?|kéo dài=지속되다; tiếng=시간
+2|점심이 포함돼 있어요?|Có bao gồm bữa trưa không?|bao gồm=포함하다; bữa trưa=점심
+2|어디서 모여요?|Tập trung ở đâu ạ?|tập trung=모이다
+2|호텔로 데리러 와 주나요?|Có đón ở khách sạn không?|đón=마중하다·태우러 오다
+2|기념품은 어디서 사요?|Mua quà lưu niệm ở đâu?|quà lưu niệm=기념품
+2|이건 이 지역 특산품이에요?|Đây có phải đặc sản ở đây không?|đặc sản=특산품
+2|오늘 날씨가 여행하기 딱 좋네요.|Hôm nay thời tiết đi chơi thích thật.|đi chơi=놀러 가다; thích=좋다·마음에 들다
+2|해 지는 걸 보러 가고 싶어요.|Tôi muốn đi ngắm hoàng hôn.|ngắm=감상하다; hoàng hôn=석양
+2|일출 보려면 몇 시에 일어나야 해요?|Muốn ngắm bình minh thì mấy giờ phải dậy?|bình minh=일출; dậy=일어나다
+2|당일치기로 다녀올 수 있어요?|Có thể đi về trong ngày được không?|đi về trong ngày=당일치기로 다녀오다
+2|짐을 여기 맡겨도 돼요?|Tôi gửi hành lý ở đây được không?|gửi=맡기다; hành lý=짐
+2|와이파이 비밀번호가 뭐예요?|Mật khẩu wifi là gì ạ?|mật khẩu=비밀번호
+2|유심 카드를 어디서 사요?|Mua sim điện thoại ở đâu?|sim=유심
+2|카드로 결제돼요?|Có trả bằng thẻ được không?|trả=지불하다; thẻ=카드
+2|현금만 받아요?|Chỉ nhận tiền mặt thôi à?|tiền mặt=현금; nhận=받다
+3|공항에서 시내까지 어떻게 가는 게 제일 편해요?|Từ sân bay vào trung tâm thì đi thế nào tiện nhất?|sân bay=공항; trung tâm=시내·중심; tiện=편리한
+3|그랩 부르면 얼마쯤 나와요?|Gọi Grab thì khoảng bao nhiêu tiền?|gọi=부르다; khoảng=약
+3|미터기 켜 주세요.|Anh bật đồng hồ tính tiền giúp tôi.|bật=켜다; đồng hồ tính tiền=미터기
+3|여기서 내려 주세요.|Cho tôi xuống ở đây.|xuống=내리다
+3|천천히 가 주세요, 멀미가 나요.|Anh đi chậm thôi, tôi bị say xe.|chậm=느린; say xe=차멀미하다
+3|하노이에서 사파까지 야간 버스로 가려고 해요.|Tôi định đi xe giường nằm từ Hà Nội lên Sa Pa.|xe giường nằm=침대 버스; lên=(북쪽·산으로) 올라가다
+3|기차표는 미리 사야 하나요?|Có cần mua vé tàu trước không?|vé tàu=기차표; trước=미리
+3|침대칸으로 두 장 주세요.|Cho tôi hai vé giường nằm.|giường nằm=침대칸
+3|창가 자리로 주실 수 있어요?|Cho tôi chỗ ngồi cạnh cửa sổ được không?|cạnh=옆; cửa sổ=창문
+3|비행기가 한 시간 지연됐대요.|Nghe nói máy bay bị hoãn một tiếng.|hoãn=지연되다; máy bay=비행기
+3|탑승구가 바뀌었어요.|Cửa ra máy bay đã thay đổi rồi.|cửa ra máy bay=탑승구; thay đổi=바뀌다
+3|짐이 아직 안 나왔어요.|Hành lý của tôi vẫn chưa ra.|vẫn chưa=아직 ~않다
+3|오토바이를 하루 빌리고 싶은데 얼마예요?|Tôi muốn thuê xe máy một ngày thì bao nhiêu?|thuê=빌리다; xe máy=오토바이
+3|헬멧도 같이 빌려주나요?|Có cho mượn mũ bảo hiểm không?|mượn=빌리다; mũ bảo hiểm=헬멧
+3|자전거 타고 마을을 둘러보고 싶어요.|Tôi muốn đạp xe đi quanh làng.|đạp xe=자전거 타다; làng=마을
+3|이 길로 가면 호수가 나와요?|Đi đường này có ra hồ không?|ra=나가다·나오다; hồ=호수
+3|길을 잃은 것 같아요.|Hình như tôi bị lạc đường rồi.|hình như=~인 것 같다; lạc đường=길을 잃다
+3|이 동네에서 맛집 하나 추천해 주세요.|Giới thiệu cho tôi một quán ngon ở khu này với.|giới thiệu=소개하다; quán=가게; khu=동네
+3|현지 사람들이 자주 가는 곳으로 가고 싶어요.|Tôi muốn đến chỗ người địa phương hay đi.|người địa phương=현지인; hay=자주
+3|관광객용 가격 말고 원래 가격으로 해 주세요.|Cho tôi giá bình thường, đừng tính giá khách du lịch nhé.|bình thường=보통의; tính=계산하다
+3|너무 비싸요. 좀 깎아 주세요.|Đắt quá. Bớt cho tôi một chút đi.|đắt=비싼; bớt=깎다
+3|시장 구경하는 게 제일 재미있어요.|Đi chợ ngắm nghía là vui nhất.|chợ=시장; ngắm nghía=구경하다
+3|이 사원은 언제 지어졌어요?|Ngôi chùa này được xây từ bao giờ?|chùa=절; xây=짓다; bao giờ=언제
+3|들어갈 때 신발을 벗어야 하나요?|Khi vào có phải bỏ giày ra không?|bỏ giày=신발을 벗다
+3|반바지 입고 들어가도 돼요?|Mặc quần short vào có được không?|mặc=입다; quần short=반바지
+3|여기는 우기라서 우산을 꼭 챙기세요.|Bây giờ là mùa mưa nên nhớ mang ô nhé.|mùa mưa=우기; mang=챙기다; ô=우산
+3|햇볕이 너무 강해서 모자를 사야겠어요.|Nắng gắt quá, chắc tôi phải mua mũ.|nắng=햇볕; gắt=강렬한; mũ=모자
+3|오늘 일정을 좀 여유 있게 짜고 싶어요.|Hôm nay tôi muốn đi thong thả một chút.|thong thả=여유롭게
+3|여행자 보험에 들었어요?|Anh đã mua bảo hiểm du lịch chưa?|bảo hiểm=보험
+3|비자 없이 며칠까지 머물 수 있어요?|Không cần visa thì được ở tối đa bao nhiêu ngày?|tối đa=최대
+3|체크인하기 전에 짐 맡겨 둘 수 있어요?|Trước khi nhận phòng tôi gửi đồ được không?|nhận phòng=체크인
+3|방에서 호수가 보이나요?|Từ phòng có nhìn thấy hồ không?|nhìn thấy=보이다
+3|홈스테이에서 묵으면서 현지 생활을 체험해 보고 싶어요.|Tôi muốn ở homestay để trải nghiệm cuộc sống địa phương.|trải nghiệm=체험하다; cuộc sống=생활
+4|이번 여행은 북부 산악 지대를 중심으로 일주일 동안 돌아볼 생각이에요.|Chuyến này tôi định đi một tuần, chủ yếu quanh vùng núi phía Bắc.|chuyến=여행 한 차례; chủ yếu=주로; vùng núi=산악 지대; phía Bắc=북부
+4|하장 루프는 오토바이로 3박 4일 정도 걸린다고 들었어요.|Nghe nói đi cung đường Hà Giang bằng xe máy mất khoảng bốn ngày ba đêm.|cung đường=코스·길; đêm=밤
+4|운전에 자신이 없으면 현지 기사를 고용하는 게 안전해요.|Nếu không tự tin lái xe thì thuê người địa phương chở sẽ an toàn hơn.|tự tin=자신 있는; lái xe=운전하다; chở=태워 주다
+4|성수기라서 숙소를 몇 주 전에 예약해 두지 않으면 방이 없을 거예요.|Đang mùa cao điểm nên không đặt phòng trước vài tuần thì sẽ hết phòng.|mùa cao điểm=성수기; hết=다 떨어지다
+4|비수기에 가면 사람도 적고 가격도 훨씬 싸요.|Đi vào mùa thấp điểm thì vừa vắng người vừa rẻ hơn nhiều.|mùa thấp điểm=비수기; vắng=한산한; vừa A vừa B=A하면서 B하다
+4|닌빈은 하노이에서 가까워서 당일치기로 다녀오기 좋아요.|Ninh Bình gần Hà Nội nên đi về trong ngày rất hợp.|hợp=적합한
+4|짱안에서 배를 타고 동굴을 지나가는 코스가 정말 인상적이었어요.|Đi thuyền qua các hang động ở Tràng An thật sự rất ấn tượng.|thuyền=배; hang động=동굴; ấn tượng=인상적인
+4|후에 왕궁은 생각보다 넓어서 반나절은 잡아야 해요.|Đại Nội Huế rộng hơn tôi nghĩ, phải dành ít nhất nửa ngày.|rộng=넓은; dành=할애하다; nửa ngày=반나절
+4|호이안 구시가지는 밤에 등불이 켜지면 분위기가 완전히 달라져요.|Phố cổ Hội An về đêm khi đèn lồng sáng lên thì không khí khác hẳn.|đèn lồng=등불; không khí=분위기; khác hẳn=완전히 다른
+4|처음엔 오토바이 행렬 때문에 길을 건너기가 무서웠는데 이제 좀 익숙해졌어요.|Lúc đầu tôi sợ qua đường vì xe máy đông quá, giờ thì quen dần rồi.|qua đường=길을 건너다; quen dần=점점 익숙해지다
+4|길을 건널 때는 뛰지 말고 일정한 속도로 천천히 걸으면 돼요.|Khi qua đường đừng chạy, cứ đi chậm đều thì xe sẽ tránh.|đều=일정하게; tránh=피하다
+4|사기 당하지 않으려면 탈 때 미리 가격을 확인하세요.|Để khỏi bị lừa thì nên hỏi giá trước khi lên xe.|lừa=속이다; khỏi=~하지 않게
+4|여권을 잃어버려서 대사관에 연락해야 해요.|Tôi bị mất hộ chiếu nên phải liên hệ với đại sứ quán.|hộ chiếu=여권; đại sứ quán=대사관; liên hệ=연락하다
+4|경찰서에 가서 분실 신고서를 받아야 보험 처리가 돼요.|Phải ra đồn công an xin giấy xác nhận mất đồ thì mới làm bảo hiểm được.|đồn công an=경찰서; giấy xác nhận=확인서
+4|이 지역은 소수 민족 문화가 잘 보존돼 있어서 꼭 가 보고 싶었어요.|Vùng này giữ gìn văn hóa dân tộc thiểu số rất tốt nên tôi rất muốn đến.|giữ gìn=보존하다; dân tộc thiểu số=소수 민족
+4|사진 찍기 전에 그분들께 먼저 허락을 구하는 게 예의예요.|Trước khi chụp ảnh nên xin phép họ trước cho lịch sự.|xin phép=허락을 구하다; lịch sự=예의 바른
+4|비가 그치면 계단식 논을 보러 트레킹을 갈 거예요.|Khi nào tạnh mưa tôi sẽ đi bộ đường dài ngắm ruộng bậc thang.|tạnh=(비가) 그치다; ruộng bậc thang=계단식 논; đi bộ đường dài=트레킹
+4|안개가 너무 짙어서 판시판 정상에서 아무것도 안 보였어요.|Sương mù dày quá nên trên đỉnh Fansipan chẳng nhìn thấy gì.|sương mù=안개; dày=짙은; đỉnh=정상
+4|케이블카를 타면 정상까지 20분이면 올라가요.|Đi cáp treo thì chỉ hai mươi phút là lên tới đỉnh.|cáp treo=케이블카; lên tới=~까지 올라가다
+4|일정이 빡빡해서 쉬는 날을 하루 넣었어요.|Lịch trình dày quá nên tôi thêm một ngày nghỉ.|lịch trình=일정; thêm=추가하다
+4|다음에는 남부까지 내려가서 메콩 델타도 가 보고 싶어요.|Lần sau tôi muốn vào tận miền Nam để đi miền Tây sông nước.|tận=~까지; miền Tây=메콩 델타 지역; sông nước=강과 물길
+4|여행 마지막 날이라 그런지 아쉬운 마음이 커요.|Chắc vì là ngày cuối của chuyến đi nên tôi thấy tiếc lắm.|tiếc=아쉬운; ngày cuối=마지막 날
+4|여행하면서 현지 사람들이 정말 친절해서 감동받았어요.|Trong chuyến đi tôi rất cảm động vì người dân ở đây thân thiện quá.|cảm động=감동하다; thân thiện=친절한
+4|다음에 오면 이번에 못 간 곳부터 가 볼 거예요.|Lần sau quay lại tôi sẽ đi những chỗ lần này chưa kịp đi.|quay lại=다시 오다; chưa kịp=미처 못 하다
+@move
+2|버스 정류장이 어디예요?|Bến xe buýt ở đâu ạ?|bến xe buýt=버스 정류장
+2|다음 정류장이 어디예요?|Điểm dừng tiếp theo là đâu?|điểm dừng=정류장; tiếp theo=다음
+3|도착하면 알려 주시겠어요?|Đến nơi thì báo tôi một tiếng nhé.|đến nơi=도착하다; báo=알리다
+3|기차역까지 시간이 얼마나 걸려요?|Ra ga tàu mất bao lâu?|ga tàu=기차역
+3|러시아워에는 차가 엄청 막혀요.|Giờ cao điểm thì tắc đường kinh khủng.|giờ cao điểm=러시아워; tắc đường=길이 막히다; kinh khủng=엄청난
+3|요금은 내릴 때 내면 돼요.|Khi xuống xe thì trả tiền.|trả tiền=돈을 내다
+@stay
+2|빈방 있어요?|Còn phòng trống không ạ?|phòng trống=빈방
+3|에어컨이 고장 났어요.|Điều hòa bị hỏng rồi.|điều hòa=에어컨; hỏng=고장 난
+3|하루 더 묵을 수 있을까요?|Tôi ở thêm một đêm được không?|ở thêm=더 머물다
+3|체크아웃은 몇 시까지예요?|Mấy giờ phải trả phòng ạ?|trả phòng=체크아웃
+3|공항 가는 택시 좀 불러 주세요.|Gọi giúp tôi taxi ra sân bay với.|ra sân bay=공항으로 가다
+
+@travel
+2|크루즈에서 1박 하는 투어가 있어요?|Có tour ngủ đêm trên du thuyền không?|du thuyền=크루즈; ngủ đêm=1박 하다
+3|환전은 공항보다 시내가 더 유리해요.|Đổi tiền ở trong phố thì có lợi hơn ở sân bay.|có lợi=유리한
+3|이 근처에 현금 인출기 있어요?|Gần đây có cây ATM không?|cây ATM=현금 인출기
+3|이 식당 위치를 지도로 보내 주세요.|Gửi cho tôi vị trí quán này trên bản đồ nhé.|vị trí=위치
+3|세 개 사면 더 싸게 해 줄 수 있어요?|Mua ba cái thì có rẻ hơn không?|rẻ=싼
+3|이 버스 구시가지 쪽으로 가요?|Xe này có đi về phía phố cổ không?|về phía=~쪽으로; phố cổ=구시가지
+@stay
+3|2박이면 할인돼요?|Ở hai đêm thì có giảm giá không?|giảm giá=할인하다
+3|샤워기에서 물이 잘 안 나와요.|Vòi sen chảy yếu quá.|vòi sen=샤워기; chảy=흐르다; yếu=약한
+@movie
+2|어른 두 장이랑 어린이 한 장 주세요.|Cho tôi hai vé người lớn và một vé trẻ em.|người lớn=어른; trẻ em=어린이
