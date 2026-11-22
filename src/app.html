@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>말모이 듀오</title>
+<meta name="description" content="베트남어·영어 회화 문장 연습 — 카드, 퀴즈, 듣기, 말하기">
+<meta name="theme-color" content="#1c232c">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="말모이 듀오">
+<style>
+/* 말모이 듀오 — VOICE: 조용하고 밀도 높은 개인 학습 도구 — 군더더기 없이 빨리 넘기는 카드
+   IDEA: 손때 묻은 단어장 카드 — 앞면은 한국어, 뒷면은 원어와 단어 풀이
+   PICTURE: 학습 화면 자체(카드·보기·마이크)가 주인공
+   COLOUR and TYPE: 차콜 블루그레이 바탕 + 앰버 강조, 시스템 폰트만
+   LAYOUT: 상단 언어 전환, 하단 5탭, 한 열 모바일 우선(최대 720px) */
+:root{--bg:#1c232c;--sf:#252e39;--sf2:#2e3946;--ln:#3b4757;--ink:#e9edf1;--mut:#9ba8b6;--am:#f2a43a;--am2:#d96c2b;--amk:#1c232c;--ok:#5cb88a;--ng:#e26b5a;--okb:rgba(92,184,138,.16);--ngb:rgba(226,107,90,.16);--amb:rgba(242,164,58,.14);color-scheme:dark}
+@media (prefers-color-scheme:light){:root:not([data-theme=dark]){--bg:#edf0f3;--sf:#ffffff;--sf2:#f3f5f7;--ln:#d5dce4;--ink:#1d252e;--mut:#5b6876;--am:#b8650f;--am2:#c25a1f;--amk:#ffffff;--ok:#1f8a57;--ng:#c4412f;--okb:rgba(31,138,87,.12);--ngb:rgba(196,65,47,.1);--amb:rgba(184,101,15,.1);color-scheme:light}}
+:root[data-theme=light]{--bg:#edf0f3;--sf:#ffffff;--sf2:#f3f5f7;--ln:#d5dce4;--ink:#1d252e;--mut:#5b6876;--am:#b8650f;--am2:#c25a1f;--amk:#ffffff;--ok:#1f8a57;--ng:#c4412f;--okb:rgba(31,138,87,.12);--ngb:rgba(196,65,47,.1);--amb:rgba(184,101,15,.1);color-scheme:light}
+*{box-sizing:border-box;min-width:0}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR","Segoe UI",Roboto,sans-serif;overflow-x:clip;-webkit-tap-highlight-color:transparent;word-break:keep-all;overflow-wrap:anywhere}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer;border:0;background:none;padding:0}
+:focus-visible{outline:2px solid var(--am);outline-offset:2px}
+svg{width:20px;height:20px;fill:currentColor;flex:none}
+.top{position:sticky;top:0;z-index:20;background:var(--bg);padding:calc(env(safe-area-inset-top) + 8px) max(14px,env(safe-area-inset-right)) 8px max(14px,env(safe-area-inset-left));display:flex;align-items:center;gap:10px;border-bottom:1px solid var(--ln)}
+.brand{font-weight:800;font-size:19px;letter-spacing:-.02em;white-space:nowrap}
+.brand b{color:var(--am)}.brand span{margin-left:4px;font-size:13px;font-weight:700;color:var(--mut)}
+@media (max-width:370px){.brand span{display:none}}
+.seg{display:flex;background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:2px;margin-left:auto}
+.seg button{padding:6px 12px;border-radius:8px;font-size:13px;font-weight:650;white-space:nowrap;color:var(--mut);min-height:34px}
+.seg button.on{background:var(--am);color:var(--amk)}
+.ib{width:40px;height:40px;display:grid;place-items:center;border-radius:10px;color:var(--mut)}
+.ib:active{background:var(--sf)}
+main{max-width:720px;margin:0 auto;padding:14px max(14px,env(safe-area-inset-left)) calc(84px + env(safe-area-inset-bottom))}
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--sf);border-top:1px solid var(--ln);display:grid;grid-template-columns:repeat(5,minmax(0,1fr));padding:4px 4px calc(4px + env(safe-area-inset-bottom))}
+.tabs a{display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;color:var(--mut);text-decoration:none;font-size:11.5px;font-weight:600;white-space:nowrap;min-height:48px;border-radius:10px}
+.tabs a.on{color:var(--am)}
+.tabs svg{width:22px;height:22px}
+h2{font-size:22px;line-height:1.2;margin:4px 0 12px;letter-spacing:-.02em}
+h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
+.box{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:14px}
+.mut{color:var(--mut)}.sm{font-size:13px}.nw{white-space:nowrap}
+.row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.sp{flex:1}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:0 16px;border-radius:12px;background:var(--sf2);border:1px solid var(--ln);font-weight:650;white-space:nowrap}
+.btn.pri{background:var(--am);border-color:var(--am);color:var(--amk)}
+.btn.blk{display:flex;width:100%}
+.btn.sm{min-height:36px;padding:0 12px;font-size:13px;border-radius:10px}
+.btn:disabled{opacity:.45}
+.chip{display:inline-flex;align-items:center;gap:4px;min-height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--ln);background:var(--sf);font-size:13px;font-weight:600;white-space:nowrap;color:var(--mut)}
+.chip.on{border-color:var(--am);color:var(--am);background:var(--amb)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.hscroll{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}.hscroll::-webkit-scrollbar{display:none}.hscroll>*{flex:none}
+.scope{display:flex;align-items:center;gap:6px;width:100%;min-height:40px;padding:0 12px;border-radius:10px;background:var(--sf);border:1px solid var(--ln);font-size:13px;color:var(--mut);margin-bottom:12px;text-align:left}
+.scope span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.scope b{color:var(--ink);font-weight:650}
+/* home */
+.hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;align-items:end;padding:18px 16px;border-radius:16px;background:linear-gradient(135deg,var(--sf) 0%,var(--sf2) 100%);border:1px solid var(--ln)}
+.hero .lg{font-size:13px;color:var(--mut);font-weight:650}
+.hero .big{font-size:clamp(40px,12vw,56px);font-weight:800;line-height:1;letter-spacing:-.03em;color:var(--am);font-variant-numeric:tabular-nums}
+.hero .cap{font-size:13px;color:var(--mut);margin-top:4px}
+.kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:10px}
+.kpi{background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:10px 12px}
+.kpi .v{font-size:20px;font-weight:750;font-variant-numeric:tabular-nums;white-space:nowrap}
+.kpi .v small{font-size:12px;color:var(--mut);font-weight:600}
+.kpi .k{font-size:12px;color:var(--mut);white-space:nowrap}
+.week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;align-items:end;height:78px;margin-top:4px}
+.week div{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;gap:4px;font-size:11px;color:var(--mut)}
+.week i{display:block;width:100%;max-width:28px;border-radius:5px 5px 2px 2px;background:var(--am);min-height:3px;opacity:.85}
+.week i.z{background:var(--ln)}
+.cats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.cat{background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:10px 12px;text-align:left;display:block;width:100%}
+.cat .n{font-weight:700;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cat .c{font-size:12px;color:var(--mut);font-variant-numeric:tabular-nums;white-space:nowrap}
+.bar{height:5px;border-radius:9px;background:var(--sf2);overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;background:var(--am);border-radius:9px}
+/* flash card */
+.prog{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--mut);margin-bottom:8px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.prog .bar{flex:1;margin:0}
+.fc{background:var(--sf);border:1px solid var(--ln);border-radius:18px;padding:16px;min-height:300px;display:flex;flex-direction:column;box-shadow:0 10px 30px -18px rgba(0,0,0,.5)}
+.tag{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--mut);white-space:nowrap}
+.tag .pill{padding:2px 8px;border-radius:999px;background:var(--sf2);border:1px solid var(--ln)}
+.tag .star{margin-left:auto}
+.star{width:36px;height:36px;display:grid;place-items:center;border-radius:10px;color:var(--mut)}
+.star.on{color:var(--am)}
+.front{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:10px;padding:18px 2px;width:100%;text-align:left}
+.ko{font-size:clamp(20px,5.6vw,26px);font-weight:700;line-height:1.35;letter-spacing:-.01em}
+.tg{font-size:clamp(22px,6.2vw,30px);font-weight:700;line-height:1.3;letter-spacing:-.01em;color:var(--am)}
+.hint{font-size:13px;color:var(--mut)}
+.say{display:flex;gap:6px;flex-wrap:wrap}
+.gl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:5px 14px;margin-top:12px;padding-top:12px;border-top:1px dashed var(--ln);font-size:14px}
+.gl button{text-align:left;font-weight:650;color:var(--ink);display:inline-flex;align-items:center;gap:4px;white-space:nowrap;max-width:46vw;overflow:hidden;text-overflow:ellipsis}
+.gl button svg{width:13px;height:13px;color:var(--mut)}
+.gl span{color:var(--mut)}
+.note{margin-top:10px;font-size:13px;color:var(--mut);background:var(--sf2);border-radius:10px;padding:8px 10px}
+.ex{margin-top:10px;display:grid;gap:6px}
+.ex div{font-size:13.5px;padding:8px 10px;border-radius:10px;background:var(--sf2)}
+.ex b{display:block;font-weight:650}
+.grades{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;margin-top:12px}
+.grades button{min-height:54px;border-radius:12px;background:var(--sf2);border:1px solid var(--ln);display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:700;font-size:14px;white-space:nowrap}
+.grades small{font-size:11.5px;color:var(--mut);font-weight:600;font-variant-numeric:tabular-nums}
+.grades .g0{color:var(--ng)}.grades .g3{color:var(--ok)}
+.empty{text-align:center;padding:36px 16px}
+.empty .big{font-size:40px;font-weight:800;color:var(--am)}
+/* quiz */
+.opts{display:grid;gap:8px;margin-top:14px}
+.opt{text-align:left;padding:12px 14px;border-radius:12px;background:var(--sf2);border:1.5px solid var(--ln);font-size:15.5px;font-weight:600;min-height:52px;line-height:1.35}
+.opt.ok{border-color:var(--ok);background:var(--okb)}
+.opt.ng{border-color:var(--ng);background:var(--ngb)}
+.opt.fd{opacity:.55}
+.opts+.say,.opt+.say{margin-top:10px}
+.qp{font-size:13px;color:var(--mut);margin-bottom:6px}
+.cloze{font-size:clamp(20px,5.6vw,26px);font-weight:700;line-height:1.4;color:var(--am)}
+.cloze u{text-decoration:none;border-bottom:2px solid var(--am);padding:0 .6em;color:transparent}
+.play{width:84px;height:84px;border-radius:50%;background:var(--am);color:var(--amk);display:grid;place-items:center;margin:6px auto}
+.play svg{width:38px;height:38px}
+.res{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--ln)}
+.res:last-child{border-bottom:0}
+/* speak */
+.mic{width:96px;height:96px;border-radius:50%;background:var(--am);color:var(--amk);display:grid;place-items:center;margin:8px auto 4px;position:relative}
+.mic svg{width:42px;height:42px}
+.mic.live{background:var(--ng);color:#fff}
+.mic.live::after{content:"";position:absolute;inset:-8px;border-radius:50%;border:3px solid var(--ng);animation:pulse 1.2s ease-out infinite}
+@keyframes pulse{from{transform:scale(.9);opacity:1}to{transform:scale(1.25);opacity:0}}
+@media (prefers-reduced-motion:reduce){.mic.live::after{animation:none}}
+.words{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.words span{padding:3px 8px;border-radius:8px;font-weight:650;font-size:15px}
+.words .y{background:var(--okb);color:var(--ok)}
+.words .n{background:var(--ngb);color:var(--ng)}
+.score{font-size:44px;font-weight:800;line-height:1;font-variant-numeric:tabular-nums}
+/* dict */
+.search{display:flex;align-items:center;gap:8px;background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:0 12px;min-height:46px}
+.search input{flex:1;border:0;background:none;outline:none;font-size:16px;min-height:44px}
+.list{margin-top:10px;background:var(--sf);border:1px solid var(--ln);border-radius:14px;overflow:hidden}
+.it{display:grid;grid-template-columns:40px minmax(0,1fr) 36px;gap:6px;align-items:center;padding:8px 8px 8px 6px;border-bottom:1px solid var(--ln);content-visibility:auto;contain-intrinsic-size:auto 58px}
+.it:last-child{border-bottom:0}
+.it .ib{width:40px;height:40px}
+.it .tx{cursor:pointer;padding:2px 0}
+.it .t{font-weight:650;color:var(--ink);line-height:1.35}
+.it .k{font-size:13px;color:var(--mut);line-height:1.35}
+.it .more{grid-column:2/4;padding:0 0 4px}
+.it .more .gl{margin-top:4px;padding-top:8px}
+.cnt{font-size:12.5px;color:var(--mut);margin-top:8px;font-variant-numeric:tabular-nums}
+/* prefs */
+.fld{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 12px;align-items:center;padding:12px 0;border-bottom:1px solid var(--ln)}
+.fld:last-child{border-bottom:0}
+.fld label{font-weight:650}
+.fld .d{grid-column:1/-1;font-size:12.5px;color:var(--mut)}
+select,input[type=number]{min-height:40px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:0 10px;font-size:16px;max-width:60vw}
+input[type=range]{width:100%;accent-color:var(--am)}
+textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:10px;font-size:13px}
+.sw{position:relative;width:50px;height:30px;border-radius:999px;background:var(--ln);flex:none}
+.sw::after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#fff;transition:transform .15s}
+.sw.on{background:var(--am)}.sw.on::after{transform:translateX(20px)}
+.warn{border-radius:12px;padding:10px 12px;background:var(--amb);border:1px solid var(--am);font-size:13px;margin:8px 0}
+/* sheet + toast */
+.ovl{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:40;display:flex;align-items:flex-end;justify-content:center}
+.sheet{width:100%;max-width:720px;max-height:86vh;overflow:auto;background:var(--bg);border-radius:18px 18px 0 0;padding:16px max(16px,env(safe-area-inset-left)) calc(16px + env(safe-area-inset-bottom));border-top:1px solid var(--ln)}
+.sheet h3:first-child{margin-top:0}
+#toast{position:fixed;left:50%;bottom:calc(88px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 14px;border-radius:10px;font-size:13.5px;font-weight:600;z-index:50;opacity:0;pointer-events:none;transition:opacity .2s;max-width:min(92vw,420px);width:max-content;text-align:center;line-height:1.4}
+#toast.on{opacity:1}
+.ib{position:relative}
+.ib .dot{position:absolute;top:8px;right:8px;width:8px;height:8px;border-radius:50%;background:var(--am);box-shadow:0 0 0 2px var(--bg)}
+.pop{position:fixed;z-index:45;top:calc(env(safe-area-inset-top) + 62px);right:max(8px,env(safe-area-inset-right));width:min(400px,calc(100vw - 16px));max-height:calc(100dvh - env(safe-area-inset-top) - 62px - 76px - env(safe-area-inset-bottom));overflow:auto;overscroll-behavior:contain;background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:12px 14px 14px;box-shadow:0 18px 40px -12px rgba(0,0,0,.55)}
+.pop[hidden]{display:none}
+.pop .hd{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.pop .hd b{font-size:16px}
+.pop .hd .ib{margin-left:auto;width:36px;height:36px}
+.pop p{margin:0 0 8px;font-size:13.5px}
+.hg{display:grid;grid-template-columns:4em minmax(0,1fr);gap:7px 10px;font-size:13.5px;line-height:1.45}
+.hg dt{font-weight:700;color:var(--am);white-space:nowrap}
+.hg dd{margin:0;color:var(--ink)}
+.hg dd .mut{color:var(--mut)}
+.pop h4{margin:12px 0 6px;font-size:13px;color:var(--mut)}
+.pop ul{margin:0;padding-left:1.1em;font-size:13px;line-height:1.5;display:grid;gap:4px}
+.pop kbd{font:inherit;font-weight:700;padding:0 5px;border-radius:5px;background:var(--sf2);border:1px solid var(--ln);white-space:nowrap}
+@media (min-width:560px){.cats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="brand"><b>말모이</b><span>듀오</span></div>
+  <div class="seg" id="langSeg">
+    <button data-act="lang" data-l="vi">베트남어</button>
+    <button data-act="lang" data-l="en">영어</button>
+  </div>
+  <button class="ib" id="helpBtn" data-act="help" aria-label="사용법" aria-expanded="false" aria-controls="help"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M9.6 9.6a2.5 2.5 0 1 1 3.4 2.3c-.6.3-1 .8-1 1.5v.6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="17" r="1.2"/></svg></button>
+  <button class="ib" data-act="go" data-v="prefs" aria-label="설정"><svg viewBox="0 0 24 24"><path d="M4 7h9M17 7h3M4 17h3M11 17h9" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="15" cy="7" r="2.5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="17" r="2.5" fill="none" stroke="currentColor" stroke-width="2"/></svg></button>
+</header>
+<main id="view"></main>
+<nav class="tabs" id="tabs">
+  <a href="#home" data-v="home"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5V20h-5.5v-5h-5v5H4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>홈</a>
+  <a href="#cards" data-v="cards"><svg viewBox="0 0 24 24"><rect x="3.5" y="6.5" width="13" height="14" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 3.5h10a2.5 2.5 0 0 1 2.5 2.5v11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>카드</a>
+  <a href="#quiz" data-v="quiz"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m8 12.3 2.6 2.6L16 9.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>퀴즈</a>
+  <a href="#speak" data-v="speak"><svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>말하기</a>
+  <a href="#dict" data-v="dict"><svg viewBox="0 0 24 24"><path d="M5 4.5h10.5A3.5 3.5 0 0 1 19 8v11.5H8.5A3.5 3.5 0 0 1 5 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M5 16a3.5 3.5 0 0 1 3.5-3.5H19M9 8.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>사전</a>
+</nav>
+<div id="toast"></div>
+<div class="pop" id="help" role="dialog" aria-label="사용법" hidden>
+  <div class="hd"><b>사용법</b><span class="mut sm">맨 위에서 언어 선택 → 홈의 학습 시작</span><button class="ib" data-act="help" aria-label="닫기"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
+  <dl class="hg">
+    <dt>홈</dt><dd>오늘 할 카드 수와 진도. 상황 칸을 누르면 <span class="nw">그 상황만</span> 학습</dd>
+    <dt>카드</dt><dd>한국어를 보고 소리 내 말한 뒤 탭 → 정답·발음 확인 → <kbd>다시</kbd><kbd>어려움</kbd><kbd>알맞음</kbd><kbd>쉬움</kbd> 중 선택. <span class="mut">버튼 아래 숫자가 다음 복습 시점</span></dd>
+    <dt>퀴즈</dt><dd>뜻·표현·듣기·빈칸 4가지. <span class="mut">틀린 문제는 카드 복습에 바로 추가</span></dd>
+    <dt>말하기</dt><dd>마이크를 누르고 말하기. 초록은 맞음, 빨강은 놓침. <span class="mut">베트남어는 '성조 빼고' 점수만 높으면 성조 연습이 필요</span></dd>
+    <dt>사전</dt><dd>성조 없이 검색 가능 <span class="mut">(bao nhieu)</span>. ★ 누르면 즐겨찾기</dd>
+    <dt>범위</dt><dd>화면 위 <kbd>바꾸기</kbd>로 상황·레벨·문장/단어·★만 고르기. <span class="mut">카드·퀴즈·말하기 공통</span></dd>
+    <dt>소리</dt><dd>단어 풀이의 단어를 누르면 그 단어만 재생. <kbd>천천히</kbd>는 0.7배속</dd>
+  </dl>
+  <h4>갤럭시 폴드에서</h4>
+  <ul>
+    <li>베트남어 소리에 성조가 없거나 안 나오면: 휴대폰 설정 → 일반 → 텍스트 음성 변환(TTS) → 엔진 설정에서 베트남어 음성 설치 <span class="mut">(설정 검색창에 'TTS')</span></li>
+    <li>말하기(음성 인식)는 Chrome 권장. 처음 한 번 마이크 허용</li>
+    <li>앱처럼 쓰기: Chrome <kbd>⋮</kbd> → 홈 화면에 추가 <span class="mut">/ 삼성 인터넷 <kbd>≡</kbd> → 현재 페이지 추가 → 홈 화면</span></li>
+    <li>진도는 이 브라우저에만 저장돼요. 가끔 설정 → 백업</li>
+  </ul>
+</div>
+<script>
+{
+const DATA = /*__DATA__*/null;
+const VER = "__VER__";
+const LANGS = {vi:{name:"베트남어",native:"Tiếng Việt",bcp:"vi-VN"},en:{name:"영어",native:"English",bcp:"en-US"}};
+const CAT = Object.fromEntries(DATA.cats);
+const CATKEYS = DATA.cats.map(c=>c[0]);
+const DAY = 864e5;
+const $ = s=>document.querySelector(s);
+const esc = s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const enc = s=>encodeURIComponent(s);
+const IC = {
+  spk:'<svg viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16 8.5a5 5 0 0 1 0 7M18.6 6a8.6 8.6 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+  mic:'<svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+  star:'<svg viewBox="0 0 24 24"><path d="m12 3.5 2.6 5.4 5.9.8-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8L3.5 9.7l5.9-.8z"/></svg>',
+  starO:'<svg viewBox="0 0 24 24"><path d="m12 3.5 2.6 5.4 5.9.8-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8L3.5 9.7l5.9-.8z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
+  search:'<svg viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15 15 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+  filt:'<svg viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'
+};
+
+/* ---------- 저장소 ---------- */
+const LS = "dumal.v1";
+const DEF = ()=>({lang:"vi",
+  set:{rate:{vi:.85,en:1},voice:{vi:"",en:""},auto:true,dir:"k2t",newPerDay:20},
+  scope:{vi:{cats:[],lv:[1,2,3,4],type:"s",star:false},en:{cats:[],lv:[1,2,3,4],type:"s",star:false}},
+  p:{vi:{},en:{}}, star:{vi:{},en:{}}, q:{vi:{},en:{}}, sp:{vi:{},en:{}},
+  day:{d:"",n:{vi:0,en:0}}, hist:{}});
+function merge(a,b){for(const k in b){if(b[k]&&typeof b[k]==="object"&&!Array.isArray(b[k])&&a[k]&&typeof a[k]==="object"&&!Array.isArray(a[k]))merge(a[k],b[k]);else a[k]=b[k]}return a}
+let S = DEF();
+try{const raw=localStorage.getItem(LS); if(raw) S=merge(DEF(),JSON.parse(raw));}catch(e){}
+let saveT=0;
+function save(){clearTimeout(saveT);saveT=setTimeout(()=>{try{localStorage.setItem(LS,JSON.stringify(S))}catch(e){}},150)}
+const today=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+function rollDay(){const t=today(); if(S.day.d!==t){S.day={d:t,n:{vi:0,en:0}};save()}}
+rollDay();
+/* 레벨4 추가 전 저장값 이관 */
+for(const L of ["vi","en"]){const lv=S.scope[L].lv;if(!S.lvMig&&lv.length===3&&lv.join()==="1,2,3")S.scope[L].lv=[1,2,3,4]}S.lvMig=1;
+
+/* ---------- 데이터 준비: 문장 + 단어장(풀이에서 자동 생성) ---------- */
+const hash = s=>{let h=5381;for(let i=0;i<s.length;i++)h=(h*33^s.charCodeAt(i))>>>0;return h.toString(36)};
+const ITEM={vi:{},en:{}}, SENT={}, WORD={};
+for(const L of ["vi","en"]){
+  SENT[L]=DATA.langs[L].map(x=>({...x,kind:"s"}));
+  const wm=new Map();
+  for(const s of SENT[L]){
+    ITEM[L][s.id]=s;
+    for(const [term,mean] of s.w){
+      const key=term.toLowerCase();
+      let w=wm.get(key);
+      if(!w){w={id:"w"+hash(L+key),kind:"w",t:term,means:[],c:s.c,cs:new Set(),l:s.l,ex:[],n:""};wm.set(key,w)}
+      if(!w.means.includes(mean))w.means.push(mean);
+      w.cs.add(s.c); w.l=Math.min(w.l,s.l); if(!w.ex.includes(s.id))w.ex.push(s.id);
+    }
+  }
+  WORD[L]=[...wm.values()].map(w=>{
+    let m=w.means.filter(a=>!w.means.some(b=>b!==a&&b.includes(a)));
+    w.k=m.slice(0,4).join(" · "); w.w=[]; ITEM[L][w.id]=w; return w;
+  });
+}
+const allOf=(L,type)=>type==="w"?WORD[L]:type==="a"?SENT[L].concat(WORD[L]):SENT[L];
+function pool(L,sc){
+  sc=sc||S.scope[L];
+  return allOf(L,sc.type).filter(it=>{
+    if(sc.lv.length&&!sc.lv.includes(it.l))return false;
+    if(sc.cats.length){ if(it.kind==="w"){if(![...it.cs].some(c=>sc.cats.includes(c)))return false} else if(!sc.cats.includes(it.c))return false }
+    if(sc.star&&!S.star[L][it.id])return false;
+    return true;
+  });
+}
+function scopeLabel(L){
+  const sc=S.scope[L];
+  const c=sc.cats.length?(sc.cats.length===1?CAT[sc.cats[0]]:CAT[sc.cats[0]]+" 외 "+(sc.cats.length-1)):"전체 상황";
+  const lv=sc.lv.length===4||!sc.lv.length?"Lv 전체":"Lv "+sc.lv.join("·");
+  const t={s:"문장",w:"단어",a:"문장+단어"}[sc.type];
+  return `<b>${esc(c)}</b> · ${lv} · ${t}${sc.star?" · ★만":""}`;
+}
+const scopeBtn=L=>`<button class="scope" data-act="scope">${IC.filt}<span>${scopeLabel(L)}</span><span class="sp"></span><span class="nw">바꾸기</span></button>`;
+
+/* ---------- 음성 (TTS) ---------- */
+let VOICES=[];
+const hasTTS="speechSynthesis" in window;
+function loadVoices(){try{VOICES=speechSynthesis.getVoices()||[]}catch(e){VOICES=[]}}
+if(hasTTS){loadVoices();try{speechSynthesis.addEventListener("voiceschanged",()=>{loadVoices();if(view==="prefs")render()})}catch(e){}}
+const vlang=v=>(v.lang||"").toLowerCase().replace("_","-");
+const voicesFor=L=>VOICES.filter(v=>vlang(v).startsWith(L));
+function voiceFor(L){
+  const list=voicesFor(L); if(!list.length)return null;
+  const want=S.set.voice[L]; const f=want&&list.find(v=>v.voiceURI===want); if(f)return f;
+  if(L==="en")return list.find(v=>vlang(v)==="en-us"&&/samantha|google|natural|aria|jenny/i.test(v.name))||list.find(v=>vlang(v)==="en-us")||list[0];
+  return list.find(v=>/linh|google|natural|hoaimy|an\b/i.test(v.name))||list[0];
+}
+const ttsText=t=>t.replace(/…/g,"").replace(/\s+—\s+/g,". ").replace(/\s+\/\s+/g,". ").replace(/\(.*?\)/g,"").replace(/\.\.\./g," ");
+function speak(text,L,slow){
+  L=L||S.lang;
+  if(!hasTTS){toast("이 브라우저는 음성 재생을 지원하지 않아요");return}
+  if(VOICES.length&&!voicesFor(L).length){toast(LANGS[L].name+" 음성이 없어 재생하지 않았어요. 성조 없는 소리가 나기 때문이에요. 설치 방법은 ? 또는 설정에서");return}
+  const go=()=>{
+    const u=new SpeechSynthesisUtterance(ttsText(text));
+    u.lang=LANGS[L].bcp; const v=voiceFor(L); if(v)u.voice=v;
+    u.rate=Math.max(.4,Math.min(1.6,S.set.rate[L]*(slow?.7:1)));
+    speechSynthesis.speak(u);
+  };
+  try{ if(speechSynthesis.speaking||speechSynthesis.pending){speechSynthesis.cancel();setTimeout(go,60)} else go(); }catch(e){toast("음성을 재생하지 못했어요")}
+}
+const sayBtns=(text,cls)=>`<div class="say ${cls||""}"><button class="btn sm" data-act="sayt" data-t="${enc(text)}">${IC.spk}듣기</button><button class="btn sm" data-act="sayt" data-slow="1" data-t="${enc(text)}">${IC.spk}천천히</button></div>`;
+
+/* ---------- 간격 반복 ---------- */
+function nextState(p,g){
+  p=p?{...p}:{r:0,e:2.5,i:0,d:0,lp:0};
+  const now=Date.now();
+  if(g===0){p.lp=(p.lp||0)+1;p.r=0;p.i=0;p.e=Math.max(1.3,p.e-.2);p.d=now+60e3}
+  else{
+    if(p.r===0)p.i=g===1?.5:g===2?1:3;
+    else if(p.r===1)p.i=g===1?Math.max(1,p.i*1.2):g===2?3:5;
+    else p.i=g===1?p.i*1.2:g===2?p.i*p.e:p.i*p.e*1.3;
+    if(g===1)p.e=Math.max(1.3,p.e-.15); if(g===3)p.e+=.15;
+    p.r++; p.d=now+p.i*DAY;
+  }
+  p.s=now; return p;
+}
+function fmtIv(p){const ms=p.d-Date.now(); if(ms<36e5)return Math.max(1,Math.round(ms/6e4))+"분"; if(ms<DAY)return Math.round(ms/36e5)+"시간"; const d=ms/DAY; if(d<30)return Math.round(d)+"일"; if(d<365)return (d/30).toFixed(1).replace(".0","")+"개월"; return (d/365).toFixed(1).replace(".0","")+"년"}
+function bump(){const t=today();S.hist[t]=(S.hist[t]||0)+1}
+function stats(L){
+  const P=S.p[L], now=Date.now(); let due=0,ls=0,lw=0,ms=0;
+  for(const id in P){const p=P[id], it=ITEM[L][id]; if(!it)continue; if(p.d<=now)due++; if(p.r>0||p.lp){it.kind==="s"?ls++:lw++} if(p.i>=21)ms++}
+  return {due,ls,lw,ms,newLeft:Math.max(0,S.set.newPerDay-S.day.n[L])};
+}
+function streak(){let n=0;const d=new Date();if(!S.hist[today()])d.setDate(d.getDate()-1);for(;;){const k=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");if(S.hist[k]){n++;d.setDate(d.getDate()-1)}else break}return n}
+
+/* ---------- 공통 ---------- */
+let view="home";
+let toastT=0;
+function toast(m){const t=$("#toast");t.textContent=m;t.classList.add("on");clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("on"),1800)}
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const starBtn=(L,id)=>`<button class="star ${S.star[L][id]?"on":""}" data-act="star" data-id="${id}" aria-label="즐겨찾기">${S.star[L][id]?IC.star:IC.starO}</button>`;
+function glossHTML(it){
+  if(!it.w||!it.w.length)return "";
+  return `<div class="gl">${it.w.map(([a,b])=>`<button data-act="sayt" data-t="${enc(a)}">${esc(a)}${IC.spk}</button><span>${esc(b)}</span>`).join("")}</div>`;
+}
+function exHTML(L,w,n){
+  return `<div class="ex">${w.ex.slice(0,n||2).map(id=>{const s=ITEM[L][id];return `<div><b>${esc(s.t)}</b>${esc(s.k)}</div>`}).join("")}</div>`;
+}
+function detailHTML(L,it){
+  return it.kind==="w"?exHTML(L,it,3):glossHTML(it)+(it.n?`<div class="note">${esc(it.n)}</div>`:"");
+}
+
+/* ---------- 홈 ---------- */
+function vHome(){
+  const L=S.lang, st=stats(L), sk=streak();
+  const days=[];for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");days.push([k,"일월화수목금토"[d.getDay()]])}
+  const mx=Math.max(10,...days.map(d=>S.hist[d[0]]||0));
+  const todo=st.due+Math.min(st.newLeft,pool(L).filter(it=>!S.p[L][it.id]).length);
+  const catRows=CATKEYS.map(c=>{const list=SENT[L].filter(s=>s.c===c);const done=list.filter(s=>S.p[L][s.id]).length;const pct=Math.round(done/list.length*100);
+    return `<button class="cat" data-act="catgo" data-c="${c}"><div class="n">${esc(CAT[c])}</div><div class="c">${done} / ${list.length} · ${pct}%</div><div class="bar"><i style="width:${pct}%"></i></div></button>`}).join("");
+  return `
+  <div class="hero">
+    <div><div class="lg">${LANGS[L].native} · 오늘 할 카드</div><div class="big">${todo}</div><div class="cap"><span class="nw">복습 ${st.due}</span> · <span class="nw">새 카드 ${st.newLeft}개 남음</span> · <span class="nw">연속 ${sk}일</span></div></div>
+    <button class="btn pri" data-act="go" data-v="cards">학습 시작</button>
+  </div>
+  <div class="kpis">
+    <div class="kpi"><div class="v">${st.ls}<small> / ${SENT[L].length}</small></div><div class="k">학습한 문장</div></div>
+    <div class="kpi"><div class="v">${st.lw}<small> / ${WORD[L].length}</small></div><div class="k">학습한 단어</div></div>
+    <div class="kpi"><div class="v">${st.ms}</div><div class="k">숙달(3주+)</div></div>
+  </div>
+  <h3>최근 7일 학습량</h3>
+  <div class="box"><div class="week">${days.map(([k,w])=>{const v=S.hist[k]||0;return `<div><span>${v||""}</span><i class="${v?"":"z"}" style="height:${v?Math.max(6,v/mx*52):3}px"></i>${w}</div>`}).join("")}</div></div>
+  <h3>상황별 진도 · 누르면 해당 상황 카드 학습</h3>
+  <div class="cats">${catRows}</div>
+  <h3>빠른 연습</h3>
+  <div class="row"><button class="btn" data-act="go" data-v="quiz">퀴즈 풀기</button><button class="btn" data-act="go" data-v="speak">말하기 연습</button><button class="btn" data-act="go" data-v="dict">전체 목록</button></div>`;
+}
+
+/* ---------- 카드 ---------- */
+let CS=null;
+function buildCards(){
+  const L=S.lang, now=Date.now(), P=S.p[L], pl=pool(L);
+  const due=pl.filter(it=>P[it.id]&&P[it.id].d<=now).sort((a,b)=>P[a.id].d-P[b.id].d).map(it=>it.id);
+  const left=Math.max(0,S.set.newPerDay-S.day.n[L]);
+  const fresh=pl.filter(it=>!P[it.id]).slice(0,left).map(it=>it.id);
+  const q=[];let a=0,b=0;while(a<due.length||b<fresh.length){for(let k=0;k<3&&a<due.length;k++)q.push(due[a++]);if(b<fresh.length)q.push(fresh[b++])}
+  CS={L,key:JSON.stringify(S.scope[L])+S.set.newPerDay,q,i:0,flip:false,done:0,nd:due.length,nn:fresh.length,dir:null};
+}
+function cardDir(){const d=S.set.dir;return d==="mix"?(Math.random()<.5?"k2t":"t2k"):d}
+function vCards(){
+  const L=S.lang;
+  if(!CS||CS.L!==L||CS.key!==JSON.stringify(S.scope[L])+S.set.newPerDay)buildCards();
+  const head=scopeBtn(L);
+  if(CS.i>=CS.q.length){
+    const st=stats(L), more=pool(L).filter(it=>!S.p[L][it.id]).length;
+    return head+`<div class="box empty"><div class="big">${CS.done?"완료":"쉬는 중"}</div>
+      <p>${CS.done?`이번 세션 ${CS.done}장을 마쳤어요.`:"지금 이 범위에 복습할 카드가 없어요."}</p>
+      <p class="mut sm">오늘 새 카드 ${S.day.n[L]} / ${S.set.newPerDay} · 이 범위에 아직 안 본 카드 ${more}장</p>
+      <div class="row" style="justify-content:center">${more?`<button class="btn pri" data-act="morenew">새 카드 10장 더</button>`:""}<button class="btn" data-act="go" data-v="quiz">퀴즈로 복습</button></div></div>`;
+  }
+  const id=CS.q[CS.i], it=ITEM[L][id], P=S.p[L][id];
+  if(!CS.dir)CS.dir=cardDir();
+  const isNew=!P, pct=Math.round(CS.i/CS.q.length*100);
+  const tagline=`<div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · Lv${it.l}</span>${isNew?'<span class="pill" style="color:var(--am)">새 카드</span>':""}<span class="star">${starBtn(L,id)}</span></div>`;
+  let body;
+  const tgt=`<div class="tg">${esc(it.t)}</div>`, ko=`<div class="ko">${esc(it.k)}</div>`;
+  if(!CS.flip){
+    body=`<button class="front" data-act="flip">${CS.dir==="k2t"?ko+`<div class="hint">${LANGS[L].name}로 말해 보고 탭하세요</div>`:tgt+`<div class="hint">뜻을 떠올리고 탭하세요</div>`}</button>${CS.dir==="t2k"?sayBtns(it.t):""}`;
+  }else{
+    body=`<div class="front" style="padding-bottom:6px">${CS.dir==="k2t"?ko+tgt:tgt+ko}</div>${sayBtns(it.t)}${detailHTML(L,it)}`;
+  }
+  const grades=CS.flip?`<div class="grades">${["다시","어려움","알맞음","쉬움"].map((n,g)=>`<button class="g${g}" data-act="grade" data-g="${g}">${n}<small>${fmtIv(nextState(P,g))}</small></button>`).join("")}</div>`:`<button class="btn pri blk" style="margin-top:12px" data-act="flip">정답 보기</button>`;
+  return head+`<div class="prog"><span>${CS.i+1} / ${CS.q.length}</span><div class="bar"><i style="width:${pct}%"></i></div><span>복습 ${CS.nd} · 새 ${CS.nn}</span></div>
+    <div class="fc">${tagline}${body}</div>${grades}`;
+}
+function grade(g){
+  const L=CS.L,id=CS.q[CS.i],old=S.p[L][id];
+  if(!old)S.day.n[L]++;
+  S.p[L][id]=nextState(old,g); bump();
+  if(g===0)CS.q.splice(Math.min(CS.q.length,CS.i+5),0,id);
+  CS.i++;CS.done++;CS.flip=false;CS.dir=null;save();render();
+}
+
+/* ---------- 퀴즈 ---------- */
+let QS={ph:"setup",type:"m",src:"all",n:10};
+const QT={m:"뜻 고르기",e:"표현 고르기",l:"듣고 고르기",c:"빈칸 채우기"};
+const QD={m:"원어를 보고 한국어 뜻 고르기",e:"한국어를 보고 원어 표현 고르기",l:"소리만 듣고 뜻 고르기",c:"문장 속 빈칸에 들어갈 단어 고르기"};
+const reEsc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+function clozeOf(s){
+  const cands=shuffle(s.w.map(w=>w[0]).filter(t=>!/\.\.\.|~|=|\//.test(t)&&t.length>1));
+  for(const term of cands){const re=new RegExp("(^|[^\\p{L}])("+reEsc(term)+")(?=$|[^\\p{L}])","iu");const m=s.t.match(re);if(m){const st=m.index+m[1].length;return {term:s.t.substr(st,term.length),pre:s.t.slice(0,st),post:s.t.slice(st+term.length)}}}
+  return null;
+}
+function quizPool(){
+  const L=S.lang;let pl=pool(L,QS.type==="c"?{...S.scope[L],type:"s"}:null);
+  if(QS.src==="seen")pl=pl.filter(it=>S.p[L][it.id]);
+  if(QS.src==="wrong")pl=pl.filter(it=>(S.q[L][it.id]||[0,0])[1]>0);
+  if(QS.type==="c")pl=pl.filter(it=>it.kind==="s"&&clozeOf(it));
+  return pl;
+}
+function distract(L,it,field){
+  const base=allOf(L,it.kind==="w"?"w":"s").filter(x=>x.id!==it.id&&x[field]!==it[field]);
+  const same=shuffle(base.filter(x=>x.c===it.c)), other=shuffle(base.filter(x=>x.c!==it.c));
+  const out=[],seen=new Set([it[field]]);
+  for(const x of same.slice(0,2).concat(other,same.slice(2))){if(out.length>=3)break;if(!seen.has(x[field])){seen.add(x[field]);out.push(x[field])}}
+  return out;
+}
+function startQuiz(retry){
+  const L=S.lang;
+  let items=retry?retry.map(id=>ITEM[L][id]):shuffle(quizPool()).slice(0,QS.n);
+  if(QS.type==="c")items=items.filter(it=>it.kind==="s");
+  if(!items.length){toast("이 범위엔 문제를 낼 항목이 없어요");return}
+  const qs=items.map(it=>{
+    if(QS.type==="c"){const cz=clozeOf(it);if(!cz)return null;const terms=shuffle(WORD[L].map(w=>w.t).filter(t=>t.toLowerCase()!==cz.term.toLowerCase()&&!/\.\.\.|~|\//.test(t)&&!it.t.toLowerCase().includes(t.toLowerCase()))).slice(0,3);return {id:it.id,cz,ans:cz.term,opts:shuffle([cz.term,...terms])}}
+    const f=QS.type==="e"?"t":"k";return {id:it.id,ans:it[f],opts:shuffle([it[f],...distract(L,it,f)])};
+  }).filter(Boolean);
+  Object.assign(QS,{ph:"q",qs,i:0,pick:null,ok:0,wrong:[]});
+  render(); if(QS.type==="l")autoListen();
+}
+function autoListen(){const q=QS.qs[QS.i];if(!q)return;const id=q.id,L=S.lang;setTimeout(()=>{const c=QS.qs&&QS.qs[QS.i];if(view==="quiz"&&QS.ph==="q"&&c&&c.id===id&&QS.pick===null)speak(ITEM[L][id].t,L)},250)}
+function vQuiz(){
+  const L=S.lang;
+  if(QS.ph==="setup"||QS.L!==L){QS.ph="setup";QS.L=L;
+    const n=quizPool().length;
+    return scopeBtn(L)+`<h2>퀴즈</h2>
+    <div class="box"><h3 style="margin-top:0">문제 유형</h3><div class="opts" style="margin-top:0">${Object.keys(QT).map(k=>`<button class="opt ${QS.type===k?"ok":""}" data-act="qtype" data-k="${k}"><div>${QT[k]}</div><div class="sm mut" style="font-weight:500">${QD[k]}</div></button>`).join("")}</div>
+    <h3>출제 범위</h3><div class="chips">${[["all","범위 전체"],["seen","학습한 것만"],["wrong","오답만"]].map(([k,n])=>`<button class="chip ${QS.src===k?"on":""}" data-act="qsrc" data-k="${k}">${n}</button>`).join("")}</div>
+    <h3>문항 수</h3><div class="chips">${[10,20,30].map(k=>`<button class="chip ${QS.n===k?"on":""}" data-act="qn" data-k="${k}">${k}문항</button>`).join("")}</div>
+    <p class="sm mut">출제 가능 ${n}개${QS.type==="c"?" · 빈칸 유형은 범위 안의 문장에서 출제":""}</p>
+    <button class="btn pri blk" data-act="qstart" ${n?"":"disabled"}>시작</button></div>`;
+  }
+  if(QS.ph==="done"){
+    const w=QS.wrong;
+    return `<h2>${QS.ok} / ${QS.qs.length} 정답</h2>
+    <div class="box">${w.length?`<div class="sm mut" style="margin-bottom:4px">틀린 문제 — 카드 복습 목록에도 바로 올라가요</div>${w.map(id=>{const it=ITEM[L][id];return `<div class="res"><div><div style="font-weight:650">${esc(it.t)}</div><div class="sm mut">${esc(it.k)}</div></div><button class="ib" data-act="say" data-id="${id}">${IC.spk}</button></div>`}).join("")}`:`<div class="empty"><div class="big">만점</div><p class="mut">전부 맞혔어요.</p></div>`}</div>
+    <div class="row" style="margin-top:12px">${w.length?`<button class="btn pri" data-act="qretry">오답만 다시</button>`:""}<button class="btn" data-act="qagain">새 문제</button><button class="btn" data-act="qsetup">유형 바꾸기</button></div>`;
+  }
+  const q=QS.qs[QS.i], it=ITEM[L][q.id], done=QS.pick!==null;
+  let prompt;
+  if(QS.type==="m")prompt=`<div class="tg">${esc(it.t)}</div>${sayBtns(it.t)}`;
+  else if(QS.type==="e")prompt=`<div class="ko">${esc(it.k)}</div>`;
+  else if(QS.type==="l")prompt=`<button class="play" data-act="say" data-id="${it.id}" aria-label="다시 듣기">${IC.spk}</button><div class="row" style="justify-content:center"><button class="btn sm" data-act="sayt" data-slow="1" data-t="${enc(it.t)}">천천히</button></div>${done?`<div class="tg" style="text-align:center;margin-top:8px">${esc(it.t)}</div>`:""}`;
+  else prompt=`<div class="cloze">${esc(q.cz.pre)}${done?`<span style="border-bottom:2px solid var(--am)">${esc(q.cz.term)}</span>`:"<u>____</u>"}${esc(q.cz.post)}</div><div class="hint" style="margin-top:6px">${esc(it.k)}</div>`;
+  const opts=q.opts.map((o,i)=>{let c="";if(done){if(o===q.ans)c="ok";else if(i===QS.pick)c="ng";else c="fd"}return `<button class="opt ${c}" data-act="qpick" data-i="${i}" ${done?"disabled":""}>${esc(o)}</button>`}).join("");
+  const after=done?`${QS.type!=="m"&&QS.type!=="l"?sayBtns(it.t):""}${QS.type!=="c"?`<div class="sm" style="margin-top:8px"><b>${esc(it.t)}</b> — <span class="mut">${esc(it.k)}</span></div>`:""}${detailHTML(L,it)}<button class="btn pri blk" style="margin-top:12px" data-act="qnext">${QS.i+1<QS.qs.length?"다음":"결과 보기"}</button>`:"";
+  return `<div class="prog"><span>${QT[QS.type]}</span><div class="bar"><i style="width:${Math.round(QS.i/QS.qs.length*100)}%"></i></div><span>${QS.i+1} / ${QS.qs.length} · 정답 ${QS.ok}</span></div>
+  <div class="fc" style="min-height:0"><div class="qp">${esc(CAT[it.c])} · Lv${it.l}</div>${prompt}<div class="opts">${opts}</div>${after}</div>`;
+}
+function qpick(i){
+  const L=S.lang,q=QS.qs[QS.i],ok=q.opts[i]===q.ans;QS.pick=i;
+  const st=S.q[L][q.id]||[0,0];st[ok?0:1]++;S.q[L][q.id]=st;bump();
+  if(ok)QS.ok++;else{QS.wrong.push(q.id);const p=S.p[L][q.id];if(p)p.d=Math.min(p.d,Date.now())}
+  save();render();
+  if(S.set.auto&&QS.type!=="m")speak(ITEM[L][q.id].t);
+}
+
+/* ---------- 말하기 ---------- */
+const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+let SP=null, rec=null;
+function buildSpeak(){const L=S.lang;SP={L,key:JSON.stringify(S.scope[L]),order:shuffle(pool(L).map(it=>it.id)),i:0,hide:SP?SP.hide:false,state:"idle",tx:"",res:null}}
+function norm(s,L){
+  s=s.normalize("NFC").toLowerCase().replace(/[’`]/g,"'");
+  if(L==="en")s=s.replace(/\blet'?s\b/g,"let us").replace(/n't\b/g," not").replace(/'re\b/g," are").replace(/'m\b/g," am").replace(/'ll\b/g," will").replace(/'ve\b/g," have").replace(/'d\b/g," would").replace(/'s\b/g," is").replace(/\bca not\b/g,"cannot").replace(/\bwo not\b/g,"will not").replace(/\bcan not\b/g,"cannot");
+  s=s.replace(/[^\p{L}\p{N}\s]/gu," ").replace(/\s+/g," ").trim();
+  return s.split(" ").map(w=>/^\d+$/.test(w)&&NUMW[L][+w]?NUMW[L][+w]:w).join(" ");
+}
+const NUMW={en:"zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty".split(" "),
+  vi:"không một hai ba bốn năm sáu bảy tám chín mười".split(" ")};
+NUMW.en[30]="thirty";NUMW.en[50]="fifty";NUMW.en[100]="one hundred";NUMW.vi[15]="mười lăm";NUMW.vi[50]="năm mươi";NUMW.vi[100]="một trăm";
+const untone=s=>s.normalize("NFD").replace(/\p{M}/gu,"").replace(/đ/g,"d");
+function lcsMark(a,b){const n=a.length,m=b.length,dp=Array.from({length:n+1},()=>new Uint16Array(m+1));for(let i=n-1;i>=0;i--)for(let j=m-1;j>=0;j--)dp[i][j]=a[i]===b[j]?dp[i+1][j+1]+1:Math.max(dp[i+1][j],dp[i][j+1]);const mk=new Array(n).fill(false);let i=0,j=0;while(i<n&&j<m){if(a[i]===b[j]){mk[i]=true;i++;j++}else if(dp[i+1][j]>=dp[i][j+1])i++;else j++}return mk}
+function scoreSpeech(target,alts,L){
+  const tw=norm(target,L).split(" ").filter(Boolean);let best=null;
+  for(const alt of alts){const aw=norm(alt,L).split(" ").filter(Boolean);const mk=lcsMark(tw,aw);const sc=mk.filter(Boolean).length/tw.length;
+    let sc2=sc;if(L==="vi"){const mk2=lcsMark(tw.map(untone),aw.map(untone));sc2=mk2.filter(Boolean).length/tw.length}
+    if(!best||sc>best.sc||(sc===best.sc&&sc2>best.sc2))best={alt,mk,sc,sc2,tw}}
+  return best;
+}
+function vSpeak(){
+  const L=S.lang;
+  if(!SP||SP.L!==L||SP.key!==JSON.stringify(S.scope[L]))buildSpeak();
+  const head=scopeBtn(L);
+  if(!SP.order.length)return head+`<div class="box empty"><p>이 범위엔 항목이 없어요.</p></div>`;
+  const id=SP.order[SP.i%SP.order.length], it=ITEM[L][id], best=S.sp[L][id];
+  const unsupported=!SR;
+  let res="";
+  if(SP.state==="live")res=`<p class="mut" id="live" style="text-align:center">듣는 중… ${esc(SP.tx)}</p>`;
+  if(SP.res){const r=SP.res,pct=Math.round(r.sc*100);
+    res=`<div class="box" style="margin-top:10px"><div class="row"><div class="score" style="color:${pct>=80?"var(--ok)":pct>=50?"var(--am)":"var(--ng)"}">${pct}%</div><div class="sm mut">${L==="vi"?`성조 빼고 비교 ${Math.round(r.sc2*100)}%<br>`:""}인식: “${esc(r.alt)}”</div></div>
+    <div class="words">${r.tw.map((w,i)=>`<span class="${r.mk[i]?"y":"n"}">${esc(w)}</span>`).join("")}</div>
+    <div class="sm mut" style="margin-top:6px">초록은 맞게 들린 단어, 빨강은 놓치거나 다르게 들린 단어</div></div>`;}
+  if(SP.err)res+=`<div class="warn">${esc(SP.err)}</div>`;
+  return head+`<div class="prog"><span>${SP.i%SP.order.length+1} / ${SP.order.length}</span><div class="sp"></div><button class="chip ${SP.hide?"on":""}" data-act="sphide">${SP.hide?"원문 숨김":"원문 보기"}</button></div>
+  <div class="fc" style="min-height:0"><div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · Lv${it.l}</span>${best!=null?`<span class="pill">최고 ${best}%</span>`:""}<span class="star">${starBtn(L,id)}</span></div>
+    <div class="front" style="padding:12px 2px"><div class="ko">${esc(it.k)}</div>${SP.hide&&!SP.res?`<button class="hint" data-act="sphide1" style="text-align:left">원문 잠깐 보기</button>`:`<div class="tg">${esc(it.t)}</div>`}</div>
+    ${sayBtns(it.t)}
+    ${unsupported?`<div class="warn">이 브라우저는 음성 인식을 지원하지 않아요. 듣기를 따라 말해 본 뒤 스스로 평가하세요. (Chrome·Safari 최신 버전에서 지원, 마이크 권한 필요)</div><div class="row"><button class="btn" data-act="spself" data-v="60">다시 연습</button><button class="btn pri" data-act="spself" data-v="100">잘 말했어요</button></div>`
+    :`<button class="mic ${SP.state==="live"?"live":""}" data-act="mic" aria-label="말하기">${IC.mic}</button><p class="sm mut" style="text-align:center;margin:0">${SP.state==="live"?"말을 마치면 자동으로 멈춰요":"마이크를 누르고 "+LANGS[L].name+"로 말하세요"}</p>`}
+    ${res}${detailHTML(L,it)}
+  </div>
+  <div class="row" style="margin-top:12px"><button class="btn" data-act="spmove" data-d="-1">이전</button><span class="sp"></span><button class="btn pri" data-act="spmove" data-d="1">다음</button></div>`;
+}
+function mic(){
+  const L=S.lang;
+  if(SP.state==="live"){try{rec&&rec.stop()}catch(e){}return}
+  const id=SP.order[SP.i%SP.order.length], it=ITEM[L][id];
+  try{if(hasTTS)speechSynthesis.cancel()}catch(e){}
+  try{rec=new SR()}catch(e){SP.err="음성 인식을 시작할 수 없어요.";render();return}
+  rec.lang=LANGS[L].bcp;rec.interimResults=true;rec.maxAlternatives=4;rec.continuous=false;
+  let finals=null,inter="";
+  SP.state="live";SP.tx="";SP.res=null;SP.err="";render();
+  rec.onresult=e=>{inter="";for(const r of e.results){inter+=r[0].transcript;if(r.isFinal)finals=[...r].map(a=>a.transcript)}SP.tx=inter;const p=document.getElementById("live");if(p&&SP.state==="live")p.textContent="듣는 중… "+inter};
+  rec.onerror=e=>{SP.err={"not-allowed":"마이크 권한이 막혀 있어요. 브라우저 설정에서 마이크를 허용해 주세요.","no-speech":"소리가 들리지 않았어요. 다시 눌러 말해 보세요.","language-not-supported":"이 기기에서 "+LANGS[L].name+" 음성 인식을 지원하지 않아요.","network":"음성 인식 서버에 연결하지 못했어요(인터넷 필요)."}[e.error]||("음성 인식 오류: "+e.error)};
+  rec.onend=()=>{SP.state="idle";const alts=finals||(inter?[inter]:null);
+    if(alts){SP.res=scoreSpeech(it.t,alts,L);const pct=Math.round(SP.res.sc*100);S.sp[L][id]=Math.max(S.sp[L][id]||0,pct);bump();save();SP.err=""}
+    if(SP.L===S.lang&&view==="speak")render()};
+  try{rec.start()}catch(e){SP.state="idle";SP.err="음성 인식을 시작할 수 없어요.";render()}
+}
+
+/* ---------- 사전 ---------- */
+let DS={q:"",type:"s",cat:"",star:false,open:null};
+const fold=s=>untone(s.toLowerCase());
+function dictList(){
+  const L=S.lang,q=fold(DS.q.trim());
+  let list=allOf(L,DS.type);
+  if(DS.cat)list=list.filter(it=>it.kind==="w"?it.cs.has(DS.cat):it.c===DS.cat);
+  if(DS.star)list=list.filter(it=>S.star[L][it.id]);
+  if(q)list=list.filter(it=>fold(it.t+" "+it.k+" "+(it.w||[]).map(w=>w.join(" ")).join(" ")).includes(q));
+  return list;
+}
+function itemRow(L,it){
+  const p=S.p[L][it.id], open=DS.open===it.id;
+  const st=p?(p.d<=Date.now()?"복습 대기":"다음 복습 "+fmtIv(p)+" 후"):"";
+  return `<div class="it"><button class="ib" data-act="say" data-id="${it.id}" aria-label="듣기">${IC.spk}</button><div class="tx" data-act="dopen" data-id="${it.id}"><div class="t">${esc(it.t)}</div><div class="k">${esc(it.k)}</div></div>${starBtn(L,it.id)}${open?`<div class="more">${detailHTML(L,it)}<div class="cnt">${esc(CAT[it.c])} · Lv${it.l}${st?" · "+st:""}</div></div>`:""}</div>`;
+}
+function renderDictList(){
+  const L=S.lang,list=dictList(),el=$("#dlist");if(!el)return;
+  el.innerHTML=list.length?`<div class="list">${list.map(it=>itemRow(L,it)).join("")}</div><div class="cnt">${list.length}개</div>`:`<div class="box empty mut">찾는 항목이 없어요</div>`;
+}
+function vDict(){
+  return `<div class="search">${IC.search}<input id="dq" type="search" placeholder="한국어·원어·단어로 검색 (성조 없이도 됨)" value="${esc(DS.q)}" autocomplete="off"></div>
+  <div class="row" style="margin-top:10px"><div class="seg" style="margin:0">${[["s","문장"],["w","단어"]].map(([k,n])=>`<button class="${DS.type===k?"on":""}" data-act="dtype" data-k="${k}">${n}</button>`).join("")}</div><button class="chip ${DS.star?"on":""}" data-act="dstar">${IC.star}즐겨찾기</button></div>
+  <div class="hscroll" style="margin-top:8px"><button class="chip ${DS.cat?"":"on"}" data-act="dcat" data-c="">전체</button>${CATKEYS.map(c=>`<button class="chip ${DS.cat===c?"on":""}" data-act="dcat" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
+  <div id="dlist"></div>`;
+}
+
+/* ---------- 설정 ---------- */
+function vPrefs(){
+  const vrow=L=>{const list=voicesFor(L), cur=voiceFor(L);
+    return `<div class="fld"><label>${LANGS[L].name} 음성</label>${list.length?`<select data-ch="voice" data-l="${L}">${list.map(v=>`<option value="${esc(v.voiceURI)}" ${cur&&cur.voiceURI===v.voiceURI?"selected":""}>${esc(v.name)} (${esc(v.lang)})</option>`).join("")}</select>`:`<span class="sm" style="color:var(--ng)">없음</span>`}
+      ${list.length?"":`<div class="d">${L==="vi"?"이 기기에 베트남어 음성이 없어요. iPhone: 설정 → 손쉬운 사용 → 읽기 및 말하기 → 음성 → 베트남어 다운로드. 갤럭시: 설정 → 일반 → 텍스트 음성 변환(TTS) → 엔진 설정 → 베트남어 음성 설치 (설정 검색창에 'TTS').":"영어 음성이 없어요. 기기 TTS 설정에서 영어 음성을 설치하세요."} 설치 후 앱을 다시 여세요.</div>`}</div>
+      <div class="fld"><label>${LANGS[L].name} 속도 <span class="mut nw">${S.set.rate[L].toFixed(2)}×</span></label><button class="btn sm" data-act="sayt" data-l="${L}" data-t="${enc(L==="vi"?"Xin chào, rất vui được gặp anh.":"Hi, it's great to finally meet you in person.")}">${IC.spk}테스트</button><input type="range" min="0.5" max="1.3" step="0.05" value="${S.set.rate[L]}" data-ch="rate" data-l="${L}" style="grid-column:1/-1"></div>`};
+  const sw=(k,on)=>`<button class="sw ${on?"on":""}" data-act="tog" data-k="${k}" aria-pressed="${on}" aria-label="${k}"></button>`;
+  return `<h2>설정</h2>
+  <h3>발음 듣기</h3><div class="box" style="padding:0 14px">${hasTTS?vrow("vi")+vrow("en"):`<div class="fld"><div class="d">이 브라우저는 음성 재생을 지원하지 않아요.</div></div>`}</div>
+  <h3>카드 학습</h3><div class="box" style="padding:0 14px">
+    <div class="fld"><label>카드 앞면</label><select data-ch="dir"><option value="k2t" ${S.set.dir==="k2t"?"selected":""}>한국어 → 원어</option><option value="t2k" ${S.set.dir==="t2k"?"selected":""}>원어 → 한국어</option><option value="mix" ${S.set.dir==="mix"?"selected":""}>섞기</option></select></div>
+    <div class="fld"><label>하루 새 카드</label><select data-ch="newPerDay">${[5,10,15,20,30,50].map(n=>`<option ${S.set.newPerDay===n?"selected":""}>${n}</option>`).join("")}</select><div class="d">언어별로 따로 셉니다. 복습 카드는 제한 없음.</div></div>
+    <div class="fld"><label>정답 공개 시 자동 재생</label>${sw("auto",S.set.auto)}</div></div>
+  <h3>데이터 (이 기기에만 저장됨)</h3><div class="box">
+    <div class="row"><button class="btn sm" data-act="export">백업 파일 저장</button><button class="btn sm" data-act="copyx">백업 복사</button><button class="btn sm" data-act="importsheet">복원</button><span class="sp"></span><button class="btn sm" data-act="reset" style="color:var(--ng)">${LANGS[S.lang].name} 진도 초기화</button></div>
+    <p class="sm mut" style="margin-bottom:0">브라우저 데이터를 지우면 진도도 사라져요. 가끔 백업해 두세요.</p></div>
+  <h3>앱 정보</h3><div class="box sm">
+    <div>베트남어 문장 ${SENT.vi.length} · 단어 ${WORD.vi.length} / 영어 문장 ${SENT.en.length} · 표현 ${WORD.en.length}</div>
+    <div class="mut">버전 ${VER} · 베트남어는 북부(하노이) 표준, 메모에 남부 차이 표기</div>
+    <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>`;
+}
+function exportJSON(){return JSON.stringify({app:"dumal",v:1,at:new Date().toISOString(),data:S})}
+function importJSON(txt){
+  try{const o=JSON.parse(txt);const d=o&&o.app==="dumal"?o.data:o;if(!d||!d.p||!d.set)throw 0;S=merge(DEF(),d);rollDay();save();CS=null;SP=null;toast("복원했어요");closeSheet();render()}catch(e){toast("백업 형식이 아니에요")}
+}
+
+/* ---------- 바텀시트 ---------- */
+function openSheet(html){closeSheet();const d=document.createElement("div");d.className="ovl";d.id="ovl";d.innerHTML=`<div class="sheet" role="dialog">${html}</div>`;d.addEventListener("click",e=>{if(e.target===d)closeSheet()});document.body.appendChild(d)}
+function closeSheet(){const d=$("#ovl");if(d)d.remove()}
+let draft=null;
+function scopeSheet(){
+  const L=S.lang;draft=draft||JSON.parse(JSON.stringify(S.scope[L]));
+  const n=pool(L,draft).length;
+  openSheet(`<h3>상황</h3><div class="chips"><button class="chip ${draft.cats.length?"":"on"}" data-act="sc" data-c="">전체</button>${CATKEYS.map(c=>`<button class="chip ${draft.cats.includes(c)?"on":""}" data-act="sc" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
+   <h3>레벨</h3><div class="chips">${[[1,"Lv1 기초"],[2,"Lv2 초중급"],[3,"Lv3 중급"],[4,"Lv4 고급"]].map(([l,nm])=>`<button class="chip ${draft.lv.includes(l)?"on":""}" data-act="sl" data-l="${l}">${nm}</button>`).join("")}</div>
+   <h3>종류</h3><div class="chips">${[["s","문장"],["w","단어"],["a","문장+단어"]].map(([k,nm])=>`<button class="chip ${draft.type===k?"on":""}" data-act="st" data-k="${k}">${nm}</button>`).join("")}<button class="chip ${draft.star?"on":""}" data-act="sst">${IC.star}즐겨찾기만</button></div>
+   <div class="row" style="margin-top:18px"><span class="sm mut nw">해당 항목 ${n}개</span><span class="sp"></span><button class="btn" data-act="scx">취소</button><button class="btn pri" data-act="scok" ${n?"":"disabled"}>적용</button></div>`);
+}
+
+/* ---------- 렌더 & 이벤트 ---------- */
+const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,dict:vDict,prefs:vPrefs};
+function render(){
+  document.querySelectorAll("#langSeg button").forEach(b=>b.classList.toggle("on",b.dataset.l===S.lang));
+  document.querySelectorAll("#tabs a").forEach(a=>a.classList.toggle("on",a.dataset.v===view));
+  $("#view").innerHTML=VIEWS[view]();
+  if(view==="dict"){renderDictList();const q=$("#dq");let t=0;q.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{DS.q=q.value;DS.open=null;renderDictList()},120)})}
+}
+function go(v){toggleHelp(false);if(!VIEWS[v])v="home";if(v!==view){view=v;if(location.hash!=="#"+v)try{history.replaceState(null,"","#"+v)}catch(e){location.hash=v}window.scrollTo(0,0)}render()}
+window.addEventListener("hashchange",()=>{const v=location.hash.slice(1);if(VIEWS[v]&&v!==view){view=v;render();window.scrollTo(0,0)}});
+document.getElementById("tabs").addEventListener("click",e=>{const a=e.target.closest("a");if(!a)return;e.preventDefault();go(a.dataset.v)});
+
+const ACT={
+  go:b=>go(b.dataset.v),
+  lang:b=>{if(S.lang===b.dataset.l)return;S.lang=b.dataset.l;save();try{if(hasTTS)speechSynthesis.cancel()}catch(e){}DS.open=null;render()},
+  say:b=>{const it=ITEM[S.lang][b.dataset.id];if(it)speak(it.t)},
+  sayt:b=>speak(decodeURIComponent(b.dataset.t),b.dataset.l||S.lang,!!b.dataset.slow),
+  star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;save();b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
+  catgo:b=>{const L=S.lang;S.scope[L]={...S.scope[L],cats:[b.dataset.c],type:"s",star:false};save();CS=null;go("cards")},
+  scope:()=>{draft=null;scopeSheet()},
+  sc:b=>{const c=b.dataset.c;if(!c)draft.cats=[];else{const i=draft.cats.indexOf(c);i<0?draft.cats.push(c):draft.cats.splice(i,1)}scopeSheet()},
+  sl:b=>{const l=+b.dataset.l,i=draft.lv.indexOf(l);if(i<0)draft.lv.push(l);else if(draft.lv.length>1)draft.lv.splice(i,1);draft.lv.sort();scopeSheet()},
+  st:b=>{draft.type=b.dataset.k;scopeSheet()},
+  sst:()=>{draft.star=!draft.star;scopeSheet()},
+  scx:()=>{draft=null;closeSheet()},
+  scok:()=>{S.scope[S.lang]=draft;draft=null;save();closeSheet();if(view==="quiz")QS.ph="setup";render()},
+  flip:()=>{if(CS.flip)return;CS.flip=true;render();if(S.set.auto)speak(ITEM[CS.L][CS.q[CS.i]].t)},
+  grade:b=>grade(+b.dataset.g),
+  morenew:()=>{S.day.n[S.lang]=Math.max(0,S.day.n[S.lang]-10);save();CS=null;render()},
+  qtype:b=>{QS.type=b.dataset.k;render()},
+  qsrc:b=>{QS.src=b.dataset.k;render()},
+  qn:b=>{QS.n=+b.dataset.k;render()},
+  qstart:()=>startQuiz(),
+  qpick:b=>{if(QS.pick===null)qpick(+b.dataset.i)},
+  qnext:()=>{QS.i++;QS.pick=null;if(QS.i>=QS.qs.length)QS.ph="done";render();window.scrollTo(0,0);if(QS.ph==="q"&&QS.type==="l")autoListen()},
+  qretry:()=>startQuiz(QS.wrong.slice()),
+  qagain:()=>startQuiz(),
+  qsetup:()=>{QS.ph="setup";render()},
+  mic:()=>mic(),
+  sphide:()=>{SP.hide=!SP.hide;render()},
+  sphide1:b=>{b.outerHTML=`<div class="tg">${esc(ITEM[S.lang][SP.order[SP.i%SP.order.length]].t)}</div>`},
+  spmove:b=>{try{rec&&rec.abort()}catch(e){}SP.i=(SP.i+(+b.dataset.d)+SP.order.length)%SP.order.length;SP.res=null;SP.err="";SP.state="idle";render();window.scrollTo(0,0)},
+  spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();save();ACT.spmove({dataset:{d:1}})},
+  dtype:b=>{DS.type=b.dataset.k;DS.open=null;render()},
+  dcat:b=>{DS.cat=b.dataset.c;DS.open=null;render()},
+  dstar:()=>{DS.star=!DS.star;render()},
+  dopen:b=>{DS.open=DS.open===b.dataset.id?null:b.dataset.id;renderDictList()},
+  tog:b=>{const k=b.dataset.k;S.set[k]=!S.set[k];save();render()},
+  export:()=>{let framed=false;try{framed=window.self!==window.top}catch(e){framed=true}if(framed){ACT.copyx();return}try{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([exportJSON()],{type:"application/json"}));a.download="malmoi-duo-backup-"+today()+".json";document.body.appendChild(a);a.click();a.remove();toast("백업 파일을 저장했어요")}catch(e){toast("저장이 막혔어요. '백업 복사'를 쓰세요")}},
+  copyx:()=>{const t=exportJSON();(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>toast("백업 내용을 복사했어요"),()=>openSheet(`<h3>백업 내용</h3><p class="sm mut">아래 내용을 길게 눌러 전체 복사해 메모에 보관하세요.</p><textarea readonly>${esc(t)}</textarea><button class="btn blk" style="margin-top:10px" data-act="closesheet">닫기</button>`))},
+  importsheet:()=>openSheet(`<h3>백업 복원</h3><p class="sm mut">백업 파일을 고르거나 복사해 둔 내용을 붙여 넣으세요. 지금 진도는 백업으로 바뀝니다.</p><input type="file" id="impf" accept="application/json,.json"><textarea id="impt" placeholder="백업 내용 붙여넣기" style="margin-top:10px"></textarea><div class="row" style="margin-top:10px"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="doimport">복원</button></div>`),
+  doimport:()=>{const f=$("#impf"),t=$("#impt");if(f&&f.files&&f.files[0]){f.files[0].text().then(importJSON)}else if(t&&t.value.trim())importJSON(t.value.trim());else toast("파일이나 내용을 넣어 주세요")},
+  reset:()=>openSheet(`<h3>${LANGS[S.lang].name} 진도 초기화</h3><p>카드 복습 기록, 퀴즈·말하기 기록이 모두 지워져요. 즐겨찾기는 남아요.</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="doreset" style="background:var(--ng);border-color:var(--ng);color:#fff">초기화</button></div>`),
+  doreset:()=>{const L=S.lang;S.p[L]={};S.q[L]={};S.sp[L]={};S.day.n[L]=0;save();CS=null;SP=null;closeSheet();toast("초기화했어요");render()},
+  help:()=>toggleHelp(),
+  closesheet:()=>closeSheet()
+};
+function toggleHelp(force){const h=$("#help"),open=force!==undefined?force:h.hidden;h.hidden=!open;$("#helpBtn").setAttribute("aria-expanded",String(open));if(open&&!S.seenHelp){S.seenHelp=1;save();const d=$("#helpBtn .dot");if(d)d.remove()}}
+document.addEventListener("pointerdown",e=>{const h=$("#help");if(!h.hidden&&!e.target.closest("#help,#helpBtn"))toggleHelp(false)});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){toggleHelp(false);closeSheet()}});
+if(!S.seenHelp)$("#helpBtn").insertAdjacentHTML("beforeend",'<i class="dot"></i>');
+document.addEventListener("click",e=>{const b=e.target.closest("[data-act]");if(!b||b.disabled)return;const f=ACT[b.dataset.act];if(f){e.preventDefault();f(b,e)}});
+document.addEventListener("change",e=>{const el=e.target.closest("[data-ch]");if(!el)return;const k=el.dataset.ch;
+  if(k==="voice")S.set.voice[el.dataset.l]=el.value;
+  if(k==="rate"){S.set.rate[el.dataset.l]=+el.value;}
+  if(k==="dir")S.set.dir=el.value;
+  if(k==="newPerDay"){S.set.newPerDay=+el.value;CS=null}
+  save();render()});
+document.addEventListener("input",e=>{const el=e.target;if(el.dataset&&el.dataset.ch==="rate"){const lab=el.parentElement.querySelector("label span");if(lab)lab.textContent=(+el.value).toFixed(2)+"×"}});
+document.addEventListener("keydown",e=>{
+  if(e.target.matches("input,textarea,select"))return;
+  if(view==="cards"&&CS&&CS.i<CS.q.length){if(e.key===" "||e.key==="Enter"){e.preventDefault();CS.flip?null:ACT.flip()}else if(CS.flip&&"1234".includes(e.key))grade(+e.key-1)}
+  if(view==="quiz"&&QS.ph==="q"){if(QS.pick===null&&"1234".includes(e.key))qpick(+e.key-1);else if(QS.pick!==null&&(e.key==="Enter"||e.key===" ")){e.preventDefault();ACT.qnext()}}
+});
+document.addEventListener("visibilitychange",()=>{if(!document.hidden){const d=S.day.d;rollDay();if(d!==S.day.d){CS=null;render()}}});
+
+view=VIEWS[location.hash.slice(1)]?location.hash.slice(1):"home";
+render();
+
+/* 오프라인 캐시 (지원되는 곳에서만) */
+if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostname==="localhost")){
+  window.addEventListener("load",()=>{navigator.serviceWorker.register("sw.js").catch(()=>{})});
+}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "말모이 듀오 — 베트남어·영어 회화 연습",
+  "short_name": "말모이 듀오",
+  "description": "베트남어·영어 회화 문장과 단어를 카드, 퀴즈, 듣기, 말하기로 연습",
+  "lang": "ko",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c232c",
+  "theme_color": "#1c232c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

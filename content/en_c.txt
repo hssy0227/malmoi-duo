@@ -1,0 +1,154 @@
+# 고난도 추가분 (Lv3~4)
+@greet
+3|드디어 직접 뵙네요. 이름만 알다가 얼굴을 보니 반가워요.|It's a pleasure to finally put a face to the name.|put a face to the name=이름만 알던 사람을 직접 보다
+3|오시는 길 찾기 어렵지 않으셨어요?|Did you have any trouble finding the place?|have trouble -ing=~하는 데 애먹다
+3|여기까지 먼 길 와 주셔서 감사해요.|Thanks for making the trip all the way out here.|make the trip=먼 길을 오다; all the way=멀리서
+4|민수 씨가 당신 칭찬을 많이 하더라고요.|Minsu speaks very highly of you.|speak highly of=~를 높이 평가하다
+4|우리 겹치는 지인이 있는 것 같네요.|Looks like we have a mutual friend.|mutual friend=공통 지인
+3|이 업계에 있은 지 10년쯤 됐어요.|I've been in this industry for about ten years.|industry=업계
+4|원래 영업으로 시작했다가 나중에 전략 쪽으로 옮겼어요.|I started out in sales and later moved into strategy.|start out=처음 시작하다; move into=~로 옮기다
+3|명함 한 장 받을 수 있을까요?|Could I grab one of your business cards?|grab=얼른 받다·집다; business card=명함
+4|오늘 자리를 마련해 주셔서 감사합니다.|Thank you for setting up this meeting.|set up=마련하다
+3|편하게 계세요.|Please, make yourself comfortable.|make yourself comfortable=편히 계세요
+3|마실 것 좀 드릴까요?|Can I get you something to drink?|get you=~을 가져다주다
+4|기억하실지 모르겠지만 작년 컨퍼런스에서 잠깐 인사드렸어요.|You might not remember, but we briefly met at last year's conference.|briefly=잠깐; conference=회의·학회
+3|요즘 일은 좀 어때요?|How's work treating you these days?|treat=대하다|직역: 일이 당신을 어떻게 대해요?
+3|그럭저럭 괜찮아요.|Can't complain.|can't complain=불평할 게 없다·그럭저럭
+4|시간 내주셔서 정말 감사해요. 바쁘신 거 알아요.|I really appreciate your time today. I know you're busy.|appreciate=감사하다
+3|이만 들어가 보세요. 좋은 저녁 되세요.|I'll let you go. Have a great evening.|let you go=(대화를) 이만 놓아주다
+4|즐거웠어요. 조만간 또 이런 자리 가져요.|This was fun. Let's do it again sometime soon.|sometime soon=조만간
+3|다음에 서울 오시면 연락 주세요.|Look me up next time you're in Seoul.|look up=찾아가다·연락하다
+4|팀원분들께도 안부 전해 주세요.|Give my regards to the rest of your team.|give my regards to=~에게 안부 전하다
+3|만나서 반가웠어요. 조심히 들어가세요.|Great meeting you. Get home safe.|get home safe=조심히 들어가요
+
+@daily
+3|오늘 완전히 녹초가 됐어요.|I'm completely wiped out today.|wiped out=녹초가 된
+3|요즘 잠을 잘 못 자요.|I haven't been sleeping well lately.|lately=요즘
+4|요즘 일과 삶의 균형을 맞추기가 쉽지 않아요.|It's been hard to strike a work-life balance lately.|strike a balance=균형을 맞추다
+3|오늘은 일진이 안 좋네요.|It's just not my day.|not my day=일진이 안 좋다
+3|생각만 해도 미치겠어요.|It drives me crazy just thinking about it.|drive someone crazy=미치게 하다
+4|그 사람이 한 말이 계속 마음에 걸려요.|What he said is still bugging me.|bug=신경 쓰이게 하다
+3|드디어 끝! 속이 다 시원하네요.|Finally done! What a relief.|what a relief=속 시원하다
+4|오늘은 아무것도 안 하고 늘어져 있고 싶어요.|I just want to veg out today.|veg out=아무것도 안 하고 늘어지다
+3|아침 커피 없이는 정신을 못 차려요.|I can't function without my morning coffee.|function=제대로 기능하다
+4|더 일찍 일어나는 습관을 들이려고 노력 중이에요.|I'm trying to get into the habit of waking up earlier.|get into the habit of=~하는 습관을 들이다
+3|기분이 왔다 갔다 해요.|My mood's all over the place.|all over the place=종잡을 수 없는
+4|별일 아닌데 제가 너무 과민 반응했나 봐요.|I guess I overreacted to something minor.|overreact=과민 반응하다; minor=사소한
+3|아슬아슬하게 시간 맞춰 왔어요.|I made it just in time.|make it=제시간에 도착하다; just in time=아슬아슬하게
+3|깜빡했어요.|It slipped my mind.|slip one's mind=깜빡하다
+4|일에 파묻혀서 제대로 생각할 겨를도 없어요.|I've been buried in work and can barely think straight.|buried in=~에 파묻힌; think straight=제대로 생각하다
+3|그럴 만하네요.|Fair enough.|fair enough=그럴 만하다·인정
+4|솔직히 좀 서운했어요.|To be honest, my feelings were a little hurt.|to be honest=솔직히; hurt=상처받은
+3|드디어 금요일이다!|Thank God it's Friday!|thank God=다행이다
+4|이번 주말엔 집에서 넷플릭스나 몰아 볼래요.|I'm just going to stay in and binge Netflix this weekend.|stay in=집에 있다; binge=몰아서 보다
+3|날씨가 오락가락하네요.|The weather can't make up its mind.|make up one's mind=결정하다
+
+@food
+3|예약 안 했는데 자리 있어요?|Do you take walk-ins?|walk-in=예약 없이 온 손님
+4|지금 대기가 얼마나 돼요?|What's the wait like right now?|wait=대기 시간
+3|일행 중에 알레르기가 있는데, 이 요리에 견과류 들어가요?|One of us has an allergy. Does this dish contain nuts?|contain=포함하다
+4|글루텐 프리 메뉴 있어요?|Do you have any gluten-free options?|option=선택지
+3|제일 인기 있는 메뉴가 뭐예요?|What's your most popular dish?|popular=인기 있는
+3|매운 거 잘 먹어요.|I can handle spicy food.|handle=감당하다
+4|이 와인이랑 잘 어울리는 요리가 뭐예요?|What would pair well with this wine?|pair with=~와 어울리다
+3|조금 더 익혀 주시겠어요?|Could you cook this a little longer?|cook longer=더 익히다
+4|죄송한데 이게 좀 식은 것 같아요.|Sorry, but this seems to have gone a bit cold.|go cold=식다
+3|물 좀 더 채워 주시겠어요?|Could we get a refill on water?|refill=리필
+3|맛있게 드세요.|Enjoy your meal.|enjoy=즐기다
+4|너무 배불러서 디저트는 못 먹겠어요.|I'm too full for dessert.|too A for B=B하기엔 너무 A한
+3|커피 마시면서 얘기해요.|Let's talk over coffee.|over coffee=커피를 마시며
+4|오늘은 각자 계산해요.|Let's go Dutch today.|go Dutch=각자 내다
+3|이번엔 제가 낼 차례예요.|It's my turn to pay.|turn=차례
+4|여기선 팁을 보통 얼마나 줘요?|How much is customary to tip here?|customary=관례적인
+3|이거 나눠 먹어요.|Let's share this.|share=나누다
+4|여기 분위기 정말 좋네요. 단골 될 것 같아요.|I love the vibe here. I could become a regular.|vibe=분위기; regular=단골
+3|간단히 뭐 좀 먹고 가요.|Let's just grab a quick bite.|grab a bite=간단히 먹다
+4|제가 입맛이 좀 까다로워요.|I'm a bit of a picky eater.|picky eater=입맛이 까다로운 사람
+
+@shop
+3|영수증 없어도 반품돼요?|Can I return this without a receipt?|return=반품하다
+4|반품 규정이 어떻게 돼요?|What's your return policy?|return policy=반품 규정
+3|좀 더 저렴한 거 있어요?|Do you have anything more affordable?|affordable=저렴한
+4|이건 바가지 같은데요.|This feels like a rip-off.|rip-off=바가지
+3|세일 언제까지 해요?|How long is the sale on?|on=진행 중인
+4|이 가격이면 거저네요.|At this price, it's a steal.|steal=거저나 다름없는 물건
+3|다른 매장에 재고 있는지 확인해 주실 수 있어요?|Could you check if another store has this in stock?|in stock=재고가 있는
+4|사이즈가 애매한데 둘 다 입어 봐도 될까요?|I'm between sizes. Can I try both?|between sizes=사이즈가 애매한
+3|이 색은 제 피부 톤이랑 안 어울려요.|This color doesn't suit my skin tone.|suit=어울리다
+3|온라인 가격으로 맞춰 주실 수 있어요?|Do you price match with your online store?|price match=가격을 맞춰 주다
+4|이번 구매로 포인트 적립되나요?|Can I earn points on this purchase?|earn points=포인트를 적립하다; purchase=구매
+3|할부 돼요?|Can I pay in installments?|installments=할부
+4|충동구매해 버렸어요.|I made an impulse purchase.|impulse purchase=충동구매
+3|그냥 둘러보는 중이에요. 필요하면 부를게요.|I'm just browsing. I'll let you know if I need anything.|browse=둘러보다
+4|이 품질이면 그 가격 할 만하네요.|For this quality, it's worth the price.|worth=~할 가치가 있는
+3|이게 최신 모델이에요?|Is this the latest model?|latest=최신의
+4|작년 모델이랑 뭐가 달라요?|What's the difference between this and last year's model?|difference=차이
+3|배송은 얼마나 걸려요?|How long does shipping take?|shipping=배송
+4|주문을 취소하고 싶은데, 벌써 발송됐나요?|I'd like to cancel my order. Has it shipped yet?|ship=발송되다
+3|물건이 파손된 채로 왔어요.|The item arrived damaged.|damaged=파손된
+
+@move
+3|가시는 길에 저 좀 내려 주실 수 있어요?|Could you drop me off on your way?|on your way=가는 길에
+4|차가 밀려서 30분쯤 늦을 것 같아요.|Traffic's backed up, so I'll be about thirty minutes late.|backed up=정체된
+3|다음 출구로 나가세요.|Take the next exit.|exit=출구
+4|내비가 이상한 길로 안내하네요.|The GPS is taking us a weird way.|GPS=내비게이션; weird=이상한
+3|주유소 좀 들렀다 가도 될까요?|Mind if we stop for gas?|mind if=~해도 될까요; gas=휘발유
+4|길을 잘못 들었어요. 돌아가야 해요.|We took a wrong turn. We need to turn around.|take a wrong turn=길을 잘못 들다; turn around=되돌아가다
+3|이 근처에 주차할 데 있어요?|Is there anywhere to park around here?|park=주차하다
+4|요금 나눠서 낼까요?|Should we split the fare?|fare=요금
+3|비행기 시간 맞출 수 있을까요?|Do you think we'll make our flight?|make=시간에 맞춰 타다
+4|연결편을 놓쳐서 다음 비행기로 다시 예약해야 해요.|I missed my connection, so I need to rebook on the next flight.|connection=연결편; rebook=다시 예약하다
+3|무료 수하물 허용량이 어떻게 돼요?|What's the baggage allowance?|baggage allowance=수하물 허용량
+4|초과 수하물 요금이 얼마예요?|How much is the excess baggage fee?|excess=초과의
+3|좌석 업그레이드 가능해요?|Is it possible to upgrade my seat?|upgrade=업그레이드하다
+4|비행기가 결항됐는데 보상받을 수 있나요?|My flight was canceled. Am I entitled to compensation?|entitled to=~받을 자격이 있는; compensation=보상
+3|지하철 노선도 있어요?|Do you have a subway map?|subway=지하철
+4|출근길이 정말 고역이에요.|My commute is brutal.|commute=통근; brutal=혹독한
+3|교통카드는 어디서 충전해요?|Where can I top up my transit card?|top up=충전하다; transit card=교통카드
+4|이 시간에 택시 잡는 건 거의 불가능해요.|Getting a cab at this hour is next to impossible.|cab=택시; next to impossible=거의 불가능한
+3|카풀할래요?|Want to carpool?|carpool=카풀하다
+4|자율주행차가 보편화되면 출퇴근 방식이 완전히 바뀔 거예요.|Once self-driving cars go mainstream, commuting will change completely.|self-driving=자율주행의; go mainstream=보편화되다
+
+@stay
+3|얼리 체크인 되나요?|Is early check-in possible?|early check-in=얼리 체크인
+4|방에 와 보니 청소가 안 되어 있었어요.|When I got to my room, it hadn't been cleaned.|get to=도착하다
+3|난방이 안 돼요.|The heating isn't working.|heating=난방
+4|변기가 막혔어요. 사람 좀 보내 주시겠어요?|The toilet's clogged. Could you send someone up?|clogged=막힌; send up=올려 보내다
+3|어댑터 빌릴 수 있을까요?|Could I borrow a power adapter?|adapter=어댑터
+4|옆방이 밤새 시끄러워서 한숨도 못 잤어요.|The room next door was loud all night. I didn't sleep a wink.|not sleep a wink=한숨도 못 자다
+3|하룻밤 더 묵고 싶어요.|I'd like to stay one more night.|stay=묵다
+4|미니바는 손도 안 댔는데 요금이 청구됐어요.|I was charged for the minibar, but I didn't touch it.|charge for=~ 요금을 청구하다
+3|조식은 몇 시까지 해요?|Until what time is breakfast served?|serve=제공하다
+4|짐 좀 방까지 올려다 주실 수 있나요?|Could someone bring my bags up to the room?|bring up=올려다 주다
+3|방에 다리미 있어요?|Is there an iron in the room?|iron=다리미
+4|늦게 도착할 것 같은데 예약은 유지해 주세요.|I'll be arriving late, so please hold my reservation.|hold=유지하다
+3|바다 전망 방으로 바꿀 수 있어요?|Can I switch to a room with an ocean view?|switch to=~로 바꾸다; ocean view=바다 전망
+4|숙박 요금에 세금과 봉사료가 포함돼 있나요?|Does the rate include taxes and service charges?|rate=요금; service charge=봉사료
+3|셔틀 시간표 좀 볼 수 있을까요?|Could I see the shuttle schedule?|schedule=시간표
+4|호텔 측 대응에 정말 실망했어요.|I'm really disappointed with how the hotel handled this.|disappointed with=~에 실망한; handle=대응하다
+3|분실물 센터에 제 충전기 들어온 거 있어요?|Has anyone turned in a charger to lost and found?|turn in=맡기다; lost and found=분실물 센터
+4|위치가 좋아서 어디든 걸어서 갈 수 있어요.|The location is so convenient, everything's within walking distance.|convenient=편리한; within walking distance=걸어갈 수 있는 거리에
+3|체크인 안내를 다시 보내 주실 수 있어요?|Could you resend the check-in instructions?|resend=다시 보내다; instructions=안내
+4|이 문제는 리뷰에 꼭 써야 할 것 같아요.|I feel like I should mention this in my review.|mention=언급하다
+
+@time
+3|이번 분기 마감이 언제예요?|When does this quarter close?|close=마감되다
+4|하루만 앞당길 수 있으면 좋겠어요.|It'd be great if we could move it up a day.|move up=앞당기다
+3|다음 주 중에 시간 되세요?|Are you free sometime next week?|sometime=언젠가
+4|이번 주는 일정이 꽉 찼어요.|My schedule's packed this week.|packed=꽉 찬
+3|며칠만 더 여유를 주실 수 있나요?|Could you give me a few extra days?|extra=추가의
+4|마감이 코앞이에요.|The deadline is right around the corner.|around the corner=코앞에
+3|격주로 만나요.|Let's meet every other week.|every other week=격주로
+4|시간대가 달라서 회의 잡기가 까다로워요.|Scheduling is tricky because we're in different time zones.|time zone=시간대; tricky=까다로운
+3|한국이 베트남보다 두 시간 빨라요.|Korea is two hours ahead of Vietnam.|ahead of=~보다 앞선
+4|늦은 오후나 이른 저녁 괜찮으세요?|Does late afternoon or early evening work for you?|work for=~에게 괜찮다
+3|정확히 몇 시에 끝나요?|What time does it wrap up?|wrap up=마무리되다
+4|생각보다 오래 걸리고 있어요.|This is taking longer than I thought.|take longer=더 오래 걸리다
+3|20분 정도 여유 있어요.|I've got about twenty minutes to spare.|to spare=여유가 있는
+4|우선순위가 낮으니 시간 날 때 해 주세요.|This is low priority, so get to it when you can.|low priority=우선순위가 낮은; get to=착수하다
+3|매출이 전년 대비 15% 늘었어요.|Revenue grew fifteen percent year over year.|revenue=매출; year over year=전년 대비
+4|비용을 3분의 2 수준으로 줄였어요.|We cut costs down to about two-thirds.|cut down=줄이다; two-thirds=3분의 2
+3|약 2억 5천만 달러|About two hundred fifty million dollars|million=백만|250,000,000 = 250 million
+4|수치가 거의 두 배로 뛰었어요.|The number nearly doubled.|nearly=거의; double=두 배가 되다
+3|매일 밤 11시 전에는 자려고 해요.|I try to be in bed by eleven every night.|be in bed=잠자리에 들다; by=~까지
+4|10년 후엔 이 시장이 지금의 세 배가 될 거예요.|In ten years, this market will be three times the size it is now.|three times=세 배; size=규모

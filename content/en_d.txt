@@ -1,0 +1,212 @@
+# 고난도 추가분 (Lv3~4)
+@phone
+3|잠시 끊지 말고 기다려 주실래요?|Could you hold the line for a moment?|hold the line=끊지 않고 기다리다
+4|연결 상태가 안 좋아서 다시 걸게요.|The connection's bad. Let me call you back.|connection=연결 상태
+3|스피커폰으로 돌릴게요.|I'll put you on speaker.|put on speaker=스피커폰으로 하다
+4|담당자에게 연결해 드릴게요.|Let me transfer you to the person in charge.|transfer=(전화를) 돌리다; in charge=담당하는
+3|메시지 남겨 주시면 회신드릴게요.|Leave a message and I'll get back to you.|get back to=회신하다
+4|늦게 연락드려 죄송해요. 좀 급한 일이라서요.|Sorry to call so late. It's kind of urgent.|kind of=좀; urgent=급한
+3|짧게 말할게요.|I'll keep it short.|keep it short=짧게 하다
+4|방금 말씀하신 거 다시 차근차근 설명해 주실래요?|Could you walk me through that again?|walk through=차근차근 설명하다
+3|메모 좀 할게요.|Let me jot that down.|jot down=적어 두다
+4|알아보고 오늘 중으로 다시 연락드릴게요.|I'll look into it and circle back by end of day.|look into=알아보다; circle back=다시 연락하다; end of day=오늘 업무 종료
+3|화상 통화 잠깐 들어오실 수 있어요?|Can you hop on a video call?|hop on=(통화에) 들어오다
+4|화면이 멈췄어요. 제 목소리 들리세요?|Your screen froze. Can you still hear me?|freeze=멈추다
+3|음소거 해제하셔야 해요.|You need to unmute yourself.|unmute=음소거를 해제하다
+4|회의 초대장 다시 보내 드릴게요.|I'll resend the calendar invite.|calendar invite=일정 초대
+3|단톡방에 공유할게요.|I'll share it in the group chat.|group chat=단체 채팅방
+4|답장 늦어서 죄송해요. 정신이 없었어요.|Sorry for the late reply. Things have been hectic.|hectic=정신없는
+3|읽씹하지 마세요.|Don't leave me on read.|leave on read=읽고 답하지 않다
+4|이 건은 전화로 얘기해서 정리하는 게 빠를 것 같아요.|It might be faster to hash this out over the phone.|hash out=논의해서 결론 내다
+3|시간 될 때 전화 주세요.|Give me a call when you get a chance.|get a chance=시간이 나다
+4|확정되면 바로바로 알려 드릴게요.|I'll keep you posted once things are locked in.|keep posted=계속 알려 주다; locked in=확정된
+
+@work
+4|이번 분기 실적이 목표를 웃돌았습니다.|This quarter's results came in above target.|come in=(결과가) 나오다; above target=목표 초과
+4|결론부터 말하면, 예산을 늘려야 합니다.|Bottom line, we need to increase the budget.|bottom line=결론
+4|이 프로젝트의 핵심 성공 요인은 데이터 품질이에요.|The key success factor for this project is data quality.|key success factor=핵심 성공 요인
+4|이건 빨리 성과를 낼 수 있는 과제예요.|This is a quick win.|quick win=빨리 성과가 나는 일
+4|저희 팀은 지금 여력이 없어요.|My team doesn't have the bandwidth right now.|bandwidth=(업무) 여력
+4|이 건은 윗선에 올려야겠어요.|We'll need to escalate this.|escalate=상부에 올리다
+4|그 부분은 제가 맡아서 진행할게요.|I'll take the lead on that.|take the lead=주도하다
+4|먼저 파일럿으로 검증하고 확대합시다.|Let's validate it with a pilot first, then scale up.|validate=검증하다; pilot=시범 사업; scale up=확대하다
+4|지금은 인력이 병목이에요.|Resources are the bottleneck right now.|resources=인력·자원; bottleneck=병목
+4|이 수치는 보수적으로 잡은 거예요.|These numbers are on the conservative side.|conservative=보수적인
+4|최악의 시나리오도 대비해야 해요.|We need to plan for the worst-case scenario.|worst-case=최악의
+3|이 부분 의견 부탁드려요.|I'd love your input on this part.|input=의견
+4|다음 단계와 담당자를 정하고 마무리하죠.|Let's wrap up with next steps and owners.|next steps=다음 단계; owner=담당자
+4|이해관계자들의 동의부터 받아야 해요.|We need to get buy-in from stakeholders first.|buy-in=동의·지지; stakeholder=이해관계자
+4|이 결정이 수익성에 미치는 영향을 정량화해 주실 수 있어요?|Can you quantify the impact on profitability?|quantify=정량화하다; impact=영향; profitability=수익성
+4|수요 예측 정확도를 5% 개선했습니다.|We improved demand forecast accuracy by five percent.|forecast=예측; accuracy=정확도
+4|AI 에이전트 도입으로 보고서 작성 시간이 절반으로 줄었어요.|Deploying AI agents cut report-writing time in half.|deploy=도입하다; cut in half=절반으로 줄이다
+3|이 건은 일단 보류할게요.|Let's put this on hold for now.|on hold=보류 중인
+4|그건 저희 업무 범위 밖이에요.|That's outside our scope.|scope=범위
+4|좋은 지적이에요. 그건 미처 생각 못 했네요.|Great point. I hadn't thought of that.|think of=생각해 내다
+
+@social
+3|완전 공감돼요.|I totally relate to that.|relate to=공감하다
+4|그 사람 말은 걸러서 들으세요.|Take what he says with a grain of salt.|with a grain of salt=에누리해서
+3|요즘 빠져 있는 거 있어요?|Are you hooked on anything these days?|hooked on=~에 빠진
+4|그 드라마 처음부터 끝까지 정주행했어요.|I binge-watched the whole series.|binge-watch=몰아서 보다
+3|우리 취향이 비슷하네요.|We have similar taste.|taste=취향
+4|그 사람이랑은 처음부터 바로 잘 통했어요.|We clicked right away.|click=죽이 맞다; right away=바로
+3|그거 진짜 웃기다!|That's hilarious!|hilarious=아주 웃긴
+4|분위기 좀 풀려고 한 말이에요.|I was just trying to lighten the mood.|lighten the mood=분위기를 풀다
+3|오해하지 마세요.|Don't take it the wrong way.|take it the wrong way=오해하다
+4|한동안 서로 근황을 못 나눴네요.|We haven't caught up in a while.|catch up=근황을 나누다; in a while=한동안
+3|언제 저녁 한번 먹어요.|Let's grab dinner sometime.|grab dinner=저녁 먹다
+4|이번엔 다음 기회로 미룰게요.|I'll take a rain check.|take a rain check=다음 기회로 미루다
+3|그거 진짜 대박이다!|That's awesome!|awesome=굉장한
+4|축하해요! 충분히 그럴 자격 있어요.|Congrats! You totally deserve it.|deserve=~할 자격이 있다
+3|힘내요, 다 잘될 거예요.|Hang in there. It'll work out.|hang in there=버티다; work out=잘 풀리다
+4|필요한 거 있으면 언제든 말해요. 내가 있잖아요.|If you ever need anything, I've got your back.|have one's back=편이 되어 주다
+3|그 얘긴 그만하죠.|Let's drop it.|drop=(화제를) 그만두다
+4|말하자면 길어요.|It's a long story.|long story=긴 사연
+3|제 편 들어줘서 고마워요.|Thanks for backing me up.|back up=지지하다
+4|그 사람이 분위기 메이커예요.|He's the life of the party.|life of the party=분위기 메이커
+
+@health
+3|온몸이 쑤셔요.|I feel achy all over.|achy=쑤시는; all over=온몸이
+4|요즘 면역력이 좀 떨어진 것 같아요.|I think my immune system is a bit run down.|immune system=면역 체계; run down=약해진
+3|허리를 삐끗했어요.|I threw my back out.|throw one's back out=허리를 삐다
+4|어제부터 편두통이 심해요.|I've had a bad migraine since yesterday.|migraine=편두통
+3|요즘 속이 안 좋아요.|My stomach's been upset lately.|upset stomach=속이 안 좋음
+4|처방전 없이 살 수 있는 약인가요?|Is this available over the counter?|over the counter=처방전 없이
+3|이 약 부작용이 뭐예요?|What are the side effects of this medication?|medication=약
+4|증상이 나아지지 않으면 다시 오세요.|Come back if your symptoms don't improve.|symptom=증상; improve=나아지다
+3|정기 검진 받으러 왔어요.|I'm here for a routine checkup.|routine checkup=정기 검진
+4|검진 결과가 생각보다 좋게 나왔어요.|My checkup results came back better than expected.|come back=(결과가) 나오다
+3|요즘 운동을 게을리했어요.|I've been slacking on exercise.|slack on=게을리하다
+4|너무 무리하지 말고 쉬엄쉬엄하세요.|Don't push yourself too hard. Take it easy.|push oneself=무리하다; take it easy=쉬엄쉬엄하다
+3|숨이 차요.|I'm out of breath.|out of breath=숨이 찬
+4|다리에 쥐가 났어요.|I've got a cramp in my leg.|cramp=쥐
+3|목소리가 안 나와요.|I've lost my voice.|lose one's voice=목이 잠기다
+4|열이 안 내려서 응급실에 가야 할 것 같아요.|My fever won't go down. I think I need to go to the ER.|go down=내려가다; ER=응급실
+3|알레르기 때문에 눈이 가려워요.|My allergies are making my eyes itchy.|itchy=가려운
+4|스트레스성 위염이 생겼어요.|I've developed stress-related gastritis.|develop=(병이) 생기다; gastritis=위염
+3|얼른 나으세요.|Get well soon.|get well=회복하다
+4|담배 끊은 지 1년 됐어요.|It's been a year since I quit smoking.|quit=끊다
+
+@travel
+3|이 근처에 숨은 명소 있어요?|Are there any hidden gems around here?|hidden gem=숨은 명소
+4|사람이 덜 붐비는 시간이 언제예요?|When's the best time to avoid the crowds?|avoid=피하다; crowd=인파
+3|가기 전에 알아 둬야 할 게 있을까요?|Is there anything I should know before I go?|should=~해야 하다
+4|이번 여행은 그때그때 즉흥적으로 다닐 거예요.|I'm going to play this trip by ear.|play it by ear=즉흥적으로 하다
+3|가이드 투어에 합류할 수 있어요?|Can I join a guided tour?|guided tour=가이드 투어
+4|일정이 너무 빡빡해서 쉴 틈이 없었어요.|The itinerary was so packed, there was no downtime.|itinerary=여행 일정; downtime=쉬는 시간
+3|현지 음식을 꼭 먹어 보고 싶어요.|I really want to try the local cuisine.|cuisine=요리
+4|저는 짐을 가볍게 다니는 편이에요.|I like to travel light.|travel light=짐을 가볍게 다니다
+3|아직 시차 적응이 안 됐어요.|I'm still jet-lagged.|jet-lagged=시차로 피곤한
+4|사진보다 훨씬 인상적이에요.|It's way more impressive than in pictures.|way more=훨씬 더; impressive=인상적인
+3|입장료에 오디오 가이드 포함이에요?|Does admission include an audio guide?|audio guide=오디오 가이드
+4|버킷리스트 하나 지웠어요.|I just checked something off my bucket list.|check off=지우다; bucket list=버킷리스트
+3|여권 사본을 몸에 지니고 다니세요.|Keep a copy of your passport on you.|copy=사본; on you=몸에 지니고
+4|여행자 보험 드는 거 잊지 마세요.|Don't forget to get travel insurance.|get insurance=보험에 들다
+3|여기가 일몰 보기 좋은 곳이에요.|This is a great spot to watch the sunset.|spot=장소; sunset=일몰
+4|비수기라서 가격이 훨씬 쌌어요.|It was off-season, so prices were way lower.|off-season=비수기
+3|다음엔 어디로 갈까요?|Where should we go next?|next=다음에
+4|휴가 다녀오니 재충전된 느낌이에요.|I feel recharged after my vacation.|recharged=재충전된
+3|기념으로 사진 한 장 찍어요.|Let's take a picture to remember this.|remember=기억하다
+4|휴가 끝, 이제 현실로 복귀예요.|Back from vacation and back to reality.|back to reality=현실로 복귀
+
+@trouble
+4|이 문제를 최대한 빨리 해결해 주시면 감사하겠습니다.|I'd appreciate it if you could resolve this as soon as possible.|resolve=해결하다; as soon as possible=가능한 한 빨리
+4|이건 받아들일 수 없어요.|This is unacceptable.|unacceptable=받아들일 수 없는
+3|뭔가 착오가 있었던 것 같아요.|There seems to have been a mix-up.|mix-up=착오
+4|책임자분과 통화할 수 있을까요?|Could I speak to someone in charge?|in charge=책임지는
+4|이 건으로 연락드리는 게 벌써 세 번째예요.|This is the third time I've reached out about this.|reach out=연락하다
+3|제가 뭘 잘못했는지 모르겠어요.|I'm not sure what I did wrong.|do wrong=잘못하다
+4|불편을 드려 진심으로 사과드립니다.|We sincerely apologize for the inconvenience.|sincerely=진심으로; inconvenience=불편
+3|다시는 이런 일 없을 거예요.|It won't happen again.|happen=일어나다
+4|제 잘못이에요. 제가 책임질게요.|That's on me. I'll take responsibility.|on me=내 탓; take responsibility=책임지다
+3|처음부터 다시 설명해 주시겠어요?|Could you start over from the beginning?|start over=처음부터 다시 하다
+4|어떻게 보상해 주실 수 있나요?|What can you offer to make up for this?|make up for=보상하다
+3|당분간 지켜볼게요.|I'll keep an eye on it.|keep an eye on=지켜보다
+4|일단 급한 불부터 끄죠.|Let's put out the fire first.|put out the fire=급한 불을 끄다
+3|방법을 찾아볼게요.|Let me see what I can do.|see what I can do=방법을 찾아보다
+4|생각보다 일이 복잡해졌어요.|Things got more complicated than expected.|complicated=복잡한
+3|제 얘기 끝까지 들어 주세요.|Please hear me out.|hear out=끝까지 듣다
+4|서로 한 발씩 양보합시다.|Let's try to meet halfway.|meet halfway=타협하다
+3|정말 고마워요, 덕분에 살았어요.|Thanks so much. You saved me.|save=구하다
+4|이제 다 해결됐으니 걱정 마세요.|It's all sorted out now, so don't worry.|sort out=해결하다
+4|앞으로는 미리 알려 주시면 좋겠어요.|Going forward, I'd appreciate a heads-up.|going forward=앞으로; heads-up=사전 알림
+
+@opinion
+3|제 생각엔 그게 제일 나은 방법 같아요.|I think that's the best way to go.|way to go=방법
+3|전적으로 동의해요.|I couldn't agree more.|couldn't agree more=전적으로 동의하다
+3|꼭 그렇지만은 않아요.|Not necessarily.|necessarily=반드시
+4|무슨 말인지는 알겠지만 저는 조금 다르게 봐요.|I see your point, but I see it a little differently.|see one's point=무슨 말인지 알다
+4|일부러 반대 입장에서 한번 말해 볼게요.|Let me play devil's advocate for a second.|play devil's advocate=일부러 반대 입장을 취하다
+4|그건 비교 대상이 아니에요.|That's comparing apples and oranges.|apples and oranges=비교할 수 없는 것
+4|그 주장은 근거가 부족해 보여요.|That argument seems to lack evidence.|argument=주장; lack=부족하다; evidence=근거
+3|구체적인 예를 들어 주실 수 있어요?|Can you give me a concrete example?|concrete=구체적인
+4|큰 그림에서 보면 사소한 문제예요.|In the grand scheme of things, it's a minor issue.|in the grand scheme of things=큰 그림에서 보면
+4|양쪽 다 일리가 있어요.|Both sides have a point.|have a point=일리가 있다
+3|좀 더 생각해 볼 시간이 필요해요.|I need some time to think it over.|think over=곰곰이 생각하다
+4|단기적으로는 성과가 나지만 장기적으로는 위험해요.|It pays off in the short term, but it's risky in the long run.|pay off=성과가 나다; in the long run=장기적으로
+4|결국은 우선순위의 문제예요.|At the end of the day, it's a matter of priorities.|at the end of the day=결국; matter of=~의 문제
+4|감정은 빼고 사실에만 집중합시다.|Let's leave emotions out of it and stick to the facts.|leave out=빼다; stick to=~을 고수하다
+3|솔직히 저는 반대예요.|Honestly, I'm against it.|against=반대하는
+4|저는 중립으로 있을게요.|I'm going to stay on the fence.|on the fence=중립인·결정 못 한
+4|그건 성급한 일반화예요.|That's a sweeping generalization.|sweeping generalization=성급한 일반화
+4|원칙적으로는 찬성인데 실행 방식이 걱정돼요.|I'm on board in principle, but I have concerns about the execution.|on board=찬성하는; in principle=원칙적으로; execution=실행
+3|그렇게 볼 수도 있겠네요.|I guess you could look at it that way.|look at=바라보다
+4|AI가 결국 사람의 일자리를 대체할 거라고 보세요?|Do you think AI will eventually replace human jobs?|eventually=결국; replace=대체하다
+4|저는 AI가 사람을 대체하기보다는 능력을 키워 줄 거라고 봐요.|I think AI will augment people rather than replace them.|augment=증강하다; rather than=~보다는
+4|문제는 기술이 아니라 조직 문화예요.|The problem isn't the technology. It's the culture.|culture=문화
+4|에너지 전환은 피할 수 없지만 속도에 대해선 의견이 갈려요.|The energy transition is inevitable, but opinions differ on the pace.|transition=전환; inevitable=불가피한; differ=다르다; pace=속도
+4|LNG는 재생에너지로 가는 길의 가교 연료예요.|LNG is a bridge fuel on the way to renewables.|bridge fuel=가교 연료; renewables=재생에너지
+4|원전 확대에 대해서는 어떤 입장이세요?|Where do you stand on expanding nuclear power?|where do you stand on=~에 대한 입장이 뭐예요; expand=확대하다
+3|그건 상황에 따라 달라요.|It depends on the situation.|depend on=~에 달려 있다
+4|말이야 쉽죠.|Easier said than done.|easier said than done=말은 쉽지만 하기는 어렵다
+4|그건 양날의 검이에요.|It's a double-edged sword.|double-edged sword=양날의 검
+3|타당한 지적이에요.|That's a fair point.|fair point=타당한 지적
+4|결론으로 건너뛰기 전에 데이터를 더 봐야 해요.|We need more data before we jump to conclusions.|jump to conclusions=성급히 결론 내리다
+4|그건 요점에서 벗어난 얘기예요.|That's beside the point.|beside the point=요점에서 벗어난
+3|다른 분들 생각도 들어 봐요.|Let's hear what others think.|hear=듣다
+4|제가 나설 일은 아닌 것 같아요.|It's not really my place to say.|not my place=내가 나설 일이 아닌
+4|처음엔 회의적이었는데 생각이 바뀌었어요.|I was skeptical at first, but I've come around.|skeptical=회의적인; come around=생각을 바꾸다
+4|요컨대, 투자할 가치가 있어요.|Long story short, it's worth the investment.|long story short=요컨대; investment=투자
+3|서로 존중하면서 얘기해요.|Let's keep it respectful.|respectful=존중하는
+4|그 의견에는 이의를 제기하고 싶어요.|I'd like to push back on that.|push back=이의를 제기하다
+4|결국 같은 얘기를 다르게 하고 있는 것 같아요.|I think we're saying the same thing in different ways.|in different ways=다른 방식으로
+
+@life
+3|어렸을 때 꿈은 야구 선수였어요.|When I was a kid, I wanted to be a baseball player.|kid=아이
+4|대학 졸업하자마자 전자 회사에 입사했어요.|Right out of college, I joined an electronics company.|right out of=~하자마자; join=입사하다
+4|커리어를 바꾸는 게 쉽진 않았지만 후회는 없어요.|Switching careers wasn't easy, but I have no regrets.|switch careers=직업을 바꾸다; regret=후회
+3|요즘 와인에 푹 빠졌어요.|I've really gotten into wine lately.|get into=~에 빠지다
+4|처음엔 취미였는데 이제는 꽤 진지해졌어요.|It started as a hobby, but now I'm pretty serious about it.|serious about=~에 진지한
+3|이번 주말에 아이들 데리고 놀이공원에 갔어요.|I took the kids to an amusement park this weekend.|amusement park=놀이공원
+4|돌이켜 보면 그게 인생의 전환점이었어요.|Looking back, that was a turning point in my life.|looking back=돌이켜 보면; turning point=전환점
+4|그 실패에서 정말 많은 걸 배웠어요.|I learned a lot from that failure.|failure=실패
+3|저는 원래 아침형 인간이 아니었어요.|I was never really a morning person.|morning person=아침형 인간
+4|그 습관을 바꾸는 데 거의 1년 걸렸어요.|It took me almost a year to change that habit.|habit=습관
+3|그때 정말 큰 용기를 내야 했어요.|I really had to work up the courage back then.|work up the courage=용기를 내다; back then=그때
+4|처음 해외 출장 갔을 때 잔뜩 긴장했어요.|I was a nervous wreck on my first business trip abroad.|nervous wreck=잔뜩 긴장한 사람; abroad=해외에서
+4|그 경험 덕분에 시야가 넓어졌어요.|That experience really broadened my horizons.|broaden one's horizons=시야를 넓히다
+3|어릴 때 할머니 댁에서 많이 지냈어요.|I spent a lot of time at my grandma's as a kid.|grandma's=할머니 댁
+4|가끔 그 시절이 그리워요.|I get nostalgic about those days sometimes.|nostalgic=그리운
+3|요즘 새로운 걸 배우고 있어요.|I'm picking up something new these days.|pick up=익히다
+4|베트남어는 성조 때문에 생각보다 훨씬 어려워요.|Vietnamese is way harder than I expected because of the tones.|tone=성조
+4|강도보다 꾸준함이 더 중요한 것 같아요.|I think consistency matters more than intensity.|consistency=꾸준함; intensity=강도
+3|올해 목표는 하프 마라톤 완주예요.|My goal this year is to finish a half marathon.|goal=목표; finish=완주하다
+4|목표를 공유하면 책임감이 더 생겨요.|Sharing my goals keeps me accountable.|accountable=책임감 있는
+3|그 영화 보면서 펑펑 울었어요.|I cried my eyes out watching that movie.|cry one's eyes out=펑펑 울다
+4|그 책이 제 사고방식을 완전히 바꿔 놨어요.|That book completely changed the way I think.|the way I think=사고방식
+3|얼마 전에 이사했어요.|I just moved.|move=이사하다
+4|새 동네에 아직 적응하는 중이에요.|I'm still settling into the new neighborhood.|settle into=적응하다; neighborhood=동네
+3|은퇴하면 바다 근처에서 살고 싶어요.|When I retire, I want to live near the ocean.|retire=은퇴하다
+4|일보다 가족과 보내는 시간을 더 소중히 여기게 됐어요.|I've come to value time with family over work.|come to=~하게 되다; value A over B=B보다 A를 중시하다
+3|아이가 처음 걷던 순간은 절대 못 잊어요.|I'll never forget my kid's first steps.|first steps=첫걸음
+4|부모가 되면서 인내심을 배웠어요.|Becoming a parent taught me patience.|patience=인내심
+3|솔직히 저도 처음엔 자신이 없었어요.|Honestly, I wasn't confident at first either.|confident=자신 있는
+4|실패를 두려워하지 않으려고 노력해요.|I try not to be afraid of failing.|be afraid of=~을 두려워하다
+4|결국 중요한 건 그 과정에서 얼마나 배우느냐예요.|In the end, what matters is how much you learn along the way.|along the way=그 과정에서
+3|이번 주말에 오랜만에 친구들을 만나요.|I'm catching up with old friends this weekend.|catch up with=~와 근황을 나누다
+4|요즘은 혼자만의 시간이 정말 소중해요.|These days I really value my alone time.|alone time=혼자만의 시간
+3|그게 제 인생 최고의 결정이었어요.|That was the best decision I've ever made.|decision=결정
+4|과거의 저에게 조언할 수 있다면, 더 일찍 시작하라고 할 거예요.|If I could give my younger self advice, it'd be to start sooner.|younger self=과거의 나; sooner=더 일찍
+4|좋아하는 일과 잘하는 일 사이에서 늘 고민해요.|I'm always torn between what I love and what I'm good at.|torn between=~ 사이에서 갈등하는
+3|요즘 마음이 편하고 좋아요.|I'm in a good place right now.|in a good place=잘 지내는·만족스러운
+4|작은 성공이 쌓여서 자신감이 됐어요.|Small wins added up and built my confidence.|add up=쌓이다; confidence=자신감

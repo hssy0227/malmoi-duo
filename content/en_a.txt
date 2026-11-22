@@ -1,0 +1,165 @@
+# 형식: 레벨|한국어|영어|표현=뜻; 표현=뜻|메모
+@greet
+1|안녕하세요, 만나서 반가워요.|Hi, nice to meet you.|nice to meet you=만나서 반가워요
+1|잘 지내요?|How are you doing?|how are you doing=잘 지내?(How are you보다 캐주얼)
+1|잘 지내요, 고마워요. 당신은요?|I'm good, thanks. How about you?|how about you=당신은요?
+1|제 이름은 제이슨이에요.|My name is Jason.|name=이름
+1|어디서 오셨어요?|Where are you from?|be from=~ 출신이다
+1|저는 한국에서 왔어요.|I'm from Korea.|be from=~ 출신이다
+1|무슨 일 하세요?|What do you do?|what do you do=직업이 뭐예요?|'지금 뭐 해?'가 아니라 직업을 묻는 표현
+1|나중에 봐요.|See you later.|see you=또 봐요
+2|요즘 어떻게 지냈어요?|What have you been up to?|be up to=~하며 지내다
+2|별일 없어요, 늘 똑같죠.|Not much. Same old, same old.|same old=늘 똑같은
+2|오랜만이에요!|Long time no see!|long time no see=오랜만이다
+2|하나도 안 변했네요.|You haven't changed a bit.|not a bit=조금도 ~않다
+2|저는 에너지 회사에서 전략 업무를 해요.|I work in strategy at an energy company.|work in=~ 분야에서 일하다
+2|이쪽은 제 동료 민수예요.|This is my colleague, Minsu.|colleague=동료
+2|성함을 어떻게 발음하나요?|How do you pronounce your name?|pronounce=발음하다
+2|그냥 제이슨이라고 부르세요.|Just call me Jason.|call=부르다
+2|말씀 많이 들었어요.|I've heard a lot about you.|hear about=~에 대해 듣다
+2|드디어 직접 뵙네요.|Great to finally meet you in person.|in person=직접
+3|계속 연락하고 지내요.|Let's keep in touch.|keep in touch=연락하며 지내다
+3|시간 내 주셔서 감사해요.|Thanks for taking the time to meet.|take the time=시간을 내다
+3|어쩌다 이 일을 하게 되셨어요?|How did you get into this line of work?|get into=~에 들어가게 되다; line of work=직종
+3|가족분들께 안부 전해 주세요.|Say hi to your family for me.|say hi to=~에게 안부 전하다
+3|좋은 하루 보내세요.|Have a good one.|have a good one=좋은 하루 보내요(캐주얼)
+3|이제 슬슬 가 봐야겠어요.|I'd better get going.|had better=~하는 게 좋겠다; get going=출발하다
+3|이야기 즐거웠어요.|It was great talking to you.|talk to=~와 이야기하다
+3|우리 전에 만난 적 있지 않나요?|Haven't we met before?|meet=만나다
+
+@daily
+1|배고파 죽겠어요.|I'm starving.|starving=몹시 배고픈
+1|완전히 지쳤어요.|I'm exhausted.|exhausted=기진맥진한
+1|오늘 너무 덥네요.|It's so hot today.|hot=더운
+1|좋은 생각이에요!|That's a great idea!|idea=생각·아이디어
+1|잘 모르겠어요.|I'm not sure.|not sure=확실하지 않다
+1|알겠어요.|Got it.|got it=알겠어요
+1|좀 더 천천히 말씀해 주시겠어요?|Could you speak more slowly?|could you=~해 주시겠어요?
+1|다시 한 번 말씀해 주시겠어요?|Could you say that again?|say that again=다시 말하다
+2|무슨 뜻이에요?|What do you mean?|mean=의미하다
+2|이걸 영어로 뭐라고 해요?|How do you say this in English?|in English=영어로
+2|오늘 몸이 좀 안 좋아요.|I'm feeling a bit under the weather.|under the weather=몸이 안 좋은
+2|요즘 일이 너무 많아요.|I've been swamped lately.|swamped=일이 넘치는; lately=요즘
+2|기분 전환이 필요해요.|I need a change of pace.|change of pace=기분 전환
+2|오늘은 여기까지 하고 잘래요.|I'm going to call it a night.|call it a night=그만하고 자러 가다
+2|늦잠 잤어요.|I overslept.|oversleep=늦잠 자다
+2|그럴 기분이 아니에요.|I'm not in the mood.|in the mood=~할 기분인
+2|그거 진짜 짜증 나네요.|That's so annoying.|annoying=짜증 나는
+2|다행이네요.|That's a relief.|relief=안도
+3|그럴 만하네요.|That makes sense.|make sense=말이 되다
+3|상황에 따라 달라요.|It depends.|depend=~에 달려 있다
+3|저는 어느 쪽이든 상관없어요.|I don't mind either way.|either way=어느 쪽이든; mind=꺼리다
+3|당연하죠.|Absolutely.|absolutely=전적으로·당연히
+3|생각보다 괜찮네요.|It's better than I expected.|expect=예상하다
+3|이제야 한숨 돌리겠네요.|I can finally breathe.|breathe=숨 쉬다
+3|미루지 말고 지금 해요.|Let's not put it off.|put off=미루다
+3|어쩔 수 없죠.|It is what it is.|it is what it is=어쩔 수 없지
+
+@food
+1|두 명 자리 있어요?|Do you have a table for two?|table for two=2인 테이블
+1|메뉴 좀 볼 수 있을까요?|Can I see the menu, please?|menu=메뉴
+1|주문할게요.|I'm ready to order.|ready to=~할 준비가 된; order=주문하다
+1|이걸로 할게요.|I'll have this one.|I'll have=~로 할게요
+1|물 좀 주시겠어요?|Can I get some water?|can I get=~ 주시겠어요?
+1|계산서 주세요.|Can I get the check, please?|check=계산서|영국은 bill
+1|포장해 주세요.|Can I get this to go?|to go=포장으로
+2|드시고 가세요, 포장이세요?|For here or to go?|for here=매장에서
+2|뭘 추천하세요?|What would you recommend?|recommend=추천하다
+2|이 요리엔 뭐가 들어가요?|What's in this dish?|dish=요리
+2|양파는 빼 주시겠어요?|Could I get it without onions?|without=~ 없이
+2|스테이크는 미디엄으로 해 주세요.|I'd like my steak medium, please.|I'd like=~로 주세요
+2|드레싱은 따로 주세요.|Can I have the dressing on the side?|on the side=따로 곁들여
+2|음식 다 맛있었어요.|Everything was delicious.|delicious=아주 맛있는
+2|남은 음식 싸 갈 수 있을까요?|Could I get a box for the leftovers?|leftovers=남은 음식; box=포장 용기
+2|신용카드 되나요?|Do you take credit cards?|take=받다
+2|라떼 톨 사이즈 따뜻하게 하나요.|A tall latte, hot, please.|latte=라떼
+2|우유를 귀리 우유로 바꿔 주시겠어요?|Can I swap the milk for oat milk?|swap A for B=A를 B로 바꾸다
+3|각자 계산해도 될까요?|Can we split the bill?|split the bill=나눠 내다
+3|이건 제가 살게요.|It's on me.|on me=내가 낼게
+3|이건 제가 주문한 게 아닌 것 같아요.|I don't think this is what I ordered.|what I ordered=내가 주문한 것
+3|음식을 꽤 오래 기다리고 있어요.|We've been waiting quite a while for our food.|quite a while=꽤 오래
+3|팁이 포함돼 있나요?|Is the tip included?|included=포함된
+3|저는 견과류 알레르기가 있어요.|I'm allergic to nuts.|allergic to=~에 알레르기가 있는
+3|오늘의 특선 메뉴가 뭐예요?|What are today's specials?|specials=특선 메뉴
+3|배불러서 한 입도 더 못 먹겠어요.|I'm stuffed. I can't eat another bite.|stuffed=배부른; bite=한 입
+
+@shop
+1|이거 얼마예요?|How much is this?|how much=얼마
+1|그냥 둘러보는 중이에요, 고마워요.|I'm just looking, thanks.|just looking=구경만 하는
+1|이걸로 살게요.|I'll take it.|take=사다·가져가다
+1|이거 다른 색도 있어요?|Do you have this in another color?|in another color=다른 색으로
+1|이거 더 큰 사이즈 있어요?|Do you have this in a larger size?|larger=더 큰
+1|입어 봐도 돼요?|Can I try this on?|try on=입어 보다
+2|탈의실이 어디예요?|Where's the fitting room?|fitting room=탈의실
+2|조금 끼네요.|It's a little tight.|tight=꽉 끼는
+2|딱 맞아요.|It fits perfectly.|fit=(사이즈가) 맞다
+2|이거 세일 중이에요?|Is this on sale?|on sale=할인 중
+2|조금 깎아 주실 수 있어요?|Can you give me a discount?|discount=할인
+2|영수증 주시겠어요?|Could I get a receipt?|receipt=영수증
+2|봉투는 필요 없어요.|I don't need a bag.|bag=봉투·가방
+2|선물 포장해 주실 수 있어요?|Could you gift-wrap it?|gift-wrap=선물 포장하다
+2|일시불로 할게요.|I'll pay in full.|pay in full=일시불로 내다
+2|택스 리펀 되나요?|Can I get a tax refund?|tax refund=세금 환급
+3|이거 환불받을 수 있을까요?|Can I get a refund for this?|refund=환불
+3|다른 사이즈로 교환하고 싶어요.|I'd like to exchange this for a different size.|exchange A for B=A를 B로 교환하다
+3|여기 흠이 있어요.|There's a defect here.|defect=결함
+3|이게 제일 잘 나가는 거예요?|Is this your best-seller?|best-seller=가장 잘 팔리는 상품
+3|좀 더 생각해 볼게요.|I'll think about it.|think about=고려하다
+3|가성비가 좋네요.|It's good value for money.|value for money=가성비
+3|그건 제 예산을 좀 넘어요.|That's a bit out of my budget.|out of budget=예산 밖
+3|재고 있어요?|Do you have this in stock?|in stock=재고가 있는
+3|언제 다시 들어와요?|When will it be back in stock?|back in stock=재입고된
+
+@move
+1|공항으로 가 주세요.|To the airport, please.|airport=공항
+1|여기서 내려 주세요.|You can drop me off here.|drop off=내려 주다
+1|화장실이 어디예요?|Where's the restroom?|restroom=화장실|영국은 toilet
+1|여기서 멀어요?|Is it far from here?|far from=~에서 먼
+1|걸어서 갈 수 있어요?|Can I walk there?|walk=걷다
+1|가장 가까운 역이 어디예요?|Where's the nearest station?|nearest=가장 가까운
+2|얼마나 걸려요?|How long does it take?|take=(시간이) 걸리다
+2|길을 잃은 것 같아요.|I think I'm lost.|lost=길을 잃은
+2|이 버스 시내로 가요?|Does this bus go downtown?|downtown=시내
+2|어디서 갈아타야 해요?|Where do I transfer?|transfer=갈아타다
+2|다음 정류장에서 내리세요.|Get off at the next stop.|get off=내리다
+2|직진하다가 왼쪽으로 도세요.|Go straight and turn left.|turn left=좌회전하다
+2|모퉁이 돌면 바로 있어요.|It's just around the corner.|around the corner=모퉁이 돌아서·아주 가까이
+2|트렁크 좀 열어 주실래요?|Could you pop the trunk?|pop the trunk=트렁크를 열다
+2|우버 불렀어요.|I called an Uber.|call=부르다
+2|차가 엄청 막히네요.|The traffic is terrible.|traffic=교통량
+3|돌아가더라도 제일 빠른 길로 가 주세요.|Please take the fastest route, even if it's longer.|route=경로; even if=~하더라도
+3|출퇴근 시간이라 차가 꽉 막혔어요.|It's rush hour, so we're stuck in traffic.|rush hour=출퇴근 시간; stuck in traffic=차가 막혀 꼼짝 못 하는
+3|비행기를 놓쳤어요.|I missed my flight.|miss=놓치다
+3|비행기가 지연됐어요.|My flight got delayed.|delayed=지연된
+3|창가 자리로 주시겠어요?|Could I get a window seat?|window seat=창가 자리|통로 자리는 aisle seat
+3|수하물 찾는 곳이 어디예요?|Where's baggage claim?|baggage claim=수하물 찾는 곳
+3|이틀 동안 차를 빌리고 싶어요.|I'd like to rent a car for two days.|rent=빌리다
+3|여기 주차해도 되나요?|Am I allowed to park here?|be allowed to=~해도 되다
+3|저 좀 태워 줄 수 있어요?|Could you give me a ride?|give a ride=태워 주다
+
+@stay
+1|체크인하려고요.|I'd like to check in.|check in=체크인하다
+1|제이슨 이름으로 예약했어요.|I have a reservation under Jason.|reservation=예약; under=~의 이름으로
+1|와이파이 비밀번호가 뭐예요?|What's the Wi-Fi password?|password=비밀번호
+1|체크아웃은 몇 시예요?|What time is checkout?|checkout=체크아웃
+1|엘리베이터가 어디예요?|Where's the elevator?|elevator=엘리베이터|영국은 lift
+2|조식 포함인가요?|Is breakfast included?|included=포함된
+2|짐 좀 맡아 주실 수 있어요?|Could you hold my luggage?|hold=보관하다; luggage=짐
+2|수건 좀 더 주시겠어요?|Could I get some extra towels?|extra=추가의
+2|에어컨이 안 돼요.|The air conditioning isn't working.|work=작동하다
+2|온수가 안 나와요.|There's no hot water.|hot water=온수
+2|방을 바꿀 수 있을까요?|Is it possible to change rooms?|is it possible to=~하는 게 가능한가요
+2|방 청소 부탁드려요.|Could I get housekeeping?|housekeeping=객실 청소
+2|열쇠 없이 문이 잠겨 버렸어요.|I locked myself out.|lock oneself out=열쇠를 두고 나와 문이 잠기다
+2|모닝콜 해 주실 수 있어요?|Can I get a wake-up call?|wake-up call=모닝콜
+2|하룻밤 더 묵고 싶어요.|I'd like to extend my stay by one night.|extend=연장하다; stay=숙박
+2|방에 금고 있어요?|Is there a safe in the room?|safe=금고
+3|레이트 체크아웃 되나요?|Is late checkout available?|available=이용 가능한
+3|방이 좀 시끄러워요.|My room is a bit noisy.|noisy=시끄러운
+3|더 조용한 방으로 주시겠어요?|Could I get a quieter room?|quieter=더 조용한
+3|청구서에 오류가 있는 것 같아요.|I think there's a mistake on my bill.|bill=청구서
+3|보증금은 언제 돌려받아요?|When will I get my deposit back?|deposit=보증금; get back=돌려받다
+3|공항 셔틀 있어요?|Do you have an airport shuttle?|shuttle=셔틀
+3|근처에 괜찮은 식당 추천해 주실래요?|Can you recommend a good place to eat nearby?|nearby=근처에
+3|인보이스를 회사 앞으로 발행해 주시겠어요?|Could you issue the invoice to my company?|issue=발행하다; invoice=청구서·인보이스
+3|로비에서 기다릴게요.|I'll wait for you in the lobby.|lobby=로비

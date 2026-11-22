@@ -1,0 +1,197 @@
+# 형식: 레벨|한국어|베트남어|단어=뜻; 단어=뜻|메모
+@greet
+1|안녕하세요.|Xin chào.|xin chào=안녕하세요|가장 무난한 인사. 상대에 따라 'Chào anh/chị'도 많이 씀
+1|안녕하세요 (손위 남성에게).|Chào anh.|chào=인사하다; anh=형·오빠(손위 남성 2인칭)|상대가 손위 여성이면 chị, 손아래면 em
+1|만나서 반갑습니다.|Rất vui được gặp anh.|rất=매우; vui=기쁜; được=~하게 되다; gặp=만나다
+1|제 이름은 제이슨입니다.|Tên tôi là Jason.|tên=이름; tôi=나·저; là=~이다
+1|성함이 어떻게 되세요?|Anh tên là gì?|tên=이름; gì=무엇
+1|저는 한국 사람입니다.|Tôi là người Hàn Quốc.|người=사람; Hàn Quốc=한국
+1|어느 나라 분이세요?|Anh là người nước nào?|nước=나라; nào=어느
+1|잘 지내세요?|Anh có khỏe không?|có ... không=~합니까?(의문); khỏe=건강한
+1|저는 잘 지내요, 감사합니다.|Tôi khỏe, cảm ơn anh.|khỏe=건강한; cảm ơn=감사하다
+1|당신은요?|Còn anh thì sao?|còn=그런데·~는요; thì sao=어때요
+1|감사합니다.|Cảm ơn.|cảm ơn=감사하다|더 공손하게: Cảm ơn anh nhiều ạ
+1|천만에요.|Không có gì.|không=없다·아니다; có=있다; gì=무엇|직역: 아무것도 아니에요
+1|죄송합니다.|Xin lỗi.|xin lỗi=죄송합니다·실례합니다|사람을 부를 때 '실례합니다'로도 씀
+1|괜찮아요.|Không sao.|không sao=괜찮다
+1|또 만나요.|Hẹn gặp lại.|hẹn=약속하다; gặp lại=다시 만나다
+1|네.|Vâng.|vâng=네(북부)|공손하게 'Vâng ạ'. 남부는 'Dạ'
+1|아니요.|Không.|không=아니요
+2|저는 서울에서 왔어요.|Tôi đến từ Seoul.|đến=오다·도착하다; từ=~로부터
+2|저는 에너지 회사에서 일해요.|Tôi làm việc ở một công ty năng lượng.|làm việc=일하다; ở=~에서; công ty=회사; năng lượng=에너지
+2|베트남어를 조금 할 줄 알아요.|Tôi nói được một chút tiếng Việt.|nói=말하다; được=할 수 있다(동사 뒤); một chút=조금; tiếng Việt=베트남어
+2|저는 베트남어를 배우고 있어요.|Tôi đang học tiếng Việt.|đang=~하는 중; học=배우다
+2|올해 몇 살이세요?|Năm nay anh bao nhiêu tuổi?|năm nay=올해; bao nhiêu=얼마; tuổi=나이|호칭(anh/chị/em)을 정하려고 나이를 자주 물음
+2|제 명함입니다.|Đây là danh thiếp của tôi.|đây là=이것은 ~이다; danh thiếp=명함; của=~의
+2|어떻게 불러드리면 될까요?|Tôi nên gọi anh là gì?|nên=~하는 게 좋다; gọi=부르다
+3|말씀 많이 들었습니다.|Tôi đã nghe nói nhiều về anh.|đã=~했다(과거); nghe nói=듣기로·들었다; về=~에 대해
+3|앞으로 잘 부탁드립니다.|Mong được anh giúp đỡ nhiều.|mong=바라다; giúp đỡ=돕다
+3|가족 이야기 좀 해 주세요.|Anh kể về gia đình mình đi.|kể=이야기하다; gia đình=가족; mình=자기; đi=~해요(권유)
+3|시간 내 주셔서 감사합니다.|Cảm ơn anh đã dành thời gian.|dành=할애하다; thời gian=시간
+
+@daily
+1|배고파요.|Tôi đói.|đói=배고픈
+1|목말라요.|Tôi khát nước.|khát=목마른; nước=물
+1|피곤해요.|Tôi mệt.|mệt=피곤한
+1|졸려요.|Tôi buồn ngủ.|buồn ngủ=졸린
+1|너무 더워요.|Nóng quá.|nóng=더운; quá=너무
+1|너무 추워요.|Lạnh quá.|lạnh=추운; quá=너무
+1|정말 좋아요!|Tốt quá!|tốt=좋은
+1|정말 맛있어요.|Ngon quá.|ngon=맛있는
+1|정말 즐거워요.|Vui quá.|vui=즐거운|흥미롭다는 thú vị, 영화·책이 재밌다는 hay
+1|저는 이거 좋아해요.|Tôi thích cái này.|thích=좋아하다; cái này=이것
+1|저는 그거 안 좋아해요.|Tôi không thích cái đó.|không=안(부정); cái đó=그것
+1|알겠어요.|Tôi hiểu rồi.|hiểu=이해하다; rồi=이미·~했다
+1|이해가 안 돼요.|Tôi không hiểu.|hiểu=이해하다
+2|천천히 말씀해 주시겠어요?|Anh nói chậm lại được không?|nói=말하다; chậm=느린; lại=다시·더; được không=~해 줄 수 있어요?
+2|한 번 더 말씀해 주시겠어요?|Anh nói lại một lần nữa được không?|nói lại=다시 말하다; một lần=한 번; nữa=더
+2|이건 베트남어로 뭐라고 해요?|Cái này tiếng Việt gọi là gì?|gọi là=~라고 부르다
+2|오늘 기분이 좋아요.|Hôm nay tôi thấy vui.|hôm nay=오늘; thấy=느끼다
+2|조금 스트레스를 받아요.|Tôi hơi căng thẳng.|hơi=약간; căng thẳng=긴장한·스트레스
+2|요즘 바빠요.|Dạo này tôi bận.|dạo này=요즘; bận=바쁜
+2|주말에 보통 뭐 하세요?|Cuối tuần anh thường làm gì?|cuối tuần=주말; thường=보통; làm=하다
+2|저는 집에서 쉬어요.|Tôi ở nhà nghỉ ngơi.|ở nhà=집에 있다; nghỉ ngơi=쉬다
+2|아침 드셨어요?|Anh ăn sáng chưa?|ăn sáng=아침 먹다; chưa=~했어요?(아직)|인사처럼 쓰임. 답: Rồi(먹었어요) / Chưa(아직요)
+2|벌써 먹었어요.|Tôi ăn rồi.|ăn=먹다; rồi=이미
+3|걱정하지 마세요.|Anh đừng lo.|đừng=~하지 마라; lo=걱정하다
+3|그럴 줄 알았어요.|Tôi biết ngay mà.|biết=알다; ngay=바로; mà=~잖아(강조)
+3|진짜요? 믿을 수가 없어요.|Thật à? Không thể tin được.|thật=진짜; à=~요?(놀람); không thể=~할 수 없다; tin=믿다
+3|그건 좀 아쉽네요.|Tiếc quá nhỉ.|tiếc=아쉬운; nhỉ=~네요(공감)
+
+@food
+1|메뉴 좀 보여 주세요.|Cho tôi xem thực đơn.|cho tôi=저에게 ~해 주세요; xem=보다; thực đơn=메뉴|'menu'도 통함
+1|이거 주세요.|Cho tôi cái này.|cho tôi=저에게 주세요; cái này=이것
+1|물 한 병 주세요.|Cho tôi một chai nước.|một=하나; chai=병; nước=물
+1|아이스 커피 한 잔 주세요.|Cho tôi một cốc cà phê đá.|cốc=잔·컵(북부); cà phê=커피; đá=얼음|남부는 ly
+1|연유 아이스 커피|Cà phê sữa đá|sữa=우유(연유); đá=얼음|베트남 대표 커피. 따뜻한 건 cà phê sữa nóng
+1|고수는 빼 주세요.|Đừng cho rau mùi.|đừng=~하지 마세요; cho=넣다·주다; rau mùi=고수
+1|맵지 않게 해 주세요.|Không cay nhé.|không=안; cay=매운; nhé=~요(부드럽게)
+1|계산해 주세요.|Tính tiền cho tôi.|tính tiền=계산하다|직원을 부르며 'Em ơi, tính tiền!'
+1|저기요! (직원을 부를 때)|Em ơi!|em=동생(젊은 직원 호칭); ơi=~야(부를 때)|직원이 연상이면 Anh ơi / Chị ơi
+1|아주 맛있어요!|Ngon lắm!|ngon=맛있는; lắm=아주
+2|몇 분이세요? — 두 명이요.|Mấy người ạ? — Hai người.|mấy=몇; người=사람; hai=둘
+2|제일 맛있는 메뉴가 뭐예요?|Món nào ngon nhất?|món=요리; nào=어느; ngon nhất=가장 맛있는
+2|쌀국수 한 그릇 주세요.|Cho tôi một bát phở.|bát=그릇(북부); phở=쌀국수|남부는 tô
+2|소고기 쌀국수|Phở bò|phở=쌀국수; bò=소고기|닭고기는 phở gà
+2|분짜|Bún chả|bún=가는 쌀국수면; chả=구운 고기 완자|하노이 대표 음식
+2|얼음은 빼 주세요.|Không đá nhé.|không=없이; đá=얼음
+2|설탕은 조금만 넣어 주세요.|Cho ít đường thôi.|ít=조금; đường=설탕; thôi=~만
+2|포장해 주세요.|Cho tôi mang về.|mang về=가지고 가다
+2|여기서 먹을게요.|Tôi ăn ở đây.|ở đây=여기서
+2|카드로 계산돼요?|Trả bằng thẻ được không?|trả=지불하다; bằng=~로; thẻ=카드
+2|저는 채식해요.|Tôi ăn chay.|ăn chay=채식하다
+3|이건 제가 시킨 게 아니에요.|Tôi không gọi món này.|gọi món=주문하다; món này=이 요리
+3|제 음식이 아직 안 나왔어요.|Món của tôi vẫn chưa ra.|vẫn=여전히; chưa=아직 ~않다; ra=나오다
+3|따로 계산할게요.|Chúng tôi trả riêng.|chúng tôi=우리(청자 제외); riêng=따로
+3|이번엔 제가 낼게요.|Lần này để tôi trả.|lần này=이번; để tôi=제가 ~할게요; trả=지불하다
+3|건배! (원샷)|Trăm phần trăm!|trăm=백; phần trăm=퍼센트|'Một, hai, ba, dô!'도 흔히 외침
+
+@shop
+1|이거 얼마예요?|Cái này bao nhiêu tiền?|cái này=이것; bao nhiêu=얼마; tiền=돈
+1|너무 비싸요.|Đắt quá.|đắt=비싼(북부); quá=너무|남부는 mắc
+1|좀 깎아 주세요.|Bớt cho tôi đi.|bớt=깎다; đi=~해요(권유)
+1|그냥 구경하는 거예요.|Tôi chỉ xem thôi.|chỉ ... thôi=단지 ~일 뿐; xem=보다
+1|이거 살게요.|Tôi lấy cái này.|lấy=가지다·사다
+1|안 살게요.|Tôi không lấy đâu.|không ... đâu=전혀 ~않다
+1|다른 색 있어요?|Có màu khác không?|màu=색; khác=다른
+1|더 큰 사이즈 있어요?|Có cỡ to hơn không?|cỡ=사이즈; to=큰; hơn=더
+1|더 작은 거요.|Cái nhỏ hơn.|nhỏ=작은; hơn=더
+1|입어 봐도 돼요?|Tôi mặc thử được không?|mặc=입다; thử=시험 삼아 해 보다
+2|탈의실이 어디예요?|Phòng thử đồ ở đâu?|phòng=방; thử đồ=옷을 입어 보다; ở đâu=어디에
+2|10만 동이요?|Một trăm nghìn à?|một trăm=100; nghìn=천(북부); à=~요?|남부는 ngàn. 10만=100천으로 읽음
+2|5만 동에 돼요?|Năm mươi nghìn được không?|năm mươi=50; được không=돼요?
+2|두 개 사면 깎아 주나요?|Mua hai cái có bớt không?|mua=사다; hai cái=두 개; bớt=깎아 주다
+2|봉투 하나 주세요.|Cho tôi cái túi.|túi=봉투·가방
+2|영수증 주세요.|Cho tôi hóa đơn.|hóa đơn=영수증
+2|거스름돈 여기 있어요.|Tiền thừa đây.|tiền thừa=거스름돈; đây=여기
+2|잔돈이 없어요.|Tôi không có tiền lẻ.|tiền lẻ=잔돈
+2|QR로 이체해도 돼요?|Chuyển khoản qua QR được không?|chuyển khoản=계좌이체; qua=~를 통해
+2|선물 포장해 주세요.|Gói quà giúp tôi nhé.|gói=포장하다; quà=선물; giúp=돕다
+3|교환할 수 있나요?|Tôi có thể đổi được không?|có thể=~할 수 있다; đổi=바꾸다
+3|환불받을 수 있나요?|Tôi có được hoàn tiền không?|hoàn tiền=환불하다
+3|여기 흠이 있어요.|Chỗ này bị lỗi.|chỗ này=이 부분; bị=(부정적인 일을) 당하다; lỗi=결함
+3|조금 더 생각해 볼게요.|Để tôi suy nghĩ thêm.|để tôi=제가 ~할게요; suy nghĩ=생각하다; thêm=더
+3|여기는 정찰제인가요?|Ở đây bán đúng giá à?|bán=팔다; đúng giá=정가
+
+@move
+1|어디 가세요?|Anh đi đâu?|đi=가다; đâu=어디
+1|이 주소로 가 주세요.|Cho tôi đến địa chỉ này.|đến=가다·도착하다; địa chỉ=주소; này=이
+1|여기서 세워 주세요.|Dừng ở đây.|dừng=멈추다; ở đây=여기
+1|왼쪽으로 가세요.|Rẽ trái.|rẽ=꺾다(북부); trái=왼쪽|남부는 quẹo
+1|오른쪽으로 가세요.|Rẽ phải.|rẽ=꺾다; phải=오른쪽
+1|직진하세요.|Đi thẳng.|thẳng=곧은
+1|화장실이 어디예요?|Nhà vệ sinh ở đâu?|nhà vệ sinh=화장실; ở đâu=어디에
+1|멀어요?|Có xa không?|xa=먼
+1|아주 가까워요.|Gần lắm.|gần=가까운
+2|공항까지 얼마나 걸려요?|Đến sân bay mất bao lâu?|sân bay=공항; mất=걸리다; bao lâu=얼마나 오래
+2|공항까지 얼마예요?|Đến sân bay bao nhiêu tiền?|sân bay=공항
+2|그랩 좀 불러 주시겠어요?|Gọi Grab giúp tôi được không?|gọi=부르다; giúp=도와주다
+2|오토바이 택시|Xe ôm|xe=차; ôm=안다|오토바이 뒤에 타는 택시
+2|천천히 가 주세요.|Đi chậm thôi.|chậm=느린; thôi=~만 좀
+2|좀 빨리 가 주세요.|Đi nhanh giúp tôi.|nhanh=빠른
+2|이 버스 호안끼엠에 가요?|Xe buýt này có đi Hoàn Kiếm không?|xe buýt=버스
+2|기차역이 어디예요?|Ga tàu ở đâu?|ga=역; tàu=기차
+2|길을 잃었어요.|Tôi bị lạc đường.|bị=(부정적인 일을) 당하다; lạc đường=길을 잃다
+2|여기가 지도에서 어디예요?|Chỗ này ở đâu trên bản đồ?|chỗ này=여기; trên=~위에; bản đồ=지도
+2|걸어서 갈 수 있어요?|Đi bộ được không?|đi bộ=걷다
+3|사거리에서 우회전하세요.|Đến ngã tư thì rẽ phải.|ngã tư=사거리; thì=그러면
+3|길이 너무 막혀요.|Tắc đường quá.|tắc đường=길이 막히다(북부)|남부는 kẹt xe
+3|길 건널 때 조심하세요.|Qua đường cẩn thận nhé.|qua đường=길을 건너다; cẩn thận=조심하다
+3|미터기 켜 주세요.|Anh bật đồng hồ lên nhé.|bật=켜다; đồng hồ=미터기·시계
+3|다음 정류장에서 내릴게요.|Tôi xuống ở bến tiếp theo.|xuống=내리다; bến=정류장; tiếp theo=다음
+3|차를 하루 빌리고 싶어요.|Tôi muốn thuê xe một ngày.|muốn=원하다; thuê=빌리다; một ngày=하루
+
+@stay
+1|예약했어요.|Tôi đã đặt phòng.|đã=~했다; đặt phòng=방을 예약하다
+1|체크인하고 싶어요.|Tôi muốn nhận phòng.|muốn=원하다; nhận phòng=체크인
+1|체크아웃할게요.|Tôi muốn trả phòng.|trả phòng=체크아웃
+1|와이파이 비밀번호가 뭐예요?|Mật khẩu wifi là gì?|mật khẩu=비밀번호
+1|여권 여기 있어요.|Hộ chiếu đây.|hộ chiếu=여권; đây=여기
+1|방 번호가 몇 번이에요?|Phòng số mấy?|phòng=방; số=번호; mấy=몇
+1|엘리베이터가 어디예요?|Thang máy ở đâu?|thang máy=엘리베이터
+2|빈방 있어요?|Còn phòng trống không?|còn=남아 있다; trống=빈
+2|하룻밤에 얼마예요?|Một đêm bao nhiêu tiền?|một đêm=하룻밤
+2|조식 포함이에요?|Có bao gồm bữa sáng không?|bao gồm=포함하다; bữa sáng=아침 식사
+2|아침 식사는 몇 시부터예요?|Bữa sáng bắt đầu từ mấy giờ?|bắt đầu=시작하다; mấy giờ=몇 시
+2|짐 좀 맡아 주실 수 있어요?|Giữ hành lý giúp tôi được không?|giữ=맡다·보관하다; hành lý=짐
+2|수건 좀 더 주세요.|Cho tôi thêm khăn tắm.|thêm=더; khăn tắm=목욕 수건
+2|에어컨이 안 돼요.|Điều hòa không chạy.|điều hòa=에어컨(북부); chạy=작동하다|남부는 máy lạnh
+2|뜨거운 물이 안 나와요.|Không có nước nóng.|nước nóng=뜨거운 물
+2|방을 바꿀 수 있어요?|Tôi đổi phòng được không?|đổi=바꾸다
+2|방 청소 부탁해요.|Dọn phòng giúp tôi nhé.|dọn=청소하다·치우다
+2|열쇠를 방에 두고 나왔어요.|Tôi để quên chìa khóa trong phòng.|để quên=깜빡 두고 오다; chìa khóa=열쇠; trong=안에
+3|하룻밤 더 묵고 싶어요.|Tôi muốn ở thêm một đêm.|ở=머물다; thêm=더
+3|늦게 체크아웃해도 돼요?|Tôi trả phòng muộn được không?|muộn=늦은
+3|방이 너무 시끄러워요.|Phòng ồn quá.|ồn=시끄러운
+3|창문 있는 방으로 주세요.|Cho tôi phòng có cửa sổ.|cửa sổ=창문
+3|보증금은 언제 돌려받아요?|Khi nào tôi được nhận lại tiền cọc?|khi nào=언제; nhận lại=돌려받다; tiền cọc=보증금
+3|택시 좀 불러 주세요.|Gọi taxi giúp tôi nhé.|gọi=부르다; giúp=도와
+3|회사 명의로 VAT 영수증을 발행해 주세요.|Xuất hóa đơn VAT cho công ty giúp tôi nhé.|xuất=발행하다; hóa đơn=영수증·세금계산서; công ty=회사
+
+@time
+1|지금 몇 시예요?|Bây giờ là mấy giờ?|bây giờ=지금; mấy giờ=몇 시
+1|3시예요.|Ba giờ.|ba=셋; giờ=시
+1|오늘|Hôm nay|hôm nay=오늘
+1|내일|Ngày mai|ngày mai=내일
+1|어제|Hôm qua|hôm qua=어제
+1|하나, 둘, 셋, 넷, 다섯|Một, hai, ba, bốn, năm|một=1; hai=2; ba=3; bốn=4; năm=5
+1|여섯, 일곱, 여덟, 아홉, 열|Sáu, bảy, tám, chín, mười|sáu=6; bảy=7; tám=8; chín=9; mười=10
+1|오늘 무슨 요일이에요?|Hôm nay là thứ mấy?|thứ=요일·서수; mấy=몇
+2|월요일|Thứ hai|thứ hai=월요일|화 thứ ba · 수 thứ tư · 목 thứ năm · 금 thứ sáu · 토 thứ bảy
+2|일요일|Chủ nhật|chủ nhật=일요일
+2|오늘 며칠이에요?|Hôm nay là ngày bao nhiêu?|ngày=날·일; bao nhiêu=얼마
+2|오전 9시 반|Chín giờ rưỡi sáng|rưỡi=반(30분); sáng=아침·오전
+2|오후 2시 15분|Hai giờ mười lăm chiều|mười lăm=15; chiều=오후
+2|저녁 7시|Bảy giờ tối|tối=저녁
+2|2시 10분 전|Hai giờ kém mười|kém=모자라다(~분 전)
+2|이번 주|Tuần này|tuần=주; này=이
+2|다음 달|Tháng sau|tháng=달·월; sau=다음
+2|작년|Năm ngoái|năm=해·년; ngoái=지난
+2|백, 천, 만|Một trăm, một nghìn, mười nghìn|trăm=백; nghìn=천; mười nghìn=만|베트남은 천 단위로 끊어 읽음
+2|백만, 십억|Một triệu, một tỷ|triệu=백만; tỷ=십억
+2|얼마나 오래요?|Bao lâu?|bao lâu=얼마나 오래
+3|5분 후에 도착해요.|Năm phút nữa tôi đến.|phút=분; nữa=더·~후에; đến=도착하다
+3|10분쯤 늦을 것 같아요.|Chắc tôi đến muộn khoảng mười phút.|chắc=아마; muộn=늦은; khoảng=약
+3|언제까지 끝내야 해요?|Đến khi nào phải xong?|đến khi nào=언제까지; phải=~해야 한다; xong=끝나다
+3|매일 아침 6시에 일어나요.|Sáng nào tôi cũng dậy lúc sáu giờ.|sáng nào cũng=매일 아침; dậy=일어나다; lúc=~에(시각)
+3|일주일에 두 번|Một tuần hai lần|tuần=주; lần=번

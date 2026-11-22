@@ -1,0 +1,192 @@
+@time
+1|지금 몇 시예요?|What time is it?|what time=몇 시
+1|3시 반이에요.|It's three thirty.|thirty=30|'half past three'도 씀
+1|오늘 무슨 요일이에요?|What day is it today?|day=요일·날
+1|오늘 며칠이에요?|What's the date today?|date=날짜
+1|내일 봐요.|See you tomorrow.|tomorrow=내일
+2|2시 15분 전이에요.|It's a quarter to two.|quarter=15분; to=~ 전
+2|5시 10분이에요.|It's ten past five.|past=~ 지나서
+2|몇 시가 괜찮으세요?|What time works for you?|work for=~에게 괜찮다
+2|저는 아무 때나 괜찮아요.|Any time works for me.|any time=아무 때나
+2|일주일에 두 번 운동해요.|I work out twice a week.|work out=운동하다; twice=두 번
+2|다음 주 금요일까지요.|By next Friday.|by=~까지(기한)
+2|언제까지 필요하세요?|When do you need it by?|need by=~까지 필요하다
+2|방금 전에|A moment ago|a moment ago=방금 전
+2|금방 갈게요.|I'll be there in a minute.|in a minute=곧
+2|10분 정도 늦을 것 같아요.|I'm running about ten minutes late.|run late=늦어지다
+3|딱 맞춰 왔네요.|Right on time.|on time=정각에
+3|일찍 와서 다행이에요.|Good thing we got here early.|good thing=~해서 다행
+3|시간 가는 줄 몰랐어요.|I lost track of time.|lose track of=~을 놓치다
+3|시간이 얼마 안 남았어요.|We're running out of time.|run out of=~이 바닥나다
+3|일정을 앞당길 수 있을까요?|Can we move it up?|move up=앞당기다
+3|일정을 미룰 수 있을까요?|Can we push it back?|push back=미루다
+3|분기마다|Every quarter|quarter=분기
+3|백이십오만|One million two hundred fifty thousand|million=백만; thousand=천|1,250,000 — 영어는 천 단위로 끊어 읽음
+3|20% 올랐어요.|It went up by twenty percent.|go up by=~만큼 오르다
+3|매출이 3분의 1만큼 줄었어요.|Sales dropped by a third.|drop by=~만큼 떨어지다; a third=3분의 1
+
+@phone
+1|여보세요?|Hello?|hello=여보세요
+1|실례지만 누구세요? (전화)|Who's calling, please?|who's calling=누구세요(전화)
+1|잠깐만요.|Hold on a second.|hold on=잠깐 기다리다
+1|나중에 다시 전화할게요.|I'll call you back later.|call back=다시 전화하다
+2|소리가 끊겨서 들려요.|You're breaking up.|break up=(전화 소리가) 끊기다
+2|지금 통화 괜찮으세요?|Is this a good time to talk?|good time=적절한 때
+2|제이슨인데요, 민수 씨 계세요?|This is Jason. Is Minsu there?|this is=(전화에서) 저는 ~입니다
+2|메시지 남기시겠어요?|Would you like to leave a message?|leave a message=메시지를 남기다
+2|문자 보낼게요.|I'll text you.|text=문자 보내다
+2|번호 좀 알려 주실래요?|Can I get your number?|number=전화번호
+2|이번 주말에 시간 있어요?|Are you free this weekend?|free=한가한
+2|커피 한잔해요.|Let's grab a coffee.|grab=간단히 먹다·마시다
+2|토요일 어때요?|How about Saturday?|how about=~ 어때요
+2|좋아요, 그때 봐요.|Sounds good. See you then.|sounds good=좋아요
+2|지금 가는 중이에요.|I'm on my way.|on my way=가는 중
+3|일이 생겨서 취소해야 할 것 같아요.|Something came up, so I have to cancel.|come up=(일이) 생기다
+3|일정을 다시 잡을 수 있을까요?|Can we reschedule?|reschedule=일정을 다시 잡다
+3|확정되면 알려 주세요.|Let me know once it's confirmed.|let me know=알려 줘요; confirm=확정하다
+3|확인하고 다시 연락드릴게요.|I'll get back to you.|get back to=나중에 답하다
+3|편할 때 아무 때나 전화 주세요.|Call me whenever it's convenient.|convenient=편리한
+3|끊기 전에 하나만 더요.|Before I let you go, one more thing.|let you go=(통화를) 놓아주다
+3|휴대폰 배터리가 곧 꺼질 것 같아요.|My phone's about to die.|about to=막 ~하려는; die=(배터리가) 꺼지다
+3|위치 공유해 줄래요?|Can you share your location?|share=공유하다
+3|부재중 전화 와 있는 거 봤어요.|I saw I had a missed call from you.|missed call=부재중 전화
+3|전화가 연결이 안 돼요.|I can't get through.|get through=(전화가) 연결되다
+
+@work
+1|회의는 몇 시예요?|What time is the meeting?|meeting=회의
+1|회의실이 어디예요?|Where's the meeting room?|meeting room=회의실
+2|시작해 볼까요?|Shall we get started?|get started=시작하다
+2|오늘 안건부터 살펴보죠.|Let's go over today's agenda.|go over=검토하다; agenda=안건
+2|자료는 이메일로 보내드릴게요.|I'll email you the materials.|materials=자료
+2|질문 있으세요?|Any questions?|question=질문
+2|동의합니다.|I agree with you.|agree with=~에 동의하다
+2|좋은 지적이에요.|That's a good point.|point=요점·지적
+2|확인하고 다시 말씀드릴게요.|Let me check and get back to you.|get back to=회신하다
+2|마감이 언제예요?|What's the deadline?|deadline=마감
+2|다들 감사합니다. 오늘 수고 많으셨어요.|Thanks, everyone. Good work today.|good work=수고했어요
+2|화면 공유할게요.|Let me share my screen.|share screen=화면 공유하다
+2|제 화면 보이세요?|Can you see my screen?|screen=화면
+2|음소거 상태예요.|You're on mute.|on mute=음소거 상태
+3|일정이 조금 밀리고 있어요.|We're a bit behind schedule.|behind schedule=일정보다 늦은
+3|예산을 초과했어요.|We've gone over budget.|go over budget=예산을 넘다
+3|다음 주 금요일까지 보고서를 제출해 주세요.|Please submit the report by next Friday.|submit=제출하다
+3|그 부분은 다시 검토해야겠어요.|We need to revisit that part.|revisit=재검토하다
+3|본론만 말씀드리면…|To cut to the chase…|cut to the chase=본론으로 들어가다
+3|서로 이해한 게 같은지 확인하고 싶어요.|I want to make sure we're on the same page.|on the same page=같은 이해를 가진
+3|이 수치는 어디서 나온 거예요?|Where are these numbers coming from?|come from=~에서 나오다
+3|우선순위를 정합시다.|Let's prioritize.|prioritize=우선순위를 정하다
+3|그건 제 권한 밖이에요.|That's above my pay grade.|above my pay grade=내 권한 밖의 일
+3|이 건은 회의 끝나고 따로 얘기하죠.|Let's take this offline.|take offline=(회의 밖에서) 따로 논의하다
+3|간단히 말하면…|In a nutshell…|in a nutshell=간단히 말해
+3|추진 여부를 결정해야 해요.|We need to make a go/no-go decision.|go/no-go=추진 여부
+3|진행 상황 간단히 공유드립니다.|Here's a quick status update.|status update=진행 상황 업데이트
+3|발전소 가동률이 지난달보다 올랐습니다.|The plant's utilization rate went up compared to last month.|utilization rate=가동률; compared to=~에 비해
+
+@social
+1|재미로 뭐 하세요? (취미)|What do you do for fun?|for fun=재미로|hobby를 직접 묻는 것보다 자연스러움
+1|저는 야구에 푹 빠져 있어요.|I'm really into baseball.|be into=~에 빠져 있다
+1|오늘 날씨 좋죠?|Nice weather today, isn't it?|isn't it=그렇지 않나요?
+2|주말 잘 보냈어요?|How was your weekend?|weekend=주말
+2|주말에 계획 있어요?|Any plans for the weekend?|plans=계획
+2|여기 온 지 얼마나 됐어요?|How long have you been here?|how long=얼마나 오래
+2|여기 처음이세요?|Is this your first time here?|first time=처음
+2|그거 재밌겠네요.|That sounds like fun.|sound like=~처럼 들리다
+2|축하해요!|Congratulations!|congratulations=축하해요
+2|생일 축하해요!|Happy birthday!|birthday=생일
+2|그 얘기 들으니 안타깝네요.|I'm sorry to hear that.|sorry to hear=유감이다
+2|무슨 말인지 알아요.|I know what you mean.|know what you mean=무슨 말인지 안다
+2|저도요.|Same here.|same here=나도 그래
+2|요즘 뭐에 빠져 있어요?|What are you into these days?|these days=요즘
+3|말도 안 돼! 진심이에요?|No way! Are you serious?|no way=말도 안 돼; serious=진심인
+3|농담이죠?|You're kidding.|kid=농담하다
+3|고마워요, 친절하시네요.|Thanks, that's very kind of you.|kind of you=친절하시네요
+3|제 입장이 되어 보세요.|Put yourself in my shoes.|in my shoes=내 입장에서
+3|우리 정말 죽이 잘 맞는 것 같아요.|I think we really hit it off.|hit it off=죽이 잘 맞다
+3|그 사람이랑 잘 지내요?|Do you get along with him?|get along with=~와 잘 지내다
+3|시간 정말 빠르네요.|Time flies.|time flies=시간이 빠르다
+3|정말 기대돼요!|I'm looking forward to it!|look forward to=~을 기대하다
+3|아쉽지만 이번엔 빠질게요.|I'll have to pass this time.|pass=사양하다
+3|다음엔 꼭 같이해요.|Let's definitely do it next time.|definitely=꼭
+3|편하게 이름으로 부르세요.|Feel free to call me by my first name.|feel free to=편하게 ~하세요; first name=이름|영어엔 존댓말이 없어서 이름으로 부르라고 함
+3|분위기 깨서 미안한데…|Sorry to be a buzzkill, but…|buzzkill=분위기 깨는 사람
+
+@health
+1|도와주세요!|Help!|help=도움
+1|몸이 안 좋아요.|I don't feel well.|feel well=몸이 좋다
+1|머리가 아파요.|I have a headache.|headache=두통
+1|배가 아파요.|I have a stomachache.|stomachache=복통
+1|가장 가까운 병원이 어디예요?|Where's the nearest hospital?|hospital=병원
+1|근처에 약국 있어요?|Is there a pharmacy nearby?|pharmacy=약국
+1|구급차 불러 주세요!|Call an ambulance!|ambulance=구급차
+2|열이 나요.|I have a fever.|fever=열
+2|기침이 멈추질 않아요.|I can't stop coughing.|cough=기침하다
+2|목이 아파요.|I have a sore throat.|sore throat=인후통
+2|감기 기운이 있는 것 같아요.|I think I'm coming down with a cold.|come down with=(병에) 걸리다
+2|어지러워요.|I feel dizzy.|dizzy=어지러운
+2|발목을 삐었어요.|I sprained my ankle.|sprain=삐다; ankle=발목
+2|진통제 있어요?|Do you have any painkillers?|painkiller=진통제
+2|하루에 몇 번 먹어야 해요?|How many times a day should I take this?|take=(약을) 먹다
+2|식후에 드세요.|Take it after meals.|after meals=식후
+2|좀 쉬어야겠어요.|I need to get some rest.|get some rest=좀 쉬다
+3|어제부터 계속 아팠어요.|It's been hurting since yesterday.|hurt=아프다; since=~ 이후로
+3|진료 예약하고 싶어요.|I'd like to make an appointment.|make an appointment=예약하다
+3|여행자 보험이 있어요.|I have travel insurance.|insurance=보험
+3|처방전이 필요한가요?|Do I need a prescription?|prescription=처방전
+3|지갑을 도둑맞았어요.|My wallet was stolen.|stolen=도난당한
+3|경찰에 신고하고 싶어요.|I'd like to report it to the police.|report=신고하다
+3|부작용이 있나요?|Are there any side effects?|side effect=부작용
+3|훨씬 나아졌어요.|I'm feeling much better.|much better=훨씬 나은
+
+@travel
+1|저희 사진 좀 찍어 주시겠어요?|Could you take a picture of us?|take a picture=사진 찍다
+1|여기서 사진 찍어도 돼요?|Can I take photos here?|photo=사진
+1|입장료가 얼마예요?|How much is admission?|admission=입장료
+1|표 두 장 주세요.|Two tickets, please.|ticket=표
+1|숨 막히게 아름다워요!|It's breathtaking!|breathtaking=숨 막히게 아름다운
+2|몇 시에 문 열어요?|What time do you open?|open=문을 열다
+2|몇 시에 문 닫아요?|What time do you close?|close=문을 닫다
+2|이 근처에 볼 만한 거 있어요?|Is there anything worth seeing around here?|worth -ing=~할 가치가 있는
+2|투어를 예약하고 싶어요.|I'd like to book a tour.|book=예약하다
+2|점심 포함인가요?|Does it include lunch?|include=포함하다
+2|몇 시에 출발해요?|What time do we leave?|leave=출발하다
+2|여기는 뭐로 유명해요?|What's this place famous for?|famous for=~로 유명한
+2|근처에 환전소 있어요?|Is there a currency exchange nearby?|currency exchange=환전소
+2|가이드북에 나온 곳이에요.|It's in the guidebook.|guidebook=여행 안내서
+2|기념품 가게가 어디예요?|Where's the gift shop?|gift shop=기념품 가게
+3|현지인들은 어디서 먹어요?|Where do the locals eat?|locals=현지인
+3|여기 관광객 바가지 아니에요?|Isn't this a tourist trap?|tourist trap=관광객 바가지 장소
+3|이 근처에서 꼭 봐야 할 게 뭐예요?|What's a must-see around here?|must-see=꼭 봐야 할 것
+3|날씨 때문에 투어가 취소됐어요.|The tour was canceled due to the weather.|due to=~ 때문에
+3|여기서 당일치기로 가기 좋은 곳이 어디예요?|What's a good day trip from here?|day trip=당일치기 여행
+3|적당한 가격의 호텔 아세요?|Do you know any affordable hotels?|affordable=적당한 가격의
+3|일정이 빡빡해요.|We're on a tight schedule.|tight schedule=빡빡한 일정
+3|여기 경치 정말 끝내줘요.|The view here is amazing.|view=경치
+3|다음에 꼭 다시 올 거예요.|I'll definitely come back.|come back=다시 오다
+3|이번 여행 최고였어요.|This trip was the best.|trip=여행
+
+@trouble
+1|도와주시겠어요?|Could you help me?|help=돕다
+1|문제가 생겼어요.|I have a problem.|problem=문제
+1|급한 일이에요.|It's urgent.|urgent=급한
+2|이거 어떻게 작동해요?|How does this work?|work=작동하다
+2|적어 주실 수 있어요?|Could you write it down?|write down=적다
+2|제가 제대로 이해했는지 확인할게요.|Let me make sure I understand.|make sure=확실히 하다
+2|오해가 있었던 것 같아요.|I think there's been a misunderstanding.|misunderstanding=오해
+2|제 잘못이에요.|That's my fault.|fault=잘못
+2|괜찮아요, 신경 쓰지 마세요.|No worries. Don't worry about it.|no worries=괜찮아요
+2|고장 났어요.|It's broken.|broken=고장 난
+2|충전기 좀 빌릴 수 있을까요?|Could I borrow a charger?|borrow=빌리다; charger=충전기
+2|비밀번호를 잊어버렸어요.|I forgot my password.|forget=잊다
+3|제가 기대했던 거랑 달라요.|This isn't what I expected.|expect=기대하다
+3|매니저와 이야기할 수 있을까요?|Could I speak to the manager?|manager=관리자
+3|처음에 말씀하신 가격이 아니잖아요.|That's not the price you quoted.|quote=견적을 내다·가격을 부르다
+3|두 번 결제됐어요.|I was charged twice.|charge=청구하다
+3|얼마나 빨리 고칠 수 있어요?|How soon can this be fixed?|how soon=얼마나 빨리; fix=고치다
+3|다른 방법은 없을까요?|Is there any other way?|other way=다른 방법
+3|도와주셔서 정말 감사해요.|I appreciate your help.|appreciate=감사하다
+3|번거롭게 해 드려 죄송해요.|Sorry for the trouble.|trouble=수고·폐
+3|분명히 예약했어요.|I'm sure I made a reservation.|make a reservation=예약하다
+3|제가 처리할게요.|I'll take care of it.|take care of=처리하다
+3|부담 갖지 마세요.|No pressure.|pressure=압박
+3|일단 두고 보죠.|Let's wait and see.|wait and see=두고 보다
+3|최선을 다할게요.|I'll do my best.|do one's best=최선을 다하다

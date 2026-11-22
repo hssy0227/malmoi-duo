@@ -1,0 +1,176 @@
+# 고난도 추가분 (Lv3~4)
+@greet
+3|처음 뵙겠습니다. 오늘 회의 때문에 서울에서 왔습니다.|Rất hân hạnh được gặp anh. Tôi từ Seoul sang để dự cuộc họp hôm nay.|hân hạnh=영광스러운; sang=(외국으로) 오다; dự=참석하다
+3|제가 먼저 소개하겠습니다.|Cho phép tôi tự giới thiệu trước.|cho phép=허락하다; tự giới thiệu=자기소개하다; trước=먼저
+3|베트남에서 일하신 지 얼마나 되셨어요?|Anh làm việc ở Việt Nam được bao lâu rồi?|được bao lâu rồi=~한 지 얼마나 됐어요
+3|고향이 어디세요?|Quê anh ở đâu?|quê=고향
+3|하노이 분이세요, 아니면 다른 지방에서 올라오셨어요?|Anh là người Hà Nội hay ở tỉnh khác lên?|hay=아니면; tỉnh=지방·성(省); lên=올라오다
+4|저희 회사는 한국에서 LNG 발전 사업을 하고 있습니다.|Công ty chúng tôi đang kinh doanh mảng điện khí LNG tại Hàn Quốc.|kinh doanh=사업하다; mảng=분야; điện khí=가스 발전; tại=~에서
+4|이번 출장의 목적은 현지 파트너와 협력 방안을 논의하는 것입니다.|Mục đích chuyến công tác lần này là bàn về phương án hợp tác với đối tác địa phương.|mục đích=목적; chuyến công tác=출장; bàn về=~에 대해 논의하다; phương án=방안; đối tác=파트너
+4|소개해 주셔서 감사합니다. 덕분에 일이 훨씬 수월해졌어요.|Cảm ơn anh đã giới thiệu, nhờ vậy mà công việc thuận lợi hơn nhiều.|nhờ vậy=그 덕분에; thuận lợi=순조로운
+3|베트남어가 서툴러서 실수하면 양해 부탁드려요.|Tiếng Việt của tôi chưa tốt, nếu có sai sót mong anh thông cảm.|sai sót=실수; thông cảm=양해하다
+3|베트남어 발음은 정말 어렵네요.|Phát âm tiếng Việt khó thật đấy.|phát âm=발음; khó=어려운
+4|제 베트남어 이름은 '훙'이에요. 동료가 지어 줬어요.|Tên tiếng Việt của tôi là Hùng, do đồng nghiệp đặt cho.|do=~에 의해; đồng nghiệp=동료; đặt=(이름을) 짓다
+3|어디선가 뵌 것 같아요.|Hình như tôi đã gặp anh ở đâu đó rồi.|ở đâu đó=어딘가에서
+3|우리 동갑이네요! 그럼 편하게 불러요.|Mình sinh cùng năm à! Vậy xưng hô thoải mái nhé.|sinh=태어나다; cùng năm=같은 해; xưng hô=호칭하다
+4|베트남어는 나이와 관계에 따라 호칭이 달라져서 처음엔 헷갈렸어요.|Tiếng Việt thay đổi cách xưng hô theo tuổi tác và quan hệ nên lúc đầu tôi bị rối.|thay đổi=바뀌다; cách=방식; theo=~에 따라; tuổi tác=나이; quan hệ=관계; rối=헷갈리는
+3|곧 다시 뵙기를 바랍니다.|Mong sớm được gặp lại anh.|mong=바라다; sớm=곧·빨리
+3|대표님께 안부 전해 주세요.|Cho tôi gửi lời hỏi thăm giám đốc nhé.|gửi lời hỏi thăm=안부를 전하다; giám đốc=사장·대표
+4|바쁘신데 공항까지 마중 나와 주셔서 감사합니다.|Cảm ơn anh đã bớt chút thời gian ra sân bay đón tôi.|bớt chút thời gian=짬을 내다; đón=마중하다
+3|오늘 저녁 시간 괜찮으시면 식사 대접하고 싶어요.|Nếu tối nay anh rảnh, tôi muốn mời anh một bữa.|mời=대접하다·초대하다; bữa=끼니
+4|오랫동안 연락 못 드려서 죄송합니다.|Xin lỗi vì lâu rồi tôi không liên lạc với anh.|vì=~ 때문에; lâu rồi=오래되다
+3|잘 지내셨죠? 하나도 안 변하셨네요.|Anh vẫn khỏe chứ? Trông anh chẳng thay đổi gì cả.|vẫn=여전히; chứ=~죠?; trông=~해 보이다; chẳng ... gì cả=전혀 ~않다
+
+@daily
+3|요즘 일 때문에 잠을 제대로 못 자요.|Dạo này vì công việc mà tôi ngủ không ngon.|vì ... mà=~ 때문에; ngủ=자다; ngon=(잠이) 깊은·맛있는
+3|오늘따라 괜히 기분이 가라앉아요.|Hôm nay tự nhiên tôi thấy hơi buồn.|tự nhiên=괜히·갑자기; buồn=우울한·슬픈
+3|그 말을 들으니 마음이 놓이네요.|Nghe vậy tôi thấy yên tâm hơn.|nghe vậy=그 말을 들으니; yên tâm=안심하다
+4|별일 아닌데 자꾸 신경이 쓰여요.|Chuyện không có gì mà tôi cứ để tâm mãi.|chuyện=일·이야기; cứ=자꾸; để tâm=신경 쓰다; mãi=계속
+3|저는 아침형이라 일찍 자요.|Tôi là người dậy sớm nên đi ngủ sớm.|dậy sớm=일찍 일어나다; đi ngủ=잠자리에 들다
+3|운동을 시작한 뒤로 훨씬 건강해졌어요.|Từ khi tập thể dục, tôi khỏe hơn hẳn.|từ khi=~한 이후로; tập thể dục=운동하다; hẳn=확연히
+4|하고 싶은 건 많은데 시간은 늘 부족해요.|Việc muốn làm thì nhiều mà thời gian lúc nào cũng thiếu.|thì=~는(대조); mà=그런데; lúc nào cũng=언제나; thiếu=부족한
+3|주말에 집 청소하고 빨래했어요.|Cuối tuần tôi dọn nhà và giặt quần áo.|dọn nhà=집 청소하다; giặt=빨래하다; quần áo=옷
+3|오늘 정말 운이 좋았어요.|Hôm nay tôi gặp may thật.|gặp may=운이 좋다
+3|도무지 이해가 안 되네요.|Thật không thể hiểu nổi.|không thể ... nổi=도저히 ~할 수 없다
+4|생각보다 일이 빨리 끝나서 다행이에요.|May là công việc xong sớm hơn tôi nghĩ.|may là=다행히; xong=끝나다; sớm hơn=더 일찍
+3|커피를 너무 많이 마셔서 잠이 안 와요.|Tôi uống nhiều cà phê quá nên không ngủ được.|uống=마시다; ngủ được=잠들 수 있다
+4|최근 들어 부쩍 피곤해요.|Dạo gần đây tôi cảm thấy mệt hơn hẳn.|dạo gần đây=최근 들어; cảm thấy=느끼다
+3|그 소식 듣고 깜짝 놀랐어요.|Tôi giật mình khi nghe tin đó.|giật mình=깜짝 놀라다; tin=소식
+4|솔직히 말하면 좀 서운했어요.|Nói thật là tôi hơi buồn lòng.|nói thật=솔직히 말하면; buồn lòng=서운한
+3|오늘은 아무것도 하기 싫어요.|Hôm nay tôi chẳng muốn làm gì cả.|chẳng ... gì cả=아무것도 ~않다
+3|이제 거의 다 적응했어요.|Bây giờ tôi gần như đã quen rồi.|gần như=거의; quen=익숙해지다
+4|날씨가 이렇게 눅눅하면 뭘 해도 힘들어요.|Trời nồm thế này thì làm gì cũng mệt.|nồm=눅눅한 날씨(북부 봄철); thế này=이렇게|nồm은 하노이 봄철의 습한 날씨
+3|오늘 하루 정말 길었어요.|Hôm nay là một ngày dài thật.|một ngày=하루; dài=긴
+3|휴가만 손꼽아 기다리고 있어요.|Tôi đang mong từng ngày đến kỳ nghỉ.|mong từng ngày=하루하루 기다리다; kỳ nghỉ=휴가
+
+@food
+3|여기 현지 사람들이 줄 서서 먹는 집이래요.|Nghe nói quán này người địa phương xếp hàng để ăn.|nghe nói=듣자 하니; xếp hàng=줄 서다
+3|국물이 정말 진하네요.|Nước dùng đậm đà thật.|nước dùng=국물; đậm đà=진하고 깊은 맛
+3|분짜는 면을 소스에 찍어 먹는 거예요.|Bún chả thì chấm bún vào nước chấm mà ăn.|chấm=찍다; nước chấm=찍어 먹는 소스
+4|라임을 좀 짜 넣고 고추를 조금 넣으면 더 맛있어요.|Vắt thêm chút chanh và cho ít ớt thì ngon hơn.|vắt=짜다; chanh=라임; ớt=고추
+3|이거 너무 짜요.|Món này mặn quá.|mặn=짠
+3|좀 달아요.|Hơi ngọt.|ngọt=단
+3|느억맘 좀 더 주세요.|Cho tôi thêm ít nước mắm.|nước mắm=느억맘(생선 소스)
+4|이 집 위생 괜찮아 보여요?|Quán này có vẻ sạch sẽ không anh?|có vẻ=~해 보이다; sạch sẽ=깨끗한
+3|저녁 7시에 네 명 예약하고 싶어요.|Tôi muốn đặt bàn cho bốn người lúc bảy giờ tối.|đặt bàn=테이블 예약하다
+3|창가 자리로 앉을 수 있을까요?|Cho tôi ngồi chỗ gần cửa sổ được không?|ngồi=앉다; chỗ=자리; gần=가까운
+4|이 요리는 어떻게 만드는 거예요?|Món này được nấu như thế nào?|được nấu=요리되다; như thế nào=어떻게
+3|맥주 두 병 더 주세요, 얼음도 같이요.|Cho thêm hai chai bia, kèm đá nhé.|bia=맥주; kèm=곁들여
+3|분보남보 (비빔 쌀국수)|Bún bò Nam Bộ|Nam Bộ=남부 지방|하노이에서 인기 있는 비빔 쌀국수
+3|넴란 (튀김 스프링롤)|Nem rán|nem=스프링롤; rán=튀기다(북부)|남부는 chả giò
+4|오늘은 제가 대접할게요, 사양하지 마세요.|Hôm nay để tôi mời, anh đừng khách sáo nhé.|mời=대접하다; khách sáo=사양하다·예의 차리다
+4|과식했나 봐요, 배가 터질 것 같아요.|Chắc tôi ăn quá no rồi, bụng căng quá.|ăn quá no=과식하다; căng=빵빵한
+3|이 식당은 해산물로 유명해요.|Nhà hàng này nổi tiếng về hải sản.|nhà hàng=식당; nổi tiếng về=~로 유명한; hải sản=해산물
+4|길거리 음식은 맛있지만 처음엔 배탈이 날 수도 있어요.|Đồ ăn đường phố ngon nhưng lúc đầu có thể bị đau bụng.|đồ ăn=음식; đường phố=길거리; có thể=~할 수도 있다
+3|물수건은 돈 받아요?|Khăn lạnh có tính tiền không?|khăn lạnh=물수건; tính tiền=돈을 받다
+3|이 음식 이름이 뭐예요? 정말 맛있네요.|Món này tên là gì vậy? Ngon tuyệt.|vậy=(의문 어기); tuyệt=훌륭한
+
+@shop
+3|원래 얼마예요? 너무 비싸게 부르시는 것 같은데요.|Giá gốc là bao nhiêu? Hình như anh nói thách quá.|giá gốc=원가·정가; nói thách=값을 높여 부르다
+4|다른 가게에선 이것보다 훨씬 싸게 팔던데요.|Ở cửa hàng khác họ bán rẻ hơn nhiều.|cửa hàng=가게; họ=그들; rẻ=싼
+3|이거 진품 맞아요?|Đây có phải hàng thật không?|có phải ... không=~이 맞아요?; hàng thật=진품
+3|이건 어디서 만든 거예요?|Cái này sản xuất ở đâu?|sản xuất=생산하다
+3|보증 기간이 얼마나 돼요?|Thời gian bảo hành là bao lâu?|bảo hành=품질 보증
+4|세 개 사면 하나 더 주실 수 있어요?|Nếu tôi mua ba cái thì anh tặng thêm một cái được không?|tặng=증정하다; thêm=더
+3|이 셔츠 소재가 뭐예요?|Áo sơ mi này làm bằng chất liệu gì?|áo sơ mi=셔츠; chất liệu=소재
+3|면 100%예요?|Có phải cotton một trăm phần trăm không?|phần trăm=퍼센트
+3|소매가 너무 길어요.|Tay áo dài quá.|tay áo=소매
+4|기장 수선해 주실 수 있어요? 오늘 찾을 수 있을까요?|Anh sửa lại độ dài được không? Hôm nay lấy được không?|sửa=고치다; độ dài=길이; lấy=찾아가다
+3|저한테 잘 어울려요?|Tôi mặc có hợp không?|hợp=어울리는
+3|배송도 돼요? 배송비는 얼마예요?|Có giao hàng không? Phí giao hàng bao nhiêu?|giao hàng=배송하다; phí=요금
+4|한국으로 바로 보내 주실 수 있어요?|Có gửi thẳng về Hàn Quốc được không?|gửi=보내다; thẳng=곧장
+3|온라인으로 주문하면 더 싸요?|Đặt hàng trên mạng có rẻ hơn không?|đặt hàng=주문하다; trên mạng=온라인으로
+3|지금 할인 행사 해요?|Bây giờ đang có khuyến mãi không?|khuyến mãi=할인·판촉
+4|현금으로 내면 좀 더 깎아 주실 수 있나요?|Nếu trả tiền mặt thì bớt thêm được không?|tiền mặt=현금; bớt thêm=더 깎다
+3|이거랑 똑같은 걸로 하나 더 주세요.|Cho tôi thêm một cái giống hệt cái này.|giống hệt=똑같은
+3|품절이에요?|Hết hàng rồi à?|hết hàng=품절되다
+4|다음 주에 물건 들어오면 연락 주실 수 있어요?|Tuần sau có hàng thì anh báo cho tôi được không?|có hàng=물건이 들어오다; báo=알리다
+3|선물할 거라서 가격표 좀 떼 주세요.|Cái này để làm quà nên gỡ giúp tôi mác giá nhé.|để làm quà=선물용으로; gỡ=떼다; mác giá=가격표
+
+@move
+3|공항까지 가장 빠른 방법이 뭐예요?|Cách nhanh nhất để đến sân bay là gì?|cách=방법; nhanh nhất=가장 빠른; để=~하기 위해
+4|러시아워라서 오토바이로 가는 게 더 빠를 거예요.|Giờ cao điểm nên đi xe máy sẽ nhanh hơn.|giờ cao điểm=러시아워; xe máy=오토바이
+3|이 길 맞아요? 반대 방향 같은데요.|Đường này đúng không? Hình như ngược chiều rồi.|đúng=맞는; ngược chiều=반대 방향
+3|저 다리 건너서 바로 오른쪽이에요.|Qua cây cầu kia rồi rẽ phải ngay.|cầu=다리; kia=저; ngay=바로
+3|여기서 내려 주시고 잠깐만 기다려 주세요.|Cho tôi xuống đây và chờ một lát nhé.|xuống=내리다; một lát=잠시
+4|짐이 많아서 큰 차를 불러야 할 것 같아요.|Tôi nhiều hành lý nên chắc phải gọi xe to.|hành lý=짐; chắc=아마; xe to=큰 차
+3|기차표를 미리 예매해야 해요?|Có cần đặt vé tàu trước không?|cần=필요하다; đặt vé=표를 예매하다; trước=미리
+3|침대칸으로 주세요.|Cho tôi vé giường nằm.|giường nằm=침대칸
+4|사파까지 야간 버스로 몇 시간 걸려요?|Đi xe khách đêm lên Sa Pa mất mấy tiếng?|xe khách=장거리 버스; đêm=밤; mấy tiếng=몇 시간
+3|다음 기차는 몇 시에 출발해요?|Chuyến tàu tiếp theo khởi hành lúc mấy giờ?|chuyến=편; khởi hành=출발하다
+3|기사님, 에어컨 좀 세게 틀어 주세요.|Anh tài ơi, bật điều hòa mạnh lên giúp tôi.|anh tài=기사님(친근); bật=켜다; mạnh=세게
+4|앱에 나온 요금이랑 달라요.|Giá này khác với giá trên ứng dụng.|khác với=~와 다른; ứng dụng=앱
+3|오토바이 빌리려면 면허가 필요해요?|Thuê xe máy có cần bằng lái không?|bằng lái=운전면허
+4|헬멧 꼭 쓰세요, 안 쓰면 벌금이에요.|Nhớ đội mũ bảo hiểm, không đội sẽ bị phạt.|nhớ=잊지 말고; đội=쓰다; mũ bảo hiểm=헬멧; bị phạt=벌금을 물다
+3|여기서 유턴돼요?|Ở đây quay đầu được không?|quay đầu=유턴하다
+3|골목 안으로 들어가 주세요.|Anh đi vào trong ngõ giúp tôi.|ngõ=골목(북부)|남부는 hẻm
+4|골목이 좁아서 차가 못 들어가요, 여기서부터 걸어가셔야 해요.|Ngõ hẹp nên xe không vào được, anh phải đi bộ từ đây.|hẹp=좁은; vào được=들어갈 수 있다
+3|탑승구가 어디예요?|Cửa ra máy bay ở đâu?|cửa ra máy bay=탑승구
+4|환승 시간이 촉박한데 도와주실 수 있나요?|Thời gian nối chuyến gấp quá, anh giúp tôi được không?|nối chuyến=환승; gấp=촉박한
+3|제 짐이 아직 안 나왔어요.|Hành lý của tôi chưa ra.|chưa=아직 ~않다; ra=나오다
+
+@stay
+3|시내 중심가에서 가까운 호텔을 찾고 있어요.|Tôi đang tìm khách sạn gần trung tâm thành phố.|khách sạn=호텔; trung tâm=중심; thành phố=도시
+4|실제 방이 사진이랑 너무 달라요.|Phòng thực tế khác xa so với ảnh.|thực tế=실제; khác xa=많이 다른; so với=~에 비해
+3|방에서 이상한 냄새가 나요.|Trong phòng có mùi lạ.|mùi=냄새; lạ=이상한
+3|변기가 막혔어요.|Bồn cầu bị tắc rồi.|bồn cầu=변기; tắc=막히다
+3|전구가 나갔어요.|Đèn bị cháy rồi.|đèn=전등; cháy=(전구가) 나가다·타다
+4|사람 좀 올려 보내서 확인해 주실 수 있어요?|Anh cho người lên kiểm tra giúp tôi được không?|cho người=사람을 보내다; lên=올라가다; kiểm tra=확인하다
+3|조식은 몇 층에서 먹어요?|Ăn sáng ở tầng mấy?|ăn sáng=아침 먹다; tầng=층
+3|헬스장은 몇 시까지 열어요?|Phòng gym mở cửa đến mấy giờ?|mở cửa=문을 열다; đến=~까지
+3|세탁 서비스 있어요?|Ở đây có dịch vụ giặt là không?|dịch vụ=서비스; giặt là=세탁(북부)|남부는 giặt ủi
+4|내일 새벽 5시에 체크아웃해야 하는데 미리 계산할 수 있을까요?|Sáng mai năm giờ tôi phải trả phòng, tôi thanh toán trước được không?|thanh toán=결제하다; trước=미리
+3|방을 한 단계 업그레이드할 수 있어요?|Tôi nâng hạng phòng được không?|nâng hạng=등급을 올리다
+4|장기 투숙하면 할인되나요?|Nếu ở dài ngày thì có được giảm giá không?|ở dài ngày=장기 체류하다; giảm giá=할인하다
+3|금연실로 주세요.|Cho tôi phòng không hút thuốc.|hút thuốc=담배 피우다
+3|카드키로 문이 안 열려요.|Thẻ phòng không mở được cửa.|thẻ phòng=카드키; mở cửa=문을 열다
+4|체크인 전에 짐만 먼저 맡겨도 될까요?|Tôi gửi hành lý trước khi nhận phòng được không?|gửi=맡기다; trước khi=~하기 전에
+3|공항 픽업 서비스를 신청하고 싶어요.|Tôi muốn đặt dịch vụ đón sân bay.|đón=픽업하다
+3|이 근처에 편의점 있어요?|Gần đây có cửa hàng tiện lợi không?|cửa hàng tiện lợi=편의점
+4|에어비앤비 호스트하고 연락이 안 돼요.|Tôi không liên lạc được với chủ nhà Airbnb.|chủ nhà=집주인·호스트
+3|시끄러워서 한숨도 못 잤어요.|Ồn quá nên tôi không chợp mắt được.|chợp mắt=눈을 붙이다
+4|추가 요금이 왜 붙었는지 설명해 주시겠어요?|Anh giải thích giúp tôi tại sao lại có phụ phí được không?|giải thích=설명하다; tại sao=왜; phụ phí=추가 요금
+
+@time
+3|천오백만 동|Mười lăm triệu đồng|mười lăm=15; triệu=백만; đồng=동(화폐)
+3|이십오만 동|Hai trăm năm mươi nghìn|hai trăm=200; năm mươi=50|250,000동
+4|삼백사십만 오천 동|Ba triệu bốn trăm linh năm nghìn|linh=0(자리 비움, 북부)|3,405,000동. 중간의 0은 북부 linh / 남부 lẻ
+3|1월 1일|Ngày một tháng một|ngày=일; tháng=월
+3|12월 25일|Ngày hai mươi lăm tháng mười hai|hai mươi lăm=25; tháng mười hai=12월
+3|저는 1990년에 태어났어요.|Tôi sinh năm một nghìn chín trăm chín mươi.|sinh=태어나다; năm=년
+4|회의가 2시에서 3시 반으로 바뀌었어요.|Cuộc họp đã đổi từ hai giờ sang ba giờ rưỡi.|đổi=바꾸다; từ ... sang=~에서 ~로
+3|사흘 뒤에 다시 올게요.|Ba ngày nữa tôi sẽ quay lại.|ba ngày=사흘; nữa=후에; quay lại=돌아오다
+3|그저께|Hôm kia|hôm kia=그저께
+3|모레|Ngày kia|ngày kia=모레(북부)|남부는 ngày mốt
+3|지난주 금요일|Thứ sáu tuần trước|tuần trước=지난주
+4|매달 마지막 주 금요일에 정기 회의가 있어요.|Thứ sáu tuần cuối mỗi tháng có họp định kỳ.|cuối=마지막; mỗi tháng=매달; định kỳ=정기적인
+3|하루 종일|Cả ngày|cả=전체·온
+3|밤새|Suốt đêm|suốt=내내
+4|베트남과 한국은 시차가 두 시간이에요.|Việt Nam và Hàn Quốc chênh nhau hai tiếng.|chênh=차이 나다; nhau=서로
+3|지금 한국은 몇 시예요?|Bây giờ ở Hàn Quốc là mấy giờ?|bây giờ=지금
+4|설 연휴에는 가게 대부분이 문을 닫아요.|Trong dịp Tết, phần lớn cửa hàng đều đóng cửa.|dịp=시기; phần lớn=대부분; đều=모두
+3|반년|Nửa năm|nửa=반
+3|두 배|Gấp đôi|gấp đôi=두 배
+4|가격이 작년보다 30% 올랐어요.|Giá đã tăng ba mươi phần trăm so với năm ngoái.|tăng=오르다; so với=~에 비해; năm ngoái=작년
+
+@phone
+3|부재중 전화가 있어서 다시 전화드렸어요.|Tôi thấy có cuộc gọi nhỡ nên gọi lại cho anh.|cuộc gọi nhỡ=부재중 전화; gọi lại=다시 전화하다
+3|지금 회의 중이라 이따 다시 걸게요.|Tôi đang họp, lát nữa tôi gọi lại nhé.|đang họp=회의 중이다
+4|담당자분께 연결해 주실 수 있나요?|Anh nối máy giúp tôi với người phụ trách được không?|nối máy=전화를 연결하다; người phụ trách=담당자
+3|통화가 자꾸 끊겨요.|Cuộc gọi cứ bị ngắt.|cuộc gọi=통화; cứ=자꾸; ngắt=끊기다
+3|전화 잘못 거셨어요.|Anh gọi nhầm số rồi.|nhầm=잘못하다; số=번호
+4|제 메시지 받으셨는지 확인하려고 전화드렸어요.|Tôi gọi để hỏi xem anh đã nhận được tin nhắn của tôi chưa.|hỏi xem=~인지 물어보다; nhận được=받다; tin nhắn=메시지
+3|이 번호로 문자 주시면 돼요.|Anh cứ nhắn vào số này là được.|cứ=그냥; nhắn=문자하다; là được=~하면 된다
+4|약속 시간을 30분만 늦춰도 될까요?|Mình lùi giờ hẹn ba mươi phút được không?|lùi=늦추다; giờ hẹn=약속 시간
+3|그럼 그때 로비에서 만나요.|Vậy hẹn gặp anh ở sảnh lúc đó nhé.|sảnh=로비
+3|길이 막혀서 조금 늦을 것 같아요.|Đường tắc nên chắc tôi đến muộn một chút.|đường tắc=길이 막히다
+4|먼저 들어가 계세요, 금방 따라갈게요.|Anh cứ vào trước đi, tôi theo sau ngay.|vào trước=먼저 들어가다; theo sau=뒤따르다
+3|화상 회의 링크 보내 드릴게요.|Tôi sẽ gửi đường link họp trực tuyến cho anh.|đường link=링크; họp trực tuyến=화상 회의
+3|와이파이가 불안정해서 카메라를 끌게요.|Wifi không ổn định nên tôi tắt camera nhé.|ổn định=안정적인; tắt=끄다
+4|그 건은 전화보다 직접 만나서 얘기하는 게 낫겠어요.|Việc đó nên gặp trực tiếp nói chuyện thì hơn là gọi điện.|trực tiếp=직접; thì hơn=~하는 게 낫다; gọi điện=전화하다
+3|문자 보시면 답장 주세요.|Anh đọc tin nhắn thì trả lời tôi nhé.|đọc=읽다; trả lời=답하다
+3|주말에 같이 커피 한잔할래요?|Cuối tuần mình đi uống cà phê không?|uống cà phê=커피 마시다
+4|이번 주는 일정이 꽉 차서 다음 주가 편해요.|Tuần này lịch của tôi kín rồi, tuần sau thì tiện hơn.|lịch=일정; kín=꽉 찬; tiện=편한
+3|확정되면 단톡방에 공지할게요.|Khi chốt xong tôi sẽ báo trong nhóm chat.|chốt=확정하다; nhóm chat=단체 채팅방
+3|번호 바뀌었어요. 새 번호 저장해 주세요.|Tôi đổi số rồi, anh lưu số mới giúp tôi nhé.|đổi số=번호를 바꾸다; lưu=저장하다
+4|답장이 늦어서 죄송해요. 이제야 메시지를 봤어요.|Xin lỗi trả lời muộn, giờ tôi mới đọc tin nhắn.|trả lời=답하다; muộn=늦게; mới=이제야

@@ -1,0 +1,161 @@
+@phone
+1|여보세요?|A lô?|a lô=여보세요
+1|누구세요?|Ai đấy ạ?|ai=누구; đấy=(북부 의문 어기)|남부는 Ai đó?
+1|전화번호가 뭐예요?|Số điện thoại của anh là gì?|số điện thoại=전화번호
+1|잠깐만요.|Chờ một chút.|chờ=기다리다; một chút=잠깐|북부에선 'Đợi một chút'도 흔함
+1|고마워요, 들어가세요. (통화 끝)|Cảm ơn, chào anh nhé.|cảm ơn=감사; chào=인사하다
+2|이따가 다시 전화할게요.|Lát nữa tôi gọi lại.|lát nữa=이따가; gọi lại=다시 전화하다
+2|잘 안 들려요.|Tôi nghe không rõ.|nghe=듣다; rõ=분명한
+2|지금 통화 괜찮으세요?|Bây giờ anh nói chuyện được không?|nói chuyện=이야기하다
+2|문자 보낼게요.|Tôi sẽ nhắn tin cho anh.|sẽ=~할 것이다; nhắn tin=문자하다
+2|잘로(Zalo) 쓰세요?|Anh có dùng Zalo không?|dùng=사용하다|베트남 국민 메신저
+2|잘로 친구 추가해 주세요.|Kết bạn Zalo với tôi nhé.|kết bạn=친구 맺다; với=~와
+2|내일 시간 있어요?|Ngày mai anh có rảnh không?|rảnh=한가한
+2|몇 시에 만날까요?|Mấy giờ mình gặp nhau?|mình=우리(친근); gặp nhau=서로 만나다
+2|어디서 만날까요?|Mình gặp nhau ở đâu?|ở đâu=어디서
+2|7시 괜찮아요?|Bảy giờ được không?|được không=괜찮아요?
+2|좋아요, 그때 봐요.|Được, hẹn gặp anh lúc đó nhé.|được=좋다·되다; hẹn gặp=만나기로 하다; lúc đó=그때
+2|지금 가는 중이에요.|Tôi đang trên đường đến.|đang=~하는 중; trên đường=도중에
+2|도착했어요.|Tôi đến rồi.|đến=도착하다; rồi=~했다
+3|약속을 미뤄도 될까요?|Mình dời lịch hẹn được không?|dời=미루다·옮기다; lịch hẹn=약속 일정
+3|급한 일이 생겨서 못 갈 것 같아요.|Tôi có việc đột xuất nên chắc không đến được.|việc=일; đột xuất=갑작스러운; nên=그래서; chắc=아마
+3|메시지 남기시겠어요?|Anh có muốn để lại lời nhắn không?|để lại=남기다; lời nhắn=메시지
+3|나중에 다시 연락드릴게요.|Tôi sẽ liên lạc lại với anh sau.|liên lạc=연락하다; sau=나중에
+3|휴대폰 배터리가 거의 없어요.|Điện thoại tôi sắp hết pin.|sắp=곧 ~하다; hết=다하다; pin=배터리
+3|위치 좀 보내 주세요.|Gửi định vị cho tôi nhé.|gửi=보내다; định vị=위치
+3|늦어서 죄송해요.|Xin lỗi, tôi đến muộn.|muộn=늦은
+
+@work
+1|회의는 몇 시예요?|Cuộc họp lúc mấy giờ?|cuộc họp=회의; lúc=~에(시각)
+1|회의실이 어디예요?|Phòng họp ở đâu?|phòng họp=회의실
+2|회의를 시작하겠습니다.|Chúng ta bắt đầu cuộc họp nhé.|chúng ta=우리(청자 포함); bắt đầu=시작하다
+2|각자 자기소개 부탁드립니다.|Mời mọi người giới thiệu bản thân.|mời=청하다; mọi người=여러분; giới thiệu=소개하다; bản thân=자신
+2|자료는 이메일로 보내드릴게요.|Tôi sẽ gửi tài liệu qua email.|gửi=보내다; tài liệu=자료; qua=~로·~를 통해
+2|질문 있으세요?|Mọi người có câu hỏi gì không?|câu hỏi=질문
+2|좋은 의견이네요.|Ý kiến hay đấy.|ý kiến=의견; hay=좋은·재미있는; đấy=~네요
+2|동의합니다.|Tôi đồng ý.|đồng ý=동의하다
+2|확인해 보고 다시 말씀드릴게요.|Để tôi kiểm tra rồi báo lại.|kiểm tra=확인하다; báo lại=다시 알리다
+2|마감이 언제예요?|Hạn chót là khi nào?|hạn chót=마감; khi nào=언제
+2|통역해 주실 수 있나요?|Anh phiên dịch giúp tôi được không?|phiên dịch=통역하다
+2|다들 수고하셨습니다.|Mọi người vất vả rồi.|vất vả=고생하다|회의·업무 끝 인사
+2|오늘은 재택근무해요.|Hôm nay tôi làm việc ở nhà.|làm việc=일하다; ở nhà=집에서
+2|퇴근했어요.|Tôi tan làm rồi.|tan làm=퇴근하다
+2|점심 같이 드실래요?|Mình đi ăn trưa cùng nhau nhé?|ăn trưa=점심 먹다; cùng nhau=함께
+3|이 부분은 다시 검토가 필요해요.|Phần này cần xem xét lại.|phần=부분; cần=필요하다; xem xét=검토하다
+3|일정이 조금 늦어지고 있어요.|Tiến độ đang bị chậm một chút.|tiến độ=진행 속도·일정; chậm=늦은
+3|비용이 예산을 초과했어요.|Chi phí đã vượt ngân sách.|chi phí=비용; vượt=초과하다; ngân sách=예산
+3|다음 주 금요일까지 보고서를 제출해 주세요.|Vui lòng nộp báo cáo trước thứ sáu tuần sau.|vui lòng=~해 주세요(정중); nộp=제출하다; báo cáo=보고서; tuần sau=다음 주
+3|발전소 운영 현황을 공유드리겠습니다.|Tôi xin chia sẻ tình hình vận hành nhà máy điện.|xin=~하겠습니다(겸양); chia sẻ=공유하다; tình hình=현황; vận hành=운영; nhà máy điện=발전소
+3|계약 조건을 다시 협의하고 싶습니다.|Chúng tôi muốn đàm phán lại điều kiện hợp đồng.|đàm phán=협상하다; điều kiện=조건; hợp đồng=계약
+3|그건 제 권한 밖이에요.|Việc đó nằm ngoài thẩm quyền của tôi.|nằm ngoài=~밖에 있다; thẩm quyền=권한
+3|결정되면 바로 알려드릴게요.|Khi có quyết định tôi sẽ báo ngay.|quyết định=결정; báo=알리다; ngay=바로
+3|오늘 논의 내용을 정리하면요…|Tóm lại nội dung hôm nay là…|tóm lại=요약하면; nội dung=내용
+3|이 수치는 어디서 나온 거예요?|Số liệu này lấy từ đâu?|số liệu=수치·데이터; lấy=가져오다; từ đâu=어디서
+3|우선순위를 정합시다.|Chúng ta hãy xác định thứ tự ưu tiên.|hãy=~합시다·~하세요; xác định=정하다; thứ tự=순서; ưu tiên=우선
+
+@social
+1|베트남이 좋아요.|Tôi thích Việt Nam.|thích=좋아하다
+1|취미가 뭐예요?|Sở thích của anh là gì?|sở thích=취미
+1|저는 야구를 좋아해요.|Tôi thích bóng chày.|bóng chày=야구
+2|베트남은 처음이에요.|Đây là lần đầu tôi đến Việt Nam.|lần đầu=처음
+2|베트남에 온 지 일주일 됐어요.|Tôi đến Việt Nam được một tuần rồi.|được=(기간이) 되다; một tuần=일주일
+2|결혼하셨어요?|Anh lập gia đình chưa?|lập gia đình=가정을 꾸리다(결혼); chưa=~했어요?|'Anh có vợ chưa?'도 씀. 베트남에선 흔한 질문
+2|아이 있으세요?|Anh có con chưa?|con=자식
+2|한국에 가 본 적 있어요?|Anh đã bao giờ đến Hàn Quốc chưa?|đã bao giờ ... chưa=~해 본 적 있어요?
+2|한국 음식 좋아하세요?|Anh có thích món Hàn không?|món Hàn=한국 음식
+2|오늘 날씨 정말 좋네요.|Hôm nay trời đẹp quá.|trời=하늘·날씨; đẹp=좋은·예쁜
+2|비가 올 것 같아요.|Hình như trời sắp mưa.|hình như=~인 것 같다; sắp=곧; mưa=비가 오다
+2|하노이는 겨울에 추워요?|Hà Nội mùa đông có lạnh không?|mùa đông=겨울
+2|축하해요!|Chúc mừng!|chúc mừng=축하하다
+2|생일 축하해요!|Chúc mừng sinh nhật!|sinh nhật=생일
+2|새해 복 많이 받으세요!|Chúc mừng năm mới!|năm mới=새해|설(Tết)에 쓰는 인사
+2|계속 연락해요.|Giữ liên lạc nhé.|giữ=유지하다; liên lạc=연락
+3|요즘 어떻게 지내세요?|Dạo này anh thế nào?|dạo này=요즘; thế nào=어때요
+3|오랜만이에요!|Lâu lắm rồi không gặp!|lâu=오래; lắm=아주; không gặp=못 만나다
+3|덕분에 즐거웠어요.|Nhờ anh mà tôi rất vui.|nhờ=덕분에; mà=그래서
+3|칭찬 감사해요, 아직 멀었어요.|Cảm ơn anh, tôi còn kém lắm.|còn=아직; kém=부족한
+3|다음에 한국 오시면 연락 주세요.|Lần sau anh sang Hàn thì liên lạc với tôi nhé.|lần sau=다음번; sang=(외국으로) 건너가다
+3|우리 편하게 이야기해요.|Mình nói chuyện thoải mái thôi.|thoải mái=편안한
+3|그분 성격이 정말 좋아요.|Người đó tính tình rất tốt.|tính tình=성격; tốt=좋은
+3|시간 참 빠르네요.|Thời gian trôi nhanh thật.|thời gian=시간; trôi=흐르다; thật=정말
+3|덕분에 베트남이 더 좋아졌어요.|Nhờ anh mà tôi càng yêu Việt Nam hơn.|càng ... hơn=더욱 ~하다; yêu=사랑하다
+
+@health
+1|살려 주세요!|Cứu tôi với!|cứu=구하다; với=~좀(요청)
+1|몸이 아파요.|Tôi bị ốm.|bị=(부정적인 일을) 당하다; ốm=아픈(북부)|남부는 bệnh
+1|머리가 아파요.|Tôi bị đau đầu.|đau=아프다; đầu=머리
+1|배가 아파요.|Tôi bị đau bụng.|bụng=배
+1|병원이 어디예요?|Bệnh viện ở đâu?|bệnh viện=병원
+1|약국이 어디예요?|Hiệu thuốc ở đâu?|hiệu thuốc=약국(북부)|남부는 nhà thuốc
+1|구급차를 불러 주세요!|Gọi xe cấp cứu đi!|xe cấp cứu=구급차|응급 115
+1|경찰을 불러 주세요!|Gọi công an đi!|công an=경찰|경찰 113
+2|열이 나요.|Tôi bị sốt.|sốt=열나다
+2|기침이 나요.|Tôi bị ho.|ho=기침하다
+2|목이 아파요.|Tôi bị đau họng.|họng=목(인후)
+2|설사를 해요.|Tôi bị tiêu chảy.|tiêu chảy=설사
+2|감기에 걸렸어요.|Tôi bị cảm.|cảm=감기
+2|어지러워요.|Tôi bị chóng mặt.|chóng mặt=어지러운
+2|저는 땅콩 알레르기가 있어요.|Tôi bị dị ứng lạc.|dị ứng=알레르기; lạc=땅콩(북부)|남부는 đậu phộng
+2|진통제 있어요?|Có thuốc giảm đau không?|thuốc=약; giảm đau=진통
+2|하루에 몇 번 먹어요?|Một ngày uống mấy lần?|uống=마시다(약을 먹다); lần=번
+2|식후에 드세요.|Uống sau khi ăn.|sau khi=~한 후
+3|어제부터 계속 아팠어요.|Tôi bị đau từ hôm qua.|từ=~부터; hôm qua=어제
+3|영어 하는 의사 있어요?|Có bác sĩ nói tiếng Anh không?|bác sĩ=의사; tiếng Anh=영어
+3|여행자 보험이 있어요.|Tôi có bảo hiểm du lịch.|bảo hiểm=보험; du lịch=여행
+3|지갑을 잃어버렸어요.|Tôi bị mất ví.|mất=잃다; ví=지갑
+3|휴대폰을 도둑맞았어요.|Tôi bị trộm điện thoại.|trộm=훔치다; điện thoại=휴대폰
+3|한국 대사관에 연락해 주세요.|Liên lạc với Đại sứ quán Hàn Quốc giúp tôi.|đại sứ quán=대사관
+3|여기를 다쳤어요.|Tôi bị thương ở đây.|bị thương=다치다
+
+@travel
+1|사진 좀 찍어 주시겠어요?|Chụp ảnh giúp tôi được không?|chụp ảnh=사진 찍다(북부)|남부는 chụp hình
+1|여기서 사진 찍어도 돼요?|Ở đây chụp ảnh được không?|chụp ảnh=사진 찍다
+1|입장료가 얼마예요?|Vé vào cửa bao nhiêu?|vé=표; vào cửa=입장
+1|표 두 장 주세요.|Cho tôi hai vé.|vé=표
+1|정말 아름다워요!|Đẹp quá!|đẹp=아름다운
+2|몇 시에 문 열어요?|Mấy giờ mở cửa?|mở cửa=문 열다
+2|몇 시에 문 닫아요?|Mấy giờ đóng cửa?|đóng cửa=문 닫다
+2|이 근처에 가 볼 만한 곳 있어요?|Gần đây có chỗ nào đáng đi không?|gần đây=이 근처; chỗ=장소; đáng=~할 만한
+2|하롱베이 투어를 예약하고 싶어요.|Tôi muốn đặt tour Vịnh Hạ Long.|đặt=예약하다; vịnh=만(灣)
+2|투어에 점심 포함이에요?|Tour có bao gồm ăn trưa không?|bao gồm=포함하다; ăn trưa=점심
+2|몇 시에 출발해요?|Mấy giờ xuất phát?|xuất phát=출발하다
+2|여기 유명한 음식이 뭐예요?|Ở đây món gì nổi tiếng?|món=요리; nổi tiếng=유명한
+2|야시장이 어디예요?|Chợ đêm ở đâu?|chợ=시장; đêm=밤
+2|마사지 한 시간에 얼마예요?|Mát-xa một tiếng bao nhiêu?|mát-xa=마사지; tiếng=시간(1시간)
+2|조금 더 세게 해 주세요.|Mạnh hơn một chút.|mạnh=센; hơn=더
+2|조금 더 약하게요.|Nhẹ hơn một chút.|nhẹ=약한·가벼운
+2|여기 경치 정말 좋네요.|Phong cảnh ở đây đẹp thật.|phong cảnh=경치
+3|현지인들이 자주 가는 식당 좀 추천해 주세요.|Giới thiệu cho tôi quán ăn mà người địa phương hay đến nhé.|giới thiệu=소개하다; quán ăn=식당; địa phương=현지; hay=자주
+3|반나절이면 어디 가는 게 좋아요?|Đi nửa ngày thì nên đi đâu?|nửa ngày=반나절; nên=~하는 게 좋다
+3|환전소가 어디예요?|Chỗ đổi tiền ở đâu?|đổi tiền=환전하다
+3|오늘 환율이 어떻게 돼요?|Tỷ giá hôm nay là bao nhiêu?|tỷ giá=환율
+3|날씨 때문에 투어가 취소됐어요.|Tour bị hủy vì thời tiết.|hủy=취소하다; vì=~때문에; thời tiết=날씨
+3|다음에 꼭 다시 오고 싶어요.|Lần sau tôi nhất định muốn quay lại.|nhất định=꼭; quay lại=돌아오다
+3|기념품은 어디서 사는 게 좋아요?|Mua quà lưu niệm ở đâu thì tốt?|quà lưu niệm=기념품
+
+@trouble
+1|도와주실 수 있어요?|Anh giúp tôi được không?|giúp=돕다
+1|영어 하세요?|Anh nói tiếng Anh được không?|tiếng Anh=영어
+1|문제가 있어요.|Có vấn đề.|vấn đề=문제
+1|저 지금 급해요.|Tôi đang vội.|vội=급한
+2|이거 어떻게 써요?|Cái này dùng thế nào?|dùng=사용하다; thế nào=어떻게
+2|글로 써 주실 수 있어요?|Anh viết ra giúp tôi được không?|viết=쓰다; ra=밖으로(써내다)
+2|번역 앱 써도 될까요?|Tôi dùng app dịch được không?|dịch=번역하다
+2|제 말 이해하셨어요?|Anh hiểu ý tôi không?|hiểu=이해하다; ý=뜻
+2|오해가 있었던 것 같아요.|Hình như có sự hiểu lầm.|hình như=~인 것 같다; hiểu lầm=오해하다
+2|제 잘못이에요.|Là lỗi của tôi.|lỗi=잘못
+2|걱정 마세요, 괜찮아요.|Đừng lo, không sao đâu.|đừng=~하지 마세요; lo=걱정하다; không sao=괜찮다
+2|고장 났어요.|Nó bị hỏng rồi.|hỏng=고장 나다(북부)|남부는 hư
+2|충전기 좀 빌려주실 수 있어요?|Cho tôi mượn sạc được không?|mượn=빌리다; sạc=충전기
+2|비밀번호를 잊어버렸어요.|Tôi quên mật khẩu.|quên=잊다; mật khẩu=비밀번호
+3|생각했던 것과 달라요.|Không giống như tôi nghĩ.|giống=같은·닮은; như=~처럼; nghĩ=생각하다
+3|매니저와 이야기하고 싶어요.|Tôi muốn nói chuyện với quản lý.|quản lý=관리자
+3|처음에 말씀하신 가격과 달라요.|Giá khác với lúc đầu anh nói.|giá=가격; khác với=~와 다르다; lúc đầu=처음에
+3|돈을 두 번 냈어요.|Tôi đã trả tiền hai lần.|trả tiền=돈을 내다; hai lần=두 번
+3|언제쯤 해결될까요?|Khoảng bao giờ thì giải quyết được?|khoảng=약; bao giờ=언제; giải quyết=해결하다
+3|다른 방법은 없을까요?|Có cách nào khác không?|cách=방법; khác=다른
+3|제가 대신 해 드릴게요.|Để tôi làm giúp anh.|làm giúp=대신 해 주다
+3|부담 갖지 마세요.|Anh đừng ngại nhé.|ngại=부담스러워하다·꺼리다
+3|그렇게 해 주시면 정말 감사하겠습니다.|Nếu anh làm vậy thì tôi rất biết ơn.|nếu ... thì=만약 ~라면; vậy=그렇게; biết ơn=고마워하다
+3|잠시만 기다려 주시겠어요?|Anh chờ tôi một lát được không?|chờ=기다리다; một lát=잠시
+3|분명히 예약했어요.|Tôi chắc chắn đã đặt rồi.|chắc chắn=확실히; đặt=예약하다
