@@ -1,0 +1,52 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 사무실 생활·동료·전화·메일
+@work
+3|오늘 출근했어요?|Hôm nay anh có đi làm không?|đi làm=출근하다
+3|오늘 야근해요.|Hôm nay tôi phải làm thêm giờ.|làm thêm giờ=야근하다
+3|점심 같이 먹을래요?|Đi ăn trưa cùng không?|ăn trưa=점심 먹다
+3|회의 중이에요.|Tôi đang họp.|họp=회의하다
+3|잠깐 통화 가능하세요?|Anh có tiện nghe máy một chút không?|nghe máy=전화를 받다
+3|나중에 다시 전화드릴게요.|Tôi sẽ gọi lại cho anh sau.|gọi lại=다시 전화하다
+3|누구시라고 전해 드릴까요?|Xin hỏi ai đang gọi ạ?|
+3|김 부장님 계세요?|Cho tôi gặp anh Kim trưởng phòng.|trưởng phòng=부장
+3|지금 자리에 안 계세요.|Anh ấy không có ở chỗ ngồi.|chỗ ngồi=자리
+3|파일 보내 드렸어요.|Tôi đã gửi file cho anh rồi.|
+3|첨부 파일이 안 열려요.|File đính kèm không mở được.|đính kèm=첨부하다
+3|휴가 냈어요.|Tôi xin nghỉ phép rồi.|nghỉ phép=휴가 내다
+3|내일 재택근무해요.|Mai tôi làm việc ở nhà.|mai=내일
+3|프린터가 또 고장 났어요.|Máy in lại hỏng rồi.|máy in=프린터; lại=또
+4|이번 주 금요일까지 끝내야 해요.|Phải xong trước thứ Sáu tuần này.|xong=끝나다
+4|마감에 맞출 수 있을지 모르겠어요.|Tôi không chắc có kịp hạn không.|chắc=확실한; kịp=제때 하다
+4|조금만 도와줄 수 있어요?|Anh giúp tôi một tay được không?|giúp một tay=거들다
+4|제가 대신 처리할게요.|Để tôi làm thay cho.|làm thay=대신 하다
+4|이 일은 누구 담당이에요?|Việc này ai phụ trách?|
+4|부장님께 결재를 받아야 해요.|Phải xin chữ ký của trưởng phòng.|xin chữ ký=결재를 받다
+4|보고서를 수정해서 다시 올렸어요.|Tôi đã sửa báo cáo và nộp lại.|nộp lại=다시 제출하다
+4|오늘 회의 몇 시로 바뀌었어요?|Cuộc họp hôm nay đổi sang mấy giờ?|đổi sang=~로 바꾸다
+4|회의가 길어져서 점심을 못 먹었어요.|Họp kéo dài nên tôi chưa ăn trưa.|kéo dài=길어지다
+4|새로 온 직원을 소개합니다.|Xin giới thiệu nhân viên mới.|
+4|환영 회식이 금요일에 있어요.|Thứ Sáu có tiệc chào mừng.|tiệc=파티·회식; chào mừng=환영하다
+4|오늘 회식에 참석하세요?|Hôm nay anh có đi liên hoan không?|liên hoan=회식
+4|요즘 업무량이 너무 많아요.|Dạo này khối lượng công việc nhiều quá.|khối lượng=양
+4|이번 분기 목표를 달성했어요.|Chúng ta đã đạt chỉ tiêu quý này.|chỉ tiêu=목표치
+4|승진 축하드려요!|Chúc mừng anh được thăng chức!|thăng chức=승진하다
+4|다음 달에 다른 부서로 옮겨요.|Tháng sau tôi chuyển sang phòng khác.|
+4|연봉 협상을 해야 해요.|Tôi phải đàm phán lương.|
+4|퇴사하기로 했어요.|Tôi đã quyết định nghỉ việc.|nghỉ việc=퇴사하다
+4|이직 준비를 하고 있어요.|Tôi đang chuẩn bị chuyển việc.|chuyển việc=이직하다
+4|면접을 봤어요.|Tôi đã đi phỏng vấn.|phỏng vấn=면접
+4|합격 연락을 받았어요.|Tôi nhận được thông báo trúng tuyển.|thông báo=통지; trúng tuyển=합격하다
+4|수습 기간은 두 달이에요.|Thời gian thử việc là hai tháng.|thử việc=수습
+4|출장 다녀왔어요.|Tôi vừa đi công tác về.|
+4|출장비 정산을 해야 해요.|Tôi phải quyết toán công tác phí.|quyết toán=정산하다; công tác phí=출장비
+4|베트남 동료들과 일하는 게 즐거워요.|Tôi thấy vui khi làm việc với đồng nghiệp Việt Nam.|đồng nghiệp=동료
+4|여기는 점심시간 후에 낮잠을 자요.|Ở đây mọi người ngủ trưa sau giờ ăn.|ngủ trưa=낮잠 자다
+5|일과 삶의 균형을 지키는 게 쉽지 않아요.|Giữ cân bằng giữa công việc và cuộc sống không dễ.|
+5|좋은 상사는 문제를 해결해 주는 사람이에요.|Sếp tốt là người giúp giải quyết vấn đề.|sếp=상사
+5|칭찬은 공개적으로, 지적은 따로 하는 게 좋아요.|Khen thì nên khen công khai, góp ý thì nên nói riêng.|công khai=공개적으로; góp ý=의견을 주다
+5|베트남에서는 체면을 중요하게 생각하니까 직접적인 비판은 조심해야 해요.|Ở Việt Nam người ta coi trọng thể diện nên phải cẩn thận khi phê bình trực tiếp.|thể diện=체면; phê bình=비판하다; trực tiếp=직접적으로
+5|관계를 먼저 쌓아야 일이 잘 풀려요.|Phải xây dựng quan hệ trước thì công việc mới suôn sẻ.|suôn sẻ=순조로운
+5|업무 지시는 구체적일수록 좋아요.|Giao việc càng cụ thể càng tốt.|giao việc=업무를 맡기다; càng...càng=~할수록 ~하다
+5|실수를 숨기기보다 빨리 공유하는 게 낫습니다.|Thà chia sẻ sai sót sớm còn hơn che giấu.|thà...còn hơn=~하느니 차라리; sai sót=실수; che giấu=숨기다
+5|성과보다 과정을 인정해 주는 문화가 필요해요.|Cần có văn hóa ghi nhận cả quá trình chứ không chỉ kết quả.|ghi nhận=인정하다
+5|회의가 많다고 일이 잘 되는 건 아니에요.|Họp nhiều không có nghĩa là làm việc hiệu quả.|có nghĩa là=~을 의미하다
+5|서로 다른 문화를 이해하려는 노력이 협업의 출발점이에요.|Nỗ lực hiểu văn hóa của nhau là điểm khởi đầu của hợp tác.|nỗ lực=노력

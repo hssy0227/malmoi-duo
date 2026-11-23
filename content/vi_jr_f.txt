@@ -1,0 +1,52 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 칼럼·분석 문장 (원인·전망·평가)
+@econ
+5|이번 반등이 추세 전환인지는 아직 판단하기 이르다.|Còn quá sớm để đánh giá đợt phục hồi này có phải là sự đảo chiều xu hướng hay không.|đợt=차례; đảo chiều=반전; xu hướng=추세
+5|숫자만 보면 좋아 보이지만 속을 들여다보면 다르다.|Nhìn con số thì có vẻ khả quan, nhưng xem kỹ thì câu chuyện lại khác.|có vẻ=~해 보이다
+5|시장이 과잉 반응하고 있다는 분석이 지배적이다.|Nhiều phân tích cho rằng thị trường đang phản ứng thái quá.|phản ứng=반응하다; thái quá=지나친
+5|문제는 속도가 아니라 방향이다.|Vấn đề không phải là tốc độ mà là hướng đi.|hướng đi=방향
+5|단기 처방이 장기 문제를 키울 수 있다.|Giải pháp tình thế có thể làm vấn đề dài hạn trầm trọng hơn.|giải pháp tình thế=임시방편; trầm trọng=심각한
+5|결국 관건은 소비자들이 지갑을 여느냐다.|Rốt cuộc, mấu chốt là người tiêu dùng có chịu mở hầu bao hay không.|rốt cuộc=결국; mấu chốt=관건; hầu bao=지갑
+5|성장의 과실이 고르게 나뉘지 않으면 사회적 갈등이 커진다.|Nếu thành quả tăng trưởng không được chia đều, mâu thuẫn xã hội sẽ gia tăng.|chia đều=고르게 나누다; mâu thuẫn=갈등
+5|비용은 즉각적이지만 효과는 시간이 걸린다.|Chi phí thì phải trả ngay, còn hiệu quả cần có thời gian.|
+5|낙관론과 비관론이 팽팽히 맞서고 있다.|Quan điểm lạc quan và bi quan đang giằng co.|bi quan=비관적인; giằng co=팽팽히 맞서다
+5|모두가 같은 방향에 베팅할 때가 가장 위험하다.|Nguy hiểm nhất là khi tất cả cùng đặt cược vào một hướng.|đặt cược=베팅하다
+5|위기는 준비된 사람에게만 기회가 된다.|Khủng hoảng chỉ là cơ hội đối với người đã chuẩn bị sẵn sàng.|sẵn sàng=준비된
+5|저렴한 노동력의 시대는 끝나 가고 있다.|Thời kỳ lao động giá rẻ đang dần khép lại.|thời kỳ=시기; khép lại=끝나다
+5|규모의 성장에서 질적 성장으로 패러다임을 바꿔야 한다.|Cần chuyển đổi mô hình từ tăng trưởng theo chiều rộng sang chiều sâu.|chiều rộng=양적(넓이); chiều sâu=질적(깊이)
+5|외국인 투자의 양보다 질을 따져야 할 때다.|Đã đến lúc phải chú trọng chất lượng hơn số lượng vốn FDI.|chú trọng=중시하다
+5|금융 시장의 신뢰는 한번 무너지면 회복하기 어렵다.|Niềm tin trên thị trường tài chính một khi đã mất thì rất khó lấy lại.|tài chính=금융; một khi=일단; lấy lại=되찾다
+5|민간 기업이 성장해야 경제가 건강해진다.|Kinh tế tư nhân có lớn mạnh thì nền kinh tế mới khỏe mạnh.|lớn mạnh=강해지다
+5|규제는 줄이되 감독은 강화해야 한다.|Cần giảm bớt giấy phép con nhưng tăng cường giám sát.|giấy phép con=부수적 인허가; giám sát=감독하다
+5|기업의 어려움은 자금보다 절차에서 온다.|Khó khăn của doanh nghiệp đến từ thủ tục hơn là từ vốn.|
+@society
+5|이 문제는 세대 갈등이 아니라 분배의 문제다.|Đây không phải xung đột thế hệ mà là vấn đề phân phối.|xung đột=충돌; thế hệ=세대
+5|정책은 발표보다 실행이 더 중요하다.|Chính sách quan trọng ở khâu thực thi hơn là ban hành.|khâu=단계; thực thi=실행
+5|모두를 만족시키려는 정책은 아무도 만족시키지 못한다.|Chính sách muốn làm hài lòng tất cả sẽ chẳng làm hài lòng ai.|hài lòng=만족하다
+5|개혁은 늘 저항에 부딪히지만 하지 않는 비용이 더 크다.|Cải cách luôn gặp lực cản, nhưng cái giá của việc không cải cách còn lớn hơn.|lực cản=저항; cái giá=대가
+5|사회적 신뢰는 가장 저평가된 국가 자산이다.|Niềm tin xã hội là tài sản quốc gia bị đánh giá thấp nhất.|tài sản=자산; đánh giá thấp=저평가하다
+5|진짜 문제는 정보의 부족이 아니라 신뢰의 부족이다.|Vấn đề thực sự không phải thiếu thông tin mà là thiếu niềm tin.|thực sự=진정한
+5|인구 감소는 피할 수 없지만 대응 방식은 선택할 수 있다.|Suy giảm dân số là không thể tránh, nhưng cách ứng phó thì có thể lựa chọn.|ứng phó=대응하다
+5|위기 때 드러나는 것은 제도의 유연성이다.|Điều bộc lộ trong khủng hoảng là sự linh hoạt của thể chế.|bộc lộ=드러나다; linh hoạt=유연한
+5|도시 개발은 사람을 중심에 두어야 한다.|Phát triển đô thị phải lấy con người làm trung tâm.|
+5|여론의 압력이 정책 결정을 앞당겼다.|Áp lực dư luận đã thúc đẩy việc ra quyết định chính sách nhanh hơn.|thúc đẩy=촉진하다
+5|국제 협력은 이상이 아니라 현실적 필요다.|Hợp tác quốc tế không phải lý tưởng mà là nhu cầu thực tế.|lý tưởng=이상
+5|외교적 수사 뒤에 숨은 이해관계를 봐야 한다.|Cần nhìn ra lợi ích ẩn sau những lời lẽ ngoại giao.|ẩn=숨겨진; lời lẽ=말·수사
+5|강대국 사이에서 균형을 잡는 것이 베트남 외교의 핵심이다.|Giữ cân bằng giữa các nước lớn là cốt lõi trong đối ngoại của Việt Nam.|
+5|공정한 경쟁의 규칙이 무너지면 시장도 무너진다.|Khi luật chơi cạnh tranh công bằng bị phá vỡ, thị trường cũng sụp đổ.|luật chơi=게임의 규칙; phá vỡ=깨뜨리다; sụp đổ=무너지다
+5|청년들이 미래를 낙관할 수 있어야 사회가 활력을 갖는다.|Xã hội chỉ có sức sống khi người trẻ có thể lạc quan về tương lai.|sức sống=활력; tương lai=미래
+@tech
+5|기술이 문제를 해결한다는 믿음은 종종 과장된다.|Niềm tin rằng công nghệ sẽ giải quyết mọi vấn đề thường bị thổi phồng.|thổi phồng=과장하다
+5|혁신의 속도만큼 중요한 것은 사회가 그것을 흡수하는 속도다.|Quan trọng không kém tốc độ đổi mới là tốc độ xã hội tiếp nhận nó.|không kém=못지않게; tiếp nhận=받아들이다
+5|AI를 둘러싼 과장과 공포 사이에서 균형 잡힌 시각이 필요하다.|Cần một cái nhìn cân bằng giữa sự cường điệu và nỗi sợ về AI.|cái nhìn=시각; cường điệu=과장; nỗi sợ=두려움
+5|결국 신뢰를 얻는 기업이 데이터를 얻는다.|Rốt cuộc, doanh nghiệp nào có được niềm tin thì sẽ có được dữ liệu.|
+5|자동화는 일자리를 없애는 동시에 새로운 일자리를 만든다.|Tự động hóa vừa xóa bỏ việc làm vừa tạo ra việc làm mới.|xóa bỏ=없애다
+5|모두가 같은 AI를 쓰면 차별화는 어디서 오는가?|Nếu ai cũng dùng cùng một AI thì sự khác biệt đến từ đâu?|
+5|기술의 혜택이 소수에게 집중되면 반발은 불가피하다.|Nếu lợi ích công nghệ tập trung vào số ít, phản ứng ngược là điều khó tránh.|tập trung=집중되다; số ít=소수; phản ứng ngược=반발
+5|중요한 것은 AI가 무엇을 할 수 있느냐가 아니라 무엇을 해야 하느냐다.|Điều quan trọng không phải AI có thể làm gì mà là AI nên làm gì.|
+@work
+5|원격 근무 논쟁의 본질은 통제와 신뢰다.|Bản chất của tranh luận về làm việc từ xa là kiểm soát và niềm tin.|bản chất=본질; tranh luận=논쟁
+5|리더의 메시지가 일관되지 않으면 조직은 멈춘다.|Khi thông điệp của lãnh đạo không nhất quán, tổ chức sẽ đứng yên.|thông điệp=메시지; tổ chức=조직; đứng yên=멈추다
+5|인재를 붙잡는 가장 확실한 방법은 성장의 기회다.|Cách chắc chắn nhất để giữ chân nhân tài là cơ hội phát triển.|chắc chắn=확실한
+5|많은 기업이 데이터는 쌓지만 결정은 감으로 한다.|Nhiều doanh nghiệp tích lũy dữ liệu nhưng vẫn ra quyết định theo cảm tính.|tích lũy=쌓다; cảm tính=감
+5|변화의 피로가 쌓이면 좋은 전략도 실패한다.|Khi sự mệt mỏi vì thay đổi tích tụ, chiến lược tốt cũng thất bại.|mệt mỏi=피로; tích tụ=쌓이다
+5|조직의 건강성은 나쁜 소식이 얼마나 빨리 위로 올라가는지로 알 수 있다.|Có thể đo sức khỏe tổ chức bằng tốc độ tin xấu được báo lên cấp trên.|đo=측정하다; tin xấu=나쁜 소식
