@@ -1,0 +1,38 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 교통·여행·호텔·길 찾기
+@travel
+3|그랩 불러 줄래요?|Gọi giúp tôi một chiếc Grab nhé.|chiếc=(차량 단위)
+3|여기서 세워 주세요.|Cho tôi dừng ở đây.|dừng=멈추다
+3|조금 더 가 주세요.|Đi thêm một chút nữa.|nữa=더
+3|천천히 가 주세요.|Anh đi chậm thôi.|
+3|가장 가까운 역이 어디예요?|Ga gần nhất ở đâu?|ga=역
+3|왼쪽으로 가세요.|Đi sang trái.|trái=왼쪽
+3|사거리에서 돌아요.|Đến ngã tư thì rẽ.|ngã tư=사거리
+3|예약했어요.|Tôi đã đặt phòng rồi.|đặt phòng=방을 예약하다
+3|체크아웃은 몇 시예요?|Mấy giờ phải trả phòng?|trả phòng=체크아웃하다
+3|짐 좀 맡겨도 될까요?|Tôi gửi hành lý được không?|gửi=맡기다; hành lý=짐
+3|조식은 몇 시부터예요?|Ăn sáng từ mấy giờ?|ăn sáng=아침 먹다
+3|기차표 두 장 주세요.|Cho tôi hai vé tàu.|vé=표; tàu=기차
+3|사파 가는 버스 있어요?|Có xe đi Sa Pa không?|xe=차·버스
+4|오토바이 택시 타 봤어요?|Anh đi xe ôm bao giờ chưa?|xe ôm=오토바이 택시
+4|하노이에서 길 건너는 건 요령이 있어요.|Qua đường ở Hà Nội cần có mẹo.|qua đường=길을 건너다; mẹo=요령
+4|천천히 일정한 속도로 걸으면 돼요.|Cứ đi chậm và đều là được.|đều=일정하게
+4|출퇴근 시간에는 차가 엄청 막혀요.|Giờ cao điểm đường tắc khủng khiếp.|giờ cao điểm=러시아워; khủng khiếp=끔찍한
+4|지하철을 타면 더 빨라요.|Đi tàu điện thì nhanh hơn.|tàu điện=전철
+4|비행기가 한 시간 지연됐어요.|Chuyến bay bị chậm một tiếng.|chuyến bay=항공편; tiếng=시간
+4|한국 대사관이 어디에 있어요?|Đại sứ quán Hàn Quốc ở đâu?|đại sứ quán=대사관
+4|방을 바꿔 주실 수 있어요?|Có thể đổi phòng cho tôi không?|
+4|하롱베이 투어를 예약하고 싶어요.|Tôi muốn đặt tour Hạ Long.|
+4|투어에 점심이 포함돼요?|Tour có bao gồm bữa trưa không?|bao gồm=포함하다; bữa trưa=점심
+4|사파는 계단식 논이 아름다워요.|Sa Pa có ruộng bậc thang rất đẹp.|ruộng bậc thang=계단식 논
+4|닌빈은 육지의 하롱베이라고 불려요.|Ninh Bình được gọi là Hạ Long trên cạn.|trên cạn=육지의
+4|구시가지에서 걸어서 다닐 수 있어요.|Ở phố cổ có thể đi bộ khắp nơi.|khắp nơi=곳곳
+4|기념품 살 만한 데 있어요?|Có chỗ nào mua quà lưu niệm không?|quà lưu niệm=기념품
+4|여기서 사진 찍어 주실 수 있어요?|Chụp giúp tôi một tấm ảnh được không?|chụp=찍다; tấm=장; ảnh=사진
+4|오늘 문 열어요?|Hôm nay có mở cửa không?|mở cửa=문을 열다
+4|오토바이를 빌리고 싶어요.|Tôi muốn thuê xe máy.|thuê=빌리다
+4|국제 운전면허증이 필요해요?|Có cần bằng lái quốc tế không?|bằng lái=운전면허증
+5|여행은 계획보다 예상치 못한 순간이 더 기억에 남아요.|Trong chuyến đi, những khoảnh khắc bất ngờ thường đáng nhớ hơn kế hoạch.|khoảnh khắc=순간; bất ngờ=뜻밖의; đáng nhớ=기억할 만한
+5|현지인처럼 골목길을 걸어 보는 걸 좋아해요.|Tôi thích lang thang trong ngõ nhỏ như người địa phương.|lang thang=거닐다; ngõ=골목
+5|하노이는 오래된 것과 새로운 것이 공존하는 도시예요.|Hà Nội là thành phố nơi cái cũ và cái mới cùng tồn tại.|cái cũ=옛것; cùng tồn tại=공존하다
+5|성수기를 피하면 훨씬 여유롭게 여행할 수 있어요.|Tránh mùa cao điểm thì đi du lịch thoải mái hơn nhiều.|mùa cao điểm=성수기; thoải mái=편안한
+5|출장 겸 여행으로 다낭에 다녀왔어요.|Tôi đi Đà Nẵng vừa công tác vừa du lịch.|công tác=출장

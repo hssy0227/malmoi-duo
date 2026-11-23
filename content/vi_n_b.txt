@@ -1,0 +1,57 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 식당·음식·쇼핑·흥정
+@food
+3|두 명 자리 있어요?|Còn bàn cho hai người không?|bàn=테이블
+3|이 집에서 제일 잘하는 게 뭐예요?|Món ngon nhất ở đây là gì?|món=요리; ngon=맛있다
+3|이걸로 주세요.|Cho tôi món này.|
+3|고수는 빼 주세요.|Đừng cho rau mùi nhé.|đừng=~하지 마라; rau mùi=고수
+3|너무 맵지 않게 해 주세요.|Làm ít cay thôi nhé.|ít=적게; cay=맵다
+3|얼음 넣지 마세요.|Không cho đá nhé.|đá=얼음
+3|맥주 두 병 더 주세요.|Cho thêm hai chai bia.|chai=병; bia=맥주
+3|계산서 주세요.|Cho tôi thanh toán.|
+3|제가 살게요.|Để tôi mời.|mời=대접하다
+3|아직 안 나왔어요.|Món của tôi chưa ra.|ra=나오다
+3|정말 맛있었어요.|Ngon lắm.|
+3|분짜 먹어 봤어요?|Anh ăn bún chả bao giờ chưa?|bún chả=분짜; bao giờ chưa=~해 본 적 있어요?
+3|하노이에서는 아침으로 쌀국수를 먹어요.|Ở Hà Nội người ta ăn phở vào bữa sáng.|người ta=사람들; bữa sáng=아침 식사
+3|에그 커피 마셔 보세요.|Anh thử uống cà phê trứng đi.|thử=시도하다; trứng=달걀
+3|길거리 음식이 정말 싸고 맛있어요.|Đồ ăn đường phố vừa rẻ vừa ngon.|đường phố=길거리; rẻ=싸다
+4|이 가게는 항상 사람이 많아요.|Quán này lúc nào cũng đông khách.|quán=가게; lúc nào cũng=항상; đông khách=손님이 많다
+4|조금 기다려야 할 것 같아요.|Chắc phải chờ một lúc.|một lúc=잠시
+4|이 요리에는 뭐가 들어가요?|Món này có những gì?|
+4|채식 메뉴가 있나요?|Ở đây có món chay không?|món chay=채식 요리
+4|국물이 정말 깊어요.|Nước dùng đậm đà quá.|nước dùng=국물; đậm đà=진한
+4|베트남 음식은 생각보다 덜 매워요.|Đồ ăn Việt ít cay hơn tôi nghĩ.|
+4|느억맘 소스에 찍어 먹어요.|Chấm với nước mắm.|chấm=찍다; nước mắm=느억맘(생선 소스)
+4|하노이식 쌀국수는 국물이 맑아요.|Phở Hà Nội có nước dùng trong.|trong=맑은
+4|여기는 현지인들이 많이 오는 곳이에요.|Đây là chỗ người dân địa phương hay đến.|chỗ=장소
+4|배달시켜 먹을까요?|Mình đặt đồ ăn về nhé?|đặt đồ ăn=음식을 주문하다
+4|오늘 저녁은 집에서 해 먹어요.|Tối nay mình nấu ở nhà.|nấu=요리하다
+4|시장에서 채소를 사 왔어요.|Tôi vừa đi chợ mua rau.|đi chợ=장 보다; rau=채소
+4|이 과일 이름이 뭐예요?|Quả này tên là gì?|quả=과일; tên=이름
+4|망고가 제철이에요.|Đang mùa xoài.|mùa=제철; xoài=망고
+4|맛이 좀 싱거워요.|Hơi nhạt.|nhạt=싱거운
+4|너무 달아요.|Ngọt quá.|ngọt=달다
+5|음식은 그 나라의 문화를 가장 쉽게 이해하는 방법이에요.|Ẩm thực là cách dễ nhất để hiểu văn hóa một đất nước.|ẩm thực=음식 문화; đất nước=나라
+5|북부 음식은 남부 음식보다 덜 달아요.|Món ăn miền Bắc ít ngọt hơn miền Nam.|miền Nam=남부
+5|하노이 사람들은 식재료의 신선함을 중요하게 생각해요.|Người Hà Nội rất coi trọng sự tươi ngon của nguyên liệu.|tươi ngon=신선한
+@shop
+3|좀 깎아 주세요.|Bớt cho tôi một chút.|bớt=깎다
+3|카드 돼요?|Có nhận thẻ không?|nhận=받다; thẻ=카드
+3|현금밖에 없어요.|Tôi chỉ có tiền mặt.|chỉ=오직
+3|거스름돈 주세요.|Trả lại tiền thừa cho tôi.|tiền thừa=거스름돈
+3|봉투 하나 주세요.|Cho tôi một cái túi.|túi=봉투
+3|다음에 올게요.|Lần sau tôi quay lại.|quay lại=다시 오다
+4|두 개 사면 더 싸게 해 주실 수 있어요?|Mua hai cái thì có bớt thêm không?|
+4|이 가격이 마지막이에요?|Giá này là giá cuối rồi à?|
+4|저쪽 가게는 더 싸던데요.|Hàng bên kia rẻ hơn mà.|hàng=가게; bên kia=저쪽
+4|품질이 좋아 보이네요.|Trông chất lượng tốt đấy.|trông=보이다
+4|환불할 수 있어요?|Có hoàn tiền được không?|hoàn tiền=환불하다
+4|영수증 없으면 교환이 안 돼요.|Không có hóa đơn thì không đổi được.|
+4|온라인으로 주문했는데 아직 안 왔어요.|Tôi đặt hàng online mà chưa nhận được.|đặt hàng=주문하다
+4|배송이 며칠 걸려요?|Giao hàng mất mấy ngày?|mấy ngày=며칠
+4|무료 배송이에요?|Có miễn phí vận chuyển không?|
+4|세일 언제까지예요?|Khuyến mãi đến bao giờ?|đến bao giờ=언제까지
+4|하노이 동쑤언 시장에 가 봤어요?|Anh đi chợ Đồng Xuân bao giờ chưa?|
+5|시장에서는 흥정하는 게 문화의 일부예요.|Ở chợ, mặc cả là một phần của văn hóa.|mặc cả=흥정하다; một phần=일부
+5|싼 게 비지떡이라는 말이 있잖아요.|Người ta bảo của rẻ là của ôi mà.|của rẻ là của ôi=싼 게 비지떡(속담)
+5|요즘은 물건을 사기 전에 리뷰를 꼭 확인해요.|Dạo này trước khi mua gì tôi đều xem đánh giá.|đánh giá=리뷰
