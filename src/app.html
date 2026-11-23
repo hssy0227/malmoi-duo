@@ -135,6 +135,7 @@ h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
 .opt.qt .qx{margin-left:auto;font-size:12px;font-weight:600;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .resume{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:12px}
 .prog .btn.sm{min-height:30px;padding:0 10px;font-size:12.5px}
+.prog .qexit{background:var(--amb);color:var(--am);border-color:var(--am);font-weight:700}
 .qp{font-size:13px;color:var(--mut);margin-bottom:6px}
 .cloze{font-size:clamp(20px,5.6vw,26px);font-weight:700;line-height:1.4;color:var(--am)}
 .cloze u{text-decoration:none;border-bottom:2px solid var(--am);padding:0 .6em;color:transparent}
@@ -566,7 +567,7 @@ function vQuiz(){
   else prompt=`<div class="cloze">${esc(q.cz.pre)}${done?`<span style="border-bottom:2px solid var(--am)">${esc(q.cz.term)}</span>`:"<u>____</u>"}${esc(q.cz.post)}</div><div class="hint" style="margin-top:8px">${esc(it.k)}</div>`;
   const opts=q.opts.map((o,i)=>{let c="";if(done){if(o===q.ans)c="ok";else if(i===QS.pick)c="ng";else c="fd"}return `<button class="opt ${c}" data-act="qpick" data-i="${i}" ${done?"disabled":""}>${esc(o)}</button>`}).join("");
   const after=done?`<div class="qafter">${t!=="m"&&t!=="l"?sayBtns(it.t):""}${t!=="c"?`<div class="sm"><b>${esc(it.t)}</b> — <span class="mut">${esc(it.k)}</span></div>`:""}${detailHTML(L,it)}</div><button class="btn pri blk" style="margin-top:14px" data-act="qnext">${QS.i+1<QS.qs.length?"다음":"결과 보기"}</button>`:"";
-  return `<div class="prog"><button class="btn sm" data-act="qexit">나가기</button><span>${QS.type==="r"?'<span class="rnd">랜덤 · </span>':""}${QT[t]}</span><div class="bar"><i style="width:${Math.round(QS.i/QS.qs.length*100)}%"></i></div><span>${QS.i+1} / ${QS.qs.length} · 정답 ${QS.ok}</span></div>
+  return `<div class="prog"><button class="btn sm qexit" data-act="qexit">나가기</button><span>${QS.type==="r"?'<span class="rnd">랜덤 · </span>':""}${QT[t]}</span><div class="bar"><i style="width:${Math.round(QS.i/QS.qs.length*100)}%"></i></div><span>${QS.i+1} / ${QS.qs.length} · 정답 ${QS.ok}</span></div>
   <div class="fc qfc"><div class="qp">${esc(CAT[it.c])} · ${lvTag(it.l)}</div><div class="qprompt">${prompt}</div><div class="opts">${opts}</div>${after}</div>`;
 }
 function qpick(i){
