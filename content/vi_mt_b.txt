@@ -1,0 +1,62 @@
+# 비즈니스 미팅 베트남어 (직접 작성, 북부 표준) — 협상·계약·파트너·영업
+@work
+3|저희 회사를 소개해 드리겠습니다.|Tôi xin giới thiệu về công ty chúng tôi.|chúng tôi=저희(청자 제외)
+3|저희는 에너지 회사입니다.|Chúng tôi là một công ty năng lượng.|
+3|가격이 얼마예요?|Giá bao nhiêu ạ?|bao nhiêu=얼마
+3|견적서를 보내 주시겠어요?|Anh có thể gửi báo giá cho tôi không?|báo giá=견적서
+3|샘플을 받을 수 있을까요?|Chúng tôi có thể nhận mẫu thử không?|mẫu thử=샘플
+3|납기가 언제예요?|Thời gian giao hàng là khi nào?|
+3|계약서를 검토하겠습니다.|Chúng tôi sẽ xem xét hợp đồng.|
+3|조금 더 생각해 보겠습니다.|Chúng tôi xin suy nghĩ thêm.|suy nghĩ=생각하다
+3|좋은 조건이네요.|Điều kiện khá tốt.|điều kiện=조건; khá=꽤
+4|귀사와 협력할 수 있게 되어 기쁩니다.|Chúng tôi rất vui được hợp tác với quý công ty.|quý công ty=귀사
+4|저희 제품의 강점은 품질과 가격입니다.|Thế mạnh của sản phẩm chúng tôi là chất lượng và giá cả.|thế mạnh=강점; sản phẩm=제품
+4|현재 베트남에 몇 개의 고객사가 있습니다.|Hiện chúng tôi có một số khách hàng tại Việt Nam.|
+4|가격을 조금 낮춰 주실 수 있나요?|Anh có thể giảm giá một chút được không?|giảm giá=가격을 낮추다
+4|주문량이 많으면 할인해 드릴 수 있습니다.|Nếu đặt số lượng lớn, chúng tôi có thể chiết khấu.|đặt=주문하다; số lượng=수량; chiết khấu=할인하다
+4|그 가격은 저희 예산을 넘습니다.|Mức giá đó vượt quá ngân sách của chúng tôi.|vượt quá=초과하다
+4|결제 조건은 어떻게 되나요?|Điều khoản thanh toán như thế nào ạ?|điều khoản=조항
+4|선금 30%, 잔금은 납품 후에 드리겠습니다.|Chúng tôi trả trước 30%, phần còn lại sau khi giao hàng.|trả trước=선불하다; phần còn lại=나머지
+4|운송비는 누가 부담하나요?|Ai chịu chi phí vận chuyển?|chịu=부담하다
+4|계약 기간은 3년으로 하죠.|Thời hạn hợp đồng là ba năm nhé.|thời hạn=기간
+4|이 조항은 수정이 필요합니다.|Điều khoản này cần được sửa đổi.|sửa đổi=수정하다
+4|법무팀 검토 후에 서명하겠습니다.|Chúng tôi sẽ ký sau khi bộ phận pháp chế xem xét.|ký=서명하다; bộ phận=부서; pháp chế=법무
+4|이 부분은 양보하기 어렵습니다.|Phần này chúng tôi khó nhượng bộ.|nhượng bộ=양보하다
+4|서로 한 걸음씩 양보하면 어떨까요?|Hai bên cùng nhượng bộ một chút thì sao?|thì sao=~하면 어때요
+4|그 조건이면 받아들일 수 있습니다.|Với điều kiện đó, chúng tôi có thể chấp nhận.|chấp nhận=받아들이다
+4|최종 가격을 제안해 주세요.|Xin anh đưa ra mức giá cuối cùng.|cuối cùng=최종
+4|저희 제안을 검토해 주셔서 감사합니다.|Cảm ơn anh đã xem xét đề xuất của chúng tôi.|đề xuất=제안
+4|양해 각서를 먼저 체결하는 게 좋겠습니다.|Chúng ta nên ký biên bản ghi nhớ trước.|biên bản ghi nhớ=양해 각서(MOU)
+4|독점 판매권을 원하십니까?|Anh có muốn quyền phân phối độc quyền không?|quyền=권리; độc quyền=독점
+4|현지 파트너가 필요합니다.|Chúng tôi cần một đối tác địa phương.|địa phương=현지
+4|공장을 직접 방문하고 싶습니다.|Chúng tôi muốn trực tiếp đến thăm nhà máy.|đến thăm=방문하다
+4|다음 주에 하노이 사무실에서 뵙겠습니다.|Hẹn gặp anh tại văn phòng Hà Nội tuần sau.|hẹn gặp=만나기로 하다; văn phòng=사무실
+4|납기를 맞추지 못하면 위약금이 있습니다.|Nếu giao hàng chậm sẽ bị phạt hợp đồng.|bị phạt=벌금을 물다
+4|불량품은 무상으로 교환해 드립니다.|Hàng lỗi sẽ được đổi miễn phí.|hàng lỗi=불량품; miễn phí=무료
+4|시장 조사 결과를 공유해 주실 수 있나요?|Anh có thể chia sẻ kết quả nghiên cứu thị trường không?|
+4|이 제품은 베트남 시장에 맞게 바꿔야 합니다.|Sản phẩm này cần điều chỉnh cho phù hợp với thị trường Việt Nam.|phù hợp=적합하다
+4|인허가 절차가 얼마나 걸리나요?|Thủ tục cấp phép mất bao lâu?|cấp phép=인허가; mất=걸리다
+4|세금 문제는 회계사와 상의하겠습니다.|Vấn đề thuế chúng tôi sẽ trao đổi với kế toán.|trao đổi=상의하다; kế toán=회계사
+4|우선 시범적으로 소량 주문하겠습니다.|Trước mắt chúng tôi sẽ đặt thử một lượng nhỏ.|trước mắt=우선; đặt thử=시험 주문하다
+5|장기적인 파트너십을 바탕으로 윈윈하고 싶습니다.|Chúng tôi mong muốn hợp tác lâu dài trên tinh thần cùng có lợi.|lâu dài=장기적인; tinh thần=정신; cùng có lợi=상호 이익
+5|가격보다 안정적인 공급이 저희에게 더 중요합니다.|Với chúng tôi, nguồn cung ổn định quan trọng hơn giá cả.|
+5|신뢰가 쌓이면 거래 규모를 늘릴 수 있습니다.|Khi niềm tin được củng cố, chúng tôi có thể mở rộng quy mô giao dịch.|củng cố=공고히 하다; giao dịch=거래
+5|양측의 이익이 균형을 이루는 지점을 찾아야 합니다.|Chúng ta cần tìm điểm cân bằng lợi ích giữa hai bên.|lợi ích=이익
+5|계약서의 모호한 표현은 나중에 분쟁의 원인이 됩니다.|Những câu chữ mơ hồ trong hợp đồng sẽ là nguyên nhân tranh chấp sau này.|câu chữ=문구; mơ hồ=모호한; sau này=나중에
+5|이번 거래가 양사 협력의 첫걸음이 되길 바랍니다.|Hy vọng giao dịch này sẽ là bước đầu cho sự hợp tác giữa hai công ty.|hy vọng=희망하다; bước đầu=첫걸음
+5|저희 제안은 단순한 판매가 아니라 솔루션입니다.|Đề xuất của chúng tôi không chỉ là bán hàng mà là giải pháp.|không chỉ...mà=~뿐만 아니라; giải pháp=해결책
+5|현지 규정을 충분히 이해한 뒤 진행하는 게 안전합니다.|Sẽ an toàn hơn nếu tiến hành sau khi hiểu rõ quy định địa phương.|tiến hành=진행하다; quy định=규정
+5|가격 협상보다 리스크 분담을 먼저 정하죠.|Hãy thống nhất việc chia sẻ rủi ro trước khi đàm phán giá.|đàm phán=협상하다
+5|저희 경영진도 이 프로젝트에 큰 관심을 갖고 있습니다.|Ban lãnh đạo của chúng tôi rất quan tâm đến dự án này.|ban lãnh đạo=경영진; quan tâm=관심을 갖다
+@greet
+3|처음 뵙겠습니다.|Lần đầu được gặp anh.|lần đầu=처음
+3|오시는 길은 편하셨어요?|Anh đi đường có thuận lợi không?|đi đường=오는 길; thuận lợi=순조로운
+3|하노이는 처음이세요?|Anh đến Hà Nội lần đầu à?|à=(의문 어미)
+3|차 한잔 하시겠어요?|Anh dùng trà nhé?|dùng=드시다; trà=차
+3|베트남어 정말 잘하시네요.|Anh nói tiếng Việt giỏi quá.|giỏi=잘하다; quá=매우
+3|아니에요, 아직 많이 배워야 해요.|Không đâu, tôi còn phải học nhiều.|không đâu=아니에요
+4|저녁 식사 같이 하시죠.|Mời anh dùng bữa tối cùng chúng tôi.|bữa tối=저녁 식사; cùng=함께
+4|건배! 우리의 협력을 위하여!|Nâng ly! Vì sự hợp tác của chúng ta!|nâng ly=잔을 들다; vì=~을 위해
+4|다음에 한국에 오시면 연락 주세요.|Lần sau sang Hàn Quốc, anh nhớ liên lạc với tôi nhé.|sang=건너가다; nhớ=잊지 말고; liên lạc=연락하다
+4|안부 전해 주세요.|Cho tôi gửi lời hỏi thăm.|gửi lời hỏi thăm=안부를 전하다
+4|좋은 관계가 계속되길 바랍니다.|Mong quan hệ tốt đẹp của chúng ta sẽ tiếp tục.|tốt đẹp=좋은

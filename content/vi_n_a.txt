@@ -1,0 +1,58 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 안부·잡담·약속·날씨
+@daily
+1|잘 지내요?|Dạo này khỏe không?|dạo này=요즘; khỏe=건강하다
+1|잘 지내요.|Tôi vẫn khỏe.|vẫn=여전히
+2|요즘 어떻게 지내?|Dạo này cậu thế nào?|thế nào=어떻게
+2|그냥 그래요.|Cũng bình thường thôi.|bình thường=보통; thôi=~일 뿐
+2|요즘 좀 바빠요.|Dạo này hơi bận.|
+2|주말 잘 보냈어요?|Cuối tuần vui không?|vui=즐겁다
+2|뭐 했어요?|Anh đã làm gì?|làm=하다
+2|친구를 만났어요.|Tôi đi gặp bạn.|bạn=친구
+2|오늘 날씨 좋네요.|Hôm nay trời đẹp nhỉ.|trời=날씨; nhỉ=~네요
+2|우산 가져왔어요?|Anh có mang ô không?|mang=가져오다; ô=우산
+2|추워졌어요.|Trời trở lạnh rồi.|trở=변하다; lạnh=춥다
+2|하노이 겨울은 습하고 추워요.|Mùa đông Hà Nội vừa ẩm vừa lạnh.|mùa đông=겨울; ẩm=습한
+2|봄에는 이슬비가 자주 와요.|Mùa xuân hay có mưa phùn.|mùa xuân=봄; hay=자주; mưa phùn=이슬비
+3|주말에 시간 있어요?|Cuối tuần anh có rảnh không?|rảnh=한가하다
+3|같이 커피 마실래요?|Đi uống cà phê với tôi không?|uống=마시다
+3|호안끼엠 호수 근처에서 만나요.|Gặp nhau gần hồ Hoàn Kiếm nhé.|gần=근처; hồ=호수
+3|조금 늦을 것 같아요.|Chắc tôi sẽ đến muộn một chút.|chắc=아마; muộn=늦은
+3|미안, 차가 막혀서.|Xin lỗi, tắc đường quá.|xin lỗi=미안하다
+3|괜찮아요, 천천히 와요.|Không sao, cứ từ từ.|không sao=괜찮다; từ từ=천천히
+3|도착하면 전화해요.|Đến nơi thì gọi cho tôi nhé.|đến nơi=도착하다; gọi=전화하다
+3|오늘 약속 취소해도 될까요?|Hôm nay hủy hẹn được không?|hủy=취소하다; hẹn=약속
+3|다음에 다시 잡아요.|Để lần sau hẹn lại nhé.|lần sau=다음번
+3|요즘 뭐에 관심 있어요?|Dạo này anh quan tâm đến gì?|
+3|요즘 베트남어 공부하고 있어요.|Dạo này tôi đang học tiếng Việt.|đang=~하고 있다; học=공부하다
+3|어렵지만 재미있어요.|Khó nhưng thú vị.|khó=어려운; thú vị=재미있는
+3|성조가 제일 어려워요.|Thanh điệu là khó nhất.|thanh điệu=성조
+3|발음이 많이 좋아졌어요.|Phát âm của anh tiến bộ nhiều rồi.|phát âm=발음; tiến bộ=향상되다
+3|가족은 다 잘 지내요?|Gia đình anh vẫn khỏe chứ?|gia đình=가족; chứ=~지요?
+3|아이들은 몇 살이에요?|Các cháu mấy tuổi rồi?|cháu=(남의) 아이; tuổi=살
+3|베트남에 온 지 얼마나 됐어요?|Anh sang Việt Nam được bao lâu rồi?|
+3|이제 거의 1년 됐어요.|Đến giờ gần một năm rồi.|gần=거의
+3|베트남 생활은 어때요?|Cuộc sống ở Việt Nam thế nào?|cuộc sống=생활
+3|음식이 입에 잘 맞아요.|Đồ ăn rất hợp khẩu vị tôi.|hợp=맞다; khẩu vị=입맛
+3|좋은 하루 보내세요.|Chúc anh một ngày tốt lành.|chúc=기원하다; tốt lành=좋은
+3|주말 잘 보내세요!|Chúc cuối tuần vui vẻ!|vui vẻ=즐거운
+3|푹 쉬세요.|Nghỉ ngơi cho khỏe nhé.|
+3|조심히 가세요.|Đi cẩn thận nhé.|cẩn thận=조심하다
+4|요즘 일이 많아서 정신이 없어요.|Dạo này nhiều việc quá, tôi bận tối mắt tối mũi.|bận tối mắt tối mũi=정신없이 바쁘다
+4|퇴근하고 한잔할래요?|Tan làm đi làm vài cốc không?|tan làm=퇴근하다; vài cốc=몇 잔
+4|오늘은 좀 피곤해서 일찍 들어갈게요.|Hôm nay tôi hơi mệt nên về sớm.|mệt=피곤하다; về=돌아가다; sớm=일찍
+4|시간 가는 줄 몰랐네요.|Mải nói chuyện quên cả thời gian.|mải=몰두하다; nói chuyện=이야기하다; quên=잊다
+4|그 얘기 들었어요?|Anh nghe chuyện đó chưa?|chuyện=이야기
+4|그건 좀 아닌 것 같아요.|Tôi thấy như thế không ổn lắm.|như thế=그렇게; ổn=괜찮은
+4|다음 달에 고향에 다녀오려고요.|Tháng sau tôi định về quê.|định=~할 예정이다
+4|명절 때 차가 엄청 막혀요.|Dịp Tết đường tắc kinh khủng.|dịp=때; kinh khủng=엄청난
+4|요즘 운동을 시작했어요.|Dạo này tôi bắt đầu tập thể dục.|tập thể dục=운동하다
+4|아침마다 호숫가를 걸어요.|Sáng nào tôi cũng đi bộ quanh hồ.|sáng nào cũng=매일 아침; đi bộ=걷다; quanh=주변
+4|주말에 하롱베이에 놀러 가요.|Cuối tuần tôi đi chơi Hạ Long.|đi chơi=놀러 가다
+4|날씨가 좋으면 같이 가요.|Nếu trời đẹp thì đi cùng nhé.|
+4|요즘 하노이 공기가 너무 안 좋아요.|Dạo này không khí Hà Nội tệ quá.|tệ=나쁜
+4|마스크 쓰고 다니세요.|Anh nhớ đeo khẩu trang khi ra ngoài.|đeo=착용하다; khẩu trang=마스크; ra ngoài=외출하다
+5|바쁘게 살다 보니 친구들 만날 시간이 없어요.|Sống bận rộn quá nên chẳng có thời gian gặp bạn bè.|bận rộn=바쁜; chẳng=전혀 ~않다; bạn bè=친구들
+5|사는 게 다 그렇죠.|Cuộc sống mà, ai cũng vậy thôi.|ai cũng=누구나
+5|시간이 지나면 다 괜찮아질 거예요.|Thời gian trôi qua rồi mọi chuyện sẽ ổn thôi.|trôi qua=흘러가다
+5|작은 일에도 감사하며 살려고 해요.|Tôi cố gắng sống biết ơn cả những điều nhỏ bé.|cố gắng=노력하다; biết ơn=감사하다; nhỏ bé=작은
+5|여기 사니까 한국에 있을 때보다 여유가 있어요.|Sống ở đây tôi thấy thong thả hơn hồi ở Hàn Quốc.|thong thả=여유로운; hồi=~때
