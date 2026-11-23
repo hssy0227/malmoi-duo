@@ -120,7 +120,7 @@ def main():
     import os
     sb_url = os.environ.get("MALMOI_SB_URL", cfg.get("supabaseUrl", ""))  # 테스트용 덮어쓰기
     sb_key = os.environ.get("MALMOI_SB_KEY", cfg.get("supabaseAnonKey", ""))
-    data = {"cats": CATS, "catMap": CAT_MAP, "levels": LEVELS, "srcs": SOURCES, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
+    data = {"cats": CATS, "catMap": CAT_MAP, "levels": LEVELS, "srcs": SOURCES, "langs": {}, "sb": {"url": sb_url, "key": sb_key, "vapid": cfg.get("vapidPublicKey", "")}}
     all_err = []
     for lang in ("vi", "en"):
         items, errs = parse(lang)

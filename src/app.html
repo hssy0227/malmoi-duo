@@ -200,6 +200,9 @@ h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
 .fld:last-child{border-bottom:0}
 .fld label{font-weight:650}
 .fld .d{grid-column:1/-1;font-size:12.5px;color:var(--mut)}
+.dchips{grid-column:1/-1;display:flex;gap:6px;flex-wrap:nowrap}
+.dchips .chip{flex:1;justify-content:center;padding:0;min-width:0}
+.dchips .chip.on{background:var(--am);border-color:var(--am);color:#fff}
 select,input[type=number]{min-height:40px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:0 10px;font-size:16px;max-width:60vw}
 input[type=range]{width:100%;accent-color:var(--am)}
 .acc input[type=email],.acc input[type=password],.acc input[type=text]{width:100%;min-height:44px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:0 12px;font-size:16px}
@@ -300,7 +303,7 @@ const IC = {
 /* ---------- 저장소 ---------- */
 const LS = "dumal.v1";
 const DEF = ()=>({lang:"vi",
-  set:{rate:{vi:.85,en:1},voice:{vi:"",en:""},auto:true,dir:"k2t",newPerDay:20},
+  set:{rate:{vi:.85,en:1},voice:{vi:"",en:""},auto:true,dir:"k2t",newPerDay:20,notif:{mode:"daily",days:[1,2,3,4,5],hour:21}},
   scope:{vi:{cats:[],lv:[1,2,3,4,5],type:"s",star:false},en:{cats:[],lv:[1,2,3,4,5],type:"s",star:false}},
   p:{vi:{},en:{}}, star:{vi:{},en:{}}, q:{vi:{},en:{}}, sp:{vi:{},en:{}},
   st:{vi:{},en:{}}, seen:{vi:{},en:{}}, mod:{vi:{},en:{}}, dirty:{vi:{},en:{}}, sync:{}, qsave:{},
@@ -793,6 +796,7 @@ function vPrefs(){
     <div class="fld"><label>카드 앞면</label><select data-ch="dir"><option value="k2t" ${S.set.dir==="k2t"?"selected":""}>한국어 → 원어</option><option value="t2k" ${S.set.dir==="t2k"?"selected":""}>원어 → 한국어</option><option value="mix" ${S.set.dir==="mix"?"selected":""}>섞기</option></select></div>
     <div class="fld"><label>하루 새 카드</label><select data-ch="newPerDay">${[5,10,15,20,30,50].map(n=>`<option ${S.set.newPerDay===n?"selected":""}>${n}</option>`).join("")}</select><div class="d">언어별로 따로 셉니다. 복습 카드는 제한 없음.</div></div>
     <div class="fld"><label>정답 공개 시 자동 재생</label>${sw("auto",S.set.auto)}</div></div>
+  <h3>학습 알림</h3><div class="box" style="padding:0 14px" id="ntbox">${ntHTML()}</div>
   <h3>백업</h3><div class="box">
     <div class="row"><button class="btn sm" data-act="export">백업 파일 저장</button><button class="btn sm" data-act="copyx">백업 복사</button><button class="btn sm" data-act="importsheet">복원</button><span class="sp"></span><button class="btn sm" data-act="reset" style="color:var(--ng)">${LANGS[S.lang].name} 진도 초기화</button></div>
     <p class="sm mut" style="margin-bottom:0">${AUTH?"계정에 자동 저장 중이에요. 백업은 파일로 따로 보관할 때만.":"로그인하지 않으면 브라우저 데이터를 지울 때 진도도 사라져요. 가끔 백업해 두세요."}</p></div>
@@ -1055,6 +1059,57 @@ const ACT={
   closesheet:()=>closeSheet()
 };
 Object.assign(ACT,ACC_ACT);
+/* ---------- 학습 알림 (웹 푸시) ---------- */
+const NT={sub:false,busy:false,msg:""},NT_OK=SB_ON&&!!SB.vapid&&"serviceWorker" in navigator&&"PushManager" in window&&"Notification" in window;
+const NT_DAYS="일월화수목금토";
+const u8=b=>{const p="=".repeat((4-b.length%4)%4),r=atob((b+p).replace(/-/g,"+").replace(/_/g,"/"));return Uint8Array.from(r,c=>c.charCodeAt(0))};
+function ntSummary(){const n=S.set.notif,h=n.hour+"시";
+  if(n.mode==="daily")return "매일 "+h;if(n.mode==="alt")return "격일 "+h;
+  const ds=n.days.slice().sort((a,b)=>a-b).map(d=>NT_DAYS[d]).join("·");return "매주 "+(ds||"(요일 선택)")+" "+h}
+function ntHTML(){
+  const n=S.set.notif;
+  if(!NT_OK)return `<div class="fld"><div class="d">이 브라우저는 알림을 지원하지 않아요. 아이폰은 홈 화면에 추가한 앱에서만 알림을 받을 수 있어요.</div></div>`;
+  const sw=`<button class="sw ${NT.sub?"on":""}" data-act="ntTog" aria-pressed="${NT.sub}" aria-label="알림" ${NT.busy?"disabled":""}></button>`;
+  return `<div class="fld"><label>알림 받기</label>${sw}<div class="d">${AUTH?(NT.sub?"이 기기에서 "+ntSummary()+"에 알려 드려요. (한국 시간)":"켜면 이 기기로 학습 알림이 와요."):"계정에 로그인한 뒤에 켤 수 있어요."}${NT.msg?`<br><b style="color:var(--ng)">${esc(NT.msg)}</b>`:""}</div></div>
+  <div class="fld"><label>주기</label><select data-ch="ntmode"><option value="daily" ${n.mode==="daily"?"selected":""}>매일</option><option value="alt" ${n.mode==="alt"?"selected":""}>격일</option><option value="week" ${n.mode==="week"?"selected":""}>매주 요일 선택</option></select></div>
+  ${n.mode==="week"?`<div class="fld"><label>요일</label><span></span><div class="dchips">${[1,2,3,4,5,6,0].map(d=>`<button class="chip ${n.days.includes(d)?"on":""}" data-act="ntDay" data-d="${d}" aria-pressed="${n.days.includes(d)}">${NT_DAYS[d]}</button>`).join("")}</div></div>`:""}
+  <div class="fld"><label>시각</label><select data-ch="nthour">${Array.from({length:24},(_,h)=>`<option value="${h}" ${n.hour===h?"selected":""}>${h}시</option>`).join("")}</select></div>
+  <div class="fld"><label>테스트</label><button class="btn sm" data-act="ntTest" ${NT.sub?"":"disabled"}>지금 알림 보내 보기</button><div class="d">이 기기에서 알림이 뜨는지만 확인해요. 정해진 시각 알림은 서버가 정각에 보내요.</div></div>`;
+}
+function updNt(){const el=document.getElementById("ntbox");if(el)el.innerHTML=ntHTML()}
+async function ntRefresh(){if(!NT_OK)return;try{const reg=await navigator.serviceWorker.ready;const sub=await reg.pushManager.getSubscription();NT.sub=!!sub&&Notification.permission==="granted"}catch(e){NT.sub=false}updNt()}
+async function ntUpsert(){
+  const reg=await navigator.serviceWorker.ready,sub=await reg.pushManager.getSubscription();if(!sub||!AUTH)return;
+  const j=sub.toJSON(),n=S.set.notif;
+  await sbFetch("/rest/v1/push_subs?on_conflict=endpoint",{method:"POST",headers:{Prefer:"resolution=merge-duplicates,return=minimal"},
+    body:[{user_id:AUTH.uid,endpoint:j.endpoint,p256dh:j.keys.p256dh,auth:j.keys.auth,mode:n.mode,days:n.days,hour:n.hour,enabled:true,updated_at:new Date().toISOString()}]});
+}
+let ntT=0;
+function ntPush(){if(!NT.sub||!AUTH)return;clearTimeout(ntT);ntT=setTimeout(()=>ntUpsert().catch(e=>{NT.msg="저장 실패: "+e.message;updNt()}),600)}
+const NT_ACT={
+  ntTog:async()=>{
+    if(NT.busy)return;NT.msg="";
+    if(!AUTH){NT.msg="먼저 위의 계정에서 로그인해 주세요.";updNt();return}
+    NT.busy=true;updNt();
+    try{
+      const reg=await navigator.serviceWorker.ready,cur=await reg.pushManager.getSubscription();
+      if(cur&&NT.sub){const ep=cur.endpoint;await cur.unsubscribe();
+        try{await sbFetch("/rest/v1/push_subs?endpoint=eq."+enc(ep),{method:"DELETE",headers:{Prefer:"return=minimal"}})}catch(e){}
+        NT.sub=false}
+      else{
+        if(S.set.notif.mode==="week"&&!S.set.notif.days.length)throw new Error("요일을 하나 이상 선택해 주세요");
+        const perm=await Notification.requestPermission();
+        if(perm!=="granted")throw new Error("브라우저에서 알림이 차단돼 있어요. 사이트 설정에서 허용해 주세요.");
+        const sub=cur||await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:u8(SB.vapid)});
+        NT.sub=true;await ntUpsert();toast("알림을 켰어요")}
+    }catch(e){NT.msg=e.message||"알림 설정에 실패했어요";await ntRefresh()}
+    NT.busy=false;updNt()},
+  ntDay:b=>{const d=+b.dataset.d,a=S.set.notif.days,i=a.indexOf(d);if(i>=0)a.splice(i,1);else a.push(d);save();updNt();ntPush()},
+  ntTest:async()=>{try{const reg=await navigator.serviceWorker.ready;await reg.showNotification("말모이 듀오",{body:"알림이 잘 와요! 오늘의 학습을 시작해 볼까요?",icon:"icons/icon-192.png",tag:"test",data:{url:"./#cards"}})}catch(e){toast("알림을 띄우지 못했어요")}}
+};
+Object.assign(ACT,NT_ACT);
+if(NT_OK)navigator.serviceWorker.ready.then(()=>ntRefresh());
+
 window.__malmoi={QS:()=>QS};  /* 테스트용 */
 function toggleHelp(force){const h=$("#help"),open=force!==undefined?force:h.hidden;h.hidden=!open;$("#helpBtn").setAttribute("aria-expanded",String(open));if(open&&!S.seenHelp){S.seenHelp=1;save();const d=$("#helpBtn .dot");if(d)d.remove()}}
 document.addEventListener("pointerdown",e=>{const h=$("#help");if(!h.hidden&&!e.target.closest("#help,#helpBtn"))toggleHelp(false)});
@@ -1066,6 +1121,8 @@ document.addEventListener("change",e=>{const el=e.target.closest("[data-ch]");if
   if(k==="rate"){S.set.rate[el.dataset.l]=+el.value;}
   if(k==="dir")S.set.dir=el.value;
   if(k==="newPerDay"){S.set.newPerDay=+el.value;CS=null}
+  if(k==="ntmode"){S.set.notif.mode=el.value;ntPush()}
+  if(k==="nthour"){S.set.notif.hour=+el.value;ntPush()}
   if(k==="dst"){DS.st=el.value;DS.open=null;DS.lim=200;renderDictList();return}
   save();render()});
 document.addEventListener("input",e=>{const el=e.target;if(el.dataset&&el.dataset.ch==="rate"){const lab=el.parentElement.querySelector("label span");if(lab)lab.textContent=(+el.value).toFixed(2)+"×"}});

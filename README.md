@@ -126,3 +126,13 @@ w4|용두사미.|Đầu voi đuôi chuột.|đầu=머리; chuột=쥐|직역: �
   (목록 파일은 antdurrant/word.lists 저장소 사본에서 추출)
 - 베트남어 빈도 — hermitdave/FrequencyWords (OpenSubtitles 2018), 내용 CC BY-SA 4.0
 - `sources/ref/`의 목록은 같은 라이선스(CC BY-SA 4.0)를 따릅니다
+
+## 학습 알림 (웹 푸시) 설정
+
+앱 설정 → "학습 알림"에서 주기(매일/격일/매주 요일)와 시각(한국 시간)을 고르면, 서버가 정각에 푸시를 보냅니다.
+
+1. `supabase/push.sql` 을 SQL Editor에서 실행 (구독 테이블)
+2. Edge Functions → 새 함수 `send-push` 에 `supabase/functions/send-push/index.ts` 붙여 넣기, **Verify JWT 끄기**, Deploy
+3. Edge Functions → Secrets 에 `VAPID_PUBLIC_KEY`, `VAPID_PRIVATE_KEY`, `VAPID_SUBJECT`, `CRON_SECRET` 추가
+4. `supabase/cron.sql` 의 `<PROJECT_URL>`·`<CRON_SECRET>` 을 채워 SQL Editor에서 실행 (매시 정각 호출)
+5. 앱 `config.json` 의 `vapidPublicKey` 는 공개 키(앱에 들어가도 안전). 비공개 키는 Secrets 에만 둡니다.

@@ -18,3 +18,22 @@ self.addEventListener("fetch", e => {
   }
   e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
 });
+
+// 학습 알림 (웹 푸시)
+self.addEventListener("push", e => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch (_) { d = { body: e.data ? e.data.text() : "" }; }
+  e.waitUntil(self.registration.showNotification(d.title || "말모이 듀오", {
+    body: d.body || "오늘의 학습을 시작해 볼까요?",
+    icon: "./icons/icon-192.png", badge: "./icons/icon-192.png",
+    tag: "daily", data: { url: d.url || "./#cards" }
+  }));
+});
+self.addEventListener("notificationclick", e => {
+  e.notification.close();
+  const url = new URL((e.notification.data && e.notification.data.url) || "./#cards", self.registration.scope).href;
+  e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(cs => {
+    for (const c of cs) { if ("focus" in c) { if ("navigate" in c) c.navigate(url).catch(() => {}); return c.focus(); } }
+    return self.clients.openWindow(url);
+  }));
+});
