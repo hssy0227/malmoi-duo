@@ -327,7 +327,7 @@ const SRC=Object.fromEntries((DATA.srcs||[]).map(([k,n,h])=>[k,{n,h}])), SRCKEYS
 const tagsOf=it=>it.kind==="w"?it.ss:[it.s||"G"];
 const sgHTML=k=>`<span class="sg" data-k="${k}">${k}</span>`;
 const hash = s=>{let h=5381;for(let i=0;i<s.length;i++)h=(h*33^s.charCodeAt(i))>>>0;return h.toString(36)};
-const ITEM={vi:{},en:{}}, SENT={}, WORD={};
+const ITEM={vi:{},en:{}}, SENT={}, WORD={}, MV={vi:{},en:{}};
 for(const L of ["vi","en"]){
   SENT[L]=DATA.langs[L].map(x=>({...x,kind:"s"}));
   const wm=new Map();
@@ -342,11 +342,26 @@ for(const L of ["vi","en"]){
       w.cs.add(s.c); w.l=Math.min(w.l,s.l); if(!w.ex.includes(s.id))w.ex.push(s.id);
     }
   }
+  /* 단어·숙어로 직접 등록한 항목(content의 w레벨) — 풀이 단어와 같은 표제어면 합침 */
+  for(const x of (DATA.wx&&DATA.wx[L])||[]){
+    const key=x.t.toLowerCase();let w=wm.get(key);
+    if(!w){w={id:"w"+hash(L+key),kind:"w",t:x.t,means:[],c:x.c,cs:new Set(),l:x.l,ex:[],n:"",ss:[]};wm.set(key,w)}
+    w.c=x.c; w.cs.add(x.c); w.l=Math.min(w.l,x.l); if(!w.means.includes(x.k))w.means.unshift(x.k);
+    if(!w.ss.includes(x.s||"G"))w.ss.push(x.s||"G"); if(x.n)w.n=x.n; if(x.w&&x.w.length)w.ow=x.w;
+    if(x.o&&x.o!==w.id)MV[L][x.o]=w.id;
+  }
   WORD[L]=[...wm.values()].map(w=>{
     let m=w.means.filter(a=>!w.means.some(b=>b!==a&&b.includes(a)));
-    w.k=m.slice(0,4).join(" · "); w.w=[]; w.ss.sort((a,b)=>SRCKEYS.indexOf(a)-SRCKEYS.indexOf(b)); ITEM[L][w.id]=w; return w;
+    w.k=m.slice(0,4).join(" · "); w.w=w.ow||[]; w.ss.sort((a,b)=>SRCKEYS.indexOf(a)-SRCKEYS.indexOf(b)); ITEM[L][w.id]=w; return w;
   });
 }
+/* 문장→단어로 옮긴 항목의 진도 이관 (옛 문장 ID → 단어 ID) */
+function migrateIds(){let n=0;for(const L of ["vi","en"])for(const o in MV[L]){const w=MV[L][o];let hit=0;
+  for(const k of ["p","star","q","sp","st","seen","mod"]){const d=S[k]&&S[k][L];if(d&&o in d){if(!(w in d))d[w]=d[o];delete d[o];hit=1}}
+  if(S.dirty[L]&&o in S.dirty[L])delete S.dirty[L][o];
+  if(hit){n++;if(!S.mod[L][w])S.mod[L][w]=Date.now();S.dirty[L][w]=1}}
+  return n}
+if(migrateIds())save();
 const CATS_OF={},SRCS_OF={};for(const L of ["vi","en"]){CATS_OF[L]=CATKEYS.filter(c=>SENT[L].some(s=>s.c===c));SRCS_OF[L]=SRCKEYS.filter(k=>SENT[L].some(s=>(s.s||"G")===k))}
 const allOf=(L,type)=>type==="w"?WORD[L]:type==="a"?SENT[L].concat(WORD[L]):SENT[L];
 function pool(L,sc){
@@ -430,7 +445,8 @@ function exHTML(L,w,n){
   return `<div class="ex">${w.ex.slice(0,n||2).map(id=>{const s=ITEM[L][id];return `<div><b>${esc(s.t)}</b>${esc(s.k)}</div>`}).join("")}</div>`;
 }
 function detailHTML(L,it){
-  return it.kind==="w"?exHTML(L,it,3):glossHTML(it)+(it.n?`<div class="note">${esc(it.n)}</div>`:"");
+  if(it.kind==="w")return (it.w.length?glossHTML(it):"")+(it.n?`<div class="note">${esc(it.n)}</div>`:"")+(it.ex.length?exHTML(L,it,3):"");
+  return glossHTML(it)+(it.n?`<div class="note">${esc(it.n)}</div>`:"");
 }
 
 /* ---------- 홈 ---------- */
@@ -889,7 +905,7 @@ async function syncNow(){
         if(r.updated_at>lm||(r.updated_at===lm&&!S.dirty[r.lang][r.item_id])){if(r.updated_at!==lm)changed++;applyRow(r)}
         if(r.server_at>last)last=r.server_at}
       if(rows.length<1000)break}
-    S.sync.pullAt=last;
+    S.sync.pullAt=last; if(migrateIds())changed++;
     /* 2) 올리기: 이 기기에서 바뀐 항목 */
     for(const L of ["vi","en"]){const ids=Object.keys(S.dirty[L]);
       for(let i=0;i<ids.length;i+=500){const rows=ids.slice(i,i+500).map(id=>rowOf(L,id));

@@ -11,7 +11,7 @@
 2|일주일에 두 번 운동해요.|I work out twice a week.|work out=운동하다; twice=두 번
 2|다음 주 금요일까지요.|By next Friday.|by=~까지(기한)
 2|언제까지 필요하세요?|When do you need it by?|need by=~까지 필요하다
-2|방금 전에|A moment ago|a moment ago=방금 전
+w2|방금 전에|A moment ago|a moment ago=방금 전
 2|금방 갈게요.|I'll be there in a minute.|in a minute=곧
 2|10분 정도 늦을 것 같아요.|I'm running about ten minutes late.|run late=늦어지다
 3|딱 맞춰 왔네요.|Right on time.|on time=정각에
@@ -26,7 +26,7 @@
 3|매출이 3분의 1만큼 줄었어요.|Sales dropped by a third.|drop by=~만큼 떨어지다; a third=3분의 1
 
 @phone
-1|여보세요?|Hello?|hello=여보세요
+w1|여보세요?|Hello?|hello=여보세요
 1|실례지만 누구세요? (전화)|Who's calling, please?|who's calling=누구세요(전화)
 1|잠깐만요.|Hold on a second.|hold on=잠깐 기다리다
 1|나중에 다시 전화할게요.|I'll call you back later.|call back=다시 전화하다
@@ -77,7 +77,7 @@
 3|우선순위를 정합시다.|Let's prioritize.|prioritize=우선순위를 정하다
 3|그건 제 권한 밖이에요.|That's above my pay grade.|above my pay grade=내 권한 밖의 일
 3|이 건은 회의 끝나고 따로 얘기하죠.|Let's take this offline.|take offline=(회의 밖에서) 따로 논의하다
-3|간단히 말하면…|In a nutshell…|in a nutshell=간단히 말해
+w3|간단히 말하면…|In a nutshell…|in a nutshell=간단히 말해
 3|추진 여부를 결정해야 해요.|We need to make a go/no-go decision.|go/no-go=추진 여부
 3|진행 상황 간단히 공유드립니다.|Here's a quick status update.|status update=진행 상황 업데이트
 3|발전소 가동률이 지난달보다 올랐습니다.|The plant's utilization rate went up compared to last month.|utilization rate=가동률; compared to=~에 비해
@@ -91,11 +91,11 @@
 2|여기 온 지 얼마나 됐어요?|How long have you been here?|how long=얼마나 오래
 2|여기 처음이세요?|Is this your first time here?|first time=처음
 2|그거 재밌겠네요.|That sounds like fun.|sound like=~처럼 들리다
-2|축하해요!|Congratulations!|congratulations=축하해요
+w2|축하해요!|Congratulations!|congratulations=축하해요
 2|생일 축하해요!|Happy birthday!|birthday=생일
 2|그 얘기 들으니 안타깝네요.|I'm sorry to hear that.|sorry to hear=유감이다
-2|무슨 말인지 알아요.|I know what you mean.|know what you mean=무슨 말인지 안다
-2|저도요.|Same here.|same here=나도 그래
+2|무슨 말인지 알아요.|I know what you mean.|mean=뜻하다
+w2|저도요.|Same here.|same here=나도 그래
 2|요즘 뭐에 빠져 있어요?|What are you into these days?|these days=요즘
 3|말도 안 돼! 진심이에요?|No way! Are you serious?|no way=말도 안 돼; serious=진심인
 3|농담이죠?|You're kidding.|kid=농담하다
@@ -103,7 +103,7 @@
 3|제 입장이 되어 보세요.|Put yourself in my shoes.|in my shoes=내 입장에서
 3|우리 정말 죽이 잘 맞는 것 같아요.|I think we really hit it off.|hit it off=죽이 잘 맞다
 3|그 사람이랑 잘 지내요?|Do you get along with him?|get along with=~와 잘 지내다
-3|시간 정말 빠르네요.|Time flies.|time flies=시간이 빠르다
+3|시간 정말 빠르네요.|Time flies.|flies=(시간이) 쏜살같이 지나가다
 3|정말 기대돼요!|I'm looking forward to it!|look forward to=~을 기대하다
 3|아쉽지만 이번엔 빠질게요.|I'll have to pass this time.|pass=사양하다
 3|다음엔 꼭 같이해요.|Let's definitely do it next time.|definitely=꼭
@@ -111,7 +111,7 @@
 3|분위기 깨서 미안한데…|Sorry to be a buzzkill, but…|buzzkill=분위기 깨는 사람
 
 @health
-1|도와주세요!|Help!|help=도움
+w1|도와주세요!|Help!|help=도움
 1|몸이 안 좋아요.|I don't feel well.|feel well=몸이 좋다
 1|머리가 아파요.|I have a headache.|headache=두통
 1|배가 아파요.|I have a stomachache.|stomachache=복통

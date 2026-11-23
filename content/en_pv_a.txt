@@ -28,7 +28,7 @@
 3|쉽게 얻은 것은 쉽게 잃는다.|Easy come, easy go.|
 4|쥐구멍에도 볕 들 날 있다.|Every dog has its day.||직역: 어떤 개에게도 좋은 날이 온다
 5|너무 가까우면 함부로 대하게 된다.|Familiarity breeds contempt.|familiarity=친숙함; breed=낳다; contempt=경멸|
-3|먼저 온 사람이 먼저 받는다.|First come, first served.|serve=응대하다|선착순
+w3|먼저 온 사람이 먼저 받는다.|First come, first served.|serve=응대하다|선착순
 4|행운은 용감한 사람 편이다.|Fortune favors the bold.|fortune=운; favor=편들다; bold=대담한|로마 시인 베르길리우스의 시구에서 유래
 4|훌륭한 사람들은 생각이 같다.|Great minds think alike.|alike=비슷하게|생각이 통했을 때 농담처럼 쓰는 말
 4|모르는 게 약이다.|Ignorance is bliss.|ignorance=무지; bliss=더없는 행복|
@@ -69,7 +69,7 @@
 4|기다리는 사람에게 좋은 일이 온다.|Good things come to those who wait.|
 4|조금이라도 없는 것보다 낫다.|Half a loaf is better than none.|loaf=빵 한 덩이|
 4|문제없이 잘 돌아가면 손대지 마라.|If it ain't broke, don't fix it.|ain't=isn't(구어); broke=고장 난(구어)|
-4|일석이조.|Kill two birds with one stone.||직역: 돌 하나로 새 두 마리를 잡다
+w4|일석이조.|Kill two birds with one stone.||직역: 돌 하나로 새 두 마리를 잡다
 4|지난 일은 지난 일로 덮자.|Let bygones be bygones.|bygones=지난 일|
 5|불행한 사람은 함께 불행할 사람을 찾는다.|Misery loves company.|misery=불행; company=동반자|
 4|모험하지 않으면 얻는 것도 없다.|Nothing ventured, nothing gained.|venture=모험하다|
@@ -94,8 +94,8 @@
 4|남이 잘못했다고 나도 잘못하면 안 된다.|Two wrongs don't make a right.||직역: 잘못 둘이 모여도 옳은 것이 되지는 않는다
 4|말 없는 사람이 생각이 깊다.|Still waters run deep.|still=고요한|직역: 고요한 물이 깊다
 4|빈 수레가 요란하다.|Empty vessels make the most noise.|vessel=그릇|
-4|갈수록 태산.|Out of the frying pan into the fire.|frying pan=프라이팬|직역: 프라이팬에서 나와 불 속으로
-4|호랑이도 제 말 하면 온다.|Speak of the devil.|
+w4|갈수록 태산.|Out of the frying pan into the fire.|frying pan=프라이팬|직역: 프라이팬에서 나와 불 속으로
+w4|호랑이도 제 말 하면 온다.|Speak of the devil.|
 4|큰일도 작은 데서 시작된다.|Great oaks from little acorns grow.|oak=참나무; acorn=도토리|
 4|지렁이도 밟으면 꿈틀한다.|Even a worm will turn.|worm=지렁이; turn=돌아서다|
 4|낮말은 새가 듣고 밤말은 쥐가 듣는다.|Walls have ears.||직역: 벽에도 귀가 있다

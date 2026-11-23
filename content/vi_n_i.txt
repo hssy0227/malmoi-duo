@@ -4,15 +4,15 @@
 3|맞아요, 맞아.|Chuẩn luôn.|chuẩn=정확한(구어)
 3|그러게요.|Ừ nhỉ.|ừ=응
 3|아, 그렇구나.|À, ra thế.|ra thế=그렇구나
-3|정말요?|Thế à?|thế à=그래요?
-3|설마!|Làm gì có!|làm gì có=그럴 리가
+w3|정말요?|Thế à?|thế à=그래요?
+w3|설마!|Làm gì có!|làm gì có=그럴 리가
 3|당연하죠.|Tất nhiên rồi.|tất nhiên=당연히
 3|글쎄요.|Để xem đã.|để xem=두고 보자
 3|아무튼요.|Dù sao thì...|dù sao=어쨌든
 3|그건 그렇고.|Mà thôi, chuyện đó để sau.|để sau=나중으로 미루다
 3|어쩔 수 없죠.|Biết làm sao được.|làm sao=어떻게
 3|별거 아니에요.|Chuyện nhỏ thôi mà.|chuyện nhỏ=사소한 일
-3|아이고!|Trời ơi!|trời ơi=세상에
+w3|아이고!|Trời ơi!|trời ơi=세상에
 3|됐어요.|Thôi được rồi.|
 3|알았어요, 알았어.|Biết rồi, biết rồi.|
 3|어떡해!|Làm sao bây giờ!|bây giờ=지금
@@ -40,7 +40,7 @@
 4|머리를 식히러 나가요.|Tôi ra ngoài cho đầu óc thư giãn.|đầu óc=머리; thư giãn=쉬다
 4|발등에 불이 떨어졌어요.|Nước đến chân rồi.|nước đến chân=발등에 불(급박)
 4|벼락치기 공부했어요.|Tôi học nước rút.|học nước rút=벼락치기
-4|일석이조예요.|Một công đôi việc.|một công đôi việc=일석이조
+w4|일석이조예요.|Một công đôi việc.|một công đôi việc=일석이조
 4|찬물을 끼얹지 마세요.|Đừng dội gáo nước lạnh.|dội=끼얹다; gáo=바가지
 4|분위기 깨지 마요.|Đừng làm mất hứng.|mất hứng=흥이 깨지다
 4|오늘은 운이 좋네요.|Hôm nay may mắn thật.|may mắn=운 좋은

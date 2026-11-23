@@ -14,12 +14,12 @@ for tf in targets:
             continue
         for ln in f.read_text(encoding="utf-8").splitlines():
             p = ln.split("|")
-            if len(p) >= 3 and p[0].strip().isdigit():
+            if len(p) >= 3 and p[0].strip().lstrip("w").isdigit():
                 have.add(norm(p[2]))
     out, drop = [], 0
     for ln in tf.read_text(encoding="utf-8").splitlines():
         p = ln.split("|")
-        if len(p) >= 3 and p[0].strip().isdigit():
+        if len(p) >= 3 and p[0].strip().lstrip("w").isdigit():
             k = norm(p[2])
             if k in have:
                 drop += 1

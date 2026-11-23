@@ -9,9 +9,9 @@
 3|마음 바뀌면 알려 주세요.|Let me know if you change your mind.|change one's mind=마음을 바꾸다
 3|그럴 만도 하죠.|That's understandable.|understandable=이해할 만한
 3|잘됐네요!|Good for you!|
-3|힘내세요.|Hang in there.|hang in there=버티다
-3|그만 좀 해요.|Knock it off.|knock it off=그만두다
-3|진정해요.|Calm down.|calm down=진정하다
+w3|힘내세요.|Hang in there.|hang in there=버티다
+w3|그만 좀 해요.|Knock it off.|knock it off=그만두다
+w3|진정해요.|Calm down.|calm down=진정하다
 3|별거 아니에요.|It's nothing.|
 3|생각났어요!|It just came to me!|come to=생각이 나다
 3|운이 좋았어요.|I got lucky.|

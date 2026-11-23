@@ -174,6 +174,18 @@ def main():
             out.append(f"- {v[0]['k']} → " + " / ".join(f"`{x['t']}`" for x in v))
         out.append("")
 
+    # 단어·문장 구분: 단어·숙어(구)는 레벨 앞에 w를 붙여 단어로 등록, 문장 목록에는 완결된 문장만
+    out.append("## 2-1. 단어·문장 구분\n\n단어·숙어는 `w4|뜻|표현|...`처럼 레벨 앞에 w를 붙여 등록합니다. 문장 목록에는 완결된 문장만 둡니다.\n")
+    for lang, items in data.items():
+        def nz(x):
+            return re.sub(r"[^\w' ]", "", x.lower()).strip()
+        wl = [i for i in items if len(re.findall(r"[\w'’]+", i["t"])) <= 1 or any(nz(w[0]) == nz(i["t"]) for w in i["w"])]
+        hard += len(wl)
+        out.append(f"**[{lang}] 문장 목록에 있는 단어 수준 항목: {len(wl)}건** · 직접 등록한 단어·숙어 {len(build.WORDX.get(lang, []))}개")
+        for i in wl[:30]:
+            out.append(f"- `{i['t']}` ({i['f']}) → 레벨 앞에 w를 붙여 단어로 옮기거나, 풀이를 구성 단어로 바꾸세요")
+        out.append("")
+
     # 풀이·표기
     out.append("## 3. 풀이·표기\n")
     for lang, items in data.items():

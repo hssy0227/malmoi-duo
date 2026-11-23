@@ -57,8 +57,12 @@ def hid(s):
     return hashlib.md5(s.encode()).hexdigest()[:8]
 
 
+WORDX = {}  # 단어·숙어로 직접 등록한 항목(레벨 앞에 w) — 문장 목록에는 넣지 않음
+
+
 def parse(lang):
     items, errors, seen = [], [], {}
+    wx = WORDX[lang] = []
     for f in sorted((ROOT / "content").glob(f"{lang}_*.txt")):
         cat = None
         for n, raw in enumerate(f.read_text(encoding="utf-8").splitlines(), 1):
@@ -74,7 +78,10 @@ def parse(lang):
             if len(parts) < 3 or len(parts) > 5:
                 errors.append(f"{f.name}:{n} bad field count: {line}")
                 continue
-            lv, ko, t = parts[0], parts[1].strip(), unicodedata.normalize("NFC", parts[2].strip())
+            lv, ko, t = parts[0].strip(), parts[1].strip(), unicodedata.normalize("NFC", parts[2].strip())
+            is_word = lv.startswith("w")
+            if is_word:
+                lv = lv[1:]
             gl = parts[3].strip() if len(parts) > 3 else ""
             note = parts[4].strip() if len(parts) > 4 else ""
             if lv not in LV_KEYS or not ko or not t:
@@ -92,6 +99,11 @@ def parse(lang):
                 errors.append(f"{f.name}:{n} duplicate of {seen[key]}: {t}")
                 continue
             seen[key] = f"{f.name}:{n}"
+            if is_word:
+                term = re.sub(r"[.!?…]+$", "", t).strip()
+                wx.append({"t": term, "k": re.sub(r"[.!?…]+$", "", ko).strip(), "c": CAT_MAP.get(cat, cat), "l": int(lv),
+                           "w": words, "n": note, "s": src_of(f.name, cat), "o": hid(lang + ":" + t), "f": f.name})
+                continue
             items.append({"id": hid(lang + ":" + t), "c": CAT_MAP.get(cat, cat), "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name, "s": src_of(f.name, cat), "oc": cat})
     ids = [i["id"] for i in items]
     if len(ids) != len(set(ids)):
@@ -113,6 +125,7 @@ def main():
         items, errs = parse(lang)
         all_err += [f"[{lang}] {e}" for e in errs]
         data["langs"][lang] = [{k: v for k, v in i.items() if k not in ("f", "oc")} for i in items]
+        data.setdefault("wx", {})[lang] = [{k: v for k, v in w.items() if k != "f"} for w in WORDX[lang]]
         (ROOT / "dist").mkdir(exist_ok=True)
         PARSED[lang] = items
         per, lvs = {}, {}
@@ -120,7 +133,8 @@ def main():
             lvs[i["l"]] = lvs.get(i["l"], 0) + 1
             per[i["c"]] = per.get(i["c"], 0) + 1
         terms = {w[0].lower() for i in items for w in i["w"]}
-        print(f"{lang}: {len(items)} sentences, {len(terms)} unique terms, levels {dict(sorted(lvs.items()))}")
+        terms |= {w["t"].lower() for w in WORDX[lang]}
+        print(f"{lang}: {len(items)} sentences, {len(terms)} unique terms ({len(WORDX[lang])} 직접 등록), levels {dict(sorted(lvs.items()))}")
     if all_err:
         print("\n".join(all_err))
         sys.exit(1)

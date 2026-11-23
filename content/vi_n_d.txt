@@ -2,7 +2,7 @@
 @daily
 3|정말 기뻐요.|Tôi vui lắm.|
 3|너무 속상해요.|Tôi buồn quá.|buồn=슬프다·속상하다
-3|힘내세요!|Cố lên!|cố lên=힘내
+w3|힘내세요!|Cố lên!|cố lên=힘내
 3|다 잘될 거예요.|Mọi chuyện sẽ ổn thôi.|mọi chuyện=모든 일
 3|정말 고마워요.|Cảm ơn anh nhiều lắm.|
 3|도와줘서 고마워요.|Cảm ơn anh đã giúp tôi.|

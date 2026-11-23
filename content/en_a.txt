@@ -1,16 +1,16 @@
 # 형식: 레벨|한국어|영어|표현=뜻; 표현=뜻|메모
 @greet
 1|안녕하세요, 만나서 반가워요.|Hi, nice to meet you.|nice to meet you=만나서 반가워요
-1|잘 지내요?|How are you doing?|how are you doing=잘 지내?(How are you보다 캐주얼)
+1|잘 지내요?|How are you doing?|doing=지내는(How are you보다 캐주얼)
 1|잘 지내요, 고마워요. 당신은요?|I'm good, thanks. How about you?|how about you=당신은요?
 1|제 이름은 제이슨이에요.|My name is Jason.|name=이름
 1|어디서 오셨어요?|Where are you from?|be from=~ 출신이다
 1|저는 한국에서 왔어요.|I'm from Korea.|be from=~ 출신이다
-1|무슨 일 하세요?|What do you do?|what do you do=직업이 뭐예요?|'지금 뭐 해?'가 아니라 직업을 묻는 표현
+1|무슨 일 하세요?|What do you do?|do=(직업으로) 하다|'지금 뭐 해?'가 아니라 직업을 묻는 표현
 1|나중에 봐요.|See you later.|see you=또 봐요
 2|요즘 어떻게 지냈어요?|What have you been up to?|be up to=~하며 지내다
 2|별일 없어요, 늘 똑같죠.|Not much. Same old, same old.|same old=늘 똑같은
-2|오랜만이에요!|Long time no see!|long time no see=오랜만이다
+w2|오랜만이에요!|Long time no see!|long time no see=오랜만이다
 2|하나도 안 변했네요.|You haven't changed a bit.|not a bit=조금도 ~않다
 2|저는 에너지 회사에서 전략 업무를 해요.|I work in strategy at an energy company.|work in=~ 분야에서 일하다
 2|이쪽은 제 동료 민수예요.|This is my colleague, Minsu.|colleague=동료
@@ -22,7 +22,7 @@
 3|시간 내 주셔서 감사해요.|Thanks for taking the time to meet.|take the time=시간을 내다
 3|어쩌다 이 일을 하게 되셨어요?|How did you get into this line of work?|get into=~에 들어가게 되다; line of work=직종
 3|가족분들께 안부 전해 주세요.|Say hi to your family for me.|say hi to=~에게 안부 전하다
-3|좋은 하루 보내세요.|Have a good one.|have a good one=좋은 하루 보내요(캐주얼)
+3|좋은 하루 보내세요.|Have a good one.|a good one=(여기선) 좋은 하루
 3|이제 슬슬 가 봐야겠어요.|I'd better get going.|had better=~하는 게 좋겠다; get going=출발하다
 3|이야기 즐거웠어요.|It was great talking to you.|talk to=~와 이야기하다
 3|우리 전에 만난 적 있지 않나요?|Haven't we met before?|meet=만나다
@@ -33,7 +33,7 @@
 1|오늘 너무 덥네요.|It's so hot today.|hot=더운
 1|좋은 생각이에요!|That's a great idea!|idea=생각·아이디어
 1|잘 모르겠어요.|I'm not sure.|not sure=확실하지 않다
-1|알겠어요.|Got it.|got it=알겠어요
+w1|알겠어요.|Got it.|got it=알겠어요
 1|좀 더 천천히 말씀해 주시겠어요?|Could you speak more slowly?|could you=~해 주시겠어요?
 1|다시 한 번 말씀해 주시겠어요?|Could you say that again?|say that again=다시 말하다
 2|무슨 뜻이에요?|What do you mean?|mean=의미하다
@@ -49,11 +49,11 @@
 3|그럴 만하네요.|That makes sense.|make sense=말이 되다
 3|상황에 따라 달라요.|It depends.|depend=~에 달려 있다
 3|저는 어느 쪽이든 상관없어요.|I don't mind either way.|either way=어느 쪽이든; mind=꺼리다
-3|당연하죠.|Absolutely.|absolutely=전적으로·당연히
+w3|당연하죠.|Absolutely.|absolutely=전적으로·당연히
 3|생각보다 괜찮네요.|It's better than I expected.|expect=예상하다
 3|이제야 한숨 돌리겠네요.|I can finally breathe.|breathe=숨 쉬다
 3|미루지 말고 지금 해요.|Let's not put it off.|put off=미루다
-3|어쩔 수 없죠.|It is what it is.|it is what it is=어쩔 수 없지
+3|어쩔 수 없죠.|It is what it is.|
 
 @food
 1|두 명 자리 있어요?|Do you have a table for two?|table for two=2인 테이블
@@ -76,7 +76,7 @@
 2|우유를 귀리 우유로 바꿔 주시겠어요?|Can I swap the milk for oat milk?|swap A for B=A를 B로 바꾸다
 3|각자 계산해도 될까요?|Can we split the bill?|split the bill=나눠 내다
 3|이건 제가 살게요.|It's on me.|on me=내가 낼게
-3|이건 제가 주문한 게 아닌 것 같아요.|I don't think this is what I ordered.|what I ordered=내가 주문한 것
+3|이건 제가 주문한 게 아닌 것 같아요.|I don't think this is what I ordered.|ordered=주문했다
 3|음식을 꽤 오래 기다리고 있어요.|We've been waiting quite a while for our food.|quite a while=꽤 오래
 3|팁이 포함돼 있나요?|Is the tip included?|included=포함된
 3|저는 견과류 알레르기가 있어요.|I'm allergic to nuts.|allergic to=~에 알레르기가 있는

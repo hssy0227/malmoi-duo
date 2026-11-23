@@ -1,6 +1,6 @@
 # 형식: 레벨|한국어|베트남어|단어=뜻; 단어=뜻|메모
 @greet
-1|안녕하세요.|Xin chào.|xin chào=안녕하세요|가장 무난한 인사. 상대에 따라 'Chào anh/chị'도 많이 씀
+w1|안녕하세요.|Xin chào.|xin chào=안녕하세요|가장 무난한 인사. 상대에 따라 'Chào anh/chị'도 많이 씀
 1|안녕하세요 (손위 남성에게).|Chào anh.|chào=인사하다; anh=형·오빠(손위 남성 2인칭)|상대가 손위 여성이면 chị, 손아래면 em
 1|만나서 반갑습니다.|Rất vui được gặp anh.|rất=매우; vui=기쁜; được=~하게 되다; gặp=만나다
 1|제 이름은 제이슨입니다.|Tên tôi là Jason.|tên=이름; tôi=나·저; là=~이다
@@ -10,13 +10,13 @@
 1|잘 지내세요?|Anh có khỏe không?|có ... không=~합니까?(의문); khỏe=건강한
 1|저는 잘 지내요, 감사합니다.|Tôi khỏe, cảm ơn anh.|khỏe=건강한; cảm ơn=감사하다
 1|당신은요?|Còn anh thì sao?|còn=그런데·~는요; thì sao=어때요
-1|감사합니다.|Cảm ơn.|cảm ơn=감사하다|더 공손하게: Cảm ơn anh nhiều ạ
+w1|감사합니다.|Cảm ơn.|cảm ơn=감사하다|더 공손하게: Cảm ơn anh nhiều ạ
 1|천만에요.|Không có gì.|không=없다·아니다; có=있다; gì=무엇|직역: 아무것도 아니에요
-1|죄송합니다.|Xin lỗi.|xin lỗi=죄송합니다·실례합니다|사람을 부를 때 '실례합니다'로도 씀
-1|괜찮아요.|Không sao.|không sao=괜찮다
+w1|죄송합니다.|Xin lỗi.|xin lỗi=죄송합니다·실례합니다|사람을 부를 때 '실례합니다'로도 씀
+w1|괜찮아요.|Không sao.|không sao=괜찮다
 1|또 만나요.|Hẹn gặp lại.|hẹn=약속하다; gặp lại=다시 만나다
-1|네.|Vâng.|vâng=네(북부)|공손하게 'Vâng ạ'. 남부는 'Dạ'
-1|아니요.|Không.|không=아니요
+w1|네.|Vâng.|vâng=네(북부)|공손하게 'Vâng ạ'. 남부는 'Dạ'
+w1|아니요.|Không.|không=아니요
 2|저는 서울에서 왔어요.|Tôi đến từ Seoul.|đến=오다·도착하다; từ=~로부터
 2|저는 에너지 회사에서 일해요.|Tôi làm việc ở một công ty năng lượng.|làm việc=일하다; ở=~에서; công ty=회사; năng lượng=에너지
 2|베트남어를 조금 할 줄 알아요.|Tôi nói được một chút tiếng Việt.|nói=말하다; được=할 수 있다(동사 뒤); một chút=조금; tiếng Việt=베트남어
@@ -171,14 +171,14 @@
 @time
 1|지금 몇 시예요?|Bây giờ là mấy giờ?|bây giờ=지금; mấy giờ=몇 시
 1|3시예요.|Ba giờ.|ba=셋; giờ=시
-1|오늘|Hôm nay|hôm nay=오늘
-1|내일|Ngày mai|ngày mai=내일
-1|어제|Hôm qua|hôm qua=어제
+w1|오늘|Hôm nay|hôm nay=오늘
+w1|내일|Ngày mai|ngày mai=내일
+w1|어제|Hôm qua|hôm qua=어제
 1|하나, 둘, 셋, 넷, 다섯|Một, hai, ba, bốn, năm|một=1; hai=2; ba=3; bốn=4; năm=5
 1|여섯, 일곱, 여덟, 아홉, 열|Sáu, bảy, tám, chín, mười|sáu=6; bảy=7; tám=8; chín=9; mười=10
 1|오늘 무슨 요일이에요?|Hôm nay là thứ mấy?|thứ=요일·서수; mấy=몇
-2|월요일|Thứ hai|thứ hai=월요일|화 thứ ba · 수 thứ tư · 목 thứ năm · 금 thứ sáu · 토 thứ bảy
-2|일요일|Chủ nhật|chủ nhật=일요일
+w2|월요일|Thứ hai|thứ hai=월요일|화 thứ ba · 수 thứ tư · 목 thứ năm · 금 thứ sáu · 토 thứ bảy
+w2|일요일|Chủ nhật|chủ nhật=일요일
 2|오늘 며칠이에요?|Hôm nay là ngày bao nhiêu?|ngày=날·일; bao nhiêu=얼마
 2|오전 9시 반|Chín giờ rưỡi sáng|rưỡi=반(30분); sáng=아침·오전
 2|오후 2시 15분|Hai giờ mười lăm chiều|mười lăm=15; chiều=오후
@@ -189,7 +189,7 @@
 2|작년|Năm ngoái|năm=해·년; ngoái=지난
 2|백, 천, 만|Một trăm, một nghìn, mười nghìn|trăm=백; nghìn=천; mười nghìn=만|베트남은 천 단위로 끊어 읽음
 2|백만, 십억|Một triệu, một tỷ|triệu=백만; tỷ=십억
-2|얼마나 오래요?|Bao lâu?|bao lâu=얼마나 오래
+w2|얼마나 오래요?|Bao lâu?|bao lâu=얼마나 오래
 3|5분 후에 도착해요.|Năm phút nữa tôi đến.|phút=분; nữa=더·~후에; đến=도착하다
 3|10분쯤 늦을 것 같아요.|Chắc tôi đến muộn khoảng mười phút.|chắc=아마; muộn=늦은; khoảng=약
 3|언제까지 끝내야 해요?|Đến khi nào phải xong?|đến khi nào=언제까지; phải=~해야 한다; xong=끝나다

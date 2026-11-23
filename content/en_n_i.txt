@@ -17,7 +17,7 @@
 3|괜찮아요. 신경 쓰지 마세요.|It's fine. Don't worry about it.|
 3|고마워서 어떡하죠.|I can't thank you enough.|
 3|별말씀을요.|Don't mention it.|
-3|천만에요, 언제든지요.|Anytime.|
+w3|천만에요, 언제든지요.|Anytime.|
 3|오늘 정말 멋져 보여요.|You look great today.|
 4|그런 말 해 줘서 정말 힘이 나요.|It means a lot to hear you say that.|mean a lot=큰 의미가 있다
 4|그때 도와준 거 아직도 고맙게 생각해요.|I'm still grateful for how you helped me back then.|grateful=고마워하는
@@ -34,7 +34,7 @@
 4|오해가 풀려서 다행이에요.|I'm glad we cleared up the misunderstanding.|clear up=풀다
 4|요즘 마음의 여유가 없었어요.|I haven't had much headspace lately.|headspace=마음의 여유
 4|가끔은 아무것도 안 하는 것도 필요해요.|Sometimes you need to do nothing at all.|
-4|너무 걱정하지 마. 내가 있잖아.|Don't worry so much. I've got you.|I've got you=내가 있잖아
+4|너무 걱정하지 마. 내가 있잖아.|Don't worry so much. I've got you.|
 4|그 사람한테 고맙다고 꼭 전해 주세요.|Please be sure to thank her for me.|
 4|부담 갖지 말고 편하게 생각해요.|No pressure. Take it easy.|take it easy=편하게 생각하다
 4|거절해도 괜찮아요.|It's totally okay to say no.|

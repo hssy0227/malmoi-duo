@@ -1,5 +1,5 @@
 @phone
-1|여보세요?|A lô?|a lô=여보세요
+w1|여보세요?|A lô?|a lô=여보세요
 1|누구세요?|Ai đấy ạ?|ai=누구; đấy=(북부 의문 어기)|남부는 Ai đó?
 1|전화번호가 뭐예요?|Số điện thoại của anh là gì?|số điện thoại=전화번호
 1|잠깐만요.|Chờ một chút.|chờ=기다리다; một chút=잠깐|북부에선 'Đợi một chút'도 흔함
@@ -66,7 +66,7 @@
 2|오늘 날씨 정말 좋네요.|Hôm nay trời đẹp quá.|trời=하늘·날씨; đẹp=좋은·예쁜
 2|비가 올 것 같아요.|Hình như trời sắp mưa.|hình như=~인 것 같다; sắp=곧; mưa=비가 오다
 2|하노이는 겨울에 추워요?|Hà Nội mùa đông có lạnh không?|mùa đông=겨울
-2|축하해요!|Chúc mừng!|chúc mừng=축하하다
+w2|축하해요!|Chúc mừng!|chúc mừng=축하하다
 2|생일 축하해요!|Chúc mừng sinh nhật!|sinh nhật=생일
 2|새해 복 많이 받으세요!|Chúc mừng năm mới!|năm mới=새해|설(Tết)에 쓰는 인사
 2|계속 연락해요.|Giữ liên lạc nhé.|giữ=유지하다; liên lạc=연락

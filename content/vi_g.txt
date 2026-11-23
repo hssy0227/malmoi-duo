@@ -60,7 +60,7 @@
 3|세뱃돈은 보통 얼마나 줘요?|Tiền mừng tuổi thường cho bao nhiêu?|tiền mừng tuổi=세뱃돈(북부)|남부는 lì xì
 4|세뱃돈은 액수보다 새 지폐를 빨간 봉투에 넣어 주는 게 중요해요.|Tiền mừng tuổi quan trọng là tiền mới bỏ trong phong bao đỏ chứ không phải số tiền.|phong bao đỏ=빨간 봉투; số tiền=액수
 3|요즘 코인 하는 사람이 많네요.|Dạo này nhiều người chơi tiền ảo quá.|tiền ảo=가상화폐
-4|가상화폐는 변동성이 커서 잃어도 괜찮은 돈으로만 해야 해요.|Tiền ảo biến động mạnh nên chỉ nên dùng số tiền mà mất cũng không sao.|biến động=변동하다; mất cũng không sao=잃어도 괜찮은
+4|가상화폐는 변동성이 커서 잃어도 괜찮은 돈으로만 해야 해요.|Tiền ảo biến động mạnh nên chỉ nên dùng số tiền mà mất cũng không sao.|biến động=변동하다; mất=잃다
 3|이건 제가 낼게요.|Cái này để tôi trả.|trả=계산하다·지불하다
 4|각자 낸 금액을 앱에 적어 두고 나중에 나눠서 정산하자.|Mình ghi lại số tiền mỗi người đã trả trên ứng dụng rồi chia sau nhé.|ghi lại=기록하다; chia=나누다
 3|이번 달 카드값이 걱정이에요.|Tôi lo về tiền thẻ tháng này.|lo=걱정하다

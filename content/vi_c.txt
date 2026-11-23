@@ -140,8 +140,8 @@
 3|저는 1990년에 태어났어요.|Tôi sinh năm một nghìn chín trăm chín mươi.|sinh=태어나다; năm=년
 4|회의가 2시에서 3시 반으로 바뀌었어요.|Cuộc họp đã đổi từ hai giờ sang ba giờ rưỡi.|đổi=바꾸다; từ ... sang=~에서 ~로
 3|사흘 뒤에 다시 올게요.|Ba ngày nữa tôi sẽ quay lại.|ba ngày=사흘; nữa=후에; quay lại=돌아오다
-3|그저께|Hôm kia|hôm kia=그저께
-3|모레|Ngày kia|ngày kia=모레(북부)|남부는 ngày mốt
+w3|그저께|Hôm kia|hôm kia=그저께
+w3|모레|Ngày kia|ngày kia=모레(북부)|남부는 ngày mốt
 3|지난주 금요일|Thứ sáu tuần trước|tuần trước=지난주
 4|매달 마지막 주 금요일에 정기 회의가 있어요.|Thứ sáu tuần cuối mỗi tháng có họp định kỳ.|cuối=마지막; mỗi tháng=매달; định kỳ=정기적인
 3|하루 종일|Cả ngày|cả=전체·온
@@ -150,7 +150,7 @@
 3|지금 한국은 몇 시예요?|Bây giờ ở Hàn Quốc là mấy giờ?|bây giờ=지금
 4|설 연휴에는 가게 대부분이 문을 닫아요.|Trong dịp Tết, phần lớn cửa hàng đều đóng cửa.|dịp=시기; phần lớn=대부분; đều=모두
 3|반년|Nửa năm|nửa=반
-3|두 배|Gấp đôi|gấp đôi=두 배
+w3|두 배|Gấp đôi|gấp đôi=두 배
 4|가격이 작년보다 30% 올랐어요.|Giá đã tăng ba mươi phần trăm so với năm ngoái.|tăng=오르다; so với=~에 비해; năm ngoái=작년
 
 @phone

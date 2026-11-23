@@ -45,10 +45,23 @@ def rows():
                 w["l"] = min(w["l"], s["l"])
                 if s["s"] not in w["ss"]:
                     w["ss"].append(s["s"])
+        for x in build.WORDX.get(lang, []):  # 단어·숙어로 직접 등록한 항목
+            key = x["t"].lower()
+            w = words.get(key)
+            if not w:
+                w = words[key] = {"t": x["t"], "means": [], "c": x["c"], "l": x["l"], "f": x["f"], "ss": []}
+            w["c"] = x["c"]
+            if x["k"] not in w["means"]:
+                w["means"].insert(0, x["k"])
+            w["l"] = min(w["l"], x["l"])
+            if x["s"] not in w["ss"]:
+                w["ss"].append(x["s"])
+            w["n"] = x["n"] or w.get("n")
+            w["gl"] = "; ".join(f"{a}={b}" for a, b in x["w"]) or None
         for key, w in words.items():
             m = [a for a in w["means"] if not any(b != a and a in b for b in w["means"])]
             out.append({"lang": lang, "item_id": "w" + djb2(lang + key), "kind": "w", "lv": w["l"], "cat": w["c"],
-                        "ko": " · ".join(m[:4]), "target": w["t"], "gloss": None, "note": None, "source": w["f"], "src": ",".join(w["ss"])})
+                        "ko": " · ".join(m[:4]), "target": w["t"], "gloss": w.get("gl"), "note": w.get("n") or None, "source": w["f"], "src": ",".join(w["ss"])})
     return out
 
 

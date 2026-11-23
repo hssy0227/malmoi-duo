@@ -13,7 +13,7 @@
 3|마실 것 좀 드릴까요?|Can I get you something to drink?|get you=~을 가져다주다
 4|기억하실지 모르겠지만 작년 컨퍼런스에서 잠깐 인사드렸어요.|You might not remember, but we briefly met at last year's conference.|briefly=잠깐; conference=회의·학회
 3|요즘 일은 좀 어때요?|How's work treating you these days?|treat=대하다|직역: 일이 당신을 어떻게 대해요?
-3|그럭저럭 괜찮아요.|Can't complain.|can't complain=불평할 게 없다·그럭저럭
+3|그럭저럭 괜찮아요.|Can't complain.|complain=불평하다
 4|시간 내주셔서 정말 감사해요. 바쁘신 거 알아요.|I really appreciate your time today. I know you're busy.|appreciate=감사하다
 3|이만 들어가 보세요. 좋은 저녁 되세요.|I'll let you go. Have a great evening.|let you go=(대화를) 이만 놓아주다
 4|즐거웠어요. 조만간 또 이런 자리 가져요.|This was fun. Let's do it again sometime soon.|sometime soon=조만간
@@ -37,7 +37,7 @@
 3|아슬아슬하게 시간 맞춰 왔어요.|I made it just in time.|make it=제시간에 도착하다; just in time=아슬아슬하게
 3|깜빡했어요.|It slipped my mind.|slip one's mind=깜빡하다
 4|일에 파묻혀서 제대로 생각할 겨를도 없어요.|I've been buried in work and can barely think straight.|buried in=~에 파묻힌; think straight=제대로 생각하다
-3|그건 인정해요.|Fair enough.|fair enough=그럴 만하다·인정
+w3|그건 인정해요.|Fair enough.|fair enough=그럴 만하다·인정
 4|솔직히 좀 서운했어요.|To be honest, my feelings were a little hurt.|to be honest=솔직히; hurt=상처받은
 3|드디어 금요일이다!|Thank God it's Friday!|thank God=다행이다
 4|이번 주말엔 집에서 넷플릭스나 몰아 볼래요.|I'm just going to stay in and binge Netflix this weekend.|stay in=집에 있다; binge=몰아서 보다

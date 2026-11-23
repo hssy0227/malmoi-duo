@@ -23,7 +23,7 @@
 4|태풍 때문에 비행기가 결항됐어요.|Vì bão nên chuyến bay bị hủy.|
 4|근처에 병원이 있나요?|Gần đây có bệnh viện không?|
 4|친구가 갑자기 쓰러졌어요.|Bạn tôi bỗng nhiên ngất xỉu.|bỗng nhiên=갑자기; ngất xỉu=쓰러지다
-4|불이야!|Cháy!|cháy=불나다
+w4|불이야!|Cháy!|cháy=불나다
 4|조심하세요, 소매치기가 있어요.|Cẩn thận, có kẻ móc túi.|kẻ móc túi=소매치기
 4|가방을 앞으로 메세요.|Anh đeo ba lô ra phía trước đi.|ba lô=배낭; phía trước=앞쪽
 4|가격을 미리 정하고 타세요.|Thỏa thuận giá trước rồi hãy lên xe.|thỏa thuận=합의하다

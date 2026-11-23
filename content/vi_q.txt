@@ -13,7 +13,7 @@
 @culture
 5|"물을 마실 때는 그 근원을 생각하라"는 말처럼 베트남 사람들은 은혜를 중시해요.|Như câu "Uống nước nhớ nguồn", người Việt rất coi trọng lòng biết ơn.|uống nước nhớ nguồn=음수사원(은혜를 잊지 말라); biết ơn=감사하다; coi trọng=중시하다|베트남 대표 속담
 5|"천천히 가야 오래 간다"는 속담은 성급함을 경계하는 말이에요.|Câu tục ngữ "Chậm mà chắc" khuyên người ta đừng vội vàng.|tục ngữ=속담; chậm mà chắc=느려도 확실하게; vội vàng=서두르다|
-5|"한 그루 나무로는 숲이 되지 않는다"는 말은 협력의 중요성을 뜻해요.|Câu "Một cây làm chẳng nên non" nói lên tầm quan trọng của sự đoàn kết.|một cây làm chẳng nên non=나무 한 그루로는 산을 못 이룬다; đoàn kết=단결|뒤 구절: ba cây chụm lại nên hòn núi cao
+5|"한 그루 나무로는 숲이 되지 않는다"는 말은 협력의 중요성을 뜻해요.|Câu "Một cây làm chẳng nên non" nói lên tầm quan trọng của sự đoàn kết.|non=산; chẳng nên=이루지 못하다; đoàn kết=단결|뒤 구절: ba cây chụm lại nên hòn núi cao
 5|"원님 덕에 나팔 분다"와 비슷한 베트남 속담이 있나요?|Tiếng Việt có câu tục ngữ nào tương tự "ăn theo" người khác không?|tương tự=비슷한; ăn theo=남 덕에 득을 보다|
 5|"집에서 새는 바가지 들에서도 샌다"는 말과 비슷하게 "강산은 바뀌어도 본성은 바뀌기 어렵다"고 해요.|Người Việt cũng nói "Giang sơn dễ đổi, bản tính khó dời".|giang sơn=강산; bản tính=본성; dời=옮기다·바뀌다|
 5|"말은 돈을 들이지 않으니 골라서 상대를 기쁘게 하라"는 말이 있어요.|Có câu "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau".|lựa lời=말을 고르다; vừa lòng=흡족하게 하다|말조심을 권하는 속담
@@ -30,7 +30,7 @@
 5|에너지 전환 정책에 맞춰 사업 포트폴리오를 재편하고 있습니다.|Chúng tôi đang tái cơ cấu danh mục kinh doanh theo chính sách chuyển dịch năng lượng.|tái cơ cấu=재편하다; danh mục=포트폴리오; chuyển dịch năng lượng=에너지 전환|
 5|협상 결렬 시를 대비한 대안도 마련해 두어야 합니다.|Cần chuẩn bị sẵn phương án dự phòng trong trường hợp đàm phán đổ vỡ.|phương án dự phòng=대안; đổ vỡ=결렬되다|
 @life
-5|돌이켜 보면 그 실패가 오히려 전화위복이 됐어요.|Nhìn lại thì thất bại ấy lại hóa ra là trong cái rủi có cái may.|trong cái rủi có cái may=불행 속에 행운(전화위복); hóa ra=알고 보니|
+5|돌이켜 보면 그 실패가 오히려 전화위복이 됐어요.|Nhìn lại thì thất bại ấy lại hóa ra là trong cái rủi có cái may.|rủi=불운; may=행운; hóa ra=알고 보니|
 5|낯선 땅에서 산다는 건 매일 자신의 한계를 시험하는 일이었어요.|Sống ở nơi đất khách quê người là ngày ngày thử thách giới hạn của bản thân.|đất khách quê người=타향; giới hạn=한계; thử thách=시험하다|
 5|나이가 들수록 소유보다 경험의 가치가 크다는 걸 깨달아요.|Càng lớn tuổi tôi càng nhận ra giá trị của trải nghiệm lớn hơn của cải.|của cải=재산; nhận ra=깨닫다|
 5|그분의 한마디가 제 인생의 방향을 바꿔 놓았어요.|Một câu nói của người ấy đã làm thay đổi hướng đi cuộc đời tôi.|hướng đi=방향|
