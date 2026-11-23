@@ -1,0 +1,55 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 가족·친구·관계·생활 행정(은행·비자·통신)
+@daily
+3|아이가 둘 있어요.|Tôi có hai con.|con=자녀
+3|부모님은 한국에 계세요.|Bố mẹ tôi ở Hàn Quốc.|bố mẹ=부모님
+3|주말에 가족들과 시간을 보내요.|Cuối tuần tôi dành thời gian cho gia đình.|
+3|할머니 댁에 가요.|Tôi về nhà bà.|bà=할머니
+3|아이가 많이 컸네요.|Cháu lớn nhanh quá.|lớn=자라다
+3|우리 아들은 초등학생이에요.|Con trai tôi đang học tiểu học.|con trai=아들
+3|딸이 피아노를 배워요.|Con gái tôi học piano.|con gái=딸
+3|친구가 결혼해요.|Bạn tôi sắp cưới.|cưới=결혼하다
+3|축의금은 얼마나 해요?|Mừng cưới bao nhiêu thì hợp lý?|mừng cưới=축의금을 내다
+4|베트남에서는 결혼식에 손님이 정말 많이 와요.|Ở Việt Nam đám cưới có rất đông khách.|
+4|명절에는 온 가족이 모여요.|Dịp Tết cả nhà quây quần bên nhau.|quây quần=모이다
+4|아이 교육 문제로 고민이 많아요.|Tôi đau đầu chuyện học hành của con.|đau đầu=골치 아프다; học hành=공부
+4|국제 학교 학비가 너무 비싸요.|Học phí trường quốc tế đắt quá.|
+4|가족이 그리워요.|Tôi nhớ gia đình.|nhớ=그리워하다
+4|친구랑 싸웠어요.|Tôi cãi nhau với bạn.|cãi nhau=다투다
+4|먼저 사과하는 게 좋겠어요.|Anh nên xin lỗi trước.|
+4|그 친구와는 10년 넘게 알고 지냈어요.|Tôi quen bạn ấy hơn mười năm rồi.|quen=알고 지내다
+4|요즘 연락이 뜸했어요.|Dạo này ít liên lạc quá.|
+4|이웃이 정말 친절해요.|Hàng xóm rất tốt bụng.|tốt bụng=친절한
+4|베트남 친구가 집에 초대해 줬어요.|Một người bạn Việt mời tôi đến nhà chơi.|
+4|빈손으로 가면 안 되겠죠?|Không nên đi tay không nhỉ?|tay không=빈손
+4|과일 바구니를 사 가면 좋아요.|Mang theo giỏ hoa quả là được.|hoa quả=과일(북부)
+4|베트남에서는 나이에 따라 호칭이 달라요.|Ở Việt Nam cách xưng hô thay đổi theo tuổi tác.|xưng hô=호칭; tuổi tác=나이
+4|저보다 나이가 많으니 '아인'이라고 부를게요.|Anh lớn tuổi hơn nên tôi sẽ gọi là anh.|lớn tuổi=나이가 많다
+5|가족이 멀리 있으니 작은 일에도 더 마음이 쓰여요.|Gia đình ở xa nên chuyện nhỏ tôi cũng thấy bận lòng.|bận lòng=마음 쓰이다
+5|좋은 친구는 많을 필요가 없어요.|Bạn tốt không cần nhiều.|
+5|관계는 노력하지 않으면 멀어지기 마련이에요.|Quan hệ nếu không vun đắp thì tất sẽ xa cách.|tất=반드시; xa cách=멀어지다
+5|아이에게 가장 좋은 교육은 부모의 모습이에요.|Bài học tốt nhất cho con là hình ảnh của bố mẹ.|hình ảnh=모습
+5|베트남 사람들은 가족 간의 정을 매우 중요하게 생각해요.|Người Việt rất coi trọng tình cảm gia đình.|tình cảm=정
+@shop
+3|계좌를 만들고 싶어요.|Tôi muốn mở tài khoản.|mở=열다
+3|여권을 가져왔어요.|Tôi có mang hộ chiếu.|
+3|돈을 찾고 싶어요.|Tôi muốn rút tiền.|rút tiền=돈을 인출하다
+3|카드가 기계에 걸렸어요.|Thẻ của tôi bị nuốt trong máy.|nuốt=삼키다
+3|송금하고 싶어요.|Tôi muốn chuyển tiền.|chuyển tiền=송금하다
+3|심카드를 사고 싶어요.|Tôi muốn mua sim điện thoại.|
+3|데이터 요금제가 뭐가 있어요?|Có những gói data nào?|gói=요금제
+3|충전해 주세요.|Nạp tiền điện thoại giúp tôi.|nạp tiền=충전하다
+4|해외 송금 수수료가 얼마예요?|Phí chuyển tiền ra nước ngoài là bao nhiêu?|
+4|비자를 연장해야 해요.|Tôi phải gia hạn thị thực.|
+4|임시 거주증을 신청하려고요.|Tôi định xin thẻ tạm trú.|thẻ tạm trú=임시 거주증
+4|노동 허가서가 필요해요.|Tôi cần giấy phép lao động.|giấy phép lao động=노동 허가서
+4|서류를 공증받아야 해요.|Giấy tờ phải được công chứng.|giấy tờ=서류; công chứng=공증하다
+4|번역본도 필요한가요?|Có cần bản dịch không?|bản dịch=번역본
+4|처리하는 데 며칠 걸려요?|Xử lý mất mấy ngày?|
+4|거주지 등록을 해야 해요.|Tôi phải khai báo tạm trú.|khai báo=신고하다
+4|은행 앱으로 공과금을 내요.|Tôi trả các hóa đơn qua ứng dụng ngân hàng.|
+4|비밀번호를 세 번 틀려서 잠겼어요.|Tôi nhập sai mật khẩu ba lần nên bị khóa.|nhập=입력하다; sai=틀리다; khóa=잠그다
+4|인증 번호가 안 와요.|Tôi không nhận được mã OTP.|
+4|통신사 고객 센터에 전화했어요.|Tôi đã gọi tổng đài nhà mạng.|tổng đài=콜센터; nhà mạng=통신사
+5|외국에서 살면 행정 절차가 가장 큰 스트레스예요.|Sống ở nước ngoài thì thủ tục hành chính là áp lực lớn nhất.|
+5|서류는 항상 사본을 여러 장 준비해 두는 게 좋아요.|Nên luôn chuẩn bị sẵn nhiều bản sao giấy tờ.|bản sao=사본
+5|요즘은 온라인으로 처리할 수 있는 일이 많아져서 편해졌어요.|Giờ nhiều việc làm được trực tuyến nên tiện hơn hẳn.|hẳn=확연히
