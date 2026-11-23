@@ -1,0 +1,85 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 경제·거시
+@econ
+3|경제가 회복되고 있다.|Kinh tế đang phục hồi.|kinh tế=경제; phục hồi=회복하다
+3|물가가 계속 오르고 있다.|Giá cả tiếp tục tăng.|giá cả=물가; tiếp tục=계속하다; tăng=오르다
+3|수출이 크게 늘었다.|Xuất khẩu tăng mạnh.|xuất khẩu=수출; mạnh=강하게
+3|수입이 줄었다.|Nhập khẩu giảm.|nhập khẩu=수입; giảm=줄다
+3|금리가 내렸다.|Lãi suất đã giảm.|lãi suất=금리
+3|환율이 올랐다.|Tỷ giá tăng.|tỷ giá=환율
+3|주가가 떨어졌다.|Giá cổ phiếu giảm.|cổ phiếu=주식
+3|실업률이 낮아졌다.|Tỷ lệ thất nghiệp giảm.|tỷ lệ=비율; thất nghiệp=실업
+3|소비가 늘고 있다.|Tiêu dùng đang tăng.|tiêu dùng=소비
+3|투자가 확대되고 있다.|Đầu tư đang được mở rộng.|đầu tư=투자; mở rộng=확대하다
+4|올해 경제 성장률은 6.5%로 예상된다.|Tăng trưởng kinh tế năm nay dự kiến đạt 6,5%.|tăng trưởng=성장; dự kiến=예상하다; đạt=달성하다
+4|소비자 물가 지수가 전년 동기 대비 3% 올랐다.|Chỉ số giá tiêu dùng tăng 3% so với cùng kỳ năm trước.|chỉ số=지수; cùng kỳ=동기; so với=~에 비해
+4|중앙은행이 기준 금리를 동결했다.|Ngân hàng Nhà nước giữ nguyên lãi suất điều hành.|Ngân hàng Nhà nước=(베트남) 중앙은행; giữ nguyên=유지하다; lãi suất điều hành=기준 금리
+4|외국인 직접 투자가 사상 최대를 기록했다.|Vốn đầu tư trực tiếp nước ngoài đạt mức kỷ lục.|vốn=자본; trực tiếp=직접; kỷ lục=기록
+4|무역 흑자가 100억 달러를 넘었다.|Thặng dư thương mại vượt 10 tỷ USD.|thặng dư=흑자; thương mại=무역; vượt=넘다; tỷ=10억
+4|공공 투자 집행이 더디다.|Giải ngân đầu tư công còn chậm.|giải ngân=집행; đầu tư công=공공 투자; chậm=느린
+4|정부는 경기 부양책을 발표했다.|Chính phủ công bố gói kích thích kinh tế.|chính phủ=정부; công bố=발표하다; gói=패키지; kích thích=자극하다
+4|부가가치세 인하가 연장됐다.|Việc giảm thuế giá trị gia tăng được gia hạn.|thuế=세금; giá trị gia tăng=부가가치; gia hạn=연장하다
+4|기업들이 자금난을 겪고 있다.|Doanh nghiệp đang gặp khó khăn về vốn.|doanh nghiệp=기업; gặp=겪다; khó khăn=어려움
+4|부동산 시장이 아직 침체돼 있다.|Thị trường bất động sản vẫn còn trầm lắng.|thị trường=시장; bất động sản=부동산; trầm lắng=침체된
+4|은행 대출이 늘었다.|Tín dụng ngân hàng tăng.|tín dụng=신용·대출; ngân hàng=은행
+4|원자재 가격이 생산 비용을 끌어올렸다.|Giá nguyên liệu đẩy chi phí sản xuất lên cao.|nguyên liệu=원자재; đẩy=밀다; chi phí=비용; sản xuất=생산
+4|제조업 생산 지수가 반등했다.|Chỉ số sản xuất công nghiệp phục hồi.|công nghiệp=산업
+4|관광 수입이 코로나 이전 수준을 회복했다.|Doanh thu du lịch đã trở lại mức trước dịch.|doanh thu=매출·수입; du lịch=관광; trở lại=돌아오다; dịch=전염병
+4|금값이 사상 최고치를 기록했다.|Giá vàng lập đỉnh mới.|vàng=금; lập đỉnh=최고치를 세우다
+4|달러 대비 동화 가치가 하락했다.|Đồng Việt Nam mất giá so với đô la Mỹ.|mất giá=가치가 떨어지다; đô la=달러
+4|주식 시장 거래량이 크게 줄었다.|Thanh khoản thị trường chứng khoán giảm mạnh.|thanh khoản=유동성·거래량; chứng khoán=증권
+4|외국인 투자자들이 순매도했다.|Nhà đầu tư nước ngoài bán ròng.|nhà đầu tư=투자자; bán ròng=순매도하다
+4|신규 설립 기업 수가 늘었다.|Số doanh nghiệp thành lập mới tăng.|thành lập=설립하다
+4|시장에서 철수하는 기업도 많다.|Nhiều doanh nghiệp rút lui khỏi thị trường.|rút lui=철수하다; khỏi=~에서
+4|쌀 수출 가격이 올랐다.|Giá gạo xuất khẩu tăng.|gạo=쌀
+4|커피 수출액이 사상 최대를 기록했다.|Kim ngạch xuất khẩu cà phê cao kỷ lục.|kim ngạch=교역액
+4|전자제품이 최대 수출 품목이다.|Điện tử là mặt hàng xuất khẩu lớn nhất.|điện tử=전자; mặt hàng=품목
+4|한국은 베트남의 최대 투자국 중 하나다.|Hàn Quốc là một trong những nhà đầu tư lớn nhất của Việt Nam.|Hàn Quốc=한국
+4|미국은 베트남의 최대 수출 시장이다.|Mỹ là thị trường xuất khẩu lớn nhất của Việt Nam.|Mỹ=미국
+4|임금 인상이 소비를 뒷받침하고 있다.|Tăng lương đang hỗ trợ tiêu dùng.|lương=임금; hỗ trợ=지원하다
+4|소매 판매가 전년 대비 9% 늘었다.|Tổng mức bán lẻ tăng 9% so với năm trước.|bán lẻ=소매
+4|인플레이션이 목표 범위 안에서 관리되고 있다.|Lạm phát đang được kiểm soát trong mục tiêu.|lạm phát=인플레이션; kiểm soát=통제하다; mục tiêu=목표
+4|정부는 행정 절차를 간소화하겠다고 밝혔다.|Chính phủ cho biết sẽ đơn giản hóa thủ tục hành chính.|cho biết=밝히다; đơn giản hóa=간소화하다; thủ tục hành chính=행정 절차
+4|경제 전문가들은 하반기 전망을 낙관한다.|Các chuyên gia kinh tế lạc quan về triển vọng nửa cuối năm.|chuyên gia=전문가; lạc quan=낙관하다; triển vọng=전망; nửa cuối năm=하반기
+4|국가 신용 등급이 상향됐다.|Xếp hạng tín nhiệm quốc gia được nâng lên.|xếp hạng=등급; tín nhiệm=신용; nâng=올리다
+4|수출 주문이 다시 늘기 시작했다.|Đơn hàng xuất khẩu bắt đầu tăng trở lại.|đơn hàng=주문; bắt đầu=시작하다
+4|중소기업 지원 정책이 마련됐다.|Chính sách hỗ trợ doanh nghiệp nhỏ và vừa đã được ban hành.|chính sách=정책; nhỏ và vừa=중소; ban hành=공포하다
+4|물류 비용이 수출 기업의 부담이 되고 있다.|Chi phí logistics đang là gánh nặng cho doanh nghiệp xuất khẩu.|gánh nặng=부담
+4|국내 시장의 구매력이 약해졌다.|Sức mua thị trường trong nước yếu đi.|sức mua=구매력; trong nước=국내; yếu=약한
+4|주택 가격이 소득에 비해 너무 높다.|Giá nhà quá cao so với thu nhập.|nhà=집; thu nhập=소득
+4|은행들이 예금 금리를 올렸다.|Các ngân hàng tăng lãi suất tiết kiệm.|tiết kiệm=저축
+4|디지털 결제가 빠르게 확산되고 있다.|Thanh toán số đang lan rộng nhanh chóng.|thanh toán=결제; số=디지털; lan rộng=퍼지다
+4|베트남은 아세안에서 가장 빠르게 성장하는 경제 중 하나다.|Việt Nam là một trong những nền kinh tế tăng trưởng nhanh nhất ASEAN.|nền kinh tế=경제(체)
+5|경제는 외부 충격에 취약하다.|Nền kinh tế dễ bị tổn thương trước các cú sốc bên ngoài.|dễ bị tổn thương=취약한; cú sốc=충격; bên ngoài=외부
+5|수출 의존도가 너무 높다는 지적이 나온다.|Nhiều ý kiến cho rằng mức độ phụ thuộc vào xuất khẩu quá cao.|ý kiến=의견; cho rằng=~라고 보다; phụ thuộc=의존하다
+5|성장의 질을 높이는 것이 더 중요하다.|Nâng cao chất lượng tăng trưởng quan trọng hơn.|nâng cao=높이다; chất lượng=질; quan trọng=중요한
+5|민간 부문이 성장의 원동력이 되어야 한다.|Khu vực tư nhân cần trở thành động lực tăng trưởng.|khu vực tư nhân=민간 부문; động lực=원동력
+5|노동 생산성이 지역 국가들보다 낮다.|Năng suất lao động còn thấp so với các nước trong khu vực.|năng suất lao động=노동 생산성; khu vực=지역
+5|중간재 수입 의존이 부가가치를 낮춘다.|Việc phụ thuộc vào nhập khẩu nguyên liệu đầu vào làm giảm giá trị gia tăng.|đầu vào=투입·중간재
+5|통화 정책과 재정 정책의 조화가 필요하다.|Cần phối hợp hài hòa giữa chính sách tiền tệ và chính sách tài khóa.|phối hợp=조율하다; hài hòa=조화로운; tiền tệ=통화; tài khóa=재정
+5|외국인 투자 기업과 국내 기업 간 연계가 약하다.|Liên kết giữa doanh nghiệp FDI và doanh nghiệp trong nước còn yếu.|liên kết=연계
+5|제도 개혁이 다음 성장 단계의 핵심이다.|Cải cách thể chế là chìa khóa cho giai đoạn tăng trưởng tiếp theo.|cải cách=개혁; thể chế=제도; chìa khóa=열쇠; giai đoạn=단계
+5|글로벌 수요 둔화가 수출 전망을 어둡게 하고 있다.|Nhu cầu toàn cầu suy yếu đang làm triển vọng xuất khẩu kém khả quan.|nhu cầu=수요; toàn cầu=세계; suy yếu=약해지다; khả quan=낙관적인
+5|중진국 함정을 피하려면 혁신이 필수다.|Để tránh bẫy thu nhập trung bình, đổi mới sáng tạo là điều bắt buộc.|tránh=피하다; bẫy=함정; đổi mới sáng tạo=혁신; bắt buộc=필수의
+5|인구 구조 변화는 장기 성장에 영향을 준다.|Thay đổi cơ cấu dân số ảnh hưởng đến tăng trưởng dài hạn.|cơ cấu=구조; dân số=인구; ảnh hưởng=영향; dài hạn=장기
+5|부동산 시장의 회복은 법적 문제 해결에 달려 있다.|Sự phục hồi của thị trường bất động sản phụ thuộc vào việc tháo gỡ vướng mắc pháp lý.|tháo gỡ=해소하다; vướng mắc=걸림돌; pháp lý=법적
+5|금리 인하 여력은 제한적이다.|Dư địa giảm lãi suất là có hạn.|dư địa=여력; có hạn=제한적인
+5|환율 안정이 거시 경제 안정의 전제 조건이다.|Ổn định tỷ giá là điều kiện tiên quyết cho ổn định kinh tế vĩ mô.|ổn định=안정; tiên quyết=전제적인; vĩ mô=거시
+5|정부는 2030년까지 고소득 개발도상국이 되는 것을 목표로 한다.|Chính phủ đặt mục tiêu trở thành nước đang phát triển có thu nhập cao vào năm 2030.|đặt mục tiêu=목표로 하다; đang phát triển=개발도상의
+5|녹색 성장은 선택이 아니라 필수가 되었다.|Tăng trưởng xanh không còn là lựa chọn mà là yêu cầu bắt buộc.|xanh=녹색; lựa chọn=선택; yêu cầu=요구
+5|경제 성장의 혜택이 고르게 나뉘어야 한다.|Thành quả tăng trưởng cần được phân bổ công bằng.|thành quả=성과; phân bổ=배분하다; công bằng=공평한
+5|불확실성이 커지면서 기업들은 투자를 미루고 있다.|Khi bất định gia tăng, doanh nghiệp trì hoãn đầu tư.|bất định=불확실성; gia tăng=증가하다; trì hoãn=미루다
+5|미중 무역 갈등은 베트남에 기회이자 위험이다.|Căng thẳng thương mại Mỹ – Trung vừa là cơ hội vừa là rủi ro cho Việt Nam.|căng thẳng=긴장; vừa...vừa=~이면서 ~이다; cơ hội=기회; rủi ro=위험
+@shop
+3|온라인 쇼핑이 늘고 있다.|Mua sắm trực tuyến đang tăng.|mua sắm=쇼핑; trực tuyến=온라인
+3|배달 앱 이용자가 많아졌다.|Người dùng ứng dụng giao đồ ăn tăng lên.|người dùng=사용자; ứng dụng=앱; giao=배달하다; đồ ăn=음식
+4|전자 상거래 시장 규모가 250억 달러에 이르렀다.|Quy mô thị trường thương mại điện tử đạt 25 tỷ USD.|quy mô=규모; thương mại điện tử=전자 상거래
+4|라이브 방송 판매가 큰 인기를 끌고 있다.|Bán hàng qua livestream đang rất được ưa chuộng.|bán hàng=판매; ưa chuộng=선호하다
+4|소비자들은 할인 행사에 민감하다.|Người tiêu dùng nhạy cảm với các chương trình khuyến mãi.|người tiêu dùng=소비자; nhạy cảm=민감한; khuyến mãi=할인 행사
+4|편의점 체인이 빠르게 늘고 있다.|Chuỗi cửa hàng tiện lợi đang mở rộng nhanh.|chuỗi=체인; cửa hàng tiện lợi=편의점
+4|전통 시장은 여전히 중요한 유통 채널이다.|Chợ truyền thống vẫn là kênh phân phối quan trọng.|chợ=시장; truyền thống=전통; kênh=채널; phân phối=유통
+4|가짜 상품 문제가 온라인에서 심각하다.|Vấn nạn hàng giả trên mạng rất nghiêm trọng.|vấn nạn=폐해; hàng giả=가짜 상품; nghiêm trọng=심각한
+4|한국 화장품이 베트남에서 인기가 많다.|Mỹ phẩm Hàn Quốc rất được ưa chuộng tại Việt Nam.|mỹ phẩm=화장품
+4|정부는 온라인 판매자에 대한 세금 관리를 강화했다.|Nhà nước siết chặt quản lý thuế đối với người bán hàng online.|siết chặt=강화하다; quản lý=관리
+5|소비자들은 가격보다 신뢰와 편의성을 중시하기 시작했다.|Người tiêu dùng bắt đầu coi trọng sự tin cậy và tiện lợi hơn giá cả.|coi trọng=중시하다; tin cậy=신뢰; tiện lợi=편리
+5|플랫폼 간 경쟁이 판매자에게 수수료 부담을 안기고 있다.|Cạnh tranh giữa các sàn đang đẩy gánh nặng phí lên người bán.|cạnh tranh=경쟁; sàn=플랫폼(전자상거래); phí=수수료
+5|중산층 확대가 소비 시장의 판도를 바꾸고 있다.|Sự mở rộng của tầng lớp trung lưu đang thay đổi cục diện thị trường tiêu dùng.|tầng lớp trung lưu=중산층; cục diện=판도

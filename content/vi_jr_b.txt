@@ -1,0 +1,79 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 사회·정치·외교
+@society
+3|인구가 1억 명을 넘었다.|Dân số đã vượt 100 triệu người.|triệu=백만
+3|하노이에 비가 많이 왔다.|Hà Nội mưa rất to.|mưa to=비가 많이 오다
+3|교통 체증이 심하다.|Tắc đường rất nghiêm trọng.|tắc đường=교통 체증
+3|공기 오염이 심각하다.|Ô nhiễm không khí rất nghiêm trọng.|ô nhiễm=오염; không khí=공기
+3|학생들이 개학했다.|Học sinh đã đi học trở lại.|học sinh=학생
+3|명절 연휴가 시작됐다.|Kỳ nghỉ Tết đã bắt đầu.|kỳ nghỉ=연휴; Tết=설날
+3|병원이 환자로 붐빈다.|Bệnh viện quá tải bệnh nhân.|bệnh viện=병원; quá tải=과부하; bệnh nhân=환자
+4|하노이는 오토바이 운행 제한을 검토하고 있다.|Hà Nội đang xem xét hạn chế xe máy.|xem xét=검토하다; hạn chế=제한하다; xe máy=오토바이
+4|도시 철도 노선이 새로 개통됐다.|Tuyến đường sắt đô thị mới được đưa vào vận hành.|tuyến=노선; đường sắt đô thị=도시 철도; vận hành=운행하다
+4|폭우로 여러 지역이 침수됐다.|Mưa lớn khiến nhiều khu vực bị ngập.|khiến=~하게 하다; ngập=침수되다
+4|태풍이 북부 지역을 강타했다.|Bão đổ bộ vào các tỉnh miền Bắc.|bão=태풍; đổ bộ=상륙하다; tỉnh=성(省); miền Bắc=북부
+4|정부는 피해 지역에 긴급 지원을 했다.|Chính phủ hỗ trợ khẩn cấp cho vùng bị thiệt hại.|khẩn cấp=긴급한; vùng=지역; thiệt hại=피해
+4|고등학교 졸업 시험이 다음 주에 치러진다.|Kỳ thi tốt nghiệp THPT sẽ diễn ra vào tuần sau.|kỳ thi=시험; tốt nghiệp=졸업; THPT=고등학교; diễn ra=열리다
+4|대학 입학 경쟁이 치열하다.|Cạnh tranh vào đại học rất gay gắt.|đại học=대학; gay gắt=치열한
+4|노인 인구 비율이 빠르게 늘고 있다.|Tỷ lệ người cao tuổi đang tăng nhanh.|người cao tuổi=노인
+4|출산율이 대체 수준 아래로 떨어졌다.|Mức sinh đã giảm xuống dưới mức sinh thay thế.|mức sinh=출산율; thay thế=대체
+4|농촌 청년들이 도시로 몰리고 있다.|Thanh niên nông thôn đổ về thành phố.|thanh niên=청년; nông thôn=농촌; đổ về=몰려들다; thành phố=도시
+4|최저 임금이 7월부터 인상된다.|Lương tối thiểu sẽ tăng từ tháng 7.|tối thiểu=최저
+4|사회 보험 가입자가 늘었다.|Số người tham gia bảo hiểm xã hội tăng.|tham gia=참여하다; bảo hiểm xã hội=사회 보험
+4|의료비 부담이 여전히 크다.|Gánh nặng chi phí y tế vẫn còn lớn.|y tế=의료
+4|음주 운전 단속이 강화됐다.|Việc xử lý vi phạm nồng độ cồn được siết chặt.|xử lý=처리하다; vi phạm=위반; nồng độ cồn=혈중알코올농도
+4|교통사고 사망자가 줄었다.|Số người chết vì tai nạn giao thông giảm.|tai nạn=사고; giao thông=교통
+4|주택 가격 상승으로 청년들이 집을 사기 어렵다.|Giá nhà tăng khiến người trẻ khó mua nhà.|người trẻ=젊은이
+4|사회 주택 공급을 늘릴 계획이다.|Dự kiến sẽ tăng nguồn cung nhà ở xã hội.|nguồn cung=공급; nhà ở xã hội=사회 주택
+4|온라인 사기 피해가 늘고 있다.|Số vụ lừa đảo qua mạng đang gia tăng.|vụ=사건; lừa đảo=사기; qua mạng=온라인으로
+4|경찰은 시민들에게 주의를 당부했다.|Công an khuyến cáo người dân cảnh giác.|công an=경찰; khuyến cáo=권고하다; người dân=시민; cảnh giác=경계하다
+4|외국인 관광객이 크게 늘었다.|Lượng khách quốc tế tăng mạnh.|lượng=양; khách quốc tế=외국인 관광객
+4|하노이 구시가지는 주말마다 보행자 거리가 된다.|Phố cổ Hà Nội trở thành phố đi bộ vào cuối tuần.|phố cổ=구시가지; phố đi bộ=보행자 거리; cuối tuần=주말
+4|학교 폭력 예방 교육이 강화된다.|Giáo dục phòng chống bạo lực học đường được tăng cường.|giáo dục=교육; phòng chống=예방하다; bạo lực học đường=학교 폭력; tăng cường=강화하다
+4|가뭄으로 메콩 델타 농민들이 어려움을 겪고 있다.|Hạn hán khiến nông dân Đồng bằng sông Cửu Long gặp khó khăn.|hạn hán=가뭄; nông dân=농민; Đồng bằng sông Cửu Long=메콩 델타
+4|플라스틱 사용을 줄이자는 캠페인이 확산되고 있다.|Chiến dịch giảm rác thải nhựa đang lan rộng.|chiến dịch=캠페인; rác thải nhựa=플라스틱 쓰레기
+4|외국어 교육 수요가 크다.|Nhu cầu học ngoại ngữ rất lớn.|ngoại ngữ=외국어
+4|한국어를 배우는 베트남 학생이 많다.|Nhiều học sinh Việt Nam học tiếng Hàn.|tiếng Hàn=한국어
+5|급속한 도시화는 기반 시설에 큰 압력을 주고 있다.|Đô thị hóa nhanh đang gây áp lực lớn lên cơ sở hạ tầng.|đô thị hóa=도시화; gây=초래하다; áp lực=압력; cơ sở hạ tầng=기반 시설
+5|베트남은 부유해지기 전에 늙을 위험이 있다.|Việt Nam có nguy cơ già trước khi giàu.|nguy cơ=위험; già=늙다; giàu=부유하다
+5|지역 간 소득 격차가 여전히 크다.|Khoảng cách thu nhập giữa các vùng vẫn còn lớn.|khoảng cách=격차
+5|교육 개혁은 시험 위주의 문화를 바꾸는 데서 시작해야 한다.|Cải cách giáo dục cần bắt đầu từ việc thay đổi văn hóa nặng về thi cử.|văn hóa=문화; nặng về=~에 치우친; thi cử=시험
+5|기후 변화는 메콩 델타의 생존을 위협하고 있다.|Biến đổi khí hậu đang đe dọa sự tồn tại của Đồng bằng sông Cửu Long.|biến đổi khí hậu=기후 변화; đe dọa=위협하다; tồn tại=존재
+5|사회 안전망 확충이 시급하다.|Cần khẩn trương mở rộng mạng lưới an sinh xã hội.|khẩn trương=시급히; mạng lưới=망; an sinh xã hội=사회 보장
+5|가짜 뉴스가 사회적 불안을 키우고 있다.|Tin giả đang làm gia tăng bất an trong xã hội.|tin giả=가짜 뉴스; bất an=불안
+5|노동자의 권리 보호가 성장만큼 중요하다.|Bảo vệ quyền lợi người lao động cũng quan trọng như tăng trưởng.|bảo vệ=보호하다; quyền lợi=권익; người lao động=노동자
+5|공공 서비스의 디지털 전환이 시민들의 불편을 줄이고 있다.|Chuyển đổi số dịch vụ công đang giảm bớt phiền hà cho người dân.|chuyển đổi số=디지털 전환; dịch vụ công=공공 서비스; phiền hà=번거로움
+5|환경 보호와 경제 개발 사이의 균형이 과제다.|Cân bằng giữa bảo vệ môi trường và phát triển kinh tế là một thách thức.|cân bằng=균형; môi trường=환경; phát triển=발전; thách thức=도전 과제
+5|청년 실업은 숫자보다 질의 문제다.|Thất nghiệp ở thanh niên là vấn đề về chất lượng việc làm hơn là con số.|việc làm=일자리; con số=숫자
+5|다문화 가정이 늘면서 사회 통합이 중요해지고 있다.|Khi gia đình đa văn hóa tăng lên, hòa nhập xã hội ngày càng quan trọng.|đa văn hóa=다문화; hòa nhập=통합; ngày càng=점점
+@society
+4|국회가 새 법안을 통과시켰다.|Quốc hội đã thông qua luật mới.|Quốc hội=국회; thông qua=통과시키다; luật=법
+4|정부는 공무원 조직을 줄이기로 했다.|Chính phủ quyết định tinh gọn bộ máy hành chính.|tinh gọn=슬림화하다; bộ máy=기구
+4|여러 성이 하나로 통합됐다.|Nhiều tỉnh đã được sáp nhập.|sáp nhập=합병·통합하다
+4|부패 척결 운동이 계속되고 있다.|Công cuộc phòng chống tham nhũng tiếp tục được đẩy mạnh.|công cuộc=사업·과업; tham nhũng=부패; đẩy mạnh=추진하다
+4|총리가 기업인들과 간담회를 가졌다.|Thủ tướng gặp gỡ đối thoại với các doanh nhân.|Thủ tướng=총리; gặp gỡ=만나다; đối thoại=대화; doanh nhân=기업인
+4|새 법은 내년 1월 1일부터 시행된다.|Luật mới có hiệu lực từ ngày 1 tháng 1 năm sau.|có hiệu lực=시행되다
+4|국회 의원들이 예산안을 놓고 토론했다.|Các đại biểu Quốc hội thảo luận về dự toán ngân sách.|đại biểu=대표·의원; thảo luận=토론하다; dự toán ngân sách=예산안
+4|여론은 이 정책에 대체로 긍정적이다.|Dư luận nhìn chung đánh giá tích cực chính sách này.|dư luận=여론; nhìn chung=대체로; đánh giá=평가하다; tích cực=긍정적인
+4|시민들의 의견 수렴 절차를 거친다.|Sẽ lấy ý kiến người dân.|lấy ý kiến=의견을 수렴하다
+5|행정 기구 개편은 효율성을 높이기 위한 것이다.|Việc sắp xếp lại bộ máy nhằm nâng cao hiệu quả hoạt động.|sắp xếp lại=재편하다; nhằm=~을 위해; hiệu quả=효율
+5|법은 통과됐지만 시행 세칙이 아직 없다.|Luật đã được thông qua nhưng vẫn chưa có văn bản hướng dẫn.|văn bản hướng dẫn=시행 세칙
+5|정책의 일관성이 투자자 신뢰의 핵심이다.|Tính nhất quán của chính sách là yếu tố then chốt tạo niềm tin cho nhà đầu tư.|nhất quán=일관된; then chốt=핵심적인; niềm tin=신뢰
+5|지방 정부에 더 많은 권한이 위임되고 있다.|Ngày càng nhiều quyền hạn được phân cấp cho chính quyền địa phương.|quyền hạn=권한; phân cấp=위임하다; chính quyền địa phương=지방 정부
+5|제도가 현실을 따라가지 못하고 있다.|Thể chế chưa theo kịp thực tiễn.|theo kịp=따라잡다; thực tiễn=현실
+5|책임을 두려워하는 공무원 문화가 개혁의 걸림돌이다.|Tâm lý sợ trách nhiệm của cán bộ là rào cản đối với cải cách.|tâm lý=심리; trách nhiệm=책임; cán bộ=공무원·간부; rào cản=장벽
+@society
+4|양국 정상이 하노이에서 회담했다.|Lãnh đạo hai nước đã hội đàm tại Hà Nội.|lãnh đạo=지도자; hội đàm=회담하다
+4|베트남과 한국은 포괄적 전략 동반자 관계다.|Việt Nam và Hàn Quốc là Đối tác chiến lược toàn diện.|đối tác=파트너; chiến lược=전략; toàn diện=포괄적
+4|양측은 여러 협력 문서에 서명했다.|Hai bên đã ký kết nhiều văn kiện hợp tác.|ký kết=체결하다; văn kiện=문서; hợp tác=협력
+4|외교부 대변인이 입장을 밝혔다.|Người phát ngôn Bộ Ngoại giao đã nêu quan điểm.|người phát ngôn=대변인; Bộ Ngoại giao=외교부; nêu=밝히다; quan điểm=입장
+4|베트남은 한국인에게 무비자 입국을 허용한다.|Việt Nam miễn thị thực cho công dân Hàn Quốc.|miễn=면제하다; thị thực=비자; công dân=국민
+4|양국 교역액 목표는 1500억 달러다.|Mục tiêu kim ngạch thương mại song phương là 150 tỷ USD.|song phương=양자의
+4|대통령이 베트남을 국빈 방문했다.|Tổng thống đã có chuyến thăm cấp nhà nước tới Việt Nam.|Tổng thống=대통령; chuyến thăm=방문; cấp nhà nước=국빈급
+4|아세안 정상 회의가 다음 달에 열린다.|Hội nghị Cấp cao ASEAN sẽ diễn ra vào tháng tới.|hội nghị cấp cao=정상 회의
+4|베트남은 균형 외교를 추구한다.|Việt Nam theo đuổi chính sách đối ngoại cân bằng.|theo đuổi=추구하다; đối ngoại=대외
+5|베트남은 어느 편에도 서지 않는 외교 노선을 유지하고 있다.|Việt Nam duy trì đường lối không chọn bên.|duy trì=유지하다; đường lối=노선; chọn bên=편을 고르다
+5|양국 관계는 경제를 넘어 문화와 인적 교류로 확대되고 있다.|Quan hệ hai nước đang mở rộng từ kinh tế sang văn hóa và giao lưu nhân dân.|quan hệ=관계; giao lưu=교류; nhân dân=국민
+5|국제법에 따른 평화적 분쟁 해결을 지지한다.|Ủng hộ giải quyết tranh chấp bằng biện pháp hòa bình trên cơ sở luật pháp quốc tế.|ủng hộ=지지하다; tranh chấp=분쟁; biện pháp=방법; hòa bình=평화; luật pháp quốc tế=국제법
+5|지역 안보 환경이 점점 복잡해지고 있다.|Môi trường an ninh khu vực ngày càng phức tạp.|an ninh=안보; phức tạp=복잡한
+5|강대국 경쟁 속에서 중견국의 외교적 공간이 좁아지고 있다.|Trong cạnh tranh nước lớn, không gian ngoại giao của các nước tầm trung bị thu hẹp.|nước lớn=강대국; tầm trung=중간 규모; thu hẹp=좁아지다
+5|공급망 협력이 양국 관계의 새로운 축이 되고 있다.|Hợp tác chuỗi cung ứng đang trở thành trụ cột mới trong quan hệ hai nước.|chuỗi cung ứng=공급망; trụ cột=기둥

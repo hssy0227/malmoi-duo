@@ -1,0 +1,75 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 기술·디지털·AI
+@tech
+3|스마트폰 사용자가 늘었다.|Số người dùng điện thoại thông minh tăng.|điện thoại thông minh=스마트폰
+3|인터넷 속도가 빨라졌다.|Tốc độ Internet nhanh hơn.|tốc độ=속도
+3|새 앱이 출시됐다.|Ứng dụng mới đã ra mắt.|ra mắt=출시하다
+3|해킹 공격이 있었다.|Đã xảy ra một vụ tấn công mạng.|xảy ra=발생하다; tấn công mạng=사이버 공격
+3|인공지능이 화제다.|Trí tuệ nhân tạo đang là chủ đề nóng.|trí tuệ nhân tạo=인공지능; chủ đề nóng=핫한 주제
+4|5G 서비스가 전국으로 확대됐다.|Dịch vụ 5G đã được mở rộng ra toàn quốc.|dịch vụ=서비스; toàn quốc=전국
+4|정부는 디지털 전환을 핵심 과제로 정했다.|Chính phủ xác định chuyển đổi số là nhiệm vụ trọng tâm.|xác định=확정하다; nhiệm vụ=임무; trọng tâm=중점
+4|전자 신분증이 널리 쓰이고 있다.|Căn cước điện tử đang được sử dụng rộng rãi.|căn cước=신분증; sử dụng=사용하다; rộng rãi=널리
+4|비현금 결제 비율이 빠르게 늘고 있다.|Tỷ lệ thanh toán không dùng tiền mặt tăng nhanh.|tiền mặt=현금
+4|QR 코드 결제가 일상이 됐다.|Thanh toán bằng mã QR đã trở nên phổ biến.|mã=코드; phổ biến=보편적인
+4|반도체 산업에 대한 투자가 늘고 있다.|Đầu tư vào ngành bán dẫn đang tăng.|ngành=산업; bán dẫn=반도체
+4|글로벌 기술 기업들이 베트남에 연구 센터를 세웠다.|Các tập đoàn công nghệ toàn cầu đã mở trung tâm nghiên cứu tại Việt Nam.|tập đoàn=그룹; công nghệ=기술; trung tâm=센터; nghiên cứu=연구
+4|스타트업 투자 유치가 둔화됐다.|Việc gọi vốn của startup chậm lại.|gọi vốn=투자 유치하다; chậm lại=둔화되다
+4|개인정보 보호법이 시행됐다.|Luật Bảo vệ dữ liệu cá nhân đã có hiệu lực.|dữ liệu=데이터; cá nhân=개인
+4|데이터센터 수요가 급증하고 있다.|Nhu cầu trung tâm dữ liệu đang tăng vọt.|tăng vọt=급증하다
+4|소셜 미디어 계정 인증이 의무화됐다.|Việc xác thực tài khoản mạng xã hội đã trở thành bắt buộc.|xác thực=인증하다; tài khoản=계정; mạng xã hội=소셜 미디어
+4|해커들이 은행 고객 정보를 노렸다.|Tin tặc nhắm vào thông tin khách hàng ngân hàng.|tin tặc=해커; nhắm vào=노리다; khách hàng=고객
+4|기술 인력이 부족하다.|Nguồn nhân lực công nghệ đang thiếu hụt.|nguồn nhân lực=인력; thiếu hụt=부족하다
+4|IT 엔지니어의 연봉이 오르고 있다.|Lương kỹ sư IT đang tăng.|kỹ sư=엔지니어
+4|많은 기업이 클라우드로 옮기고 있다.|Nhiều doanh nghiệp đang chuyển lên điện toán đám mây.|điện toán đám mây=클라우드 컴퓨팅
+4|AI 챗봇이 고객 상담에 쓰이고 있다.|Chatbot AI đang được dùng trong chăm sóc khách hàng.|chăm sóc khách hàng=고객 관리
+4|전기차 판매가 빠르게 늘고 있다.|Doanh số xe điện đang tăng nhanh.|doanh số=판매량; xe điện=전기차
+4|정부는 국가 데이터베이스를 구축하고 있다.|Chính phủ đang xây dựng cơ sở dữ liệu quốc gia.|xây dựng=구축하다; cơ sở dữ liệu=데이터베이스
+4|온라인 공공 서비스 이용이 늘었다.|Việc sử dụng dịch vụ công trực tuyến tăng.|
+4|해저 케이블 고장으로 인터넷이 느려졌다.|Sự cố cáp quang biển khiến Internet chậm.|sự cố=고장; cáp quang biển=해저 광케이블
+4|전자 송장이 의무화됐다.|Hóa đơn điện tử đã trở thành bắt buộc.|hóa đơn=영수증·송장
+4|드론 배송 시험이 시작됐다.|Thử nghiệm giao hàng bằng drone đã bắt đầu.|thử nghiệm=시험; giao hàng=배송
+4|기술 기업들의 대규모 감원이 이어졌다.|Các công ty công nghệ tiếp tục cắt giảm nhân sự quy mô lớn.|cắt giảm=감축하다; nhân sự=인원
+4|베트남산 스마트폰이 해외로 수출된다.|Điện thoại sản xuất tại Việt Nam được xuất khẩu ra nước ngoài.|nước ngoài=해외
+4|정부는 반도체 인재 5만 명 양성을 목표로 한다.|Chính phủ đặt mục tiêu đào tạo 50.000 kỹ sư bán dẫn.|đào tạo=양성하다
+4|딥페이크 사기가 늘고 있다.|Lừa đảo bằng deepfake đang gia tăng.|
+4|AI가 학생들의 공부 방식을 바꾸고 있다.|AI đang thay đổi cách học của học sinh.|cách học=공부 방식
+4|자율 주행 기술 시험이 진행 중이다.|Công nghệ xe tự lái đang được thử nghiệm.|xe tự lái=자율 주행차
+4|핀테크 기업들이 소액 대출 시장에 뛰어들었다.|Các công ty fintech tham gia thị trường cho vay nhỏ.|cho vay=대출하다
+4|사이버 보안 투자가 늘어나고 있다.|Đầu tư cho an ninh mạng đang tăng.|an ninh mạng=사이버 보안
+5|인공지능은 생산성을 높이지만 일자리 구조도 바꾼다.|Trí tuệ nhân tạo nâng cao năng suất nhưng cũng thay đổi cơ cấu việc làm.|năng suất=생산성
+5|데이터는 새로운 생산 요소로 여겨진다.|Dữ liệu được coi là một tư liệu sản xuất mới.|được coi là=~로 여겨지다; tư liệu sản xuất=생산 수단
+5|기술 자립은 국가 경쟁력의 핵심이다.|Tự chủ công nghệ là cốt lõi của năng lực cạnh tranh quốc gia.|tự chủ=자립; cốt lõi=핵심; năng lực cạnh tranh=경쟁력
+5|규제 샌드박스가 혁신 기업에 시험 공간을 제공한다.|Cơ chế thử nghiệm có kiểm soát tạo không gian cho doanh nghiệp đổi mới.|cơ chế=제도; có kiểm soát=통제된; không gian=공간
+5|AI 규제는 혁신과 안전 사이의 균형을 찾아야 한다.|Quản lý AI cần tìm sự cân bằng giữa đổi mới và an toàn.|an toàn=안전
+5|디지털 격차가 새로운 불평등을 만들고 있다.|Khoảng cách số đang tạo ra bất bình đẳng mới.|khoảng cách số=디지털 격차; bất bình đẳng=불평등
+5|베트남은 조립 기지에서 설계 중심지로 도약하려 한다.|Việt Nam muốn chuyển từ cơ sở lắp ráp sang trung tâm thiết kế.|lắp ráp=조립; thiết kế=설계
+5|사이버 공간의 안전은 국가 안보와 직결된다.|An toàn không gian mạng gắn liền với an ninh quốc gia.|gắn liền với=직결되다
+5|기술 도입보다 사람의 역량 강화가 더 중요하다.|Nâng cao năng lực con người quan trọng hơn việc đưa công nghệ vào.|năng lực=역량; con người=사람; đưa vào=도입하다
+5|빅테크의 시장 지배력에 대한 우려가 커지고 있다.|Lo ngại về sức mạnh chi phối thị trường của các ông lớn công nghệ đang tăng.|lo ngại=우려; chi phối=지배하다; ông lớn=대기업
+5|생성형 AI가 콘텐츠 산업의 저작권 문제를 낳고 있다.|AI tạo sinh đang đặt ra vấn đề bản quyền cho ngành nội dung.|tạo sinh=생성형; đặt ra=제기하다; bản quyền=저작권; nội dung=콘텐츠
+5|국가 디지털 정부는 시민 중심이어야 한다.|Chính phủ số phải lấy người dân làm trung tâm.|chính phủ số=디지털 정부; lấy...làm trung tâm=~을 중심으로 하다
+5|데이터 품질이 낮으면 AI도 제 역할을 못 한다.|Nếu chất lượng dữ liệu thấp, AI cũng không phát huy được tác dụng.|phát huy=발휘하다; tác dụng=효과
+5|전력 공급이 데이터센터 유치의 관건이다.|Nguồn cung điện là yếu tố quyết định để thu hút trung tâm dữ liệu.|yếu tố quyết định=결정적 요인; thu hút=유치하다
+5|기술 기업들은 인재 확보 전쟁을 벌이고 있다.|Các công ty công nghệ đang lao vào cuộc chiến giành nhân tài.|lao vào=뛰어들다; cuộc chiến=전쟁; giành=쟁취하다; nhân tài=인재
+@energy
+3|전기 요금이 올랐다.|Giá điện đã tăng.|giá điện=전기 요금
+3|여름에 정전이 있었다.|Mùa hè đã xảy ra mất điện.|mùa hè=여름; mất điện=정전
+4|전력 수요가 사상 최고치를 기록했다.|Nhu cầu điện đạt mức cao kỷ lục.|
+4|태양광 발전이 빠르게 늘었다.|Điện mặt trời phát triển nhanh.|điện mặt trời=태양광 발전
+4|해상 풍력 개발 계획이 승인됐다.|Kế hoạch phát triển điện gió ngoài khơi được phê duyệt.|điện gió=풍력 발전; ngoài khơi=해상; phê duyệt=승인하다
+4|LNG 발전소 여러 곳이 건설되고 있다.|Nhiều nhà máy điện khí LNG đang được xây dựng.|nhà máy điện=발전소; khí=가스
+4|정부는 제8차 전력 개발 계획을 수정했다.|Chính phủ đã điều chỉnh Quy hoạch điện VIII.|điều chỉnh=조정하다; quy hoạch=계획
+4|북부 지역은 가뭄으로 수력 발전량이 줄었다.|Miền Bắc giảm sản lượng thủy điện do hạn hán.|sản lượng=생산량; thủy điện=수력 발전; do=~때문에
+4|송전망 확충이 시급하다.|Cần khẩn trương mở rộng lưới điện truyền tải.|lưới điện=전력망; truyền tải=송전
+4|기업이 재생에너지를 직접 구매할 수 있게 됐다.|Doanh nghiệp đã có thể mua điện tái tạo trực tiếp.|tái tạo=재생
+4|에너지 절약 캠페인이 진행 중이다.|Chiến dịch tiết kiệm năng lượng đang được triển khai.|năng lượng=에너지; triển khai=시행하다
+4|원자력 발전 사업이 다시 추진된다.|Dự án điện hạt nhân được khởi động lại.|dự án=사업; hạt nhân=원자력; khởi động lại=재개하다
+4|석탄 발전 비중을 줄일 계획이다.|Có kế hoạch giảm tỷ trọng nhiệt điện than.|tỷ trọng=비중; nhiệt điện than=석탄 화력
+4|휘발유 가격이 내렸다.|Giá xăng đã giảm.|xăng=휘발유
+5|에너지 안보는 경제 성장의 전제 조건이다.|An ninh năng lượng là điều kiện tiên quyết cho tăng trưởng kinh tế.|
+5|LNG는 석탄에서 재생에너지로 가는 과도기 연료다.|LNG là nhiên liệu chuyển tiếp từ than sang năng lượng tái tạo.|nhiên liệu=연료; chuyển tiếp=전환·과도기의
+5|전력 가격 체계가 투자 유치의 걸림돌이 되고 있다.|Cơ chế giá điện đang là rào cản thu hút đầu tư.|
+5|넷제로 목표 달성에는 막대한 자금이 필요하다.|Để đạt mục tiêu phát thải ròng bằng 0 cần nguồn vốn rất lớn.|phát thải ròng bằng 0=넷제로
+5|재생에너지 확대를 위해 저장 장치 투자가 필수적이다.|Đầu tư hệ thống lưu trữ là điều cần thiết để mở rộng năng lượng tái tạo.|lưu trữ=저장; cần thiết=필요한
+5|전력 부족은 외국인 투자자들의 가장 큰 우려 중 하나다.|Thiếu điện là một trong những mối lo ngại lớn nhất của nhà đầu tư nước ngoài.|mối lo ngại=우려 사항
+5|에너지 전환은 기술보다 제도의 문제다.|Chuyển dịch năng lượng là vấn đề thể chế hơn là công nghệ.|chuyển dịch=전환
+5|탄소 시장이 2028년에 공식 운영될 예정이다.|Thị trường các-bon dự kiến chính thức vận hành vào năm 2028.|các-bon=탄소; chính thức=공식적으로
