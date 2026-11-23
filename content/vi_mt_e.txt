@@ -1,0 +1,46 @@
+# 비즈니스 베트남어 (직접 작성, 북부 표준) — 업무 메일·전화·고객 응대·문제 해결
+@work
+4|안녕하세요, 한국 SK사의 김민수입니다.|Kính gửi anh chị, tôi là Kim Min-su từ công ty SK Hàn Quốc.|kính gửi=(메일 서두) ~께
+4|문의하신 내용에 대해 답변드립니다.|Tôi xin phản hồi về nội dung anh chị đã hỏi.|phản hồi=회신하다
+4|첨부 파일을 확인해 주시기 바랍니다.|Kính mong anh chị xem tệp đính kèm.|kính mong=~해 주시기 바랍니다; tệp=파일
+4|회신이 늦어 죄송합니다.|Xin lỗi vì đã phản hồi chậm.|
+4|빠른 회신 부탁드립니다.|Rất mong sớm nhận được phản hồi của anh chị.|sớm=빨리
+4|추가 문의 사항이 있으시면 언제든 연락 주십시오.|Nếu có thắc mắc gì thêm, xin vui lòng liên hệ bất cứ lúc nào.|thắc mắc=궁금한 점; vui lòng=부디; liên hệ=연락하다; bất cứ lúc nào=언제든
+4|감사합니다. 좋은 하루 되십시오.|Trân trọng cảm ơn. Chúc anh chị một ngày tốt lành.|trân trọng=정중히
+4|회의 일정을 확정해 주시겠습니까?|Anh chị vui lòng xác nhận lịch họp được không?|xác nhận=확인하다
+4|일정이 변경되어 다시 안내드립니다.|Do lịch có thay đổi, tôi xin thông báo lại.|
+4|참조로 담당자를 넣었습니다.|Tôi đã cc người phụ trách.|
+4|이 메일은 아래 내용을 확인하기 위한 것입니다.|Email này nhằm xác nhận những nội dung dưới đây.|dưới đây=아래
+4|요청하신 자료를 보내 드립니다.|Tôi xin gửi tài liệu anh chị yêu cầu.|yêu cầu=요청하다
+4|내부 검토 후 다시 연락드리겠습니다.|Chúng tôi sẽ liên hệ lại sau khi xem xét nội bộ.|nội bộ=내부
+4|불편을 드려 죄송합니다.|Chúng tôi xin lỗi vì sự bất tiện này.|bất tiện=불편
+4|문제를 빨리 해결하도록 하겠습니다.|Chúng tôi sẽ nhanh chóng khắc phục sự cố.|nhanh chóng=신속히
+4|원인을 조사하고 있습니다.|Chúng tôi đang tìm hiểu nguyên nhân.|
+4|배송이 지연되고 있습니다.|Việc giao hàng đang bị chậm trễ.|
+4|주문 번호를 알려 주시겠어요?|Anh chị cho tôi xin mã đơn hàng được không?|mã đơn hàng=주문 번호
+4|담당 부서로 연결해 드리겠습니다.|Tôi sẽ chuyển máy sang bộ phận phụ trách.|chuyển máy=전화를 돌리다
+4|통화 연결이 좋지 않네요.|Đường truyền không được tốt lắm.|đường truyền=통화 연결
+4|잠시 후 다시 걸겠습니다.|Lát nữa tôi sẽ gọi lại.|lát nữa=잠시 후
+4|말씀하신 내용을 메일로 정리해 드리겠습니다.|Tôi sẽ tóm tắt nội dung anh vừa nói qua email.|
+4|고객 불만이 접수됐습니다.|Đã nhận được khiếu nại của khách hàng.|khiếu nại=불만·항의
+4|환불 절차를 안내해 드리겠습니다.|Tôi xin hướng dẫn thủ tục hoàn tiền.|hướng dẫn=안내하다
+4|보상 방안을 마련하겠습니다.|Chúng tôi sẽ đưa ra phương án bồi thường.|bồi thường=보상하다
+4|재발 방지 대책을 세우겠습니다.|Chúng tôi sẽ xây dựng biện pháp ngăn ngừa tái diễn.|ngăn ngừa=예방하다; tái diễn=재발하다
+4|계약서 초안을 보내 드립니다.|Tôi gửi anh chị bản dự thảo hợp đồng.|dự thảo=초안
+4|수정 사항은 빨간색으로 표시했습니다.|Các điểm sửa đổi đã được đánh dấu màu đỏ.|đánh dấu=표시하다; màu đỏ=빨간색
+4|서명본을 스캔해서 보내 주세요.|Xin anh chị scan bản đã ký và gửi lại.|
+4|원본은 우편으로 보내 드리겠습니다.|Bản gốc chúng tôi sẽ gửi qua đường bưu điện.|bản gốc=원본; bưu điện=우체국
+4|송장을 발행해 주세요.|Xin vui lòng xuất hóa đơn.|xuất=발행하다
+4|입금 확인 부탁드립니다.|Xin vui lòng kiểm tra giúp việc chuyển khoản.|chuyển khoản=계좌 이체
+4|다음 주 월요일에 휴무입니다.|Thứ Hai tuần sau chúng tôi nghỉ.|thứ Hai=월요일
+4|부재 중이라 다음 주에 회신드리겠습니다.|Tôi đang vắng mặt và sẽ phản hồi vào tuần sau.|vắng mặt=부재 중인
+5|말씀하신 부분은 내부적으로 추가 논의가 필요합니다.|Vấn đề anh chị nêu cần được thảo luận thêm trong nội bộ.|
+5|기대에 미치지 못해 진심으로 사과드립니다.|Chúng tôi thành thật xin lỗi vì chưa đáp ứng được kỳ vọng.|đáp ứng=부응하다
+5|양측 모두에게 도움이 되는 방향으로 조율하겠습니다.|Chúng tôi sẽ điều phối theo hướng có lợi cho cả hai bên.|điều phối=조율하다
+5|공식 답변은 법무 검토 후 드리겠습니다.|Phản hồi chính thức sẽ được gửi sau khi bộ phận pháp chế xem xét.|
+5|이번 일을 계기로 프로세스를 전면 재검토하겠습니다.|Nhân dịp này, chúng tôi sẽ rà soát lại toàn bộ quy trình.|nhân dịp=~을 계기로; rà soát=재검토하다; toàn bộ=전체
+5|고객의 신뢰를 회복하는 것이 최우선입니다.|Lấy lại niềm tin của khách hàng là ưu tiên hàng đầu.|ưu tiên hàng đầu=최우선
+5|문제의 책임은 전적으로 저희에게 있습니다.|Trách nhiệm hoàn toàn thuộc về chúng tôi.|thuộc về=~에 속하다
+5|향후 진행 상황은 수시로 공유하겠습니다.|Chúng tôi sẽ thường xuyên cập nhật tình hình tiếp theo.|tình hình=상황
+5|장기적인 협력 관계를 기대하겠습니다.|Chúng tôi rất mong được hợp tác lâu dài với quý công ty.|
+5|다시 한번 깊은 감사의 말씀을 드립니다.|Một lần nữa, xin gửi lời cảm ơn sâu sắc.|sâu sắc=깊은

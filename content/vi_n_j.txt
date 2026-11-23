@@ -1,0 +1,58 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 사회 이슈에 대한 대화·의견 나누기
+@society
+4|요즘 뉴스 봤어요?|Dạo này anh có xem tin tức không?|tin tức=뉴스
+4|요즘 집값이 너무 올랐어요.|Dạo này giá nhà tăng quá.|
+4|월급은 그대로인데 물가만 올라요.|Lương thì vẫn thế mà giá cả cứ tăng.|cứ=계속
+4|젊은 사람들이 결혼을 늦게 해요.|Người trẻ bây giờ kết hôn muộn.|
+4|아이를 안 낳는 부부도 많아요.|Nhiều cặp vợ chồng không muốn sinh con.|cặp vợ chồng=부부; sinh con=아이를 낳다
+4|교육비가 너무 많이 들어요.|Chi phí giáo dục tốn kém quá.|tốn kém=비용이 많이 드는
+4|하노이 교통 문제는 언제 해결될까요?|Bao giờ thì vấn đề giao thông Hà Nội mới được giải quyết?|
+4|지하철이 더 생기면 좋겠어요.|Giá mà có thêm tuyến metro.|giá mà=~라면 좋을 텐데
+4|요즘 AI 때문에 일자리가 걱정돼요.|Dạo này tôi lo mất việc vì AI.|
+4|AI가 오히려 일을 편하게 해 줘요.|AI lại giúp công việc nhẹ nhàng hơn.|nhẹ nhàng=가벼운
+4|환경 문제는 모두의 책임이에요.|Vấn đề môi trường là trách nhiệm của tất cả mọi người.|
+4|저는 장바구니를 들고 다녀요.|Tôi luôn mang túi riêng khi đi chợ.|túi riêng=개인 장바구니
+4|분리수거를 더 철저히 해야 해요.|Cần phân loại rác kỹ hơn.|
+4|그 정책에 대해선 의견이 갈려요.|Về chính sách đó, ý kiến còn trái chiều.|trái chiều=상반된
+4|저는 찬성하는 편이에요.|Tôi nghiêng về phía ủng hộ.|nghiêng về=~로 기울다
+4|저는 좀 반대예요.|Tôi hơi phản đối.|phản đối=반대하다
+4|장점도 있고 단점도 있어요.|Có cả mặt lợi lẫn mặt hại.|mặt lợi=이점; mặt hại=단점
+4|현실적으로 쉽지 않을 것 같아요.|Trên thực tế chắc là không dễ.|
+4|방향은 맞는데 속도가 너무 빨라요.|Hướng đi thì đúng nhưng tốc độ quá nhanh.|
+4|정부가 더 지원해야 한다고 생각해요.|Tôi nghĩ nhà nước cần hỗ trợ nhiều hơn.|
+4|결국 개인이 바뀌어야 해요.|Rốt cuộc thì từng cá nhân phải thay đổi.|
+4|한국도 비슷한 문제가 있어요.|Hàn Quốc cũng có vấn đề tương tự.|tương tự=비슷한
+4|한국은 출산율이 세계에서 가장 낮아요.|Hàn Quốc có mức sinh thấp nhất thế giới.|
+4|베트남은 아직 젊은 나라예요.|Việt Nam vẫn là một đất nước trẻ.|
+4|SNS가 사람들을 더 외롭게 만드는 것 같아요.|Tôi thấy mạng xã hội làm con người cô đơn hơn.|cô đơn=외로운
+4|가짜 뉴스를 구별하기가 어려워요.|Khó phân biệt tin giả.|phân biệt=구별하다
+4|요즘 아이들은 휴대폰을 너무 많이 봐요.|Trẻ con bây giờ dùng điện thoại nhiều quá.|trẻ con=아이들
+4|노인들을 위한 시설이 더 필요해요.|Cần thêm cơ sở dành cho người già.|cơ sở=시설; người già=노인
+4|도시와 농촌의 격차가 커요.|Khoảng cách giữa thành thị và nông thôn lớn.|thành thị=도시
+4|외국인 근로자가 늘고 있어요.|Lao động nước ngoài đang tăng lên.|
+5|문제를 알면서도 바꾸기 어려운 게 현실이에요.|Biết là có vấn đề nhưng thay đổi thì khó, đó là thực tế.|
+5|한 가지 정답이 있는 문제가 아니에요.|Đây không phải vấn đề chỉ có một đáp án đúng.|đáp án=정답
+5|서로 입장이 다르니 대화가 필요해요.|Mỗi người một quan điểm nên cần đối thoại.|
+5|단기적인 해결책보다 근본적인 대책이 필요해요.|Cần giải pháp căn cơ thay vì giải pháp ngắn hạn.|căn cơ=근본적인
+5|사회가 빨리 변할수록 기본이 더 중요해요.|Xã hội càng thay đổi nhanh thì những giá trị cơ bản càng quan trọng.|giá trị=가치; cơ bản=기본
+5|비판만 하기보다 대안을 제시해야 해요.|Thay vì chỉ phê phán, cần đưa ra phương án thay thế.|phê phán=비판하다
+5|뉴스를 볼 때는 여러 관점을 비교해 보려고 해요.|Khi đọc tin, tôi cố gắng so sánh nhiều góc nhìn.|góc nhìn=관점
+5|정치 이야기는 친한 사이에서도 조심스러워요.|Chuyện chính trị thì ngay cả bạn thân cũng phải cẩn trọng.|chính trị=정치; ngay cả=~조차; bạn thân=친한 친구; cẩn trọng=신중한
+5|기술 발전이 모두에게 공평한 혜택을 주지는 않아요.|Phát triển công nghệ không đem lại lợi ích công bằng cho tất cả.|đem lại=가져다주다
+5|세대마다 중요하게 여기는 가치가 달라요.|Mỗi thế hệ coi trọng những giá trị khác nhau.|
+5|우리가 사는 방식이 다음 세대의 환경을 결정해요.|Cách chúng ta sống hôm nay quyết định môi trường của thế hệ sau.|
+5|성장도 중요하지만 삶의 질이 더 중요하다고 생각해요.|Tăng trưởng quan trọng, nhưng tôi nghĩ chất lượng cuộc sống còn quan trọng hơn.|chất lượng cuộc sống=삶의 질
+@time
+4|올해는 정말 빨리 지나갔어요.|Năm nay trôi qua nhanh thật.|
+4|음력 설이 언제예요?|Tết âm lịch rơi vào ngày nào?|âm lịch=음력; rơi vào=~에 해당하다
+4|베트남은 음력을 많이 써요.|Người Việt dùng âm lịch nhiều.|
+4|보름날에는 절에 가는 사람이 많아요.|Ngày rằm nhiều người đi chùa.|ngày rằm=보름; chùa=절
+4|아침 6시에 일어나요.|Tôi dậy lúc sáu giờ sáng.|dậy=일어나다
+4|하루가 너무 짧아요.|Một ngày ngắn quá.|ngắn=짧다
+4|일정이 겹쳤어요.|Lịch bị trùng rồi.|trùng=겹치다
+4|마감이 코앞이에요.|Hạn chót đã cận kề.|cận kề=임박한
+4|시간 날 때 연락할게요.|Khi nào rảnh tôi sẽ liên lạc.|
+4|이번 주는 일정이 꽉 찼어요.|Tuần này lịch kín rồi.|kín=꽉 찬
+5|바쁘다는 건 우선순위가 정해지지 않았다는 뜻일 수도 있어요.|Bận rộn đôi khi có nghĩa là chưa xác định được thứ tự ưu tiên.|
+5|시간 관리는 결국 에너지 관리예요.|Quản lý thời gian rốt cuộc là quản lý năng lượng của bản thân.|
+5|지나간 시간보다 남은 시간을 어떻게 쓸지가 중요해요.|Quan trọng là dùng thời gian còn lại thế nào, chứ không phải thời gian đã qua.|còn lại=남은; đã qua=지나간
