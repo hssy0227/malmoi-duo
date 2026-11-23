@@ -193,13 +193,13 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 #toast.on{opacity:1}
 .ib{position:relative}
 .ib .dot{position:absolute;top:8px;right:8px;width:8px;height:8px;border-radius:50%;background:var(--am);box-shadow:0 0 0 2px var(--bg)}
-.pop{position:fixed;z-index:45;top:calc(env(safe-area-inset-top) + 62px);right:max(8px,env(safe-area-inset-right));width:min(400px,calc(100vw - 16px));max-height:calc(100dvh - env(safe-area-inset-top) - 62px - 76px - env(safe-area-inset-bottom));overflow:auto;overscroll-behavior:contain;background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:12px 14px 14px;box-shadow:0 18px 40px -12px rgba(0,0,0,.55)}
+.pop{position:fixed;z-index:45;top:calc(env(safe-area-inset-top) + 62px);right:max(8px,env(safe-area-inset-right));width:min(780px,calc(100vw - 16px));max-height:calc(100dvh - env(safe-area-inset-top) - 62px - 76px - env(safe-area-inset-bottom));overflow:auto;overscroll-behavior:contain;background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:12px 14px 14px;box-shadow:0 18px 40px -12px rgba(0,0,0,.55)}
 .pop[hidden]{display:none}
 .pop .hd{display:flex;align-items:center;gap:8px;margin-bottom:6px}
 .pop .hd b{font-size:16px}
 .pop .hd .ib{margin-left:auto;width:36px;height:36px}
 .pop p{margin:0 0 8px;font-size:13.5px}
-.hg{display:grid;grid-template-columns:4em minmax(0,1fr);gap:7px 10px;font-size:13.5px;line-height:1.45}
+.hg{display:grid;grid-template-columns:3.6em minmax(0,1fr);gap:7px 10px;font-size:13.5px;line-height:1.45}
 .hg dt{font-weight:700;color:var(--am);white-space:nowrap}
 .hg dd{margin:0;color:var(--ink)}
 .hg dd .mut{color:var(--mut)}
@@ -287,6 +287,8 @@ rollDay();
 /* 레벨 체계 이관: 3→4단계(구), 4→5단계(CEFR A1~C1) */
 for(const L of ["vi","en"]){let lv=S.scope[L].lv;if(!S.lvMig&&lv.join()==="1,2,3")lv=[1,2,3,4];if((S.lvMig||0)<2&&lv.join()==="1,2,3,4")lv=[1,2,3,4,5];S.scope[L].lv=lv}S.lvMig=2;
 const LEVELS=DATA.levels, LVN=LEVELS.length;
+/* 상황 통폐합(35→15) 이관: 저장된 모드·사전 필터의 옛 상황 키를 새 키로 */
+{const M=DATA.catMap||{},K=DATA.cats.map(c=>c[0]);for(const L of ["vi","en"]){const c=S.scope[L].cats||[];S.scope[L].cats=[...new Set(c.map(x=>M[x]||x))].filter(x=>K.includes(x))}}
 const lvTag=l=>{const x=LEVELS.find(v=>v[0]===l);return "Lv"+l+(x?"·"+x[1]:"")};
 /* 항목 상태: 새것·읽음·학습 중·앎·스킵 */
 const STN={new:"새것",seen:"읽음",learning:"학습 중",known:"앎",skip:"스킵"};

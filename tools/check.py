@@ -216,7 +216,7 @@ def main():
         if a and not b:
             memo = "영어 없음"
         elif b and not a:
-            memo = "베트남어 없음" + (" (영어 전용 분야)" if k in ("toeic", "acad", "mgmt", "org", "econ", "fin", "ai", "energy") else "")
+            memo = "베트남어 없음" + (" (영어 전용 분야)" if k in ("econ",) else "")
         elif min(a, b) < 30:
             memo = "30개 미만"
         out.append(f"| {nm} | {a} | {b} | {memo} |")

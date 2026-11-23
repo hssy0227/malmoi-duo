@@ -1,7 +1,7 @@
 # 말모이 듀오 — 베트남어·영어 회화 연습 PWA
 
 혼자 쓰는 회화 연습 앱. 베트남어(북부 표준) 2,723문장·단어 3,388개, 영어 2,569문장·표현 2,969개.
-상황 27개(베트남어)·35개(영어) × 레벨 5단계(CEFR A1~C1), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
+상황 15개(베트남어 14·영어 15) × 레벨 5단계(CEFR A1~C1), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
 이메일 + PIN 계정으로 기기 간 진도 동기화(Supabase), 항목마다 새것·읽음·학습 중·앎·스킵 상태 관리.
 
 ## 폴더 구조
@@ -59,8 +59,25 @@ Supabase `items_view`·`progress_view`에서 `level_label`이 `Lv3 · CEFR B1` �
 레벨|한국어|원어|단어=뜻; 단어=뜻|메모(선택)
 2|포장해 주세요.|Cho tôi mang về.|mang về=가지고 가다
 ```
-- 카테고리: greet daily food shop move stay time phone work social health travel trouble opinion life
-  cook hobby biz home money tech nature culture family study movie book · toeic acad mgmt org econ fin ai energy (영어)
+- 상황 15개 (content 파일의 옛 @키는 build.py의 CAT_MAP으로 묶임 — 파일은 그대로 둬도 됨)
+
+| 키 | 상황 | 묶인 옛 키 |
+|---|---|---|
+| greet | 인사·스몰토크 | greet, social |
+| daily | 일상·가족 | daily, family |
+| home | 집·날씨 | home, nature |
+| food | 음식·요리 | food, cook |
+| shop | 쇼핑·돈 | shop, money |
+| travel | 여행·교통 | travel, move, stay |
+| time | 시간·약속 | time, phone |
+| health | 건강·문제해결 | health, trouble |
+| hobby | 취미·문화 | hobby, culture |
+| movie | 영화·책 | movie, book |
+| opinion | 의견·경험 | opinion, life |
+| study | 배움·시험 | study, toeic, acad |
+| work | 업무·경영 | work, biz, mgmt, org |
+| econ | 경제·금융·에너지 | econ, fin, energy |
+| tech | IT·AI | tech, ai |
 - 진도는 원어 문장 기준 ID로 저장 → 순서를 바꾸거나 추가해도 기존 진도 유지 (원어를 고친 문장만 새 카드)
 - 단어장은 단어 풀이에서 자동 생성
 

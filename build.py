@@ -4,19 +4,20 @@ import hashlib, json, re, shutil, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).parent
+# 상황 15개 (2026-11 통폐합). content 파일의 옛 @키는 CAT_MAP으로 묶음
 CATS = [
-    ("greet", "인사·소개"), ("daily", "일상·감정"), ("food", "식당·카페"), ("shop", "쇼핑·결제"),
-    ("move", "교통·길찾기"), ("stay", "숙소·호텔"), ("time", "시간·숫자"), ("phone", "약속·전화"),
-    ("work", "업무·회의"), ("social", "스몰토크"), ("health", "건강·응급"), ("travel", "관광·여가"),
-    ("trouble", "부탁·문제해결"), ("opinion", "의견·토론"), ("life", "경험 이야기"),
-    ("cook", "요리·레시피"), ("hobby", "취미·운동"), ("biz", "비즈니스·협상"), ("home", "집·생활"),
-    ("money", "돈·금융"), ("tech", "IT·디지털"), ("nature", "날씨·자연"), ("culture", "문화·명절"),
-    ("family", "가족·관계"), ("study", "배움·언어"),
-    ("movie", "영화·드라마"), ("book", "책·독서"), ("toeic", "토익·토플"), ("acad", "학술·교양"),
-    ("mgmt", "경영·전략"), ("org", "조직·인사"), ("econ", "경제·거시"), ("fin", "금융·투자"),
-    ("ai", "AI·데이터"), ("energy", "에너지·원자재"),
+    ("greet", "인사·스몰토크"), ("daily", "일상·가족"), ("home", "집·날씨"), ("food", "음식·요리"),
+    ("shop", "쇼핑·돈"), ("travel", "여행·교통"), ("time", "시간·약속"), ("health", "건강·문제해결"),
+    ("hobby", "취미·문화"), ("movie", "영화·책"), ("opinion", "의견·경험"), ("study", "배움·시험"),
+    ("work", "업무·경영"), ("econ", "경제·금융·에너지"), ("tech", "IT·AI"),
 ]
-CAT_KEYS = {k for k, _ in CATS}
+CAT_MAP = {
+    "social": "greet", "family": "daily", "nature": "home", "cook": "food", "money": "shop",
+    "move": "travel", "stay": "travel", "phone": "time", "trouble": "health", "culture": "hobby",
+    "book": "movie", "life": "opinion", "toeic": "study", "acad": "study",
+    "biz": "work", "mgmt": "work", "org": "work", "fin": "econ", "energy": "econ", "ai": "tech",
+}
+CAT_KEYS = {k for k, _ in CATS} | set(CAT_MAP)
 # 두 언어 공통 5단계 — CEFR 매핑 (Supabase levels 테이블과 동일)
 LEVELS = [(1, "A1", "기초"), (2, "A2", "초급"), (3, "B1", "중급"), (4, "B2", "중상급"), (5, "C1", "고급")]
 LV_KEYS = {str(l) for l, _, _ in LEVELS}
@@ -81,7 +82,7 @@ def parse(lang):
                 errors.append(f"{f.name}:{n} duplicate of {seen[key]}: {t}")
                 continue
             seen[key] = f"{f.name}:{n}"
-            items.append({"id": hid(lang + ":" + t), "c": cat, "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name, "s": src_of(f.name, cat)})
+            items.append({"id": hid(lang + ":" + t), "c": CAT_MAP.get(cat, cat), "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name, "s": src_of(f.name, cat), "oc": cat})
     ids = [i["id"] for i in items]
     if len(ids) != len(set(ids)):
         errors.append("id collision")
@@ -96,12 +97,12 @@ def main():
     import os
     sb_url = os.environ.get("MALMOI_SB_URL", cfg.get("supabaseUrl", ""))  # 테스트용 덮어쓰기
     sb_key = os.environ.get("MALMOI_SB_KEY", cfg.get("supabaseAnonKey", ""))
-    data = {"cats": CATS, "levels": LEVELS, "srcs": SOURCES, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
+    data = {"cats": CATS, "catMap": CAT_MAP, "levels": LEVELS, "srcs": SOURCES, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
     all_err = []
     for lang in ("vi", "en"):
         items, errs = parse(lang)
         all_err += [f"[{lang}] {e}" for e in errs]
-        data["langs"][lang] = [{k: v for k, v in i.items() if k != "f"} for i in items]
+        data["langs"][lang] = [{k: v for k, v in i.items() if k not in ("f", "oc")} for i in items]
         (ROOT / "dist").mkdir(exist_ok=True)
         PARSED[lang] = items
         per, lvs = {}, {}
