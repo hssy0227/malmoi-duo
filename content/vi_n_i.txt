@@ -1,0 +1,70 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 관용 표현·맞장구·자주 쓰는 구어
+@daily
+3|그렇죠!|Đúng thế!|đúng=맞다
+3|맞아요, 맞아.|Chuẩn luôn.|chuẩn=정확한(구어)
+3|그러게요.|Ừ nhỉ.|ừ=응
+3|아, 그렇구나.|À, ra thế.|ra thế=그렇구나
+3|정말요?|Thế à?|thế à=그래요?
+3|설마!|Làm gì có!|làm gì có=그럴 리가
+3|당연하죠.|Tất nhiên rồi.|tất nhiên=당연히
+3|글쎄요.|Để xem đã.|để xem=두고 보자
+3|아무튼요.|Dù sao thì...|dù sao=어쨌든
+3|그건 그렇고.|Mà thôi, chuyện đó để sau.|để sau=나중으로 미루다
+3|어쩔 수 없죠.|Biết làm sao được.|làm sao=어떻게
+3|별거 아니에요.|Chuyện nhỏ thôi mà.|chuyện nhỏ=사소한 일
+3|아이고!|Trời ơi!|trời ơi=세상에
+3|그만해요.|Thôi đi.|thôi=그만
+3|됐어요.|Thôi được rồi.|
+3|알았어요, 알았어.|Biết rồi, biết rồi.|
+3|어떡해!|Làm sao bây giờ!|bây giờ=지금
+3|그럴 수도 있죠.|Cũng có thể lắm.|
+4|말도 안 돼요.|Vô lý quá.|vô lý=말이 안 되는
+4|그건 제 알 바 아니에요.|Đó không phải việc của tôi.|
+4|딱 내 스타일이에요.|Đúng gu của tôi.|gu=취향
+4|완전 꿀팁이네요.|Mẹo hay quá.|
+4|대박!|Đỉnh thật!|đỉnh=최고(구어)
+4|짜증 나요.|Bực mình quá.|bực mình=짜증 나다
+4|어이없네요.|Thật là hết nói nổi.|hết nói nổi=할 말을 잃다
+4|기가 막히네요.|Không còn gì để nói.|
+4|감 잡았어요.|Tôi nắm được rồi.|nắm=파악하다
+4|대충 해요.|Làm qua loa thôi.|qua loa=대충
+4|눈치가 빠르네요.|Anh tinh ý thật.|tinh ý=눈치 빠른
+4|입이 무거워요.|Anh ấy rất kín miệng.|kín miệng=입이 무겁다
+4|발이 넓어요.|Chị ấy quen biết rộng.|quen biết rộng=발이 넓다
+4|손이 커요.|Anh ấy rất hào phóng.|hào phóng=통이 큰
+4|그 사람은 말만 앞서요.|Anh ấy chỉ giỏi nói thôi.|
+4|하늘의 별 따기예요.|Khó như hái sao trên trời.|hái=따다; sao=별
+4|식은 죽 먹기예요.|Dễ như ăn kẹo.|kẹo=사탕
+4|누워서 떡 먹기예요.|Dễ như trở bàn tay.|trở bàn tay=손바닥 뒤집기
+4|귀가 얇아요.|Anh ấy dễ bị người khác tác động.|tác động=영향을 주다
+4|그 사람 정말 짠돌이예요.|Anh ta keo kiệt lắm.|keo kiệt=인색한
+4|머리를 식히러 나가요.|Tôi ra ngoài cho đầu óc thư giãn.|đầu óc=머리; thư giãn=쉬다
+4|발등에 불이 떨어졌어요.|Nước đến chân rồi.|nước đến chân=발등에 불(급박)
+4|벼락치기 공부했어요.|Tôi học nước rút.|học nước rút=벼락치기
+4|일석이조예요.|Một công đôi việc.|một công đôi việc=일석이조
+4|찬물을 끼얹지 마세요.|Đừng dội gáo nước lạnh.|dội=끼얹다; gáo=바가지
+4|분위기 깨지 마요.|Đừng làm mất hứng.|mất hứng=흥이 깨지다
+4|오늘은 운이 좋네요.|Hôm nay may mắn thật.|may mắn=운 좋은
+4|그건 시간문제예요.|Chỉ là vấn đề thời gian thôi.|
+4|일단 부딪혀 봐요.|Cứ thử đi rồi tính.|tính=생각하다
+4|두고 보면 알겠죠.|Rồi sẽ biết thôi.|
+5|가는 말이 고와야 오는 말이 곱다.|Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau.|lựa lời=말을 고르다
+5|티끌 모아 태산.|Kiến tha lâu cũng đầy tổ.|kiến=개미; tha=물어 나르다; tổ=둥지
+5|백문이 불여일견.|Trăm nghe không bằng một thấy.|trăm=백
+5|뜻이 있는 곳에 길이 있다.|Có chí thì nên.|chí=뜻·의지; nên=이루다
+5|원숭이도 나무에서 떨어진다.|Nhân vô thập toàn.|nhân vô thập toàn=완벽한 사람은 없다
+5|소 잃고 외양간 고친다.|Mất bò mới lo làm chuồng.|bò=소; chuồng=외양간
+5|하나를 보면 열을 안다.|Nhìn cái ăn biết cái tính.|tính=성격
+5|빈 수레가 요란하다.|Thùng rỗng kêu to.|thùng=통; rỗng=빈; kêu=소리 나다
+5|낮말은 새가 듣고 밤말은 쥐가 듣는다.|Tai vách mạch rừng.|tai vách mạch rừng=벽에도 귀가 있다
+5|고생 끝에 낙이 온다.|Khổ trước sướng sau.|khổ=고생; sướng=즐거움
+5|우물 안 개구리.|Ếch ngồi đáy giếng.|ếch=개구리; đáy giếng=우물 바닥
+5|세 살 버릇 여든까지 간다.|Tre già khó uốn.|tre=대나무; uốn=구부리다
+5|먼 친척보다 가까운 이웃이 낫다.|Bán anh em xa, mua láng giềng gần.|láng giềng=이웃
+5|물에 빠진 사람 지푸라기라도 잡는다.|Chết đuối vớ được cọc.|chết đuối=물에 빠져 죽다; vớ=붙잡다; cọc=말뚝
+5|돌다리도 두들겨 보고 건너라.|Cẩn tắc vô áy náy.|cẩn tắc vô áy náy=조심하면 후회 없다
+5|말 한마디로 천 냥 빚을 갚는다.|Một lời nói, một đọi máu.|đọi=사발; máu=피
+5|윗물이 맑아야 아랫물이 맑다.|Thượng bất chính, hạ tắc loạn.|thượng bất chính hạ tắc loạn=윗물이 맑아야 아랫물이 맑다
+5|사공이 많으면 배가 산으로 간다.|Lắm thầy thối ma.|lắm thầy thối ma=사공이 많으면 배가 산으로 간다
+5|공든 탑이 무너지랴.|Có công mài sắt, có ngày nên kim.|mài=갈다; sắt=쇠; kim=바늘
+5|서당 개 삼 년이면 풍월을 읊는다.|Gần mực thì đen, gần đèn thì rạng.|mực=먹; đèn=등; rạng=밝다|베트남 속담은 '환경의 영향'에 가까운 뜻

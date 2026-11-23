@@ -1,0 +1,57 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 환경·기후·농업·물류·지역
+@society
+4|홍강 수위가 경계 수준을 넘었다.|Mực nước sông Hồng vượt mức báo động.|mực nước=수위; báo động=경보
+4|산사태로 북부 산간 지역 도로가 끊겼다.|Sạt lở đất khiến đường ở vùng núi phía Bắc bị chia cắt.|sạt lở đất=산사태; vùng núi=산간 지역; chia cắt=끊기다
+4|메콩 델타에서 바닷물 유입이 심해지고 있다.|Tình trạng xâm nhập mặn ở Đồng bằng sông Cửu Long ngày càng nghiêm trọng.|xâm nhập mặn=염수 침입
+4|해안 침식으로 마을이 위협받고 있다.|Sạt lở bờ biển đang đe dọa các làng ven biển.|bờ biển=해안; làng=마을; ven biển=해안가의
+4|폭염이 이어지면서 전력 소비가 급증했다.|Nắng nóng kéo dài khiến tiêu thụ điện tăng vọt.|nắng nóng=폭염
+4|하노이는 미세먼지 경보를 발령했다.|Hà Nội phát cảnh báo bụi mịn.|phát=발령하다; bụi mịn=미세먼지
+4|정부는 일회용 플라스틱 사용을 단계적으로 금지한다.|Chính phủ sẽ cấm dần đồ nhựa dùng một lần.|cấm dần=단계적으로 금지하다; dùng một lần=일회용
+4|숲 면적이 늘었다.|Diện tích rừng đã tăng.|diện tích=면적; rừng=숲
+4|불법 벌목 단속이 강화됐다.|Việc xử lý khai thác gỗ trái phép được tăng cường.|khai thác gỗ=벌목; trái phép=불법
+4|폐수 무단 방류 업체가 적발됐다.|Một doanh nghiệp xả thải trái phép đã bị phát hiện.|xả thải=폐수를 배출하다
+4|전기 오토바이 보급이 확대되고 있다.|Xe máy điện đang ngày càng phổ biến.|
+4|하노이는 2030년부터 도심 내 휘발유 오토바이를 제한할 계획이다.|Hà Nội dự kiến hạn chế xe máy chạy xăng trong nội đô từ năm 2030.|chạy xăng=휘발유로 가는
+4|도시 녹지 확충 계획이 발표됐다.|Kế hoạch mở rộng mảng xanh đô thị đã được công bố.|mảng xanh=녹지
+5|기후 변화로 극한 기상 현상이 잦아지고 있다.|Do biến đổi khí hậu, các hiện tượng thời tiết cực đoan ngày càng thường xuyên.|hiện tượng=현상; thời tiết=날씨; cực đoan=극단적인
+5|베트남은 기후 변화에 가장 취약한 나라 중 하나다.|Việt Nam là một trong những quốc gia chịu ảnh hưởng nặng nề nhất của biến đổi khí hậu.|nặng nề=심각한
+5|해수면 상승은 메콩 델타 농업의 미래를 위협한다.|Nước biển dâng đe dọa tương lai nông nghiệp ở Đồng bằng sông Cửu Long.|nước biển dâng=해수면 상승; nông nghiệp=농업
+5|환경 비용을 무시한 성장은 지속될 수 없다.|Tăng trưởng bỏ qua chi phí môi trường thì không thể bền vững.|bỏ qua=무시하다
+5|오염자 부담 원칙을 엄격히 적용해야 한다.|Cần áp dụng nghiêm nguyên tắc người gây ô nhiễm phải trả tiền.|nghiêm=엄격히; nguyên tắc=원칙
+5|기후 적응을 위한 국제 자금 지원이 필요하다.|Cần có nguồn tài chính quốc tế hỗ trợ thích ứng với biến đổi khí hậu.|thích ứng=적응하다
+5|대기 오염의 주범은 교통과 공장, 그리고 짚 태우기다.|Thủ phạm gây ô nhiễm không khí là giao thông, nhà máy và việc đốt rơm rạ.|thủ phạm=주범; đốt=태우다; rơm rạ=짚
+5|환경 의식은 높아졌지만 실천은 아직 부족하다.|Ý thức môi trường đã nâng cao nhưng hành động thực tế vẫn còn hạn chế.|
+@econ
+4|쌀 생산량이 목표를 넘었다.|Sản lượng lúa vượt kế hoạch.|lúa=벼
+4|두리안 수출이 급증했다.|Xuất khẩu sầu riêng tăng đột biến.|sầu riêng=두리안; đột biến=급격히
+4|농산물 가격이 폭락해 농민들이 어려움을 겪고 있다.|Giá nông sản giảm mạnh khiến nông dân gặp khó.|nông sản=농산물
+4|새우 수출이 회복되고 있다.|Xuất khẩu tôm đang phục hồi.|tôm=새우
+4|수산물 수출이 EU의 경고 카드에 영향을 받고 있다.|Xuất khẩu thủy sản bị ảnh hưởng bởi thẻ vàng của EU.|thủy sản=수산물; thẻ vàng=옐로카드
+4|스마트 농업 모델이 확산되고 있다.|Mô hình nông nghiệp thông minh đang được nhân rộng.|thông minh=스마트한
+4|물류 비용이 GDP의 16%를 차지한다.|Chi phí logistics chiếm 16% GDP.|chiếm=차지하다
+4|하이퐁항 물동량이 사상 최대를 기록했다.|Lượng hàng qua cảng Hải Phòng đạt mức cao kỷ lục.|
+4|중국과의 국경 무역이 활발하다.|Thương mại biên giới với Trung Quốc rất sôi động.|biên giới=국경
+4|철도 화물 운송이 늘고 있다.|Vận tải hàng hóa bằng đường sắt đang tăng.|vận tải=운송
+4|콜드체인 물류 수요가 커지고 있다.|Nhu cầu logistics chuỗi lạnh đang tăng.|chuỗi lạnh=콜드체인
+4|북부 지역 산업 단지 임대료가 올랐다.|Giá thuê đất khu công nghiệp phía Bắc tăng.|giá thuê=임대료
+4|다낭은 관광과 IT 중심 도시로 성장하고 있다.|Đà Nẵng đang phát triển thành trung tâm du lịch và công nghệ thông tin.|công nghệ thông tin=정보 기술
+4|호찌민시는 국제 금융 센터 설립을 추진한다.|TP Hồ Chí Minh đẩy mạnh xây dựng trung tâm tài chính quốc tế.|TP=시(thành phố)
+4|박닌과 타이응우옌은 삼성 공장 덕분에 빠르게 성장했다.|Bắc Ninh và Thái Nguyên tăng trưởng nhanh nhờ các nhà máy Samsung.|
+5|농업은 여전히 수천만 명의 생계를 책임지고 있다.|Nông nghiệp vẫn là sinh kế của hàng chục triệu người.|sinh kế=생계; hàng chục triệu=수천만
+5|농산물 수출은 양보다 품질과 브랜드로 경쟁해야 한다.|Xuất khẩu nông sản cần cạnh tranh bằng chất lượng và thương hiệu thay vì số lượng.|
+5|특정 시장 의존도를 낮추는 것이 시급하다.|Cần khẩn trương giảm sự phụ thuộc vào một thị trường duy nhất.|duy nhất=유일한
+5|물류 인프라가 경쟁력의 병목이 되고 있다.|Hạ tầng logistics đang trở thành điểm nghẽn về năng lực cạnh tranh.|
+5|지역 간 연계 없이 각 성이 따로 개발하면 자원이 낭비된다.|Nếu các tỉnh phát triển riêng lẻ mà không liên kết vùng thì sẽ lãng phí nguồn lực.|riêng lẻ=개별적으로; liên kết vùng=지역 연계; lãng phí=낭비하다
+5|북부는 제조업, 남부는 서비스업 중심으로 성장하고 있다.|Miền Bắc tăng trưởng nhờ công nghiệp chế biến chế tạo, còn miền Nam dựa vào dịch vụ.|chế biến chế tạo=제조업; dịch vụ=서비스업
+@energy
+4|석탄 수입량이 늘었다.|Lượng than nhập khẩu tăng.|than=석탄
+4|가스 공급 부족으로 일부 발전소가 가동을 줄였다.|Thiếu khí khiến một số nhà máy điện phải giảm công suất.|công suất=출력
+4|LNG 수입 터미널이 완공됐다.|Kho cảng nhập khẩu LNG đã hoàn thành.|kho cảng=터미널
+4|전력 회사가 여름철 절전을 요청했다.|Ngành điện kêu gọi tiết kiệm điện mùa hè.|kêu gọi=호소하다
+4|재생에너지 발전 비중이 25%를 넘었다.|Tỷ trọng điện tái tạo đã vượt 25%.|
+4|전력 시장 개방이 추진되고 있다.|Thị trường điện đang được mở cửa từng bước.|mở cửa=개방하다
+5|LNG 발전은 가격 경쟁력과 공급 안정성이 관건이다.|Đối với điện khí LNG, giá cạnh tranh và nguồn cung ổn định là then chốt.|
+5|전력 판매 가격이 원가를 반영하지 못하면 투자가 늘 수 없다.|Nếu giá bán điện không phản ánh đúng chi phí thì đầu tư khó tăng.|phản ánh đúng=제대로 반영하다
+5|에너지 수입 의존도가 높아지면서 에너지 안보 우려가 커지고 있다.|Khi mức độ phụ thuộc nhập khẩu năng lượng tăng, lo ngại về an ninh năng lượng cũng tăng.|
+5|전력망 투자가 발전소 투자를 따라가지 못하고 있다.|Đầu tư lưới điện chưa theo kịp đầu tư nguồn điện.|nguồn điện=전원
+5|민간 자본이 송전 사업에 참여할 수 있게 되었다.|Tư nhân đã được phép tham gia đầu tư truyền tải điện.|được phép=허가되다
