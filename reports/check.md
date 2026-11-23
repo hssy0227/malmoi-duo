@@ -6,13 +6,13 @@
 
 | 항목 | 베트남어 | 영어 |
 |---|---:|---:|
-| 문장 | 4,729 | 4,702 |
-| 풀이 단어(고유) | 4,754 | 4,199 |
-| Lv1 · CEFR A1 (기초) | 153 | 108 |
-| Lv2 · CEFR A2 (초급) | 321 | 271 |
-| Lv3 · CEFR B1 (중급) | 1,480 | 1,251 |
-| Lv4 · CEFR B2 (중상급) | 2,252 | 1,927 |
-| Lv5 · CEFR C1 (고급) | 523 | 1,145 |
+| 문장 | 4,729 | 6,892 |
+| 풀이 단어(고유) | 4,754 | 6,389 |
+| Lv1 · CEFR A1 (기초) | 153 | 160 |
+| Lv2 · CEFR A2 (초급) | 321 | 341 |
+| Lv3 · CEFR B1 (중급) | 1,480 | 1,347 |
+| Lv4 · CEFR B2 (중상급) | 2,252 | 2,969 |
+| Lv5 · CEFR C1 (고급) | 523 | 2,075 |
 
 ## 2. 중복
 
@@ -79,7 +79,7 @@
 - 풀이 없음: `Người dân tập thể dục bên hồ.` (vi_jr_e.txt)
 - 베트남어 문자 외 글자: 0건 — 없음
 
-**[en] 풀이 없는 문장 590건 · 문장에 없는 풀이어 25건**
+**[en] 풀이 없는 문장 590건 · 문장에 없는 풀이어 30건**
 - 풀이 없음: `It is what it is.` (en_a.txt)
 - 풀이 없음: `Let me see what I can do.` (en_d.txt)
 - 풀이 없음: `Changing people is harder than changing technology.` (en_jr_a.txt)
@@ -100,7 +100,7 @@
 - 풀이 없음: `The next stage of commerce is conversation, not search.` (en_jr_d.txt)
 - 풀이 없음: `Getting customers to come back is the key to growth.` (en_jr_d.txt)
 - 풀이 없음: `Companies are cutting business travel to save costs.` (en_jr_d.txt)
-- 문장에 없는 풀이어 파일별: en_x_biz.txt 10, en_a.txt 3, en_l.txt 2, en_n_b.txt 2, en_c.txt 1, en_d.txt 1, en_e.txt 1, en_g.txt 1, en_jr_d.txt 1, en_jr_g.txt 1, en_mt_b.txt 1, en_n_e.txt 1
+- 문장에 없는 풀이어 파일별: en_x_biz.txt 10, en_a.txt 3, en_wx_toefl.txt 3, en_l.txt 2, en_n_b.txt 2, en_wx_news.txt 2, en_c.txt 1, en_d.txt 1, en_e.txt 1, en_g.txt 1, en_jr_d.txt 1, en_jr_g.txt 1, en_mt_b.txt 1, en_n_e.txt 1
   - `not a bit` ← You haven't changed a bit. (en_a.txt)
   - `had better` ← I'd better get going. (en_a.txt)
   - `oversleep` ← I overslept. (en_a.txt)
@@ -116,46 +116,50 @@
   - `overdo it` ← I overdid it lately and now I'm all achy. (en_n_b.txt)
   - `misunderstand` ← I must have misunderstood. (en_n_b.txt)
   - `have one's back` ← She's always got my back. (en_n_e.txt)
+  - `deterioration` ← As his health deteriorated, he was hospitalized. (en_wx_news.txt)
+  - `flee` ← Residents fled from the flood. (en_wx_news.txt)
+  - `creep` ← The cat crept toward the mouse. (en_wx_toefl.txt)
+  - `fisherman` ← The fishermen go out by boat at dawn. (en_wx_toefl.txt)
+  - `foretell` ← The fortune teller foretold the future. (en_wx_toefl.txt)
 
 ## 4. 상황별 분포 (언어 간 균형)
 
 | 상황 | 베트남어 | 영어 | 메모 |
 |---|---:|---:|---|
 | 인사·스몰토크 | 192 | 200 |  |
-| 일상·가족 | 577 | 364 |  |
-| 집·날씨 | 225 | 114 |  |
-| 음식·요리 | 252 | 127 |  |
+| 일상·가족 | 577 | 375 |  |
+| 집·날씨 | 225 | 149 |  |
+| 음식·요리 | 252 | 140 |  |
 | 쇼핑·돈 | 272 | 221 |  |
-| 여행·교통 | 435 | 235 |  |
-| 시간·약속 | 192 | 135 |  |
-| 건강·문제해결 | 224 | 215 |  |
-| 취미·문화 | 274 | 133 |  |
-| 영화·책 | 293 | 98 |  |
-| 의견·경험 | 170 | 254 |  |
-| 배움·시험 | 144 | 581 |  |
-| 업무·경영 | 623 | 823 |  |
-| 경제·금융·에너지 | 289 | 542 |  |
-| 사회·정치·외교 | 257 | 196 |  |
-| IT·AI | 215 | 320 |  |
+| 여행·교통 | 435 | 242 |  |
+| 시간·약속 | 192 | 136 |  |
+| 건강·문제해결 | 224 | 240 |  |
+| 취미·문화 | 274 | 153 |  |
+| 영화·책 | 293 | 105 |  |
+| 의견·경험 | 170 | 287 |  |
+| 배움·시험 | 144 | 1696 |  |
+| 업무·경영 | 623 | 1150 |  |
+| 경제·금융·에너지 | 289 | 569 |  |
+| 사회·정치·외교 | 257 | 754 |  |
+| IT·AI | 215 | 331 |  |
 | 명언·속담 | 95 | 144 |  |
 
 ## 5. 기준 어휘 목록 대비 누락
 
-**NGSL 1.01 (일반 영어 핵심 2,801): 포함 81.1% · 누락 528개**
-- 순위 1~500: 1개 — himself
-- 순위 501~1000: 10개 — inside, press, television, bar, associate, male, possibility, female, agency, yeah
-- 순위 1001~2000: 118개 — rich, aware, administration, remove, chair, sex, inform, appeal, slightly, federal, presence, ball, refuse, apparently, desire, length, possibly, cancer, convince, tape, murder, hate, dear, onto, fashion, bomb, council, anybody, basically, violence, mainly, gun, troop, tear, proper, afford, frame, abuse, principal, session, appearance, elect, association, sexual, musical, declare, native, specifically, fat, fellow, surely, guard, bore, somehow, latter, command, column, criminal, properly, ill, via, legislation, county, reward, meanwhile, furthermore, accuse, construct, remark, northern, estate, equally, victory, permanent, urge, enemy, vast, producer, accompany, seed …
-- 순위 2001~2801: 399개 — prize, typically, assistance, roof, respectively, variation, tooth, representation, preparation, emphasis, edition, entertainment, undertake, wire, gay, publication, slight, unknown, inch, equivalent, solid, owe, governor, port, arrival, contemporary, beer, specialist, assure, numerous, virtually, coverage, cable, isolate, prisoner, wet, secondary, recruit, exclude, string, persuade, inspire, hence, pupil, formula, perceive, sink, stare, anymore, meter, truck, sail, devote, terrorist, justify, fascinate, depression, guilty, underlie, distinction, incorporate, obligation, sir, anger, pub, perception, naturally, height, western, constantly, muscle, scare, boundary, essay, scream, withdraw, pollution, disorder, symbol, demonstration …
+**NGSL 1.01 (일반 영어 핵심 2,801): 포함 89.5% · 누락 293개**
+- 순위 501~1000: 4개 — television, male, possibility, yeah
+- 순위 1001~2000: 56개 — aware, administration, sex, inform, appeal, slightly, presence, apparently, possibly, tape, murder, anybody, basically, mainly, tear, proper, afford, abuse, principal, session, association, sexual, musical, native, specifically, fat, surely, bore, latter, properly, ill, via, legislation, county, reward, meanwhile, permanent, urge, producer, accompany, liberal, disk, aircraft, maximum, motion, breast, accommodation, brown, occupy, journalist, advertisement, aside, secondly, prospect, plot, primarily
+- 순위 2001~2801: 233개 — prize, typically, assistance, respectively, variation, tooth, representation, undertake, wire, gay, publication, unknown, inch, owe, contemporary, assure, numerous, virtually, coverage, isolate, wet, secondary, persuade, inspire, perceive, sink, stare, anymore, justify, underlie, incorporate, obligation, sir, pub, perception, naturally, constantly, muscle, boundary, withdraw, steel, designer, album, loose, tank, brilliant, adviser, stem, reverse, mode, awful, pose, nowadays, alcohol, van, web, log, independence, pink, strip, impress, vice, radical, similarly, subsequent, infection, dirty, resort, bloody, bend, alarm, newly, parallel, sponsor, boot, button, mate, occasionally, bath, tap …
 
-**TSL 1.1 (토익): 포함 45.4% · 누락 688개**
-- 순위 1~500: 156개 — mister, e-book, logical, goods, résumé, traveler, caller, preview, garage, oval, occupation, cellphone, compact, merchandise, dentist, tactic, replacement, underline, electrical, airplane, café, comprehension, mini, fitness, closet, unreal, distractor, donation, provider, inspection, recipient, indoor, dial, container, respondent, skim, briefcase, inquire, advisor, announcer, aspect, audit, contractor, stadium, weekday, waitress, cleaner, commonly, captain, trainer, midnight, rainy, unhappy, automobile, incomplete, dock, carrier, designate, dental, duration, painter, patron, salad, delegate, salesperson, omit, spite, correspondence, sculpture, ice cream, basketball, delete, illogical, textbook, accurately, cabin, conductor, inspector, graph, taker …
-- 순위 501~1000: 340개 — considerably, informal, microscope, newsstand, rack, remodel, tunnel, unlimited, vitamin, zoo, auditorium, celebrity, deduct, enthusiastic, graduation, icy, irregular, login, mineral, motorcycle, planner, programmer, recruiter, remainder, statue, accessory, closure, dislike, downstairs, nail, pedestrian, sleeve, suburb, takeover, unsure, verbal, wildlife, absent, accumulate, apprentice, businessman, colorful, costume, editorial, firefighter, gasoline, inappropriate, layout, lunchtime, pharmaceutical, plausible, safely, specialty, unspecified, adhere, bankrupt, caution, clip, diner, eager, embassy, fasten, informative, institute, kit, mentor, nominate, opt, parade, physician, polish, postage, recreational, rehearse, removal, satisfactory, accordingly, applicable, balcony, basement …
-- 순위 1001~1259: 192개 — loudly, microwave, misidentify, neat, outfit, pastry, poorly, prestigious, purser, reassure, reunion, revolutionize, seafood, signify, slot, sue, superb, traditionally, unpleasant, violin, ward, worthwhile, advisable, archive, artistic, assurance, athletic, attire, butter, centimeter, circulate, comb, comfortably, cookbook, cushion, dose, drum, embed, expedite, extinguisher, fluent, hurricane, hygiene, integral, interactive, interfere, lightweight, needy, overpay, pamphlet, partial, penalize, pollute, prescribe, prominent, relocation, residence, retrieve, rider, salespeople, someday, spectator, stereo, storeroom, subsidize, suspicious, tasty, terrific, underground, unpaid, volleyball, wheelchair, wool, wrinkle, anyhow, appetizer, arc, audition, backpack, biography …
+**TSL 1.1 (토익): 포함 61.6% · 누락 484개**
+- 순위 1~500: 107개 — mister, e-book, logical, résumé, caller, preview, oval, occupation, cellphone, merchandise, dentist, tactic, replacement, underline, airplane, café, comprehension, mini, closet, unreal, distractor, provider, inspection, recipient, indoor, dial, container, skim, briefcase, inquire, advisor, announcer, aspect, contractor, weekday, waitress, cleaner, commonly, trainer, midnight, automobile, incomplete, carrier, dental, patron, salad, salesperson, omit, spite, sculpture, ice cream, illogical, textbook, cabin, conductor, inspector, taker, sightsee, soup, lane, poster, housekeeper, knowledgeable, organizer, booklet, packet, auto, flyer, interrupt, showroom, administrator, ferry, instruct, overview, accomplishment, accustom, desktop, jog, leisure, nap …
+- 순위 501~1000: 239개 — considerably, informal, microscope, newsstand, rack, remodel, tunnel, unlimited, auditorium, icy, irregular, login, mineral, motorcycle, planner, programmer, recruiter, remainder, accessory, dislike, downstairs, pedestrian, sleeve, suburb, takeover, unsure, verbal, absent, businessman, colorful, costume, inappropriate, layout, lunchtime, pharmaceutical, plausible, specialty, unspecified, caution, diner, informative, institute, kit, mentor, nominate, opt, parade, physician, postage, recreational, rehearse, removal, satisfactory, accordingly, balcony, culinary, generic, jazz, massage, maximize, mild, ongoing, periodically, plug, referral, runner, sock, spam, surf, timetable, vase, aboard, advancement, advertiser, alternatively, attorney, authorization, campus, candy, concierge …
+- 순위 1001~1259: 138개 — microwave, misidentify, pastry, poorly, prestigious, purser, reassure, reunion, revolutionize, seafood, signify, slot, superb, violin, ward, worthwhile, advisable, archive, artistic, athletic, attire, butter, comb, comfortably, cookbook, cushion, extinguisher, integral, interactive, interfere, lightweight, needy, overpay, pamphlet, partial, penalize, prescribe, prominent, relocation, residence, retrieve, rider, salespeople, someday, spectator, stereo, storeroom, subsidize, suspicious, terrific, underground, unpaid, volleyball, wheelchair, wool, wrinkle, anyhow, appetizer, arc, audition, backpack, biography, bound, broom, cheeseburger, chilly, circus, continental, diagnostic, donut, doorman, electronically, euro, getaway, hardworking, impatient, indirect, irrelevant, jeans, journalism …
 
-**BSL 1.01 (비즈니스): 포함 41.1% · 누락 1,033개**
-- 순위 1~500: 206개 — mister, goods, sponsorship, audit, e-book, anti, entity, euro, aggregate, payable, aspect, calculation, receivable, creditor, sub, annuity, broker, coalition, maximize, beta, par, provider, constitution, trader, monopoly, stockmarket, ex, corruption, issuer, patent, debit, duration, terrorism, respondent, takeover, coefficient, classify, offset, merchandise, bound, taxpayer, debtor, liable, scandal, defer, carrier, payoff, ethical, contractor, marketer, rebel, statute, acceptance, defendant, matrix, graph, replacement, telecom, accumulate, exploit, diagram, referendum, indirect, sophisticate, businessman, commonly, superior, taxation, multinational, plaintiff, withdrawal, consolidate, taxable, subordinate, pledge, modest, convertible, thereby, ledger, linear …
-- 순위 501~1000: 299개 — willingness, tempt, broadly, prominent, conglomerate, contrary, simulation, senator, standardize, opt, sensible, exemption, concession, occupation, privately, guerrilla, pharmaceutical, administer, repurchase, denote, nonetheless, overview, horizontal, array, ballot, treasury, intermediary, reproduce, boast, militant, fate, qualitative, gang, oblige, curb, robust, brokerage, accurately, devise, inspector, incremental, fighter, subsidize, grip, mathematical, assert, underwrite, differentiate, correlate, agriculture, multiplier, adverse, suspicion, flee, threshold, legitimate, behavioral, dump, documentation, poorly, unemployed, discharge, explicit, breakdown, span, bail, incumbent, albeit, spokesman, contingency, recipient, subtract, surrender, judicial, certainty, administrator, logical, rebuild, litigation, generic …
-- 순위 1001~1754: 528개 — rocket, debenture, collar, outperform, irrelevant, diamond, promotional, broadband, traveler, equality, entail, compile, circulation, petition, attributable, revolutionary, carmaker, discretionary, reconciliation, mutually, subprime, refusal, outfit, consortium, speculative, policeman, resemble, amortize, exploration, mill, subjective, mainland, retreat, peaceful, importantly, backward, overwhelm, unprecedented, declaration, rebate, covariance, jointly, resignation, removal, exclusion, bomber, occurrence, viewer, spur, hazard, packet, omit, prospectus, conscious, placement, desktop, telecommunication, infect, socialist, browser, cyclical, likewise, cartel, triumph, processor, divert, arguably, ordinate, casualty, verdict, dot, distinctive, inflationary, salesperson, tort, positively, unlimited, inflate, constituency, mineral …
+**BSL 1.01 (비즈니스): 포함 58.6% · 누락 726개**
+- 순위 1~500: 137개 — mister, sponsorship, e-book, anti, euro, payable, aspect, calculation, receivable, sub, annuity, maximize, beta, par, provider, trader, monopoly, stockmarket, ex, issuer, patent, debit, takeover, coefficient, offset, merchandise, bound, taxpayer, liable, scandal, carrier, payoff, contractor, marketer, rebel, statute, acceptance, matrix, replacement, telecom, referendum, indirect, sophisticate, businessman, commonly, superior, taxation, multinational, plaintiff, withdrawal, taxable, pledge, modest, convertible, thereby, ledger, linear, ministry, multiply, presidency, rational, violation, spreadsheet, predecessor, sole, chancellor, notably, likelihood, orient, insider, railway, minus, constitutional, privatization, tactic, missile, remedy, accordance, parliamentary, vertical …
+- 순위 501~1000: 211개 — willingness, broadly, prominent, simulation, senator, standardize, opt, sensible, occupation, privately, pharmaceutical, repurchase, nonetheless, overview, treasury, intermediary, reproduce, militant, qualitative, oblige, robust, brokerage, inspector, incremental, subsidize, mathematical, underwrite, agriculture, multiplier, suspicion, flee, threshold, legitimate, behavioral, documentation, poorly, unemployed, span, bail, incumbent, spokesman, contingency, recipient, subtract, surrender, judicial, administrator, logical, rebuild, litigation, generic, layout, unchanged, queue, bidder, respective, textbook, redemption, meaningful, interface, inevitably, withhold, sterling, thrive, commander, toll, incorporation, termination, invasion, bondholder, computation, advisory, modification, customize, spectrum, tuple, magnitude, gallon, considerably, intervene …
+- 순위 1001~1754: 378개 — rocket, debenture, collar, outperform, irrelevant, promotional, petition, attributable, carmaker, discretionary, reconciliation, mutually, subprime, speculative, policeman, resemble, amortize, mill, subjective, mainland, retreat, importantly, backward, overwhelm, unprecedented, declaration, rebate, covariance, jointly, removal, bomber, occurrence, spur, packet, omit, prospectus, placement, desktop, telecommunication, infect, socialist, browser, cyclical, likewise, cartel, triumph, processor, arguably, ordinate, inflationary, salesperson, tort, positively, unlimited, inflate, mineral, liberalization, buyout, separation, internationally, retrieve, individually, dip, inclusion, copper, justification, outright, stance, wheat, enlargement, lesser, republic, artificial, trait, maximization, afterward, spouse, continually, interference, proportional …
 
 **베트남어 자막 빈도 상위 3,000 음절: 포함 60.4% · 누락 1,187개**
 - 순위 1~500: 20개 — giết, ngươi, chúa, thằng, i, ko, oh, bắn, t, c, n, quái, yeah, ng, khốn, gã, a, the, m, ư
