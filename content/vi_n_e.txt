@@ -1,0 +1,51 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 건강·병원·집·생활 문제
+@health
+3|병원에 가 봐야 할 것 같아요.|Chắc tôi phải đi khám.|đi khám=진찰받으러 가다
+3|예약하고 싶어요.|Tôi muốn đặt lịch khám.|đặt lịch=예약하다
+3|어디가 불편하세요?|Anh thấy khó chịu ở đâu?|khó chịu=불편한
+3|언제부터 아팠어요?|Anh đau từ bao giờ?|từ bao giờ=언제부터
+3|어제부터요.|Từ hôm qua.|hôm qua=어제
+3|피곤해서 쉬고 싶어요.|Tôi mệt, muốn nghỉ.|
+4|식중독인 것 같아요.|Hình như tôi bị ngộ độc thực phẩm.|ngộ độc=중독
+4|허리를 삐끗했어요.|Tôi bị trẹo lưng.|trẹo=삐다; lưng=허리
+4|발목을 다쳤어요.|Tôi bị đau mắt cá chân.|mắt cá chân=발목
+4|보험 처리가 되나요?|Có được bảo hiểm chi trả không?|
+4|검사 결과는 언제 나와요?|Bao giờ có kết quả xét nghiệm?|xét nghiệm=검사
+4|처방전을 주세요.|Cho tôi đơn thuốc.|đơn thuốc=처방전
+4|응급실이 어디예요?|Phòng cấp cứu ở đâu?|cấp cứu=응급
+4|구급차를 불러 주세요!|Gọi xe cấp cứu giúp tôi!|
+4|요즘 몸이 좀 무거워요.|Dạo này người tôi hơi uể oải.|uể oải=나른한
+4|운동을 꾸준히 해야겠어요.|Tôi phải tập thể dục đều đặn.|đều đặn=꾸준히
+4|물을 많이 드세요.|Anh nhớ uống nhiều nước.|
+4|담배를 끊었어요.|Tôi đã bỏ thuốc lá.|bỏ=끊다; thuốc lá=담배
+4|술을 줄이려고요.|Tôi định uống ít rượu bia lại.|rượu bia=술
+4|하노이 겨울은 감기 걸리기 쉬워요.|Mùa đông Hà Nội rất dễ bị cảm.|
+5|아프기 전에 미리 관리하는 게 제일 중요해요.|Quan trọng nhất là chăm sóc sức khỏe trước khi bị bệnh.|chăm sóc=돌보다
+5|마음이 건강해야 몸도 건강해요.|Tinh thần có khỏe thì cơ thể mới khỏe.|cơ thể=몸
+5|충분히 자는 게 어떤 약보다 좋아요.|Ngủ đủ giấc còn tốt hơn bất kỳ loại thuốc nào.|ngủ đủ giấc=충분히 자다; bất kỳ=어떤 ~든
+@home
+3|이사했어요.|Tôi đã chuyển nhà.|chuyển nhà=이사하다
+3|방이 몇 개예요?|Nhà có mấy phòng?|phòng=방
+3|월세가 얼마예요?|Tiền thuê nhà mỗi tháng bao nhiêu?|tiền thuê nhà=집세
+3|보증금이 있어요?|Có phải đặt cọc không?|đặt cọc=보증금을 걸다
+3|전기가 나갔어요.|Mất điện rồi.|
+3|물이 안 나와요.|Mất nước rồi.|mất nước=단수
+3|세탁기가 고장 났어요.|Máy giặt bị hỏng rồi.|máy giặt=세탁기; hỏng=고장 나다
+3|수리 기사를 불러 주세요.|Gọi thợ sửa giúp tôi.|thợ sửa=수리공
+3|청소해야 해요.|Tôi phải dọn nhà.|dọn=청소하다
+3|빨래해야 해요.|Tôi phải giặt quần áo.|giặt=빨다; quần áo=옷
+3|쓰레기 버리고 올게요.|Tôi đi đổ rác.|đổ rác=쓰레기를 버리다
+4|집주인에게 연락했어요.|Tôi đã liên lạc với chủ nhà.|chủ nhà=집주인
+4|계약을 1년 연장하고 싶어요.|Tôi muốn gia hạn hợp đồng thêm một năm.|
+4|위층이 너무 시끄러워요.|Tầng trên ồn quá.|tầng trên=위층; ồn=시끄러운
+4|습기 때문에 벽에 곰팡이가 생겼어요.|Vì nồm ẩm nên tường bị mốc.|nồm=(북부 봄철) 습한 날씨; tường=벽; mốc=곰팡이 피다
+4|하노이 봄은 습해서 빨래가 안 말라요.|Mùa xuân Hà Nội nồm nên quần áo không khô.|khô=마르다
+4|제습기를 사야겠어요.|Tôi phải mua máy hút ẩm.|máy hút ẩm=제습기
+4|택배가 경비실에 있어요.|Bưu kiện đang ở phòng bảo vệ.|bưu kiện=택배; phòng bảo vệ=경비실
+4|아파트 관리비가 올랐어요.|Phí quản lý chung cư tăng rồi.|phí quản lý=관리비; chung cư=아파트
+4|가구를 새로 샀어요.|Tôi mới mua đồ nội thất.|đồ nội thất=가구
+4|집에서 식물을 키우기 시작했어요.|Tôi bắt đầu trồng cây trong nhà.|trồng=심다; cây=식물
+4|도우미 아주머니가 일주일에 두 번 와요.|Cô giúp việc đến mỗi tuần hai lần.|giúp việc=가사도우미
+5|집이 넓은 것보다 출퇴근이 편한 게 더 중요해요.|Đi làm thuận tiện quan trọng hơn nhà rộng.|thuận tiện=편리한; rộng=넓은
+5|물건을 줄이니까 집도 마음도 가벼워졌어요.|Bớt đồ đạc đi thì nhà cửa và tâm trí đều nhẹ nhàng hơn.|đồ đạc=물건; tâm trí=마음
+5|외국에서 집을 구할 때는 계약서를 꼼꼼히 읽어야 해요.|Khi thuê nhà ở nước ngoài phải đọc hợp đồng thật kỹ.|

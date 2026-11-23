@@ -1,0 +1,68 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 생활·소비·건강·교육·문화 뉴스
+@health
+4|독감 환자가 급증하고 있다.|Số ca mắc cúm đang tăng nhanh.|ca=건·사례; mắc=걸리다; cúm=독감
+4|보건부는 예방 접종을 권고했다.|Bộ Y tế khuyến cáo người dân tiêm phòng.|Bộ Y tế=보건부; tiêm phòng=예방 접종하다
+4|뎅기열 환자가 지난해보다 늘었다.|Số ca sốt xuất huyết tăng so với năm ngoái.|sốt xuất huyết=뎅기열
+4|병원들은 의료진 부족을 겪고 있다.|Các bệnh viện đang thiếu nhân viên y tế.|
+4|건강 보험 적용 범위가 확대된다.|Phạm vi chi trả bảo hiểm y tế được mở rộng.|chi trả=지급하다; bảo hiểm y tế=건강 보험
+4|비만 아동이 늘고 있다.|Tỷ lệ trẻ em béo phì đang tăng.|trẻ em=아동; béo phì=비만
+4|식품 안전 단속이 강화됐다.|Công tác kiểm tra an toàn thực phẩm được tăng cường.|công tác=업무; thực phẩm=식품
+4|대기 오염이 호흡기 질환을 늘리고 있다.|Ô nhiễm không khí làm gia tăng các bệnh về đường hô hấp.|đường hô hấp=호흡기; bệnh=질병
+4|원격 진료 서비스가 확산되고 있다.|Dịch vụ khám bệnh từ xa đang được mở rộng.|khám bệnh=진료하다
+4|정신 건강에 대한 관심이 높아지고 있다.|Sự quan tâm đến sức khỏe tinh thần ngày càng tăng.|sức khỏe tinh thần=정신 건강
+5|고령화로 의료비 지출이 빠르게 늘 것이다.|Già hóa dân số sẽ khiến chi tiêu y tế tăng nhanh.|già hóa=고령화; chi tiêu=지출
+5|예방이 치료보다 비용이 훨씬 적게 든다.|Phòng bệnh tốn ít chi phí hơn nhiều so với chữa bệnh.|phòng bệnh=예방; tốn=들다; chữa bệnh=치료
+5|지역 간 의료 서비스 격차가 여전히 크다.|Chênh lệch về dịch vụ y tế giữa các vùng vẫn còn lớn.|chênh lệch=격차
+5|대형 병원 쏠림 현상을 줄이기 위해 기초 의료를 강화해야 한다.|Cần củng cố y tế cơ sở để giảm quá tải ở bệnh viện tuyến trên.|y tế cơ sở=기초 의료; tuyến trên=상급
+@study
+4|새 교육 과정이 올해부터 적용된다.|Chương trình giáo dục mới được áp dụng từ năm nay.|chương trình=과정
+4|영어가 초등학교 필수 과목이 된다.|Tiếng Anh sẽ trở thành môn bắt buộc ở tiểu học.|môn=과목; tiểu học=초등학교
+4|해외 유학생 수가 늘었다.|Số du học sinh ra nước ngoài tăng.|du học sinh=유학생
+4|한국은 베트남 유학생이 많이 가는 나라다.|Hàn Quốc là điểm đến phổ biến của du học sinh Việt Nam.|điểm đến=목적지
+4|대학들이 AI 학과를 신설하고 있다.|Các trường đại học đang mở ngành AI.|mở ngành=학과를 개설하다
+4|사교육 비용이 가계에 부담이 되고 있다.|Chi phí học thêm đang là gánh nặng cho các gia đình.|học thêm=과외·사교육
+4|교사 부족 문제가 심각하다.|Tình trạng thiếu giáo viên rất nghiêm trọng.|tình trạng=상황; giáo viên=교사
+4|정부는 학비를 면제하기로 했다.|Nhà nước quyết định miễn học phí.|học phí=학비
+5|암기 위주의 교육에서 역량 중심 교육으로 바뀌고 있다.|Giáo dục đang chuyển từ học thuộc lòng sang phát triển năng lực.|học thuộc lòng=암기하다
+5|평생 학습이 디지털 시대의 생존 전략이다.|Học tập suốt đời là chiến lược sinh tồn trong thời đại số.|suốt đời=평생; sinh tồn=생존; thời đại=시대
+5|교육의 질은 교사의 질을 넘을 수 없다.|Chất lượng giáo dục không thể vượt quá chất lượng giáo viên.|
+@movie
+4|베트남 영화가 박스오피스 기록을 세웠다.|Phim Việt lập kỷ lục phòng vé.|phim=영화; phòng vé=박스오피스
+4|K팝 콘서트 표가 몇 분 만에 매진됐다.|Vé concert K-pop bán hết chỉ trong vài phút.|bán hết=매진되다
+4|한국 드라마가 베트남에서 여전히 인기가 많다.|Phim truyền hình Hàn Quốc vẫn rất được yêu thích tại Việt Nam.|phim truyền hình=드라마; yêu thích=좋아하다
+4|하노이 국제 영화제가 개막했다.|Liên hoan phim quốc tế Hà Nội đã khai mạc.|liên hoan phim=영화제; khai mạc=개막하다
+4|전통 음악 공연이 외국인 관광객에게 인기다.|Các buổi biểu diễn âm nhạc truyền thống thu hút khách nước ngoài.|biểu diễn=공연; âm nhạc=음악
+4|수상 인형극은 베트남의 대표 문화유산이다.|Múa rối nước là di sản văn hóa tiêu biểu của Việt Nam.|múa rối nước=수상 인형극; di sản=유산; tiêu biểu=대표적인
+5|한류는 양국 관계를 가깝게 만드는 데 크게 기여했다.|Làn sóng Hàn Quốc đã góp phần lớn trong việc gắn kết hai nước.|làn sóng=물결; góp phần=기여하다; gắn kết=결속시키다
+5|문화 산업은 국가 소프트파워의 핵심이다.|Công nghiệp văn hóa là cốt lõi của sức mạnh mềm quốc gia.|sức mạnh mềm=소프트파워
+5|베트남 젊은 감독들이 국제 무대에서 주목받고 있다.|Các đạo diễn trẻ Việt Nam đang được chú ý trên trường quốc tế.|đạo diễn=감독; chú ý=주목하다; trường quốc tế=국제 무대
+@shop
+4|연말 쇼핑 시즌을 앞두고 할인 행사가 쏟아지고 있다.|Các chương trình giảm giá đổ bộ trước mùa mua sắm cuối năm.|đổ bộ=쏟아지다
+4|소비자들이 지출을 줄이고 있다.|Người tiêu dùng đang thắt chặt chi tiêu.|thắt chặt=조이다
+4|금 사려는 사람들이 줄을 섰다.|Người dân xếp hàng mua vàng.|xếp hàng=줄을 서다
+4|명절을 앞두고 물가가 오르고 있다.|Giá cả tăng trước Tết.|
+4|온라인 판매자도 세금을 내야 한다.|Người bán hàng online cũng phải nộp thuế.|nộp=납부하다
+4|대형 마트들이 배송 서비스를 강화하고 있다.|Các siêu thị lớn đang đẩy mạnh dịch vụ giao hàng.|siêu thị=마트
+4|중고 거래 시장이 커지고 있다.|Thị trường mua bán đồ cũ đang phát triển.|đồ cũ=중고품
+4|커피 체인들의 경쟁이 치열하다.|Các chuỗi cà phê cạnh tranh gay gắt.|
+4|가짜 화장품을 판 업체가 적발됐다.|Một cơ sở bán mỹ phẩm giả đã bị phát hiện.|cơ sở=업소
+4|소비자 보호법이 개정됐다.|Luật Bảo vệ quyền lợi người tiêu dùng đã được sửa đổi.|
+5|젊은 소비자들은 가격보다 경험을 산다.|Người tiêu dùng trẻ mua trải nghiệm hơn là giá cả.|trải nghiệm=경험
+5|틱톡 같은 플랫폼이 쇼핑 방식 자체를 바꾸고 있다.|Những nền tảng như TikTok đang thay đổi chính cách mua sắm.|nền tảng=플랫폼; chính=바로
+5|친환경 제품에 대한 수요가 늘지만 가격 장벽이 여전하다.|Nhu cầu sản phẩm xanh tăng nhưng rào cản về giá vẫn còn.|
+5|소비 양극화가 뚜렷해지고 있다.|Sự phân hóa trong tiêu dùng ngày càng rõ rệt.|phân hóa=양극화; rõ rệt=뚜렷한
+@society
+4|하노이에 새 공원이 문을 열었다.|Hà Nội khai trương công viên mới.|công viên=공원
+4|시민들이 호숫가에서 운동한다.|Người dân tập thể dục bên hồ.|
+4|도로 확장 공사가 시작됐다.|Công trình mở rộng đường đã khởi công.|công trình=공사; khởi công=착공하다
+4|홍강 다리 공사가 마무리 단계에 들어섰다.|Công trình cầu bắc qua sông Hồng đang vào giai đoạn hoàn thiện.|cầu=다리; sông Hồng=홍강
+4|도심 오토바이 주차난이 심각하다.|Tình trạng thiếu chỗ đỗ xe máy ở nội đô rất nghiêm trọng.|đỗ xe=주차하다; nội đô=도심
+4|쓰레기 분리배출이 의무화된다.|Phân loại rác tại nguồn sẽ trở thành bắt buộc.|phân loại=분류하다; rác=쓰레기
+4|자원봉사자들이 수해 지역을 도왔다.|Các tình nguyện viên đã hỗ trợ vùng lũ.|tình nguyện viên=자원봉사자; lũ=홍수
+4|1인 가구가 늘고 있다.|Số hộ gia đình một người đang tăng.|hộ gia đình=가구
+4|반려동물을 키우는 가정이 많아졌다.|Ngày càng nhiều gia đình nuôi thú cưng.|nuôi=기르다; thú cưng=반려동물
+4|결혼 연령이 높아지고 있다.|Độ tuổi kết hôn ngày càng cao.|độ tuổi=연령; kết hôn=결혼하다
+5|도시 녹지 공간은 시민 건강과 직결된다.|Không gian xanh đô thị gắn liền với sức khỏe người dân.|
+5|공동체 의식이 약해지면서 이웃 관계도 달라지고 있다.|Khi ý thức cộng đồng yếu đi, quan hệ hàng xóm cũng thay đổi.|ý thức=의식; cộng đồng=공동체; hàng xóm=이웃
+5|시민 의식이 도시의 품격을 결정한다.|Ý thức người dân quyết định văn minh của đô thị.|văn minh=품격·문명
+5|빠른 변화 속에서 전통을 지키는 것이 과제다.|Gìn giữ truyền thống trong bối cảnh thay đổi nhanh chóng là một thách thức.|gìn giữ=지키다; bối cảnh=배경·상황
