@@ -1,0 +1,46 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 기업·스타트업·AI·디지털 경제 심화
+@tech
+4|베트남 기술 기업이 자체 AI 모델을 공개했다.|Một doanh nghiệp công nghệ Việt đã ra mắt mô hình AI tự phát triển.|
+4|베트남어 대규모 언어 모델 개발이 활발하다.|Việc phát triển mô hình ngôn ngữ lớn tiếng Việt đang sôi động.|mô hình ngôn ngữ lớn=대규모 언어 모델
+4|정부는 AI 국가 전략을 수정했다.|Chính phủ đã điều chỉnh chiến lược quốc gia về AI.|
+4|AI 관련 법 초안이 의견 수렴 중이다.|Dự thảo luật về AI đang được lấy ý kiến.|
+4|대기업들이 AI 전담 조직을 만들고 있다.|Các tập đoàn lớn đang thành lập bộ phận chuyên trách AI.|chuyên trách=전담하는
+4|은행들이 AI로 대출 심사를 하고 있다.|Các ngân hàng đang dùng AI để thẩm định khoản vay.|thẩm định=심사하다; khoản vay=대출
+4|AI 고객 상담원이 콜센터를 대체하고 있다.|Trợ lý ảo AI đang thay thế tổng đài viên.|trợ lý ảo=가상 비서; tổng đài viên=상담원
+4|병원들이 AI 진단 시스템을 시범 도입했다.|Các bệnh viện thí điểm hệ thống chẩn đoán bằng AI.|chẩn đoán=진단
+4|학생들의 AI 과제 대필이 논란이 되고 있다.|Việc học sinh dùng AI làm bài tập hộ đang gây tranh cãi.|làm hộ=대신 해 주다
+4|기업들의 클라우드 전환이 빨라지고 있다.|Quá trình chuyển lên đám mây của doanh nghiệp đang tăng tốc.|tăng tốc=가속하다
+4|글로벌 기업이 하노이에 데이터센터를 짓는다.|Một tập đoàn toàn cầu sẽ xây trung tâm dữ liệu tại Hà Nội.|
+4|스타트업 생태계가 동남아에서 세 번째로 크다.|Hệ sinh thái khởi nghiệp lớn thứ ba Đông Nam Á.|hệ sinh thái=생태계; khởi nghiệp=창업
+4|핀테크 앱 사용자가 5천만 명을 넘었다.|Người dùng ứng dụng fintech vượt 50 triệu.|
+4|전자 지갑 시장 경쟁이 치열하다.|Thị trường ví điện tử cạnh tranh khốc liệt.|ví điện tử=전자 지갑; khốc liệt=치열한
+4|차량 호출 앱들이 배달 사업을 확대하고 있다.|Các ứng dụng gọi xe đang mở rộng sang giao đồ ăn.|gọi xe=차량 호출
+4|빈패스트가 해외 시장 판매를 늘리고 있다.|VinFast đang đẩy mạnh bán hàng ở thị trường nước ngoài.|
+4|반도체 설계 기업들이 베트남에 연구소를 연다.|Các công ty thiết kế chip mở trung tâm R&D tại Việt Nam.|
+4|IT 아웃소싱이 베트남의 주력 수출 서비스가 됐다.|Gia công phần mềm đã trở thành dịch vụ xuất khẩu chủ lực.|gia công phần mềm=소프트웨어 아웃소싱; chủ lực=주력
+4|사이버 보안 인력 수요가 급증했다.|Nhu cầu nhân lực an ninh mạng tăng đột biến.|
+4|개인정보 유출 기업에 과징금이 부과됐다.|Doanh nghiệp làm lộ dữ liệu cá nhân bị phạt.|làm lộ=유출하다
+4|온라인 광고 시장이 빠르게 커지고 있다.|Thị trường quảng cáo trực tuyến tăng trưởng nhanh.|quảng cáo=광고
+4|e스포츠 산업이 젊은 층을 중심으로 성장하고 있다.|Ngành thể thao điện tử phát triển mạnh trong giới trẻ.|thể thao điện tử=e스포츠; giới trẻ=젊은 층
+5|AI는 베트남이 중진국 함정을 벗어날 지렛대가 될 수 있다.|AI có thể là đòn bẩy giúp Việt Nam thoát bẫy thu nhập trung bình.|đòn bẩy=지렛대; thoát=벗어나다
+5|베트남어 데이터 부족이 현지 AI 개발의 한계로 지적된다.|Thiếu dữ liệu tiếng Việt được chỉ ra là hạn chế của việc phát triển AI trong nước.|chỉ ra=지적하다
+5|인재 유출을 막지 못하면 기술 자립은 어렵다.|Nếu không ngăn được chảy máu chất xám, tự chủ công nghệ sẽ khó thành hiện thực.|chảy máu chất xám=두뇌 유출; thành hiện thực=실현되다
+5|AI 도입 효과는 기업의 데이터 성숙도에 따라 크게 다르다.|Hiệu quả ứng dụng AI khác biệt lớn tùy theo mức độ trưởng thành dữ liệu của doanh nghiệp.|trưởng thành=성숙
+5|많은 기업이 AI를 도입했지만 실제 성과를 낸 곳은 많지 않다.|Nhiều doanh nghiệp đã ứng dụng AI nhưng không nhiều nơi tạo ra hiệu quả thực chất.|thực chất=실질적인
+5|규제가 너무 엄격하면 혁신이 위축되고, 너무 느슨하면 위험이 커진다.|Quản lý quá chặt thì đổi mới bị kìm hãm, quá lỏng thì rủi ro tăng cao.|chặt=엄격한; kìm hãm=억제하다; lỏng=느슨한
+5|디지털 경제는 GDP의 20%를 차지하는 것을 목표로 한다.|Kinh tế số đặt mục tiêu chiếm 20% GDP.|kinh tế số=디지털 경제
+5|플랫폼 노동자의 사회 보장 문제가 새로운 과제로 떠올랐다.|Vấn đề an sinh cho lao động nền tảng nổi lên như một thách thức mới.|lao động nền tảng=플랫폼 노동자
+5|기술 기업의 가치는 사용자 수보다 수익 구조로 평가받기 시작했다.|Giá trị doanh nghiệp công nghệ bắt đầu được đánh giá qua mô hình doanh thu thay vì số người dùng.|mô hình doanh thu=수익 구조
+5|데이터 주권이 국가 간 협상의 새로운 쟁점이 되고 있다.|Chủ quyền dữ liệu đang trở thành vấn đề mới trong đàm phán giữa các quốc gia.|chủ quyền=주권
+5|AI 시대에는 질문하는 능력이 답을 아는 것보다 중요하다.|Trong thời đại AI, khả năng đặt câu hỏi quan trọng hơn việc biết câu trả lời.|khả năng=능력; câu trả lời=대답
+@work
+4|AI 활용 능력이 채용의 필수 조건이 되고 있다.|Kỹ năng sử dụng AI đang trở thành yêu cầu bắt buộc khi tuyển dụng.|
+4|기업들은 직원 AI 교육에 투자하고 있다.|Doanh nghiệp đang đầu tư đào tạo AI cho nhân viên.|
+4|재택근무를 줄이는 기업이 늘었다.|Ngày càng nhiều công ty hạn chế làm việc từ xa.|
+4|이직률이 높은 업종은 IT와 금융이다.|Ngành có tỷ lệ nghỉ việc cao là IT và tài chính.|
+4|청년들은 프리랜서 일을 선호하는 경향이 있다.|Giới trẻ có xu hướng thích làm tự do.|làm tự do=프리랜서로 일하다
+4|주 4일 근무를 시범 도입한 기업이 있다.|Một số công ty thí điểm làm việc bốn ngày mỗi tuần.|
+5|1인 1 AI 에이전트 시대가 다가오고 있다.|Thời đại mỗi người một trợ lý AI đang đến gần.|
+5|AI는 사람을 대체하기보다 AI를 쓰는 사람이 쓰지 않는 사람을 대체할 것이다.|AI sẽ không thay thế con người, mà người biết dùng AI sẽ thay thế người không biết dùng.|
+5|업무 자동화의 성패는 기술보다 조직의 수용성에 달려 있다.|Thành bại của tự động hóa công việc phụ thuộc vào khả năng tiếp nhận của tổ chức hơn là công nghệ.|
+5|평생직장의 개념이 사라지고 평생 학습이 그 자리를 채우고 있다.|Khái niệm làm một nơi suốt đời đang mất dần, thay vào đó là học tập suốt đời.|khái niệm=개념; thay vào đó=그 대신

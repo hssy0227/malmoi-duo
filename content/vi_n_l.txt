@@ -2,7 +2,7 @@
 @daily
 4|베트남에서는 어른께 두 손으로 물건을 드려요.|Ở Việt Nam, khi đưa đồ cho người lớn phải dùng hai tay.|đưa=건네다; người lớn=어른
 4|식사할 때 어른이 먼저 수저를 드세요.|Khi ăn cơm, người lớn cầm đũa trước.|cầm=잡다; đũa=젓가락
-4|밥 먹기 전에 "모이 어른들 식사하세요"라고 말해요.|Trước bữa ăn, người ta nói "mời cả nhà ăn cơm".|
+4|밥 먹기 전에 "다 같이 드세요"라고 인사해요.|Trước bữa ăn, người ta nói "mời cả nhà ăn cơm".|
 4|절에 갈 때는 짧은 옷을 입으면 안 돼요.|Khi đi chùa không nên mặc quần áo ngắn.|
 4|설날에는 아이들에게 세뱃돈을 줘요.|Ngày Tết người ta lì xì cho trẻ con.|lì xì=세뱃돈을 주다
 4|설날 첫 손님이 한 해 운을 결정한다고 믿어요.|Người ta tin rằng người xông nhà đầu năm quyết định vận may cả năm.|xông nhà=새해 첫 방문; vận may=운
@@ -29,7 +29,7 @@
 4|호이안 구시가지는 밤에 등불이 정말 예뻐요.|Phố cổ Hội An về đêm đèn lồng rất đẹp.|về đêm=밤에; đèn lồng=등불
 4|다낭 해변은 깨끗하고 넓어요.|Bãi biển Đà Nẵng sạch và rộng.|bãi biển=해변; sạch=깨끗한
 4|북부의 가을이 일 년 중 가장 아름다워요.|Mùa thu miền Bắc đẹp nhất trong năm.|mùa thu=가을
-4|가을이면 하노이 거리에 연꽃차 향이 나요.|Mùa thu phố Hà Nội thoảng hương cốm.|thoảng=은은히 풍기다; hương=향; cốm=꼼(어린 찹쌀)
+4|가을이면 하노이 거리에 꼼(햇찹쌀) 향이 은은하게 나요.|Mùa thu phố Hà Nội thoảng hương cốm.|thoảng=은은히 풍기다; hương=향; cốm=꼼(어린 찹쌀)
 5|문화를 이해하면 언어도 더 빨리 늘어요.|Hiểu văn hóa thì học ngôn ngữ cũng nhanh hơn.|
 5|예절은 나라마다 다르지만 존중하는 마음은 같아요.|Phong tục mỗi nước mỗi khác, nhưng tấm lòng tôn trọng thì giống nhau.|phong tục=풍속; tấm lòng=마음; tôn trọng=존중하다
 5|베트남 사람들의 가족 중심 문화는 한국과 많이 닮았어요.|Văn hóa lấy gia đình làm trọng của người Việt rất giống Hàn Quốc.|làm trọng=중시하다
