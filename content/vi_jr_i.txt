@@ -1,0 +1,45 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 국제 정세·세계 경제·한-베 관계
+@society
+4|미국이 새로운 관세 정책을 발표했다.|Mỹ công bố chính sách thuế quan mới.|thuế quan=관세
+4|베트남산 제품에 대한 관세율이 조정됐다.|Mức thuế đối với hàng hóa Việt Nam đã được điều chỉnh.|mức thuế=세율
+4|양국은 무역 협상을 재개했다.|Hai nước đã nối lại đàm phán thương mại.|nối lại=재개하다
+4|유럽 연합과의 자유무역협정이 효과를 내고 있다.|Hiệp định thương mại tự do với EU đang phát huy hiệu quả.|hiệp định=협정; tự do=자유
+4|세계 경제 성장률 전망이 하향됐다.|Dự báo tăng trưởng kinh tế toàn cầu bị hạ xuống.|hạ xuống=낮추다
+4|미국 연준이 금리를 인하했다.|Cục Dự trữ Liên bang Mỹ đã giảm lãi suất.|Cục Dự trữ Liên bang=연준
+4|중국 경제 둔화가 지역에 영향을 주고 있다.|Kinh tế Trung Quốc chững lại ảnh hưởng đến khu vực.|chững lại=주춤하다
+4|국제 유가가 중동 긴장으로 올랐다.|Giá dầu thế giới tăng do căng thẳng ở Trung Đông.|Trung Đông=중동
+4|세계 공급망이 재편되고 있다.|Chuỗi cung ứng toàn cầu đang được tái cấu trúc.|tái cấu trúc=재편하다
+4|아세안 국가들이 공동 성명을 발표했다.|Các nước ASEAN ra tuyên bố chung.|tuyên bố chung=공동 성명
+4|베트남은 유엔 평화유지 활동에 참여하고 있다.|Việt Nam tham gia hoạt động gìn giữ hòa bình của Liên Hợp Quốc.|gìn giữ hòa bình=평화유지; Liên Hợp Quốc=유엔
+4|양국 외교 장관이 회담했다.|Bộ trưởng Ngoại giao hai nước đã hội đàm.|bộ trưởng=장관
+4|한국과 베트남은 수교 30주년을 넘겼다.|Hàn Quốc và Việt Nam đã bước qua mốc 30 năm thiết lập quan hệ ngoại giao.|thiết lập=수립하다
+4|베트남에 사는 한국인은 20만 명이 넘는다.|Có hơn 200.000 người Hàn Quốc sinh sống tại Việt Nam.|sinh sống=거주하다
+4|한국에서 공부하는 베트남 학생이 가장 많다.|Sinh viên Việt Nam chiếm số đông nhất trong du học sinh nước ngoài tại Hàn Quốc.|sinh viên=대학생; số đông=다수
+4|한국 기업들이 베트남 인재 채용을 늘리고 있다.|Các doanh nghiệp Hàn Quốc đang tăng tuyển dụng nhân sự Việt Nam.|
+4|양국은 직항 노선을 확대하기로 했다.|Hai nước nhất trí mở rộng các đường bay thẳng.|nhất trí=합의하다; bay thẳng=직항
+4|한-베 경제 포럼이 하노이에서 열렸다.|Diễn đàn kinh tế Việt Nam – Hàn Quốc được tổ chức tại Hà Nội.|diễn đàn=포럼
+4|양국은 핵심 광물 협력에 합의했다.|Hai bên đạt được thỏa thuận hợp tác về khoáng sản thiết yếu.|thỏa thuận=합의; khoáng sản=광물; thiết yếu=필수적인
+4|베트남은 희토류 매장량이 세계 2위다.|Việt Nam có trữ lượng đất hiếm đứng thứ hai thế giới.|trữ lượng=매장량; đất hiếm=희토류; đứng thứ hai=2위를 차지하다
+5|미중 경쟁 속에서 베트남의 전략적 가치가 높아지고 있다.|Trong bối cảnh cạnh tranh Mỹ – Trung, giá trị chiến lược của Việt Nam ngày càng tăng.|
+5|보호무역주의 확산은 수출 중심 경제에 큰 위협이다.|Chủ nghĩa bảo hộ thương mại lan rộng là mối đe dọa lớn với các nền kinh tế hướng xuất khẩu.|chủ nghĩa bảo hộ=보호주의; hướng xuất khẩu=수출 지향
+5|원산지 규정 강화는 우회 수출을 막기 위한 것이다.|Siết chặt quy tắc xuất xứ nhằm ngăn chặn tình trạng xuất khẩu đội lốt.|quy tắc xuất xứ=원산지 규정; ngăn chặn=막다; đội lốt=위장한
+5|지정학적 위험이 투자 결정의 핵심 변수가 됐다.|Rủi ro địa chính trị đã trở thành biến số then chốt trong quyết định đầu tư.|địa chính trị=지정학; biến số=변수
+5|양국 관계는 경제 협력에서 전략적 협력으로 발전하고 있다.|Quan hệ hai nước đang phát triển từ hợp tác kinh tế lên hợp tác chiến lược.|
+5|한국은 베트남의 개발 경험에서 중요한 참고 모델이다.|Hàn Quốc là mô hình tham khảo quan trọng trong kinh nghiệm phát triển của Việt Nam.|
+5|다자 무역 체제가 흔들리면서 지역 협정의 중요성이 커지고 있다.|Khi hệ thống thương mại đa phương lung lay, tầm quan trọng của các hiệp định khu vực ngày càng lớn.|đa phương=다자; lung lay=흔들리다; tầm quan trọng=중요성
+5|국제 질서의 재편 속에서 중견국의 외교적 선택지가 좁아지고 있다.|Trong quá trình tái định hình trật tự thế giới, lựa chọn ngoại giao của các nước tầm trung bị thu hẹp.|tái định hình=재편; trật tự=질서
+5|베트남은 '대나무 외교'로 유연하면서도 원칙을 지키는 노선을 걷고 있다.|Việt Nam theo đuổi 'ngoại giao cây tre', vừa mềm dẻo vừa giữ vững nguyên tắc.|ngoại giao cây tre=대나무 외교; mềm dẻo=유연한; giữ vững=굳게 지키다
+5|인적 교류는 양국 관계의 가장 단단한 기반이다.|Giao lưu nhân dân là nền tảng vững chắc nhất của quan hệ hai nước.|nền tảng=기반; vững chắc=견고한
+@econ
+4|코스피가 외국인 매수세에 상승했다.|Chỉ số KOSPI tăng nhờ lực mua của khối ngoại.|lực mua=매수세
+4|원화 가치가 떨어졌다.|Đồng won mất giá.|
+4|한국 반도체 수출이 다시 늘었다.|Xuất khẩu chip bán dẫn của Hàn Quốc tăng trở lại.|chip=칩
+4|세계 증시가 일제히 하락했다.|Chứng khoán toàn cầu đồng loạt giảm điểm.|giảm điểm=하락하다
+4|안전 자산 선호가 강해졌다.|Xu hướng tìm đến tài sản an toàn gia tăng.|tài sản an toàn=안전 자산
+4|비트코인 가격이 급등락하고 있다.|Giá Bitcoin biến động mạnh.|
+4|베트남 증시가 신흥 시장으로 승격될 전망이다.|Thị trường chứng khoán Việt Nam được kỳ vọng nâng hạng lên thị trường mới nổi.|nâng hạng=승격하다; mới nổi=신흥
+4|해외 송금액이 사상 최대를 기록했다.|Lượng kiều hối đạt mức kỷ lục.|kiều hối=해외 송금(교포 송금)
+5|신흥 시장 승격은 대규모 외국인 자금 유입을 이끌 수 있다.|Việc nâng hạng thị trường có thể thu hút dòng vốn ngoại lớn.|dòng vốn=자금 흐름
+5|달러 강세는 신흥국 통화와 부채에 압력을 준다.|Đồng USD mạnh gây áp lực lên tiền tệ và nợ của các nước mới nổi.|nợ=부채
+5|글로벌 금리 인하 사이클이 아시아 자산 시장에 숨통을 틔워 줄 것이다.|Chu kỳ giảm lãi suất toàn cầu sẽ giúp thị trường tài sản châu Á dễ thở hơn.|chu kỳ=사이클; châu Á=아시아; dễ thở=숨통이 트이다
+5|외국인 투자자의 신뢰는 시장의 투명성에서 나온다.|Niềm tin của nhà đầu tư nước ngoài đến từ tính minh bạch của thị trường.|

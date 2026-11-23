@@ -1,0 +1,52 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 생활 서비스·하루 일과·주말 계획
+@daily
+3|머리 자르고 싶어요.|Tôi muốn cắt tóc.|cắt tóc=머리를 자르다
+3|조금만 다듬어 주세요.|Tỉa bớt một chút thôi.|tỉa=다듬다
+3|너무 짧게 자르지 마세요.|Đừng cắt ngắn quá.|
+3|머리 감겨 주세요.|Gội đầu cho tôi nhé.|gội đầu=머리를 감다
+3|세탁소가 어디 있어요?|Tiệm giặt là ở đâu?|tiệm giặt là=세탁소
+3|이거 드라이클리닝 해 주세요.|Giặt khô cái này giúp tôi.|giặt khô=드라이클리닝
+3|언제 찾으러 오면 돼요?|Bao giờ tôi đến lấy được?|lấy=찾다
+3|우체국에서 소포를 보내고 싶어요.|Tôi muốn gửi bưu phẩm ở bưu điện.|bưu phẩm=소포
+3|한국까지 며칠 걸려요?|Gửi sang Hàn Quốc mất mấy ngày?|
+3|휴대폰 화면이 깨졌어요.|Màn hình điện thoại bị vỡ.|vỡ=깨지다
+3|고칠 수 있어요?|Sửa được không?|sửa=고치다
+3|마사지 받고 싶어요.|Tôi muốn đi mát-xa.|
+3|좀 더 세게 해 주세요.|Mạnh tay hơn một chút.|mạnh tay=세게
+3|좀 약하게 해 주세요.|Nhẹ tay thôi.|nhẹ tay=살살
+3|오토바이 수리점이 어디예요?|Tiệm sửa xe máy ở đâu?|
+3|타이어가 펑크 났어요.|Xe tôi bị thủng lốp.|thủng lốp=펑크 나다
+4|아침에 일어나면 커피부터 마셔요.|Sáng dậy việc đầu tiên tôi làm là uống cà phê.|
+4|출근하기 전에 운동을 해요.|Tôi tập thể dục trước khi đi làm.|
+4|보통 8시쯤 집을 나서요.|Thường khoảng tám giờ tôi ra khỏi nhà.|ra khỏi=나가다
+4|회사까지 오토바이로 20분 걸려요.|Đi xe máy đến công ty mất 20 phút.|
+4|점심은 회사 근처 식당에서 먹어요.|Bữa trưa tôi ăn ở quán gần công ty.|
+4|퇴근 후에는 베트남어 수업을 들어요.|Sau giờ làm tôi đi học tiếng Việt.|
+4|저녁은 보통 집에서 간단히 먹어요.|Bữa tối tôi thường ăn đơn giản ở nhà.|đơn giản=간단한
+4|자기 전에 30분 정도 책을 읽어요.|Trước khi ngủ tôi đọc sách khoảng 30 phút.|
+4|11시쯤 자요.|Khoảng 11 giờ tôi đi ngủ.|đi ngủ=자러 가다
+4|주말에는 늦잠을 자요.|Cuối tuần tôi ngủ nướng.|ngủ nướng=늦잠 자다
+4|토요일 아침에는 시장에 장 보러 가요.|Sáng thứ Bảy tôi đi chợ.|thứ Bảy=토요일
+4|일요일에는 친구들과 축구를 해요.|Chủ nhật tôi đá bóng với bạn bè.|Chủ nhật=일요일; đá bóng=축구하다
+4|이번 주말에는 집에서 푹 쉬려고요.|Cuối tuần này tôi định ở nhà nghỉ ngơi cho thật đã.|cho thật đã=실컷
+4|다음 달에 휴가를 내서 다낭에 가요.|Tháng sau tôi xin nghỉ phép đi Đà Nẵng.|
+4|연휴 계획 있어요?|Anh có kế hoạch gì cho kỳ nghỉ không?|
+4|아직 특별한 계획은 없어요.|Tôi chưa có kế hoạch gì đặc biệt.|đặc biệt=특별한
+4|요즘 아침형 인간이 되려고 노력 중이에요.|Dạo này tôi đang cố gắng dậy sớm.|
+4|매일 단어 20개씩 외워요.|Mỗi ngày tôi học thuộc 20 từ.|học thuộc=외우다; từ=단어
+4|출퇴근길에 팟캐스트를 들어요.|Trên đường đi làm tôi nghe podcast.|
+4|하루 만 보 걷기를 목표로 해요.|Tôi đặt mục tiêu đi bộ mười nghìn bước mỗi ngày.|nghìn=천; bước=걸음
+4|휴대폰 사용 시간을 줄이려고 해요.|Tôi đang cố giảm thời gian dùng điện thoại.|
+4|가끔은 혼자만의 시간이 필요해요.|Đôi khi tôi cần thời gian cho riêng mình.|cho riêng mình=나만의
+4|이번 달은 돈을 좀 아껴 써야 해요.|Tháng này tôi phải tiêu tiền tiết kiệm một chút.|tiêu tiền=돈을 쓰다
+4|가계부를 쓰기 시작했어요.|Tôi bắt đầu ghi chép chi tiêu.|ghi chép=기록하다
+4|월급날까지 일주일 남았어요.|Còn một tuần nữa mới đến ngày lương.|ngày lương=월급날
+4|은행에 적금을 들었어요.|Tôi đã mở sổ tiết kiệm ở ngân hàng.|sổ tiết kiệm=적금 통장
+4|대출 이자가 부담돼요.|Lãi vay là một gánh nặng.|lãi vay=대출 이자
+5|규칙적인 생활이 생각보다 큰 차이를 만들어요.|Sinh hoạt điều độ tạo ra sự khác biệt lớn hơn mình nghĩ.|sinh hoạt=생활; điều độ=규칙적인
+5|작은 습관이 쌓여서 결국 인생이 바뀌어요.|Những thói quen nhỏ tích lũy dần sẽ thay đổi cả cuộc đời.|thói quen=습관; dần=점점
+5|돈을 모으는 것보다 지키는 게 더 어려워요.|Giữ tiền còn khó hơn kiếm tiền.|kiếm tiền=돈을 벌다
+5|소비를 줄이는 것만큼 수입을 늘리는 것도 중요해요.|Tăng thu nhập cũng quan trọng không kém việc cắt giảm chi tiêu.|
+5|주말을 잘 쉬어야 한 주를 잘 버틸 수 있어요.|Phải nghỉ ngơi tốt vào cuối tuần thì mới trụ được cả tuần.|trụ=버티다
+5|외국 생활은 매일이 작은 도전이에요.|Sống ở nước ngoài, mỗi ngày là một thử thách nhỏ.|thử thách=도전
+5|익숙함에 속아 소중한 것을 잃지 말아야 해요.|Đừng để sự quen thuộc làm ta đánh mất những điều quý giá.|quen thuộc=익숙함; đánh mất=잃어버리다; quý giá=소중한
