@@ -72,7 +72,7 @@ w3|당연하죠.|Absolutely.|absolutely=전적으로·당연히
 2|음식 다 맛있었어요.|Everything was delicious.|delicious=아주 맛있는
 2|남은 음식 싸 갈 수 있을까요?|Could I get a box for the leftovers?|leftovers=남은 음식; box=포장 용기
 2|신용카드 되나요?|Do you take credit cards?|take=받다
-2|라떼 톨 사이즈 따뜻하게 하나요.|A tall latte, hot, please.|latte=라떼
+2|따뜻한 라떼 톨 사이즈로 한 잔 주세요.|A tall latte, hot, please.|latte=라떼
 2|우유를 귀리 우유로 바꿔 주시겠어요?|Can I swap the milk for oat milk?|swap A for B=A를 B로 바꾸다
 3|각자 계산해도 될까요?|Can we split the bill?|split the bill=나눠 내다
 3|이건 제가 살게요.|It's on me.|on me=내가 낼게

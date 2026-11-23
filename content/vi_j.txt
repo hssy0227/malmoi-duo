@@ -139,7 +139,7 @@
 3|원래 가격이 얼마였어요?|Giá gốc là bao nhiêu?|giá gốc=원가
 4|정가에서 40%나 할인해서 안 살 수가 없었어요.|Giảm tới bốn mươi phần trăm so với giá gốc nên không thể không mua.|không thể không=~하지 않을 수 없다
 3|사이즈표 있어요?|Có bảng size không?|bảng size=사이즈표
-4|베트남 사이즈는 한국보다 작게 나와서 한 치수 크게 사는 게 좋아요.|Size ở Việt Nam nhỏ hơn Hàn Quốc nên nên mua lớn hơn một cỡ.|lớn hơn một cỡ=한 치수 크게
+4|베트남 사이즈는 한국보다 작게 나와서 한 치수 크게 사는 게 좋아요.|Size ở Việt Nam nhỏ hơn Hàn Quốc nên bạn nên mua lớn hơn một cỡ.|lớn hơn một cỡ=한 치수 크게
 3|이건 어디에 쓰는 거예요?|Cái này dùng để làm gì?|dùng để=~하는 데 쓰다
 4|이건 커피 내리는 필터인데 기념품으로 사 가는 사람이 많아요.|Đây là phin pha cà phê, nhiều người mua về làm quà lắm.|làm quà=선물로
 3|포장비는 따로 받아요?|Gói quà có tính tiền riêng không?|tính tiền riêng=따로 돈을 받다

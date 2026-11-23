@@ -80,7 +80,7 @@
 3|오랜만이에요! 잘 지냈어요?|Long time no see! How have you been?|long time no see=오랜만이다
 3|어떻게 지내요?|How's it going?|
 3|별일 없어요?|What's new with you?|
-3|만나서 반가웠어요.|It was great catching up.|catch up=근황을 나누다
+3|오랜만에 근황을 나눠서 좋았어요.|It was great catching up.|catch up=근황을 나누다
 3|저는 이 동네 토박이예요.|I was born and raised around here.|born and raised=나고 자란
 3|어떤 일 하세요?|What do you do for a living?|for a living=생계로
 3|IT 회사에서 일해요.|I work at a tech company.|tech company=IT 회사

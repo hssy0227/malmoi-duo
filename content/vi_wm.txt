@@ -1,0 +1,33 @@
+# 형식: 레벨|한국어|베트남어|단어=뜻; 단어=뜻|메모
+# 베트남어 다의어 보조 예문 — 직접 작성 (같은 단어의 다른 뜻)
+@daily
+2|그는 아침마다 이를 닦아요.|Anh ấy đánh răng mỗi sáng.|đánh=닦다(đánh răng)|
+3|그는 기타를 아주 잘 쳐요.|Anh ấy đánh đàn guitar rất hay.|đánh=(악기를) 연주하다|
+3|저는 보고서를 컴퓨터로 입력했어요.|Tôi đánh máy báo cáo xong rồi.|đánh=(글을) 입력하다·타이핑하다|
+2|그는 매일 아침 공원에서 달려요.|Anh ấy chạy bộ trong công viên mỗi sáng.|chạy=달리다|
+2|이 케이크는 제가 직접 만들었어요.|Cái bánh này do tôi tự làm.|làm=만들다|
+2|이 약은 건강에 좋아요.|Thuốc này tốt cho sức khỏe.|tốt=~에 좋은|
+3|그는 마음씨가 아주 착해요.|Anh ấy rất tốt bụng.|tốt bụng=마음씨가 좋은|
+3|이 빵은 너무 딱딱해요.|Bánh mì này cứng quá.|cứng=딱딱한|
+3|그 사람은 고집이 아주 세요.|Ông ấy rất cứng đầu.|cứng đầu=고집이 센|
+2|이 가방은 너무 무거워요.|Cái túi này nặng quá.|nặng=무거운|
+2|저는 버스 정류장에 서 있어요.|Tôi đang đứng ở bến xe buýt.|đứng=서다|
+3|차가 도로 한가운데에서 멈췄어요.|Xe đứng giữa đường.|đứng=멈추다|
+2|이제 저는 가야겠어요.|Giờ tôi phải đi rồi.|giờ=이제·지금|
+2|이 가방은 진짜 가죽으로 만들었어요.|Cái túi này làm bằng da thật.|thật=진짜의|
+3|엄마는 아이가 늦게까지 놀게 해 줬어요.|Mẹ cho con chơi đến khuya.|cho=~하게 해 주다|
+2|이 선물은 어머니께 드릴 거예요.|Món quà này là cho mẹ tôi.|cho=~을 위한·~에게|
+3|그녀는 작년에 시집갔어요.|Cô ấy lấy chồng năm ngoái.|lấy chồng=시집가다|
+3|그 집은 형편이 넉넉해요.|Nhà họ khá giả.|khá giả=형편이 넉넉한|
+3|이 차는 기름을 많이 먹어요.|Xe này ăn xăng nhiều.|ăn=(연료를) 먹다·소모하다|
+3|우리 가족은 설을 쇠러 고향에 가요.|Gia đình tôi về quê ăn Tết.|ăn Tết=설을 쇠다|
+@shop
+3|이 제품은 요즘 아주 잘 팔려요.|Sản phẩm này dạo này bán rất chạy.|chạy=(잘) 팔리다|
+3|저는 은행 계좌를 만들고 싶어요.|Tôi muốn mở tài khoản ngân hàng.|mở=개설하다|
+3|이 가게는 아침 일곱 시에 문을 열어요.|Cửa hàng này mở cửa lúc bảy giờ sáng.|mở cửa=문을 열다(영업 시작)|
+@tech
+3|이 앱은 휴대폰에서 잘 돌아가요.|Ứng dụng này chạy tốt trên điện thoại.|chạy=(프로그램이) 돌아가다|
+@study
+3|오늘까지 학비를 내야 해요.|Hôm nay tôi phải đóng học phí.|đóng=(돈을) 내다|
+@movie
+3|그는 이 영화에서 주인공을 맡았어요.|Anh ấy đóng vai chính trong phim này.|đóng=(역을) 맡다·연기하다|
