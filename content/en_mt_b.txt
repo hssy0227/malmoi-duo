@@ -1,0 +1,88 @@
+# 비즈니스 미팅 (직접 작성) — 고객·협상·발표·후속 조치
+@work
+3|오늘 저희 제품을 소개해 드리려고 합니다.|Today I'd like to walk you through our product.|walk through=차근차근 설명하다
+3|귀사의 상황을 먼저 들어 보고 싶습니다.|We'd like to hear about your situation first.|
+3|현재 가장 큰 고민이 무엇인가요?|What's your biggest pain point right now?|pain point=고충
+3|예산 범위가 어느 정도인가요?|What kind of budget range are you working with?|budget range=예산 범위
+3|도입 시기는 언제로 생각하고 계세요?|When are you hoping to roll this out?|roll out=도입·출시하다
+3|결정은 누가 최종적으로 내리시나요?|Who makes the final decision on your side?|on one's side=그쪽에서
+3|견적서를 다음 주까지 보내 드리겠습니다.|We'll send you a quote by next week.|quote=견적
+3|데모를 한번 보여 드릴까요?|Would you like to see a quick demo?|demo=시연
+3|무료 체험판으로 먼저 써 보셔도 됩니다.|You're welcome to try the free trial first.|free trial=무료 체험
+3|다른 고객사 사례를 공유해 드릴게요.|Let me share a case study from another client.|case study=사례 연구
+3|궁금한 점이 있으면 언제든 연락 주세요.|Feel free to reach out anytime if you have questions.|reach out=연락하다
+3|내부적으로 검토한 뒤 회신 드리겠습니다.|We'll review this internally and get back to you.|internally=내부적으로
+3|결정을 내리기 전에 시간이 좀 필요해요.|We need a little time before we can decide.|
+3|오늘 미팅 내용을 정리해서 메일로 드릴게요.|I'll send you a recap of today's meeting by email.|recap=요약
+3|좋은 관계를 이어 가길 바랍니다.|We look forward to continuing our partnership.|partnership=협력 관계
+3|계약 조건을 다시 한번 확인하고 싶습니다.|We'd like to go over the contract terms once more.|terms=조건
+3|납기는 얼마나 걸리나요?|What's the lead time?|lead time=납기·소요 기간
+3|최소 주문 수량이 있나요?|Is there a minimum order quantity?|minimum order quantity=최소 주문 수량
+3|지원 서비스는 어떻게 제공되나요?|What kind of support do you provide?|support=지원
+3|담당자를 소개해 드릴게요.|Let me introduce you to the person in charge.|person in charge=담당자
+4|가격 면에서 조금 더 유연하게 해 주실 수 있나요?|Is there any flexibility on the price?|flexibility=유연성
+4|장기 계약을 하면 할인이 가능한가요?|Can you offer a discount for a longer-term contract?|longer-term=장기의
+4|그 가격은 저희 예산을 넘습니다.|That price is beyond our budget.|beyond=넘는
+4|가격보다 품질과 안정성이 더 중요합니다.|Quality and reliability matter more to us than price.|reliability=안정성
+4|이 조건이라면 바로 진행할 수 있습니다.|On these terms, we can move forward right away.|move forward=진행하다
+4|중간 지점에서 합의할 수 있을 것 같아요.|I think we can meet somewhere in the middle.|meet in the middle=절충하다
+4|그 조건은 저희가 받아들이기 어렵습니다.|I'm afraid those terms are difficult for us to accept.|I'm afraid=유감스럽지만
+4|대신 결제 조건을 조정해 드릴 수 있습니다.|In return, we can adjust the payment terms.|in return=그 대신; payment terms=결제 조건
+4|이 부분은 양보할 수 없는 조건입니다.|This is a deal-breaker for us.|deal-breaker=협상 결렬 요인
+4|이번엔 소량으로 시작해 보고 싶습니다.|We'd like to start with a small order this time.|
+4|서비스 수준 협약에 대응 시간을 명시해 주세요.|Please specify the response time in the service level agreement.|service level agreement=서비스 수준 협약(SLA); specify=명시하다
+4|독점 공급 조건을 원하십니까?|Are you looking for an exclusive supply arrangement?|exclusive=독점적인; arrangement=약정
+4|계약 기간은 2년으로 하고 자동 갱신은 빼죠.|Let's make it a two-year term without automatic renewal.|renewal=갱신
+4|위약금 조항을 다시 협의하고 싶습니다.|We'd like to renegotiate the penalty clause.|penalty clause=위약금 조항
+4|양사 모두에게 이익이 되는 방향을 찾고 싶어요.|We want to find a win-win solution for both sides.|win-win=모두에게 이로운
+4|이번 제안은 이번 달 말까지 유효합니다.|This offer is valid until the end of the month.|valid=유효한
+4|저희 쪽 법무 검토가 끝나는 대로 서명하겠습니다.|We'll sign as soon as our legal review is complete.|legal review=법무 검토
+4|파일럿 결과를 보고 확대 여부를 결정하겠습니다.|We'll decide whether to scale up based on the pilot results.|scale up=확대하다
+4|투자 대비 효과를 수치로 보여 주실 수 있나요?|Can you show us the return on investment in numbers?|return on investment=투자 대비 효과(ROI)
+4|도입 후 3개월이면 효과가 나타납니다.|You'll see results within three months of rollout.|rollout=도입
+4|경쟁사 대비 저희의 강점은 세 가지입니다.|We have three advantages over our competitors.|advantage=강점
+4|그 기능은 다음 버전에 들어갈 예정입니다.|That feature is on the roadmap for the next release.|roadmap=로드맵; release=출시 버전
+4|현재로서는 그 요구를 맞추기 어렵습니다.|We can't accommodate that request at the moment.|accommodate=수용하다
+4|맞춤 개발은 추가 비용이 발생합니다.|Custom development will incur additional costs.|incur=발생시키다
+4|전체 일정을 단계별로 나눠서 설명드리겠습니다.|Let me break down the overall timeline into phases.|break down=나누다; phase=단계
+4|발표는 20분 정도 걸리고, 이후 질의응답을 하겠습니다.|The presentation will take about twenty minutes, followed by Q&A.|Q&A=질의응답
+4|이 그래프에서 보시듯이 매출이 꾸준히 늘고 있습니다.|As you can see from this chart, sales have been growing steadily.|steadily=꾸준히
+4|핵심 메시지는 단 하나입니다.|There's just one key message here.|
+4|요약하자면, 비용은 줄이고 속도는 높였습니다.|To sum up, we've cut costs and increased speed.|to sum up=요약하자면
+4|질문은 발표가 끝난 뒤에 받겠습니다.|I'll take questions at the end.|
+4|그 질문에 대해서는 정확한 자료를 확인해서 답변드리겠습니다.|I'll check the exact figures and get back to you on that.|
+4|좋은 피드백 감사합니다. 반영하겠습니다.|Thanks for the feedback. We'll take it on board.|take on board=반영하다
+4|일정이 지연된 점 사과드립니다.|We apologize for the delay in the schedule.|
+4|재발 방지 대책을 마련하겠습니다.|We'll put measures in place to prevent this from happening again.|put in place=마련하다
+4|이 문제의 원인을 먼저 설명드리겠습니다.|Let me first explain what caused the problem.|
+4|보상 방안을 함께 논의하고 싶습니다.|We'd like to discuss how we can make this right.|make it right=바로잡다·보상하다
+4|담당자를 변경해 드리겠습니다.|We'll assign a new account manager to you.|account manager=고객 담당자; assign=배정하다
+4|다음 분기 계획을 미리 공유해 주시면 준비하겠습니다.|If you share next quarter's plans in advance, we can prepare.|in advance=미리
+4|정기 점검 회의를 매달 하면 어떨까요?|How about holding a monthly check-in?|check-in=정기 점검 회의
+4|계약 갱신 전에 성과를 함께 검토하시죠.|Let's review performance together before the renewal.|
+4|이번 협력이 좋은 출발이 되길 바랍니다.|We hope this is the start of a great partnership.|
+5|저희는 단순한 공급업체가 아니라 장기적인 파트너가 되고 싶습니다.|We want to be a long-term partner, not just a vendor.|vendor=공급업체
+5|가격만 비교하시면 저희가 비싸 보일 수 있지만 총비용은 더 낮습니다.|On price alone we may look expensive, but our total cost of ownership is lower.|total cost of ownership=총소유비용
+5|이 계약의 성패는 실행 단계의 소통에 달려 있습니다.|The success of this deal depends on communication during implementation.|implementation=실행
+5|협상의 여지를 남겨 두기 위해 오늘은 확답을 드리지 않겠습니다.|To leave room for negotiation, I won't give a firm answer today.|firm answer=확답; leave room=여지를 남기다
+5|양측의 우선순위가 다르다는 점을 인정하고 시작하죠.|Let's start by acknowledging that our priorities differ.|acknowledge=인정하다
+5|리스크를 공유하는 구조라면 가격을 조정할 수 있습니다.|If we share the risk, we can adjust the price.|
+5|성과 연동형 계약을 제안드립니다.|We'd like to propose a performance-based contract.|performance-based=성과 연동형의
+5|이 수치가 사실이라면 사업 모델을 다시 봐야 합니다.|If these numbers hold, we need to rethink the business model.|hold=유효하다
+5|저희 고객 중 80%가 2년 이상 계약을 유지하고 있습니다.|Eighty percent of our clients have stayed with us for more than two years.|
+5|이번 협상이 결렬되더라도 관계는 이어 가고 싶습니다.|Even if this deal falls through, we'd like to stay in touch.|fall through=무산되다
+@phone
+3|화상 회의 링크를 다시 보내 주시겠어요?|Could you resend the video call link?|resend=다시 보내다
+3|카메라를 켜 주실 수 있나요?|Would you mind turning on your camera?|
+3|연결이 불안정해서 잠시 나갔다 들어올게요.|My connection is unstable. Let me drop off and rejoin.|rejoin=다시 들어오다
+3|일정을 조율하기 위해 연락드렸습니다.|I'm reaching out to set up a time to meet.|set up=잡다
+3|다음 주 화요일 오전 괜찮으세요?|Does next Tuesday morning work for you?|work for=~에게 괜찮다
+3|시차를 고려해서 저녁 시간으로 잡을게요.|Let's schedule it in the evening, given the time difference.|time difference=시차; given=~을 고려하면
+3|회의가 길어질 것 같아 30분 연장해도 될까요?|This may run long. Can we extend by thirty minutes?|run long=길어지다; extend=연장하다
+3|급한 일이 생겨서 회의를 다시 잡아야 할 것 같습니다.|Something urgent has come up, so I need to reschedule.|come up=생기다
+4|초대장에 안건을 첨부해 두었습니다.|I've attached the agenda to the invitation.|attach=첨부하다
+4|회의 전에 검토하실 자료를 미리 보내 드립니다.|Here are some materials to review before the meeting.|
+4|참석 여부를 미리 알려 주시면 감사하겠습니다.|Please let us know in advance whether you can attend.|
+4|통역이 필요하시면 준비해 드리겠습니다.|We can arrange an interpreter if you need one.|interpreter=통역사
+4|회의 녹화에 동의하십니까?|Do you consent to this meeting being recorded?|consent=동의하다
+4|이번 통화 내용은 메일로 다시 확인드리겠습니다.|I'll confirm what we discussed on this call by email.|

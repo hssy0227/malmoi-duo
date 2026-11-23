@@ -1,0 +1,97 @@
+# 저널·뉴스형 (직접 작성) — 커머스·소비·유통·브랜드
+@shop
+4|온라인 쇼핑이 다시 두 자릿수 성장을 기록했다.|Online shopping returned to double-digit growth.|double-digit=두 자릿수의
+4|초저가 쇼핑 앱이 기존 유통업체를 위협하고 있다.|Ultra-cheap shopping apps are threatening traditional retailers.|ultra-cheap=초저가의; retailer=유통업체
+4|빠른 배송이 이제 기본이 되었다.|Fast delivery has become the default.|default=기본값
+4|라이브 커머스가 새로운 판매 채널로 자리 잡았다.|Live commerce has established itself as a new sales channel.|establish oneself=자리 잡다
+4|소비자들이 자체 브랜드 제품으로 갈아타고 있다.|Shoppers are switching to store brands.|store brand=자체 브랜드
+4|명품 시장의 성장세가 꺾였다.|Growth in the luxury market has stalled.|luxury=명품
+4|중고 거래 시장이 빠르게 커지고 있다.|The secondhand market is growing quickly.|secondhand=중고의
+4|구독 경제가 성숙기에 접어들었다.|The subscription economy has entered a mature phase.|mature=성숙한
+4|후불 결제 서비스 이용자가 크게 늘었다.|Use of buy-now-pay-later services has jumped.|buy now, pay later=후불 결제
+4|오프라인 매장은 체험 공간으로 바뀌고 있다.|Physical stores are turning into experience spaces.|physical store=오프라인 매장
+4|반품 비용이 온라인 쇼핑몰의 수익을 갉아먹고 있다.|Return costs are eating into online retailers' profits.|eat into=갉아먹다
+4|소셜미디어가 새로운 쇼핑몰이 되었다.|Social media has become the new shopping mall.|
+4|편의점이 동네의 생활 거점이 되고 있다.|Convenience stores are becoming neighborhood hubs.|hub=거점
+4|가격 인상 대신 용량을 줄이는 기업이 늘고 있다.|More companies are shrinking package sizes instead of raising prices.|shrink=줄이다
+4|블랙프라이데이 매출이 사상 최대를 기록했다.|Black Friday sales hit a record.|
+4|해외 직구가 국내 유통 시장을 흔들고 있다.|Cross-border shopping is shaking up the domestic retail market.|cross-border=국경을 넘는; shake up=뒤흔들다
+4|브랜드 충성도가 예전만 못하다.|Brand loyalty isn't what it used to be.|brand loyalty=브랜드 충성도
+4|퀵커머스 업체들이 수익성 개선에 나섰다.|Quick-commerce companies are working to improve profitability.|quick commerce=즉시 배송 커머스
+4|친환경 포장이 구매 결정에 영향을 주고 있다.|Eco-friendly packaging is influencing purchasing decisions.|packaging=포장
+4|인플루언서 마케팅 비용이 치솟고 있다.|The cost of influencer marketing is soaring.|influencer=인플루언서
+4|무인 매장이 빠르게 늘고 있다.|Unstaffed stores are spreading quickly.|unstaffed=무인의
+4|소비자들은 할인보다 가치를 따진다.|Consumers care more about value than discounts.|value=가치
+4|배달 앱 수수료를 두고 갈등이 커지고 있다.|Tensions are growing over delivery app commissions.|commission=수수료
+4|유통 대기업들이 물류센터 투자를 늘리고 있다.|Major retailers are investing more in fulfillment centers.|fulfillment center=물류센터
+4|간편 결제가 현금과 카드를 대체하고 있다.|Mobile payments are replacing cash and cards.|mobile payment=간편 결제
+5|소비자는 물건이 아니라 경험과 의미를 산다.|Consumers buy experiences and meaning, not just products.|meaning=의미
+5|가격 경쟁만으로는 오래 살아남을 수 없다.|No company survives long on price competition alone.|price competition=가격 경쟁
+5|고객 데이터가 유통업의 가장 큰 자산이 되었다.|Customer data has become retail's most valuable asset.|asset=자산
+5|추천 알고리즘이 소비의 방향을 정하고 있다.|Recommendation algorithms are steering what people buy.|steer=조종하다·이끌다
+5|팬덤이 곧 매출이 되는 시대다.|We live in an age where fandom translates directly into sales.|translate into=~로 이어지다; fandom=팬덤
+5|브랜드는 이제 무엇을 팔지보다 무엇을 지지하는지로 평가받는다.|Brands are now judged by what they stand for, not just what they sell.|stand for=지지하다·상징하다
+5|물류 경쟁력이 곧 유통 경쟁력이다.|In retail, logistics is the competitive edge.|logistics=물류; competitive edge=경쟁 우위
+5|초개인화 마케팅은 편리하지만 불편하기도 하다.|Hyper-personalized marketing is convenient but also unsettling.|unsettling=불안하게 하는
+5|가성비에서 가심비로 소비의 기준이 옮겨 가고 있다.|The standard for spending is shifting from value for money to emotional satisfaction.|value for money=가성비
+5|오프라인의 미래는 판매가 아니라 관계에 있다.|The future of physical retail lies in relationships, not transactions.|transaction=거래
+5|커머스와 콘텐츠의 경계가 사라지고 있다.|The line between commerce and content is disappearing.|commerce=상거래
+5|저가 공세는 결국 품질 논란으로 이어지곤 한다.|Aggressive low pricing often ends in quality controversies.|controversy=논란
+5|소비 양극화로 중간 가격대 브랜드가 설 자리를 잃고 있다.|Polarized spending is squeezing mid-priced brands.|mid-priced=중간 가격대의
+5|플랫폼 의존도가 높을수록 판매자의 협상력은 약해진다.|The more sellers depend on platforms, the weaker their bargaining power.|bargaining power=협상력
+5|재고를 줄이는 것과 품절을 피하는 것 사이에서 균형이 필요하다.|Retailers must balance lean inventory against the risk of stockouts.|stockout=품절; lean=군살 없는
+5|D2C 브랜드들이 다시 오프라인 매장을 열고 있다.|Direct-to-consumer brands are opening physical stores again.|direct-to-consumer=소비자 직접 판매
+5|좋은 리뷰 하나가 광고 열 개보다 낫다.|One good review is worth more than ten ads.|
+5|고객 경험은 결제 이후에 시작된다.|The customer experience starts after the purchase.|purchase=구매
+5|유통업의 승부는 마지막 1마일에서 갈린다.|Retail is won or lost in the last mile.|last mile=최종 배송 구간
+5|AI 쇼핑 비서가 비교 검색을 대신해 줄 것이다.|AI shopping assistants will do the comparison shopping for us.|comparison shopping=비교 쇼핑
+5|가격을 올릴 수 있는 힘이 브랜드의 진짜 가치다.|Pricing power is the true measure of a brand.|pricing power=가격 결정력
+5|소비자 신뢰는 한 번의 실수로 무너질 수 있다.|Consumer trust can collapse after a single mistake.|collapse=무너지다
+5|지속 가능성을 내세운 마케팅이 그린워싱 논란에 휩싸였다.|Sustainability marketing has been caught up in greenwashing controversies.|greenwashing=그린워싱(위장 친환경)
+5|멤버십은 할인보다 소속감을 판다.|Memberships sell a sense of belonging, not just discounts.|sense of belonging=소속감
+5|중국 플랫폼의 공세가 세계 유통 질서를 흔들고 있다.|The push by Chinese platforms is upending global retail.|upend=뒤엎다
+5|소비 침체기에 강한 브랜드는 오히려 점유율을 늘린다.|Strong brands gain market share during downturns.|
+5|커머스의 다음 단계는 검색이 아니라 대화다.|The next stage of commerce is conversation, not search.|
+5|결국 고객이 다시 찾아오게 만드는 것이 성장의 핵심이다.|Getting customers to come back is the key to growth.|
+@econ
+4|여행 수요가 회복되면서 항공사 실적이 개선됐다.|Airlines' results improved as travel demand recovered.|airline=항공사
+4|외식 물가가 크게 오르면서 집밥 수요가 늘었다.|As eating out got more expensive, more people cooked at home.|eat out=외식하다
+4|커피 원두 가격 상승으로 카페들이 가격을 올렸다.|Cafés raised prices as coffee bean costs climbed.|coffee bean=커피 원두
+4|관광 산업이 지역 경제를 다시 살리고 있다.|Tourism is reviving local economies.|tourism=관광 산업
+4|신용카드 연체율이 상승하고 있다.|Credit card delinquency rates are rising.|delinquency=연체
+4|자영업자들이 고금리와 경기 둔화로 이중고를 겪고 있다.|Small business owners face a double blow from high rates and a slowing economy.|double blow=이중고; small business owner=자영업자
+4|기업들이 비용 절감을 위해 출장을 줄이고 있다.|Companies are cutting business travel to save costs.|
+4|부동산 시장에 다시 투자 수요가 몰리고 있다.|Investment demand is flowing back into the property market.|flow back=다시 몰리다
+4|국내 관광보다 해외여행을 택하는 사람이 늘었다.|More people are choosing trips abroad over domestic travel.|domestic=국내의
+4|최저가 경쟁이 납품업체를 압박하고 있다.|The race to the lowest price is squeezing suppliers.|
+5|인플레이션은 가장 가난한 사람들에게 가장 무거운 세금이다.|Inflation is the heaviest tax on the poorest.|
+5|경기 둔화기에는 현금 흐름이 이익보다 중요하다.|In a downturn, cash flow matters more than profit.|cash flow=현금 흐름
+5|가격 인상의 타이밍이 이익을 좌우한다.|The timing of price increases can make or break profits.|make or break=성패를 가르다
+5|소비 회복은 고르지 않게, 계층별로 진행되고 있다.|The consumer recovery is uneven, varying by income group.|uneven=고르지 않은
+5|경기 회복의 열쇠는 결국 가계의 지갑이다.|Household spending holds the key to recovery.|hold the key=열쇠를 쥐다
+@work
+4|스타트업이 투자 혹한기를 버티고 있다.|Startups are riding out a funding winter.|ride out=버티다; funding winter=투자 혹한기
+4|기업들이 비핵심 사업을 매각하고 있다.|Companies are selling off non-core businesses.|sell off=매각하다; non-core=비핵심의
+4|인수합병 시장이 다시 활기를 띠고 있다.|The M&A market is picking up again.|M&A=인수합병
+4|창업자가 경영 일선에서 물러났다.|The founder stepped back from day-to-day management.|step back=물러나다; founder=창업자
+4|이사회가 새 최고경영자를 선임했다.|The board appointed a new CEO.|appoint=선임하다
+4|기업 공개 시장이 오랜 침체에서 벗어나고 있다.|The IPO market is emerging from a long slump.|IPO=기업 공개
+4|가족 기업의 승계 문제가 수면 위로 떠올랐다.|Succession at family businesses has come to the surface.|succession=승계
+4|협력업체와의 상생이 경영 화두로 떠올랐다.|Fair partnerships with suppliers have become a management priority.|
+4|글로벌 기업들이 아시아 본부를 옮기고 있다.|Global firms are relocating their Asian headquarters.|relocate=이전하다
+4|공급업체 다변화가 기업의 생존 전략이 되었다.|Diversifying suppliers has become a survival strategy.|survival=생존
+5|위기는 좋은 기업과 위대한 기업을 가른다.|A crisis separates good companies from great ones.|
+5|성장보다 수익성을 증명하라는 압박이 커지고 있다.|Pressure is mounting to prove profitability, not just growth.|
+5|기업 문화는 위기 때 진짜 모습을 드러낸다.|Corporate culture shows its true face in a crisis.|
+5|규모의 경제보다 속도의 경제가 중요해졌다.|Speed now matters more than scale.|scale=규모
+5|최고의 인수합병은 문화 통합에서 성패가 갈린다.|The best mergers succeed or fail on cultural integration.|integration=통합
+5|이사회는 경영진의 거수기가 아니라 견제 장치여야 한다.|A board should be a check on management, not a rubber stamp.|rubber stamp=거수기; check=견제
+5|ESG 경영이 구호에서 공시 의무로 바뀌고 있다.|ESG is shifting from a slogan to a disclosure requirement.|disclosure=공시
+5|단기 실적 압박이 장기 투자를 가로막는다.|Pressure for short-term results stands in the way of long-term investment.|stand in the way=가로막다
+5|위기 대응 계획은 위기가 오기 전에 만들어야 한다.|Crisis plans must be made before the crisis hits.|
+5|훌륭한 전략은 무엇을 하지 않을지 정하는 것에서 시작된다.|Great strategy begins with deciding what not to do.|
+5|성공한 기업일수록 변화에 둔감해지기 쉽다.|The more successful a company is, the easier it is to become complacent.|complacent=안주하는
+5|고객의 불만은 가장 값싼 시장 조사다.|Customer complaints are the cheapest market research.|market research=시장 조사
+5|지배구조 개선이 기업 가치 재평가의 열쇠다.|Better governance is the key to a higher valuation.|governance=지배구조; valuation=가치 평가
+5|스타트업의 가장 흔한 실패 원인은 시장이 없는 제품이다.|The most common reason startups fail is building something nobody wants.|
+5|비용 절감에도 순서와 원칙이 있어야 한다.|Even cost-cutting needs a sequence and principles.|cost-cutting=비용 절감; sequence=순서

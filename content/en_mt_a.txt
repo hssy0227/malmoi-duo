@@ -1,0 +1,96 @@
+# 비즈니스 미팅 (직접 작성) — 시작·진행·의견·조율
+@work
+3|시작할까요?|Shall we get started?|get started=시작하다
+3|바쁘신데 시간 내 주셔서 감사합니다.|Thank you for taking the time to meet with us.|take the time=시간을 내다
+3|오늘 회의 목적부터 간단히 말씀드릴게요.|Let me briefly go over the purpose of today's meeting.|go over=검토하다·설명하다; purpose=목적
+3|안건은 세 가지입니다.|We have three items on the agenda.|agenda=안건
+3|시간이 30분밖에 없으니 핵심만 이야기하죠.|We only have thirty minutes, so let's focus on the key points.|key point=핵심
+3|먼저 자기소개부터 할까요?|Shall we start with a quick round of introductions?|introduction=소개
+3|지난 회의 이후 진행 상황을 공유해 주시겠어요?|Could you give us an update since our last meeting?|update=진행 상황
+3|화면 공유해도 될까요?|Do you mind if I share my screen?|share one's screen=화면을 공유하다
+3|제 말 잘 들리세요?|Can everyone hear me okay?|
+3|소리가 끊겨요. 다시 한번 말씀해 주시겠어요?|You're breaking up. Could you say that again?|break up=(소리가) 끊기다
+3|잠깐 음소거해 주시겠어요?|Could you mute yourself for a moment?|mute=음소거하다
+3|자료는 회의 후에 메일로 보내 드릴게요.|I'll email the slides after the meeting.|slide=발표 자료
+3|다음 슬라이드로 넘어가 볼게요.|Let's move on to the next slide.|move on=넘어가다
+3|여기까지 질문 있으세요?|Any questions so far?|so far=지금까지
+3|좋은 질문입니다.|That's a good question.|
+3|제가 제대로 이해했는지 확인하고 싶어요.|I just want to make sure I understood correctly.|make sure=확인하다
+3|다시 말해, 일정이 2주 늦어진다는 거죠?|In other words, the schedule will slip by two weeks?|slip=늦어지다
+3|그 부분은 제가 확인하고 알려 드릴게요.|Let me check on that and get back to you.|get back to=다시 연락하다
+3|좋은 지적이에요.|That's a fair point.|fair point=타당한 지적
+3|전적으로 동의합니다.|I completely agree.|
+3|일부는 동의하지만 우려되는 점이 있어요.|I agree to some extent, but I have a few concerns.|to some extent=어느 정도; concern=우려
+3|다른 관점에서 보면 어떨까요?|What if we looked at it from a different angle?|angle=관점
+3|그건 예산을 고려해야 할 것 같아요.|I think we need to take the budget into account.|take into account=고려하다
+3|그 숫자의 근거가 뭔가요?|What are those numbers based on?|be based on=~에 근거하다
+3|구체적인 예를 들어 주시겠어요?|Could you give us a concrete example?|concrete=구체적인
+3|좀 더 자세히 설명해 주시겠어요?|Could you elaborate on that a bit?|elaborate=자세히 설명하다
+3|이야기가 좀 벗어난 것 같아요. 안건으로 돌아가죠.|I think we're getting off track. Let's get back to the agenda.|get off track=주제에서 벗어나다
+3|그 얘기는 따로 시간을 잡아서 하죠.|Let's take that offline.|take offline=회의 밖에서 따로 논의하다
+3|시간이 다 돼 가네요.|We're running short on time.|run short=부족해지다
+3|오늘 논의를 정리해 볼게요.|Let me sum up what we've discussed today.|sum up=요약하다
+3|다음 단계는 뭔가요?|What are the next steps?|next step=다음 단계
+3|누가 이 일을 맡을까요?|Who's going to take ownership of this?|take ownership=책임지고 맡다
+3|금요일까지 초안을 보내 드릴게요.|I'll send you a draft by Friday.|draft=초안
+3|다음 회의는 언제가 좋을까요?|When would be a good time for our next meeting?|
+3|오늘 회의 정말 유익했습니다.|This was a really productive meeting.|productive=생산적인
+3|회의록은 제가 정리해서 공유할게요.|I'll write up the minutes and share them.|write up=정리해 쓰다; minutes=회의록
+3|늦어서 죄송합니다. 앞 회의가 길어졌어요.|Sorry I'm late. My previous meeting ran over.|run over=예정 시간을 넘기다
+3|잠깐 끼어들어도 될까요?|Sorry, may I jump in here?|jump in=끼어들다
+3|말씀 끝나시면 덧붙이고 싶은 게 있어요.|When you're done, I'd like to add something.|add=덧붙이다
+3|제 생각을 말씀드려도 될까요?|Could I share my perspective?|perspective=관점
+4|결론부터 말씀드리면, 프로젝트는 예정대로 진행 중입니다.|To cut to the chase, the project is on track.|cut to the chase=본론으로 들어가다; on track=순조롭게 진행 중인
+4|현재 가장 큰 리스크는 인력 부족입니다.|Right now, our biggest risk is a shortage of staff.|
+4|이 결정에는 세 가지 선택지가 있습니다.|We have three options for this decision.|option=선택지
+4|각 안의 장단점을 비교해 보겠습니다.|Let's weigh the pros and cons of each option.|weigh=저울질하다; pros and cons=장단점
+4|저는 두 번째 안을 추천합니다.|I'd recommend the second option.|recommend=추천하다
+4|비용은 조금 더 들지만 위험은 훨씬 적어요.|It costs a bit more, but the risk is much lower.|
+4|이 결정은 오늘 내려야 합니다.|We need to make a decision on this today.|
+4|반대 의견이 없으면 그렇게 진행하겠습니다.|If there are no objections, we'll go ahead with that.|objection=반대; go ahead=진행하다
+4|다수결로 정할까요, 아니면 팀장님이 결정하실까요?|Should we put it to a vote, or would you like to make the call?|put to a vote=표결에 부치다; make the call=결정하다
+4|이 부분은 법무팀 검토가 필요합니다.|This part needs to be reviewed by legal.|legal=법무팀
+4|그 일정은 현실적이지 않은 것 같아요.|I'm not sure that timeline is realistic.|timeline=일정
+4|범위를 줄이면 일정 안에 끝낼 수 있습니다.|If we narrow the scope, we can finish on time.|scope=범위
+4|우선순위를 다시 정해야 할 것 같아요.|I think we need to reprioritize.|reprioritize=우선순위를 다시 정하다
+4|이 수치는 보수적으로 잡은 거예요.|These figures are on the conservative side.|conservative=보수적인
+4|최악의 시나리오도 대비해야 해요.|We should prepare for the worst-case scenario as well.|worst-case=최악의
+4|이해관계자들의 동의부터 받아야 해요.|We need to get buy-in from the stakeholders first.|buy-in=동의·지지; stakeholder=이해관계자
+4|이건 빠르게 성과를 낼 수 있는 부분이에요.|This is a quick win.|quick win=빠른 성과
+4|장기적으로 보면 이게 더 나은 투자예요.|In the long run, this is the better investment.|in the long run=장기적으로
+4|그 문제는 근본 원인부터 파악해야 해요.|We need to get to the root cause of that problem.|root cause=근본 원인
+4|지금은 인력이 병목이에요.|Right now, staffing is the bottleneck.|staffing=인력 배치
+4|데이터를 보면 다른 이야기가 나옵니다.|The data tells a different story.|
+4|제 생각은 조금 다릅니다. 이유를 설명해 드릴게요.|I see it a little differently. Let me explain why.|
+4|그 우려는 충분히 이해합니다.|I completely understand that concern.|
+4|그 점은 미처 생각 못 했네요.|I hadn't thought of that.|
+4|좋은 아이디어지만 실행이 관건이에요.|It's a good idea, but execution is the key.|execution=실행
+4|양쪽 의견을 절충해 보면 어떨까요?|How about we meet halfway between the two views?|meet halfway=절충하다
+4|그 결정은 보류하고 데이터를 더 모아 보죠.|Let's put that decision on hold and gather more data.|put on hold=보류하다
+4|이번 분기 목표 대비 85% 달성했습니다.|We've hit 85 percent of this quarter's target.|hit=달성하다; target=목표
+4|목표 달성이 어려울 것 같아 미리 말씀드립니다.|I want to flag early that we may miss the target.|flag=미리 알리다
+4|이 문제를 위로 보고해야 할 것 같아요.|I think we need to escalate this.|escalate=상부에 보고하다
+4|진행 상황은 매주 공유하겠습니다.|We'll share progress every week.|progress=진행 상황
+4|책임자를 명확히 정하죠.|Let's be clear about who owns what.|own=책임지다
+4|다음 회의 전까지 각자 숙제를 정리해 오죠.|Let's each come back with our action items before the next meeting.|action item=실행 과제
+4|이 프로젝트의 성공 기준은 뭔가요?|What does success look like for this project?|
+4|고객 관점에서 다시 생각해 보죠.|Let's look at this from the customer's point of view.|point of view=관점
+4|이번 건은 일단 시범적으로 해 보죠.|Let's run a pilot first.|pilot=시범 운영
+4|그건 제 권한 밖의 일이라 확인이 필요해요.|That's above my pay grade, so I'll need to check.|above one's pay grade=권한 밖인
+4|빠르게 결정하는 것보다 제대로 결정하는 게 중요해요.|Getting it right matters more than getting it fast.|
+4|팀 간 협업이 더 필요해 보여요.|It looks like we need more collaboration between teams.|collaboration=협업
+4|이 부분은 외부 전문가 의견을 들어 보죠.|Let's get an outside expert's opinion on this.|
+4|그 문제는 지금 당장 해결할 수 없어요.|That's not something we can fix right away.|
+4|짧게 하나만 덧붙이자면, 일정에 여유가 필요해요.|Just one quick point: we need some buffer in the schedule.|buffer=여유
+4|회의 시간을 효율적으로 쓰기 위해 미리 자료를 읽어 와 주세요.|To make the best use of our time, please read the materials beforehand.|beforehand=미리
+4|다음번엔 의사 결정권자도 함께 참석하면 좋겠어요.|Next time, it would be good to have the decision-maker in the room.|decision-maker=의사 결정권자
+5|이 안건은 단순한 비용 문제가 아니라 전략적 선택입니다.|This isn't just a cost issue; it's a strategic choice.|strategic=전략적인
+5|지금 투자하지 않으면 2년 뒤 경쟁력을 잃을 수 있습니다.|If we don't invest now, we could lose our competitiveness in two years.|competitiveness=경쟁력
+5|가정 하나만 바뀌어도 결론이 완전히 달라집니다.|Change one assumption, and the conclusion changes completely.|assumption=가정
+5|현실적인 목표와 도전적인 목표 사이에서 균형을 찾아야 해요.|We need to strike a balance between realistic and ambitious targets.|strike a balance=균형을 맞추다; ambitious=도전적인
+5|이번 실패에서 무엇을 배웠는지 먼저 정리합시다.|Let's start by capturing what we learned from this setback.|capture=정리하다; setback=실패·차질
+5|모두가 동의할 필요는 없지만, 결정에는 따라 주셔야 합니다.|Not everyone has to agree, but everyone needs to commit to the decision.|commit to=전념하다·따르다
+5|이 결정이 다른 부서에 미치는 영향도 따져 봐야 합니다.|We also need to consider the knock-on effects on other departments.|knock-on effect=파급 효과
+5|빠른 실패가 늦은 성공보다 나을 때도 있습니다.|Sometimes failing fast is better than succeeding slowly.|
+5|그 제안은 매력적이지만 우리 전략과 맞지 않아요.|The proposal is attractive, but it doesn't fit our strategy.|fit=맞다
+5|합의된 내용과 미결 사항을 구분해서 정리하겠습니다.|I'll separate what we've agreed on from what's still open.|open=미결인
