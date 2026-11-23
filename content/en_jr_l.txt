@@ -1,0 +1,75 @@
+# 저널·뉴스형 (직접 작성) — 실적·기업·시장 브리핑 문장
+@econ
+4|이 회사는 3분기 매출이 전년 대비 12% 늘었다고 발표했다.|The company reported a 12% year-on-year rise in third-quarter revenue.|year-on-year=전년 대비
+4|영업이익이 시장 예상치를 웃돌았다.|Operating profit beat market expectations.|operating profit=영업이익; beat=웃돌다
+4|순이익은 일회성 비용 탓에 감소했다.|Net income fell due to one-off charges.|net income=순이익; one-off=일회성의
+4|회사는 연간 실적 전망을 하향 조정했다.|The company cut its full-year guidance.|guidance=실적 전망
+4|주가는 실적 발표 후 8% 급등했다.|Shares jumped 8% after the earnings release.|earnings release=실적 발표
+4|투자자들은 다음 분기 가이던스에 주목하고 있다.|Investors are focusing on next quarter's guidance.|
+4|회사는 자사주 매입 계획을 발표했다.|The company announced a share buyback plan.|share buyback=자사주 매입
+4|배당금을 10% 인상하기로 했다.|It decided to raise its dividend by 10%.|dividend=배당금
+4|원자재 가격 상승이 수익성을 압박했다.|Higher raw material prices squeezed margins.|squeeze=압박하다; margin=수익률
+4|해외 매출 비중이 처음으로 절반을 넘었다.|Overseas sales made up more than half of revenue for the first time.|make up=차지하다
+4|회사는 비핵심 사업부를 매각하기로 했다.|The company agreed to sell its non-core division.|non-core=비핵심의; division=사업부
+4|신임 CEO가 대규모 구조 조정을 예고했다.|The new CEO signaled a major restructuring.|signal=예고하다
+4|이번 인수로 시장 점유율이 두 배로 늘어난다.|The acquisition will double its market share.|acquisition=인수
+4|규제 당국이 합병 심사에 착수했다.|Regulators have begun reviewing the merger.|merger=합병
+4|회사는 공급 부족으로 생산 목표를 낮췄다.|The company lowered its production target due to supply shortages.|
+4|재고 증가가 실적의 발목을 잡았다.|Rising inventory weighed on results.|weigh on=발목을 잡다
+4|소비 둔화로 소매 판매가 예상보다 부진했다.|Retail sales were weaker than expected as consumers pulled back.|pull back=움츠러들다
+4|부동산 경기 침체가 건설사들을 압박하고 있다.|The property slump is putting pressure on builders.|slump=침체
+4|국채 금리가 3주 만에 최고치로 올랐다.|Government bond yields climbed to a three-week high.|yield=금리
+4|코스피가 외국인 매수세에 힘입어 상승 마감했다.|The KOSPI closed higher on foreign buying.|close higher=상승 마감하다
+4|원화가 달러 대비 강세를 보였다.|The won strengthened against the dollar.|strengthen=강세를 보이다
+4|유가가 공급 우려로 3% 넘게 올랐다.|Oil prices rose more than 3% on supply worries.|
+4|금값이 사상 최고치를 다시 경신했다.|Gold hit another record high.|
+4|기술주 중심으로 매도세가 이어졌다.|The sell-off continued, led by tech stocks.|sell-off=매도세
+4|변동성 지수가 크게 뛰었다.|The volatility index jumped sharply.|volatility=변동성
+5|매출 성장에도 불구하고 투자자들은 수익성 악화를 우려하고 있다.|Despite revenue growth, investors are worried about shrinking profitability.|profitability=수익성
+5|가이던스가 기대에 못 미치면서 주가가 시간 외 거래에서 급락했다.|The stock tumbled in after-hours trading as guidance fell short of expectations.|after-hours=시간 외의
+5|비용 절감 효과가 본격적으로 나타나기 시작했다.|The cost savings are starting to show up in earnest.|in earnest=본격적으로
+5|회사는 단기 실적보다 장기 성장을 위한 투자를 택했다.|The company chose investment in long-term growth over short-term earnings.|
+5|이번 실적은 업황 회복이 아직 멀었다는 신호다.|The results suggest a recovery in the sector is still some way off.|some way off=아직 먼
+5|시장은 숫자보다 경영진의 발언에 더 민감하게 반응했다.|The market reacted more to management's comments than to the numbers.|
+5|이익 대부분이 한두 개 사업에 집중돼 있다는 점이 리스크다.|The risk is that most of the profit comes from one or two businesses.|
+5|애널리스트들은 목표 주가를 잇달아 상향했다.|Analysts have been raising their price targets one after another.|price target=목표 주가
+5|이번 인수가 시너지를 낼지는 통합 과정에 달려 있다.|Whether the deal creates synergies depends on how the integration goes.|synergy=시너지; integration=통합
+5|회사는 부채 비율을 낮추는 데 우선순위를 두고 있다.|The company is prioritizing bringing down its debt ratio.|debt ratio=부채 비율
+@tech
+4|이 스타트업은 시리즈 B 투자를 유치했다.|The startup closed a Series B funding round.|funding round=투자 라운드
+4|회사는 새로운 AI 모델을 공개했다.|The company unveiled a new AI model.|unveil=공개하다
+4|클라우드 부문이 성장을 주도했다.|The cloud division led growth.|
+4|반도체 수요 회복으로 메모리 가격이 반등했다.|Memory prices rebounded as chip demand recovered.|rebound=반등하다
+4|회사는 데이터센터 투자를 두 배로 늘린다.|The company is doubling its data center spending.|
+4|대규모 서비스 장애로 수백만 명이 불편을 겪었다.|A major outage disrupted service for millions of users.|outage=장애
+4|개인정보 유출로 회사가 과징금을 부과받았다.|The company was fined over a data leak.|fine=과징금을 부과하다; leak=유출
+4|신제품 출시가 부품 문제로 연기됐다.|The product launch was delayed by a component issue.|component=부품
+4|구독자 수가 처음으로 1억 명을 넘었다.|Subscribers topped 100 million for the first time.|top=넘다
+4|회사는 AI 기능을 유료 요금제에 포함시켰다.|The company added AI features to its paid plans.|
+5|AI 투자 경쟁이 빅테크의 현금 흐름을 압박하고 있다.|The AI spending race is straining Big Tech's cash flow.|strain=압박하다
+5|투자자들은 AI 투자가 언제 수익으로 이어질지 묻기 시작했다.|Investors are starting to ask when AI spending will pay off.|pay off=결실을 보다
+5|오픈소스 모델의 추격이 유료 모델의 가격을 끌어내리고 있다.|Open-source models catching up are driving down prices for paid ones.|catch up=추격하다
+5|전력 확보가 데이터센터 경쟁의 새로운 변수로 떠올랐다.|Securing power has become a new factor in the data center race.|
+5|규제 불확실성이 신규 서비스 출시를 늦추고 있다.|Regulatory uncertainty is slowing new service launches.|
+@energy
+4|정부는 신규 원전 건설 계획을 확정했다.|The government finalized plans for new nuclear reactors.|reactor=원자로
+4|전력 도매 가격이 한파로 급등했다.|Wholesale power prices spiked during the cold snap.|wholesale=도매의; cold snap=한파
+4|LNG 수입량이 전년보다 늘었다.|LNG imports rose from a year earlier.|
+4|해상 풍력 단지 착공이 시작됐다.|Construction has started on the offshore wind farm.|offshore=해상의; wind farm=풍력 단지
+4|에너지 기업들이 탄소 포집 기술에 투자하고 있다.|Energy companies are investing in carbon capture.|carbon capture=탄소 포집
+5|에너지 가격 변동성이 제조업의 원가 부담을 키우고 있다.|Volatile energy prices are increasing cost pressures on manufacturers.|volatile=변동성이 큰
+5|전력망 연결 지연이 재생에너지 사업의 가장 큰 걸림돌이다.|Grid connection delays are the biggest hurdle for renewable projects.|hurdle=걸림돌
+5|장기 LNG 계약이 가격 안정의 안전판 역할을 하고 있다.|Long-term LNG contracts are acting as a buffer against price swings.|buffer=완충 장치; swing=변동
+5|AI 데이터센터의 전력 수요가 에너지 정책의 우선순위를 바꾸고 있다.|Power demand from AI data centers is reshaping energy policy priorities.|reshape=바꾸다
+5|수소 경제는 기대만큼 빠르게 오지 않고 있다.|The hydrogen economy isn't arriving as fast as hoped.|hydrogen=수소
+@society
+4|정부가 내년 예산안을 국회에 제출했다.|The government submitted next year's budget to parliament.|budget=예산안; parliament=국회
+4|최저임금 인상 폭을 두고 노사가 맞서고 있다.|Labor and management are at odds over the minimum wage increase.|at odds=맞서는
+4|정상 회담에서 양국은 경제 협력 강화에 합의했다.|At the summit, the two countries agreed to deepen economic cooperation.|summit=정상 회담
+4|대규모 파업으로 물류가 차질을 빚었다.|A large strike disrupted logistics.|strike=파업
+4|정부는 청년 주거 지원을 확대하겠다고 밝혔다.|The government said it would expand housing support for young people.|
+5|이번 협정은 무역보다 안보 측면에서 더 큰 의미가 있다.|The agreement matters more for security than for trade.|
+5|양국 관계 개선이 기업들의 투자 심리를 끌어올리고 있다.|Improving ties are lifting business sentiment in both countries.|sentiment=심리
+5|정부 정책의 일관성이 투자자 신뢰의 핵심이다.|Policy consistency is key to investor confidence.|
+5|노동 시장 개혁은 사회적 합의 없이 성공하기 어렵다.|Labor market reform is unlikely to succeed without social consensus.|consensus=합의
+5|국제 질서의 재편 속에서 중견국의 외교 전략이 중요해지고 있다.|As the global order shifts, middle powers' diplomatic strategies matter more.|middle power=중견국

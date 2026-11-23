@@ -1,0 +1,103 @@
+# 일상·업무 회화 확장 (직접 작성) — 전화·이메일·일정·집·쇼핑·돈
+@work
+3|메일 잘 받았습니다.|Thanks for your email.|
+3|참조로 넣어 드릴게요.|I'll cc you on it.|cc=참조로 넣다
+3|회의실 예약했어요.|I've booked a meeting room.|
+3|휴가 신청했어요.|I've put in for some time off.|put in for=신청하다; time off=휴가
+3|오늘 일찍 퇴근할게요.|I'm heading out early today.|head out=나가다
+3|점심 먹고 다시 얘기해요.|Let's pick this up after lunch.|pick up=이어서 하다
+3|출장 일정 보내 드릴게요.|I'll send you the itinerary for the business trip.|
+4|추가로 궁금하신 점이 있으면 언제든 연락 주세요.|Feel free to reach out if you have any other questions.|reach out=연락하다
+4|일정이 바뀌면 바로 알려 드릴게요.|I'll let you know right away if the schedule changes.|
+4|내부 검토 후 다시 연락드리겠습니다.|We'll get back to you after an internal review.|internal review=내부 검토
+4|이 건은 담당자분께 전달해 드렸어요.|I've passed this on to the person in charge.|pass on=전달하다
+4|전화로 이야기하는 게 더 빠를 것 같아요.|It might be quicker to talk this over on the phone.|talk over=상의하다
+4|메일 내용을 간단히 정리해 드릴게요.|Let me give you a quick summary of the email.|
+4|부재 중이라 다음 주에 확인하겠습니다.|I'm out of the office and will check when I'm back next week.|out of the office=부재 중인
+4|일정 조율이 어려우면 화상으로 해도 괜찮아요.|If it's hard to find a time, a video call is fine.|
+4|회의 시간을 30분 앞당길 수 있을까요?|Could we move the meeting up by 30 minutes?|move up=앞당기다
+4|요청하신 자료를 공유 폴더에 올려 두었어요.|I've uploaded the files you asked for to the shared folder.|shared folder=공유 폴더
+4|오해가 없도록 다시 한번 확인드립니다.|Just to avoid any confusion, I'm confirming once more.|confusion=혼동
+4|번거로우시겠지만 서명 후 회신 부탁드려요.|Sorry for the trouble, but could you sign and send it back?|
+4|이번 프로젝트 담당자로 인사드립니다.|I'm reaching out as the new point of contact for this project.|point of contact=담당자
+5|말씀하신 부분은 내부적으로 논의가 더 필요합니다.|The point you raised needs further internal discussion.|raise=제기하다
+5|기대에 미치지 못해 죄송하며, 재발 방지 대책을 마련하겠습니다.|We apologize for falling short and will put measures in place to prevent it from happening again.|fall short=미치지 못하다
+5|양측 모두에게 도움이 되는 방향으로 조율하겠습니다.|We'll work out an arrangement that benefits both sides.|arrangement=조율안
+5|공식 답변은 법무 검토 후 드리겠습니다.|We'll send an official response after legal review.|legal review=법무 검토
+5|장기적인 협력 관계를 기대하겠습니다.|We look forward to a long-term partnership.|look forward to=기대하다
+@home
+3|이번 주말에 대청소할 거예요.|I'm doing a big clean this weekend.|
+3|빨래 좀 개 줄래요?|Can you fold the laundry?|fold=개다
+3|분리수거 날이 언제예요?|When's recycling day?|recycling=분리수거
+3|보일러가 고장 났어요.|The boiler broke down.|break down=고장 나다
+3|택배가 문 앞에 와 있어요.|There's a package at the door.|package=택배
+4|관리비가 생각보다 많이 나왔어요.|The maintenance fees came out higher than I expected.|maintenance fee=관리비
+4|이사 날짜가 다음 달로 잡혔어요.|The move is set for next month.|
+4|집주인한테 수리를 요청했어요.|I asked the landlord to fix it.|landlord=집주인
+4|층간 소음 때문에 잠을 못 잤어요.|I couldn't sleep because of noise from upstairs.|upstairs=위층
+4|요즘 집에 식물을 키우기 시작했어요.|I've started growing plants at home.|
+4|가구 배치를 바꿨더니 집이 넓어 보여요.|I rearranged the furniture and now the place looks bigger.|rearrange=재배치하다
+4|전기 요금을 줄이려고 에어컨을 덜 켜요.|I'm using the AC less to cut my electricity bill.|electricity bill=전기 요금
+4|이번에 전세 계약을 연장했어요.|I renewed my lease this time.|renew=연장하다; lease=임대 계약
+5|집은 쉬는 공간이어야 하는데 요즘은 사무실이 돼 버렸어요.|Home is supposed to be a place to rest, but lately it's become my office.|
+5|물건을 줄이니까 마음도 가벼워졌어요.|Owning less has made me feel lighter.|
+@shop
+3|카드로 할게요.|I'll pay by card.|
+3|영수증 주세요.|Can I have the receipt?|receipt=영수증
+3|교환할 수 있어요?|Can I exchange this?|exchange=교환하다
+3|사이즈가 안 맞아요.|It doesn't fit.|fit=맞다
+4|온라인이 더 싸서 거기서 샀어요.|It was cheaper online, so I bought it there.|
+4|리뷰 보고 샀는데 실망했어요.|I bought it based on the reviews, but I was disappointed.|
+4|정기 구독을 해지했어요.|I canceled my subscription.|
+4|충동구매를 줄이려고 장바구니에 하루 넣어 둬요.|I leave things in my cart for a day to avoid impulse buys.|impulse buy=충동구매
+4|중고로 팔면 꽤 받을 수 있을 거예요.|You could get a decent price if you sell it secondhand.|decent=괜찮은; secondhand=중고로
+4|배송비 무료 조건 맞추려고 하나 더 샀어요.|I added one more item to get free shipping.|
+4|포인트로 결제할게요.|I'll pay with my points.|
+5|싼 게 비지떡이라더니 금방 고장 났어요.|You get what you pay for. It broke right away.|
+5|사고 싶은 것과 필요한 것을 구분하려고 해요.|I try to tell the difference between what I want and what I need.|tell the difference=구분하다
+@econ
+3|요즘 물가가 너무 올랐어요.|Prices have gone up so much lately.|
+3|이번 달 지출이 많았어요.|I spent a lot this month.|
+3|저축을 더 해야겠어요.|I need to save more.|
+4|월급날까지 아껴 써야 해요.|I have to be careful with money until payday.|payday=월급날
+4|가계부를 쓰니 돈이 어디로 새는지 보여요.|Keeping a budget shows me where my money goes.|
+4|요즘 적금 금리가 좀 올랐대요.|I heard savings rates have gone up a bit.|savings rate=적금 금리
+4|대출 이자가 부담돼요.|The interest on my loan is a burden.|burden=부담
+4|해외 직구가 더 저렴할 때가 많아요.|Buying directly from overseas is often cheaper.|
+4|환율 때문에 해외여행 비용이 많이 올랐어요.|The exchange rate has made overseas travel a lot more expensive.|
+4|연말 정산 서류를 준비해야 해요.|I need to get my year-end tax documents ready.|year-end tax=연말 정산
+5|투자는 남의 말보다 내 기준이 중요해요.|In investing, your own criteria matter more than what others say.|criteria=기준
+5|돈을 모으는 것보다 지키는 게 더 어려워요.|Keeping money is harder than making it.|
+5|소비를 줄이는 것만큼 수입을 늘리는 것도 중요해요.|Growing your income matters as much as cutting spending.|
+@time
+3|벌써 연말이에요.|It's already the end of the year.|
+3|요즘 하루가 너무 짧아요.|The days feel so short lately.|
+4|올해는 정말 정신없이 지나갔어요.|This year just flew by in a blur.|in a blur=정신없이
+4|일정이 겹쳐서 하나를 취소했어요.|Two things overlapped, so I canceled one.|overlap=겹치다
+4|시간 날 때 연락할게요.|I'll call you when I get a chance.|
+4|이번 주는 일정이 꽉 찼어요.|My schedule is packed this week.|
+5|바쁘다는 건 우선순위가 정해지지 않았다는 뜻일 수도 있어요.|Being busy can mean you haven't set your priorities.|
+5|시간 관리는 결국 에너지 관리예요.|Time management is really energy management.|
+@society
+4|선거가 얼마 안 남았어요.|The election is just around the corner.|election=선거
+4|요즘 뉴스 보기가 겁나요.|I'm almost afraid to watch the news these days.|
+4|그 사건으로 여론이 크게 바뀌었어요.|Public opinion shifted a lot after that incident.|public opinion=여론
+4|출산율 문제는 정말 심각해요.|The birth rate problem is really serious.|
+4|청년들이 집을 사기가 너무 어려워요.|It's so hard for young people to buy a home.|
+4|그 정책에 대해선 의견이 갈려요.|Opinions are divided on that policy.|divided=갈린
+5|각자의 입장에서 보면 다 이유가 있어요.|Everyone has their reasons when you look at it from their side.|
+5|뉴스를 볼 때는 한쪽 시각만 보지 않으려고 해요.|When I read the news, I try not to look at just one side.|
+5|세상이 빨리 변할수록 기본이 더 중요해지는 것 같아요.|The faster the world changes, the more the basics seem to matter.|
+5|정치 얘기는 친한 사이에서도 조심스러워요.|Politics is a touchy subject, even among close friends.|touchy=민감한
+@hobby
+3|요즘 러닝에 빠졌어요.|I've gotten really into running.|get into=빠지다
+3|요즘 책을 다시 읽기 시작했어요.|I've started reading again.|
+3|기타 배우고 있어요.|I'm learning the guitar.|
+4|사회인 야구 리그에서 뛰고 있어요.|I play in an amateur baseball league.|amateur=아마추어의
+4|이번 주말에 경기가 있어요.|We've got a game this weekend.|
+4|투구 폼을 교정하는 중이에요.|I'm working on fixing my pitching form.|pitching=투구
+4|와인 공부를 시작했는데 생각보다 재밌어요.|I started learning about wine, and it's more fun than I expected.|
+4|퇴근 후에 하는 취미가 삶의 활력이 돼요.|My after-work hobbies keep me going.|keep going=버티게 하다
+4|새로운 언어를 배우는 게 요즘 제 취미예요.|Learning new languages is my hobby these days.|
+5|취미는 잘하려고 하기보다 즐기려고 해야 오래 가요.|A hobby lasts longer if you enjoy it rather than try to be good at it.|
+5|몸을 쓰는 취미가 머리를 쉬게 해 줘요.|Physical hobbies give my mind a break.|
