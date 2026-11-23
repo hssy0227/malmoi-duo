@@ -1,0 +1,67 @@
+# 저널·뉴스형 (직접 작성) — 아시아·베트남·한국 비즈니스 맥락
+@econ
+4|베트남이 글로벌 제조 기업들의 새로운 생산 거점으로 떠오르고 있다.|Vietnam is emerging as a new production hub for global manufacturers.|production hub=생산 거점
+4|동남아 디지털 경제가 빠르게 성장하고 있다.|Southeast Asia's digital economy is growing rapidly.|digital economy=디지털 경제
+4|한국 기업들의 베트남 투자가 늘고 있다.|Korean companies are stepping up investment in Vietnam.|step up=늘리다
+4|아시아 통화들이 달러 대비 약세를 보이고 있다.|Asian currencies are weakening against the dollar.|weaken=약해지다
+4|베트남의 경제 성장률이 지역 최고 수준을 기록했다.|Vietnam's growth rate was among the highest in the region.|
+4|아세안 역내 교역이 확대되고 있다.|Trade within ASEAN is expanding.|ASEAN=아세안
+4|한국의 수출 구조가 반도체에 지나치게 의존하고 있다.|Korea's exports rely too heavily on semiconductors.|rely on=의존하다
+4|베트남 정부가 외국인 투자 절차를 간소화했다.|Vietnam's government has streamlined procedures for foreign investors.|streamline=간소화하다
+4|인건비 상승으로 일부 공장이 인근 국가로 옮겨 가고 있다.|Rising labor costs are pushing some factories to neighboring countries.|labor cost=인건비
+4|베트남 소비 시장이 중산층 확대로 커지고 있다.|Vietnam's consumer market is growing as its middle class expands.|
+4|한국과 베트남의 교역액이 사상 최대를 기록했다.|Trade between Korea and Vietnam hit a record high.|
+4|아시아 각국이 반도체 공급망 유치 경쟁에 나섰다.|Asian countries are competing to attract chip supply chains.|
+4|동남아 전자 상거래 시장의 경쟁이 치열해지고 있다.|Competition in Southeast Asian e-commerce is heating up.|heat up=치열해지다
+4|베트남의 인프라 투자가 성장을 뒷받침하고 있다.|Infrastructure investment is underpinning Vietnam's growth.|underpin=뒷받침하다
+4|한국 콘텐츠 기업들이 동남아 시장 공략에 나섰다.|Korean content companies are targeting Southeast Asian markets.|target=공략하다
+5|베트남의 젊은 인구 구조는 가장 큰 경쟁력 중 하나다.|Vietnam's young population is one of its biggest strengths.|
+5|저임금 생산 기지에서 고부가가치 산업으로의 전환이 과제다.|The challenge is moving from low-wage assembly to higher-value industries.|assembly=조립; higher-value=고부가가치의
+5|동남아는 미중 갈등의 반사이익을 얻고 있다.|Southeast Asia is benefiting from US-China tensions.|benefit from=~로 이익을 얻다
+5|전력과 물류 인프라가 투자 확대의 병목이 되고 있다.|Power and logistics infrastructure are becoming bottlenecks for more investment.|
+5|숙련 인력 확보가 외국 기업들의 공통된 고민이다.|Finding skilled workers is a common headache for foreign firms.|skilled worker=숙련 인력
+5|한국 기업에 베트남은 생산 기지이자 소비 시장이다.|For Korean firms, Vietnam is both a production base and a consumer market.|
+5|아시아의 고령화 속도는 서구보다 훨씬 빠르다.|Asia is aging much faster than the West did.|
+5|지역 무역 협정이 공급망 재편의 토대가 되고 있다.|Regional trade agreements are laying the groundwork for supply chain realignment.|lay the groundwork=토대를 놓다
+5|현지화 없이는 동남아 시장에서 성공하기 어렵다.|It's hard to succeed in Southeast Asia without localization.|localization=현지화
+5|베트남의 행정 개혁이 사업 환경 개선으로 이어질지 주목된다.|All eyes are on whether Vietnam's administrative reforms will improve the business climate.|business climate=사업 환경
+@energy
+4|베트남의 전력 수요가 매년 두 자릿수로 늘고 있다.|Vietnam's power demand is growing at double-digit rates each year.|
+4|동남아 국가들이 LNG 발전소 건설을 서두르고 있다.|Southeast Asian countries are rushing to build LNG power plants.|power plant=발전소
+4|가뭄으로 수력 발전량이 줄면서 전력난이 발생했다.|Power shortages followed as drought cut hydropower output.|hydropower=수력 발전; output=발전량
+4|아시아가 세계 LNG 수요 증가를 이끌고 있다.|Asia is driving growth in global LNG demand.|
+4|재생에너지 확대를 위해 전력망 투자가 시급하다.|Grid investment is urgently needed to expand renewables.|urgently=시급히
+5|에너지 전환은 개발도상국에 더 큰 부담이 된다.|The energy transition weighs more heavily on developing countries.|developing country=개발도상국
+5|안정적인 전력 공급이 외국인 투자 유치의 전제 조건이다.|A reliable power supply is a prerequisite for attracting foreign investment.|reliable=안정적인
+5|LNG는 아시아 에너지 전환의 가교 연료로 자리 잡고 있다.|LNG is establishing itself as Asia's bridge fuel in the energy transition.|bridge fuel=가교 연료
+5|직접 전력 거래 제도가 기업들의 재생에너지 조달을 돕는다.|Direct power purchase schemes help companies source renewable energy.|scheme=제도; source=조달하다
+5|기후 목표와 경제 성장 사이에서 아시아 국가들은 균형을 찾고 있다.|Asian nations are trying to balance climate goals with economic growth.|
+@shop
+4|동남아에서 모바일 결제가 현금을 빠르게 대체하고 있다.|Mobile payments are rapidly replacing cash in Southeast Asia.|
+4|라이브 커머스가 베트남에서 큰 인기를 끌고 있다.|Live-stream shopping is hugely popular in Vietnam.|live-stream=실시간 방송
+4|한국 화장품이 동남아에서 인기를 이어 가고 있다.|Korean cosmetics remain popular in Southeast Asia.|cosmetics=화장품
+4|배달 앱 경쟁이 동남아 대도시에서 치열하다.|Food delivery apps are fiercely competing in Southeast Asian cities.|
+4|편의점 체인이 베트남에서 빠르게 매장을 늘리고 있다.|Convenience store chains are opening stores quickly in Vietnam.|
+5|동남아 소비자들은 가격만큼 브랜드 경험을 중시한다.|Southeast Asian consumers care about brand experience as much as price.|
+5|슈퍼 앱이 결제, 배달, 금융을 하나로 묶고 있다.|Super apps are bundling payments, delivery, and finance into one.|super app=슈퍼 앱; bundle=묶다
+5|소셜미디어가 동남아에서는 가장 강력한 쇼핑 채널이다.|In Southeast Asia, social media is the most powerful shopping channel.|
+@society
+4|베트남과 한국이 문화 교류 확대에 합의했다.|Vietnam and Korea agreed to expand cultural exchanges.|cultural exchange=문화 교류
+4|한국에서 일하는 베트남 근로자가 늘고 있다.|The number of Vietnamese workers in Korea is rising.|
+4|다문화 가정 자녀를 위한 이중 언어 교육이 확대된다.|Bilingual education for children of multicultural families is being expanded.|bilingual=이중 언어의
+4|아시아 각국이 저출생 대책을 쏟아내고 있다.|Asian countries are rolling out measures to tackle low birth rates.|roll out=내놓다
+4|관광객 증가로 하노이 구시가지가 붐비고 있다.|Hanoi's Old Quarter is crowded as tourist numbers grow.|Old Quarter=구시가지
+5|한류는 베트남에서 한국에 대한 호감을 높이는 데 큰 역할을 했다.|The Korean Wave has done a lot to boost goodwill toward Korea in Vietnam.|goodwill=호감
+5|아시아의 도시화는 기회와 함께 주거와 교통 문제를 낳고 있다.|Urbanization in Asia brings opportunities as well as housing and traffic problems.|
+5|언어 장벽이 해외 진출 기업의 숨은 비용이다.|Language barriers are a hidden cost for companies expanding abroad.|language barrier=언어 장벽
+5|두 나라의 관계는 경제를 넘어 사람 사이의 교류로 깊어지고 있다.|Ties between the two countries are deepening beyond economics to people-to-people exchange.|people-to-people=민간 간의
+5|해외 주재원에게는 업무 능력만큼 문화 적응력이 중요하다.|For expatriate staff, cultural adaptability matters as much as job skills.|expatriate=해외 주재원; adaptability=적응력
+@work
+4|현지 파트너 선정이 해외 진출의 첫 단추다.|Choosing a local partner is the first step in going overseas.|
+4|베트남 법인장이 새로 부임했다.|A new head of the Vietnam subsidiary has taken office.|subsidiary=자회사·법인; take office=부임하다
+4|현지 직원 교육 프로그램을 확대한다.|The company is expanding training programs for local staff.|
+4|해외 법인의 성과를 본사가 직접 관리한다.|Headquarters will directly manage the performance of overseas units.|headquarters=본사
+5|해외 사업의 성패는 본사와 현지 사이의 신뢰에 달려 있다.|Success abroad depends on trust between headquarters and local teams.|
+5|현지 문화를 이해하지 못한 채 본사 방식만 고집하면 실패하기 쉽다.|Insisting on head-office ways without understanding local culture is a recipe for failure.|recipe for=~의 원인
+5|좋은 통역보다 좋은 관계가 협상을 성공으로 이끈다.|Good relationships, more than good interpreters, make negotiations succeed.|
+5|현지 인재를 리더로 키우는 기업이 오래 살아남는다.|Companies that grow local talent into leaders last longer.|
