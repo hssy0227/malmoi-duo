@@ -1,0 +1,72 @@
+# 저널·뉴스형 (직접 작성) — 짧은 헤드라인 모음 (헤드라인 문법: 현재형=과거 사건, to부정사=미래)
+@econ
+4|정부, 내년 예산 사상 최대 규모로 편성|Government Unveils Record Budget for Next Year|unveil=공개하다
+4|물가 상승률 3개월 연속 둔화|Inflation Slows for Third Straight Month|straight=연속의
+4|수출 회복세, 반도체가 견인|Exports Rebound, Led by Chips|rebound=반등하다
+4|고용 시장 냉각 신호 뚜렷|Signs of a Cooling Job Market Grow|cool=식다
+4|중앙은행, 깜짝 금리 인하 단행|Central Bank Delivers Surprise Rate Cut|deliver=단행하다
+4|원화 가치 2년 만에 최저|Won Falls to Two-Year Low|low=최저치
+4|주택 가격 하락세 멈춰|Home Price Slide Comes to a Halt|slide=하락; come to a halt=멈추다
+4|소비자 신뢰지수 반등|Consumer Confidence Bounces Back|bounce back=반등하다
+4|무역 갈등 재점화에 시장 출렁|Markets Swing as Trade Tensions Flare Again|swing=출렁이다; flare=재점화되다
+4|기업 투자 위축 우려 확산|Fears Grow Over Shrinking Business Investment|
+4|최저임금 인상 폭 놓고 진통|Talks Drag On Over Size of Minimum Wage Hike|drag on=질질 끌다; hike=인상
+4|관세 협상 타결, 업계 안도|Industry Relieved as Tariff Deal Is Reached|relieved=안도한
+4|유가 급락에 항공주 강세|Airline Stocks Climb as Oil Prices Plunge|plunge=급락하다
+4|가계 부채 증가세 다시 가팔라져|Household Debt Growth Picks Up Speed Again|
+4|청년 고용률 소폭 개선|Youth Employment Edges Higher|edge higher=소폭 오르다
+@tech
+4|AI 스타트업, 대규모 투자 유치|AI Startup Raises Huge Funding Round|funding round=투자 유치 라운드
+4|빅테크, AI 칩 자체 개발 박차|Big Tech Ramps Up In-House AI Chip Push|push=추진
+4|대규모 개인정보 유출에 소비자 분노|Massive Data Leak Sparks Consumer Outrage|outrage=분노
+4|정부, AI 기본법 시행 앞둬|Government Set to Enforce Landmark AI Law|landmark=획기적인; enforce=시행하다
+4|자율주행 시범 구역 확대|Self-Driving Test Zones to Expand|self-driving=자율주행
+4|사이버 공격으로 공공 서비스 마비|Cyberattack Cripples Public Services|cripple=마비시키다
+4|스마트폰 판매, AI 기능 덕에 반등|AI Features Lift Smartphone Sales|lift=끌어올리다
+4|반도체 공장 건설 잇따라|Wave of New Chip Plants Announced|wave=물결
+4|데이터센터 전력난 현실화|Data Center Power Crunch Becomes Reality|crunch=부족 사태
+4|AI가 바꾼 채용 시장|How AI Is Reshaping Hiring|
+@society
+4|출생아 수 반등 조짐|Births Show Signs of Rebound|
+4|도심 집회 수만 명 참가|Tens of Thousands Rally Downtown|rally=집회를 열다
+4|폭우 피해 복구 본격화|Recovery Efforts Begin After Heavy Rain|recovery=복구
+4|교원 부족 사태 심화|Teacher Shortage Deepens|deepen=심화되다
+4|의료 공백 장기화 우려|Fears of Prolonged Gaps in Medical Care|prolonged=장기화된
+4|양국 정상, 공급망 협력 합의|Leaders Agree to Cooperate on Supply Chains|
+4|외교 갈등, 관광 교류로 번져|Diplomatic Row Spills Over Into Tourism|row=불화; spill over=번지다
+4|휴전 연장 합의|Ceasefire Extended|extend=연장하다
+4|대선 앞두고 여론 팽팽|Public Opinion Split Ahead of Presidential Vote|split=갈린
+4|이민자 정책 대폭 손질|Immigration Policy to Get Major Overhaul|overhaul=전면 개편
+@shop
+4|연말 쇼핑 시즌, 온라인 매출 신기록|Online Sales Hit Record in Holiday Season|
+4|대형마트, 새벽 배송 확대|Big-Box Retailers Expand Early-Morning Delivery|big-box retailer=대형마트
+4|명품 브랜드 잇단 가격 인상|Luxury Brands Raise Prices Again|
+4|배달 앱 수수료 인하 합의|Delivery Apps Agree to Lower Fees|
+4|중고 거래 플랫폼 이용자 급증|Users Flock to Secondhand Marketplaces|flock to=몰려들다
+4|편의점, 금융 서비스까지 확대|Convenience Stores Branch Into Financial Services|branch into=진출하다
+4|해외 직구 규제 강화|Rules Tighten on Cross-Border Online Shopping|
+4|소비자들 '가성비' 찾아 이동|Shoppers Shift in Search of Value|in search of=~을 찾아
+4|무인 매장 절도 늘어|Thefts Rise at Unstaffed Stores|theft=절도
+4|구독 서비스 줄줄이 요금 인상|Subscription Services Hike Prices One After Another|one after another=줄줄이
+@work
+4|대기업, 신입 공채 축소|Big Firms Cut Back on Graduate Hiring|graduate hiring=신입 채용
+4|주 4일제 시범 도입 확산|Four-Day Week Pilots Spread|
+4|직장인 10명 중 3명 '부업 중'|Three in Ten Workers Have Side Jobs|side job=부업
+4|노사, 임금 협상 극적 타결|Unions and Management Strike Last-Minute Wage Deal|strike a deal=합의하다
+4|스타트업 구조 조정 칼바람|Startups Hit by Wave of Restructuring|
+4|사무실 복귀 지시에 이직 고민 늘어|Return-to-Office Orders Push Workers to Consider Quitting|
+4|AI 도입 기업, 생산성 평균 두 자릿수 개선|AI Adopters Report Double-Digit Productivity Gains|adopter=도입 기업
+4|정년 연장 법안 국회 통과|Bill Raising Retirement Age Passes|
+4|여성 임원 비율 역대 최고|Share of Women Executives Hits Record High|executive=임원
+4|CEO 세대교체 바람|A Generational Shift in the CEO Suite|CEO suite=최고경영진
+@energy
+4|전력 수요 사상 최대 경신|Power Demand Hits All-Time High|
+4|원전 수출 계약 체결|Nuclear Plant Export Deal Signed|
+4|국제 유가 급등, 물가 부담 커져|Oil Price Spike Adds to Inflation Worries|spike=급등
+4|재생에너지 발전 비중 첫 20% 돌파|Renewables Top 20% of Power Mix for First Time|power mix=발전 비중; top=넘어서다
+4|LNG 장기 계약 잇따라|LNG Buyers Rush to Sign Long-Term Deals|
+4|정부, 전기 요금 동결 결정|Government Freezes Electricity Rates|freeze=동결하다
+4|폭염에 전력 수급 비상|Heat Wave Strains Power Supply|strain=압박하다
+4|해상 풍력 입찰 흥행|Offshore Wind Auction Draws Strong Interest|auction=입찰
+4|탄소 배출 3년 연속 감소|Emissions Fall for Third Year in a Row|in a row=연속으로
+4|전기차 충전소 대폭 확충|EV Charging Network to Get Major Expansion|charging network=충전망

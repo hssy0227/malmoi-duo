@@ -1,0 +1,85 @@
+# 일상 회화 확장 (직접 작성) — 취미·문화·영화·책·뉴스 보기
+@movie
+3|요즘 볼 만한 영화 있어요?|Is there anything good to watch these days?|
+3|그 영화 아직 못 봤어요.|I haven't seen that movie yet.|
+3|예고편이 더 재밌었어요.|The trailer was better than the movie.|trailer=예고편
+3|결말이 좀 아쉬웠어요.|The ending was a bit of a letdown.|letdown=실망
+3|그 배우 연기 미쳤어요.|That actor's performance was incredible.|performance=연기
+3|그 시리즈 시즌 2 나왔어요?|Is season two of that series out yet?|out=나온
+3|자막 없이 보려고 노력 중이에요.|I'm trying to watch without subtitles.|subtitle=자막
+3|이 영화 실화래요.|This movie is based on a true story.|
+3|영화관에서 보는 게 확실히 달라요.|It's definitely different seeing it in a theater.|
+3|오늘 밤에 영화 한 편 볼까요?|Want to watch a movie tonight?|
+4|원작 소설을 읽고 나서 영화를 보니 더 재밌었어요.|It was more fun to watch after reading the original novel.|original novel=원작 소설
+4|이 감독은 매 작품마다 스타일이 달라요.|This director's style changes with every film.|
+4|요즘은 영화보다 시리즈를 더 많이 봐요.|I watch more series than movies these days.|
+4|다큐멘터리를 보면 세상을 보는 시야가 넓어져요.|Documentaries really broaden my view of the world.|broaden=넓히다
+4|대사가 너무 빨라서 따라가기 힘들었어요.|The dialogue was so fast it was hard to follow.|dialogue=대사; follow=따라가다
+4|스포일러 당해서 김이 샜어요.|Someone spoiled it for me, and it ruined everything.|spoil=스포일러 하다
+4|그 장면은 몇 번을 다시 봐도 소름 돋아요.|That scene gives me chills no matter how many times I watch it.|give chills=소름 돋게 하다
+4|평론가 평은 별로였지만 저는 재밌게 봤어요.|The critics didn't like it, but I enjoyed it.|critic=평론가
+4|그 영화는 생각할 거리를 많이 줘요.|That movie gives you a lot to think about.|
+4|드라마로 영어 표현을 많이 배웠어요.|I picked up a lot of English expressions from TV shows.|pick up=익히다
+@book
+3|요즘 무슨 책 읽어요?|What are you reading these days?|
+3|이 책 강력 추천해요.|I highly recommend this book.|highly=강력히
+3|한 번 잡으니까 손을 놓을 수가 없었어요.|Once I started, I couldn't put it down.|put down=내려놓다
+3|책 읽는 습관을 들이고 싶어요.|I want to get into the habit of reading.|
+3|이 작가 다른 책도 읽어 봤어요?|Have you read anything else by this author?|
+3|전자책보다 종이책이 좋아요.|I prefer paper books to e-books.|prefer A to B=B보다 A를 선호하다
+4|요즘은 출퇴근길에 오디오북을 들어요.|These days I listen to audiobooks on my commute.|commute=출퇴근길
+4|그 책은 처음엔 지루했는데 뒤로 갈수록 재밌었어요.|It was slow at first, but it got better as it went on.|
+4|어려운 책은 요약본부터 읽어요.|With difficult books, I start with a summary.|summary=요약본
+4|책에서 좋은 문장은 따로 적어 둬요.|I write down good lines from books.|line=구절
+4|독서 모임에서 같은 책을 읽고 이야기 나눠요.|In my book club, we read the same book and discuss it.|book club=독서 모임
+4|그 책 덕분에 생각이 많이 바뀌었어요.|That book really changed how I think.|
+4|소설보다 실용서를 더 자주 읽어요.|I read nonfiction more often than novels.|nonfiction=논픽션·실용서
+4|영어 원서를 하루 열 쪽씩 읽고 있어요.|I'm reading ten pages of an English book every day.|
+@hobby
+3|요즘 테니스에 빠졌어요.|I've gotten really into tennis lately.|
+3|주말마다 등산 가요.|I go hiking every weekend.|
+3|요가 배운 지 6개월 됐어요.|I've been doing yoga for six months.|
+3|사진 찍는 걸 좋아해요.|I'm into photography.|photography=사진
+3|요리하는 게 스트레스 푸는 방법이에요.|Cooking is how I unwind.|unwind=긴장을 풀다
+3|기타를 다시 배우기 시작했어요.|I've picked up the guitar again.|pick up=다시 시작하다
+3|요즘 캠핑이 유행이에요.|Camping is really popular right now.|
+3|마라톤 완주가 올해 목표예요.|My goal this year is to finish a marathon.|
+3|운동은 꾸준히 하는 게 제일 어려워요.|The hardest part of working out is sticking with it.|stick with=꾸준히 하다
+3|새로운 취미를 찾고 있어요.|I'm looking for a new hobby.|
+4|취미 덕분에 회사 밖 친구들이 생겼어요.|My hobbies have helped me make friends outside of work.|
+4|퇴근 후에 하는 운동이 하루의 활력소예요.|Working out after work is what keeps me going.|keep going=버티게 하다
+4|그림 그리는 시간만큼은 아무 생각이 안 나요.|When I'm painting, my mind goes completely quiet.|
+4|요즘 베이킹에 재미를 붙였어요.|I've gotten hooked on baking lately.|get hooked on=빠지다
+4|전시회 다니는 걸 좋아해서 한 달에 한 번은 가요.|I love going to exhibitions, so I go about once a month.|exhibition=전시회
+4|콘서트 티켓 구하기가 하늘의 별 따기예요.|Getting concert tickets is next to impossible.|next to impossible=거의 불가능한
+4|러닝 크루에 들어가서 같이 뛰어요.|I joined a running crew, so we run together.|crew=모임
+4|게임도 적당히 하면 스트레스 해소에 좋아요.|In moderation, gaming is a good way to relieve stress.|in moderation=적당히
+4|악기를 하나쯤은 다룰 줄 알고 싶어요.|I'd like to be able to play at least one instrument.|instrument=악기
+4|여행 사진으로 포토북을 만들었어요.|I made a photo book from my travel pictures.|
+@culture
+3|이 축제는 매년 열려요.|This festival is held every year.|
+3|한국 전통 음식 먹어 봤어요?|Have you tried traditional Korean food?|
+3|명절에는 보통 뭐 해요?|What do you usually do on holidays?|
+4|나라마다 인사하는 방식이 달라서 재밌어요.|It's interesting how every country greets people differently.|
+4|외국 친구에게 한국 문화를 소개하는 게 좋아요.|I love introducing Korean culture to foreign friends.|
+4|그 나라에 가기 전에 예절을 미리 알아 두면 좋아요.|It's good to learn the etiquette before visiting that country.|etiquette=예절
+4|요즘 K-콘텐츠 덕분에 한국어를 배우는 외국인이 많아요.|Thanks to K-content, lots of foreigners are learning Korean.|
+4|문화 차이 때문에 오해가 생길 때도 있어요.|Sometimes cultural differences lead to misunderstandings.|
+5|다른 문화를 이해하려면 그 나라 사람들의 일상을 봐야 해요.|To understand another culture, you need to see people's everyday lives.|
+5|전통은 지키는 것만큼 새롭게 해석하는 것도 중요해요.|Reinterpreting tradition is as important as preserving it.|reinterpret=재해석하다; preserve=보존하다
+@study
+3|영어 뉴스를 매일 하나씩 읽고 있어요.|I read one English news article every day.|article=기사
+3|모르는 단어는 앱에 저장해요.|I save words I don't know in an app.|
+3|듣기가 제일 어려워요.|Listening is the hardest part for me.|
+3|말할 때 자꾸 문법이 신경 쓰여요.|I keep worrying about grammar when I speak.|
+4|헤드라인만 읽어도 시사 감각이 생겨요.|Just reading headlines helps you keep up with current affairs.|current affairs=시사
+4|기사 하나를 요약해 보는 게 공부에 도움이 돼요.|Summarizing an article really helps me learn.|
+4|섀도잉으로 발음과 억양을 연습해요.|I practice pronunciation and intonation by shadowing.|shadowing=따라 말하기; intonation=억양
+4|틀려도 괜찮으니 일단 말해 보는 게 중요해요.|It's important to just speak, even if you make mistakes.|
+4|하루 15분이라도 매일 하는 게 효과적이에요.|Doing just fifteen minutes a day is effective.|
+4|단어는 문장으로 외우면 오래 기억에 남아요.|Words stick better when you learn them in sentences.|stick=기억에 남다
+5|뉴스를 원어로 보면 같은 사건도 다른 시각으로 보게 돼요.|Reading the news in another language shows you the same event from a different angle.|
+5|언어를 배운다는 건 그 사람들의 생각하는 방식을 배우는 거예요.|Learning a language means learning how its speakers think.|
+5|비즈니스 미팅에서는 완벽한 문법보다 명확한 전달이 중요해요.|In business meetings, clear communication matters more than perfect grammar.|
+5|기사 제목은 짧지만 생략된 정보가 많아서 처음엔 어려워요.|Headlines are short but leave a lot out, so they're tricky at first.|leave out=생략하다; tricky=까다로운
+5|실력이 정체될 때는 공부 방법을 바꿔 보는 게 좋아요.|When you hit a plateau, it helps to change how you study.|plateau=정체기
