@@ -1,0 +1,75 @@
+# 일상 회화 확장 (직접 작성) — 자주 쓰는 관용 표현·구동사
+@daily
+3|일단 해 봐요.|Just give it a shot.|give it a shot=한번 해 보다
+3|쉽지 않네요.|It's easier said than done.|
+3|잘 모르겠어요. 좀 생각해 볼게요.|I'm not sure. Let me sleep on it.|sleep on it=하룻밤 생각해 보다
+3|급하게 결정하지 마세요.|Don't rush into anything.|rush into=서두르다
+3|그 사람 말 너무 신경 쓰지 마세요.|Don't take what he said to heart.|take to heart=마음에 담아 두다
+3|그건 제가 장담해요.|I can promise you that.|
+3|마음 바뀌면 알려 주세요.|Let me know if you change your mind.|change one's mind=마음을 바꾸다
+3|그럴 만도 하죠.|That's understandable.|understandable=이해할 만한
+3|잘됐네요!|Good for you!|
+3|힘내세요.|Hang in there.|hang in there=버티다
+3|그만 좀 해요.|Knock it off.|knock it off=그만두다
+3|진정해요.|Calm down.|calm down=진정하다
+3|별거 아니에요.|It's nothing.|
+3|생각났어요!|It just came to me!|come to=생각이 나다
+3|운이 좋았어요.|I got lucky.|
+3|아깝다!|So close!|
+3|그거 완전 꿀팁이네요.|That's a great tip.|tip=요령
+4|그 문제는 이미 해결됐어요.|That's already been taken care of.|
+4|이번엔 그냥 넘어갈게요.|I'll let it slide this time.|let slide=봐주다
+4|확실히 하고 싶어서요.|I just want to be on the safe side.|on the safe side=안전하게
+4|결국 그렇게 됐어요.|That's how it ended up.|end up=결국 ~되다
+4|그냥 흘러가는 대로 두려고요.|I'm just going to play it by ear.|play it by ear=상황 봐서 하다
+4|그건 시간문제예요.|It's only a matter of time.|matter of time=시간문제
+4|모든 걸 한꺼번에 할 수는 없어요.|You can't do everything at once.|at once=한꺼번에
+4|제가 너무 앞서 나갔네요.|I'm getting ahead of myself.|get ahead of oneself=앞서 나가다
+4|그 사람은 말만 앞서요.|He's all talk.|all talk=말뿐인
+4|이번엔 제가 양보할게요.|I'll back down this time.|back down=물러서다
+4|그 결정을 뒤집을 수는 없어요.|There's no going back on that decision.|go back on=번복하다
+4|조금만 더 버티면 돼요.|Just hang on a little longer.|hang on=버티다
+4|그건 운에 맡겨야죠.|We'll just have to leave it to chance.|leave to chance=운에 맡기다
+4|모르는 척 넘어가 줄게요.|I'll pretend I didn't see that.|pretend=~인 척하다
+4|그 사람한테 한 소리 들었어요.|I got told off by him.|tell off=꾸짖다
+4|그 일은 저한테 맡겨 주세요.|Leave it to me.|
+4|생각보다 일이 커졌어요.|Things got out of hand.|get out of hand=감당하기 어렵게 되다
+4|조금씩 감을 잡고 있어요.|I'm slowly getting the hang of it.|get the hang of=요령을 익히다
+4|이번 일로 한 수 배웠어요.|That was a good lesson for me.|
+4|생각보다 괜찮았어요.|It wasn't as bad as I thought.|
+4|그건 별로 놀랍지 않아요.|That doesn't surprise me at all.|
+4|우리 같은 배를 탄 거예요.|We're in the same boat.|in the same boat=같은 처지인
+4|그건 제 소관이 아니에요.|That's out of my hands.|out of one's hands=내 소관 밖인
+4|그 계획은 물 건너갔어요.|That plan fell through.|fall through=무산되다
+4|그 얘기 듣고 마음이 놓였어요.|That took a load off my mind.|take a load off=마음을 놓게 하다
+4|지금은 때가 아니에요.|Now's not the time.|
+4|그 사람 정말 눈치가 빨라요.|She's really quick to pick up on things.|pick up on=눈치채다
+4|하나부터 열까지 다 챙겨 줬어요.|He took care of everything from start to finish.|
+4|일단 부딪혀 보는 수밖에 없어요.|We'll just have to cross that bridge when we come to it.|cross that bridge=그때 가서 해결하다
+4|다 지난 일이에요.|That's all water under the bridge.|water under the bridge=지난 일
+4|이번엔 정말 아슬아슬했어요.|That was a close call.|close call=아슬아슬한 순간
+4|그 말 듣고 뜨끔했어요.|That hit close to home.|hit close to home=정곡을 찌르다
+5|겉으로 보이는 게 다가 아니에요.|There's more to it than meets the eye.|meet the eye=눈에 보이다
+5|첫술에 배부를 수는 없어요.|Rome wasn't built in a day.|
+5|서두르면 오히려 일을 그르쳐요.|Haste makes waste.|haste=서두름
+5|그 사람은 항상 핵심을 찔러요.|She always gets straight to the point.|get to the point=핵심을 말하다
+5|두 마리 토끼를 다 잡을 수는 없어요.|You can't have it both ways.|have it both ways=둘 다 취하다
+5|문제를 덮어 두면 더 커질 뿐이에요.|Sweeping problems under the rug only makes them bigger.|sweep under the rug=덮어 두다
+5|그 사람은 위기에서 빛을 발했어요.|He really rose to the occasion.|rise to the occasion=위기에 잘 대처하다
+5|말보다 행동이 중요하죠.|Actions speak louder than words.|
+5|기회는 준비된 사람에게 와요.|Luck favors the prepared.|favor=편들다
+5|완벽을 기다리다간 아무것도 못 해요.|If you wait for perfect, you'll never get anything done.|
+@health
+3|요즘 피곤이 안 풀려요.|I can't seem to shake this fatigue.|shake=떨쳐내다; fatigue=피로
+3|어깨가 뭉쳤어요.|My shoulders are really tight.|tight=뭉친
+3|눈이 너무 피곤해요.|My eyes are so tired.|
+3|물을 더 자주 마셔야겠어요.|I need to drink water more often.|
+4|건강 검진에서 콜레스테롤이 높게 나왔어요.|My cholesterol came back high at my checkup.|cholesterol=콜레스테롤
+4|요즘 스트레칭으로 하루를 시작해요.|I've been starting my day with some stretching.|
+4|잠들기 전에 휴대폰을 안 보려고 해요.|I try not to look at my phone before bed.|
+4|당 섭취를 줄였더니 몸이 가벼워졌어요.|Cutting back on sugar has made me feel lighter.|
+4|스트레스 받으면 꼭 위가 아파요.|My stomach always hurts when I'm stressed.|
+4|요즘 마음이 좀 지쳐 있어요.|I've been feeling emotionally drained lately.|drained=지친
+5|몸이 보내는 신호를 무시하면 안 돼요.|You shouldn't ignore the signals your body sends you.|
+5|건강은 잃고 나서야 그 소중함을 알게 돼요.|You only realize how precious health is once you lose it.|precious=소중한
+5|충분한 수면이 어떤 영양제보다 효과적이에요.|Getting enough sleep works better than any supplement.|supplement=영양제

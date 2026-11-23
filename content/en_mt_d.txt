@@ -1,0 +1,52 @@
+# 비즈니스 미팅 (직접 작성) — 프로젝트·IT·데이터·전략 논의
+@work
+3|이번 스프린트 목표부터 확인하죠.|Let's start by checking the goals for this sprint.|sprint=단기 개발 주기
+3|어디까지 진행됐어요?|Where are we at with this?|
+3|막힌 부분이 있나요?|Are there any blockers?|blocker=장애 요인
+3|이건 다음 스프린트로 넘기죠.|Let's push this to the next sprint.|push=미루다
+3|요구 사항이 아직 확정되지 않았어요.|The requirements haven't been finalized yet.|requirement=요구 사항; finalize=확정하다
+3|테스트 결과를 공유해 드릴게요.|I'll share the test results.|
+3|버그는 오늘 안에 고칠 수 있어요.|We can fix the bug today.|
+3|배포 일정이 언제예요?|When's the release date?|release=배포
+3|데이터 품질에 문제가 있어요.|There's an issue with the data quality.|
+3|대시보드에서 바로 확인하실 수 있어요.|You can check it directly on the dashboard.|dashboard=대시보드
+4|현업 요구 사항을 먼저 정리해야 해요.|We need to pin down the business requirements first.|pin down=확정하다
+4|이건 기술 문제라기보다 프로세스 문제예요.|This is more of a process issue than a technical one.|
+4|파일럿 범위를 한 부서로 좁히죠.|Let's narrow the pilot to one department.|narrow=좁히다
+4|데이터 출처가 여러 곳이라 정합성 확인이 필요해요.|The data comes from several sources, so we need to check consistency.|consistency=정합성
+4|이 지표의 정의부터 맞춰야 해요.|We need to agree on how this metric is defined.|metric=지표
+4|모델 정확도는 목표치를 넘었지만 운영 안정성은 아직이에요.|The model beat its accuracy target, but it's not stable enough for production yet.|production=운영 환경
+4|운영 이관 전에 책임 분담을 정해야 해요.|We need to agree on who owns what before handing it over to operations.|hand over=이관하다
+4|보안 검토가 끝나야 오픈할 수 있어요.|We can only go live once the security review is done.|go live=오픈하다
+4|이 기능은 사용자 피드백을 보고 우선순위를 정하죠.|Let's prioritize this feature based on user feedback.|prioritize=우선순위를 정하다
+4|기존 시스템과 연동하는 게 제일 큰 과제예요.|Integrating with the legacy system is the biggest challenge.|integrate=연동하다
+4|클라우드 비용을 줄일 방법을 찾아봐야 해요.|We need to find ways to bring down our cloud costs.|bring down=줄이다
+4|이건 자동화하면 하루 두 시간을 아낄 수 있어요.|If we automate this, we can save two hours a day.|
+4|데이터 수집 주기를 하루 한 번에서 매시간으로 바꾸죠.|Let's change the data collection from daily to hourly.|
+4|AI 에이전트를 도입하려면 업무 프로세스부터 정리해야 해요.|To bring in AI agents, we first need to map out our processes.|map out=정리하다
+4|이 결과를 경영진 보고용으로 한 장에 요약해 주세요.|Please summarize these results on a single slide for the executives.|
+4|비교 기준을 통일해야 결과를 믿을 수 있어요.|We need a consistent baseline to trust the results.|baseline=기준
+4|가설을 먼저 세우고 데이터로 검증하죠.|Let's form a hypothesis first and then test it with data.|hypothesis=가설
+4|예측 오차가 여름철에 특히 커요.|The forecast error is especially large in summer.|forecast error=예측 오차
+4|외부 데이터 소스를 추가하면 정확도가 올라갈 거예요.|Adding external data sources should improve accuracy.|
+4|이 문제는 담당 부서 간 협의가 필요해요.|This needs to be worked out between the departments involved.|work out=해결하다
+4|기술 부채를 지금 정리하지 않으면 나중에 더 비싸져요.|If we don't deal with the tech debt now, it'll cost more later.|tech debt=기술 부채
+4|사용자 교육 계획도 함께 세워야 해요.|We need to plan user training as well.|
+4|이번 프로젝트의 성공 지표를 세 가지로 정하죠.|Let's define three success metrics for this project.|success metric=성공 지표
+4|이 수치는 아직 검증 전이니 참고만 해 주세요.|These numbers haven't been validated yet, so treat them as indicative.|validate=검증하다; indicative=참고용의
+4|중복 개발을 막으려면 부서 간 공유가 필요해요.|We need cross-team sharing to avoid duplicate work.|duplicate=중복된
+5|기술 선택보다 문제 정의가 더 중요합니다.|Defining the problem matters more than choosing the technology.|
+5|모든 요구를 다 넣으면 아무것도 제대로 안 됩니다.|If we try to include every request, nothing will work well.|
+5|파일럿의 목적은 성공이 아니라 학습입니다.|The purpose of a pilot is learning, not success.|
+5|현업이 쓰지 않는 시스템은 아무리 좋아도 실패한 겁니다.|A system the business doesn't use is a failure, no matter how good it is.|
+5|데이터 거버넌스가 없으면 AI도 신뢰를 얻기 어렵습니다.|Without data governance, AI will struggle to earn trust.|data governance=데이터 거버넌스
+5|단계적으로 확산하되, 각 단계마다 성과를 확인하죠.|Let's roll it out in phases and check results at each stage.|roll out=확산하다
+5|이 과제는 기술보다 변화 관리가 성패를 가를 겁니다.|Change management, not technology, will make or break this project.|make or break=성패를 가르다
+5|비용 절감 효과와 리스크 감소 효과를 따로 제시하는 게 설득력이 있습니다.|Presenting cost savings and risk reduction separately is more persuasive.|persuasive=설득력 있는
+5|보고서의 결론은 데이터가 말하는 것 이상으로 쓰면 안 됩니다.|The report's conclusions shouldn't go beyond what the data says.|go beyond=넘어서다
+5|운영 책임자가 정해지지 않으면 오픈 후에 표류합니다.|Without a clear owner, it will drift after launch.|drift=표류하다
+5|외부 솔루션을 쓸지 직접 만들지 총비용으로 판단하죠.|Let's make the build-versus-buy call based on total cost.|build versus buy=자체 개발 대 구매
+5|임원 보고는 '무엇을 결정해 주셔야 하는지'로 시작하죠.|Let's open the executive briefing with the decision we need from them.|briefing=보고
+5|빠르게 만들고, 사용자에게 보여 주고, 고치는 사이클을 짧게 가져가죠.|Let's keep the cycle short: build fast, show users, and fix.|
+5|이 프로젝트는 회사의 AI 전환을 보여 주는 대표 사례가 될 수 있습니다.|This project could be a flagship case for the company's AI transformation.|flagship=대표적인
+5|성과는 숫자로, 한계는 솔직하게 보고하겠습니다.|We'll report results with numbers and limitations honestly.|limitation=한계
