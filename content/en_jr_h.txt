@@ -1,0 +1,71 @@
+# 저널·뉴스형 (직접 작성) — 경영 전략·기업·리더십 (HBR 스타일 문장)
+@work
+4|성장하는 기업은 고객 문제에서 출발한다.|Growing companies start with the customer's problem.|
+4|전략은 계획이 아니라 선택이다.|Strategy is about choices, not plans.|
+4|혁신은 실험의 수에 비례한다.|Innovation scales with the number of experiments.|scale with=비례하다
+4|좋은 회의는 결정으로 끝난다.|Good meetings end with decisions.|
+4|데이터는 직감을 대체하지 않고 보완한다.|Data doesn't replace intuition; it complements it.|intuition=직감; complement=보완하다
+4|작은 승리가 큰 변화를 만든다.|Small wins build momentum for big change.|momentum=추진력
+4|고객의 목소리를 듣는 기업이 오래간다.|Companies that listen to customers last longer.|
+4|속도가 완벽함을 이길 때가 있다.|Sometimes speed beats perfection.|
+4|좋은 팀은 갈등을 피하지 않는다.|Good teams don't avoid conflict.|
+4|성공은 반복 가능한 프로세스에서 나온다.|Success comes from repeatable processes.|repeatable=반복 가능한
+4|브랜드는 약속이고, 경험은 그 증거다.|A brand is a promise, and experience is the proof.|proof=증거
+4|위기는 리더의 진짜 모습을 보여 준다.|A crisis reveals who a leader really is.|
+4|목표가 명확해야 팀이 움직인다.|Teams move when goals are clear.|
+4|집중은 거절에서 시작된다.|Focus starts with saying no.|
+4|가장 큰 위험은 아무것도 하지 않는 것이다.|The biggest risk is doing nothing.|
+5|파괴적 혁신은 종종 시장의 가장자리에서 시작된다.|Disruptive innovation often starts at the edges of a market.|disruptive=파괴적인; edge=가장자리
+5|성공한 기업이 실패하는 이유는 잘하던 것을 계속하기 때문이다.|Successful companies fail because they keep doing what used to work.|
+5|좋은 전략은 경쟁자가 따라 하기 어려운 활동의 조합이다.|Good strategy is a combination of activities that competitors find hard to copy.|
+5|관리자는 일을 바르게 하고, 리더는 바른 일을 한다.|Managers do things right; leaders do the right things.|
+5|피드백 문화가 없는 조직은 같은 실수를 반복한다.|Organizations without a feedback culture repeat the same mistakes.|
+5|측정하지 않으면 개선할 수 없지만, 모든 것을 측정할 필요는 없다.|You can't improve what you don't measure, but you don't need to measure everything.|measure=측정하다
+5|고객 충성도는 할인으로 살 수 없다.|Customer loyalty can't be bought with discounts.|
+5|인재 전쟁의 승자는 성장 경험을 주는 회사다.|The winners of the war for talent are companies that help people grow.|war for talent=인재 전쟁
+5|플랫폼 전략의 핵심은 네트워크 효과다.|The heart of a platform strategy is network effects.|network effect=네트워크 효과
+5|조직은 구조를 바꾸기 전에 습관을 바꿔야 한다.|Organizations should change habits before changing structures.|
+5|좋은 의사 결정은 결과가 아니라 과정으로 평가해야 한다.|Good decisions should be judged by process, not outcome.|outcome=결과
+5|실패를 처벌하는 조직에서는 아무도 도전하지 않는다.|In organizations that punish failure, no one takes risks.|punish=처벌하다
+5|가격 전략은 가장 빠르게 이익을 바꾸는 지렛대다.|Pricing is the fastest lever for changing profits.|lever=지렛대
+5|비전은 방향을 주고, 실행은 결과를 준다.|Vision gives direction; execution delivers results.|deliver=내다
+5|원격 팀을 이끄는 데는 더 많은 의도적 소통이 필요하다.|Leading remote teams takes more deliberate communication.|deliberate=의도적인
+5|위대한 기업은 고객이 말하지 않은 필요를 찾아낸다.|Great companies find needs customers haven't voiced.|voice=말로 표현하다
+5|기업의 목적이 분명할수록 인재가 모인다.|The clearer a company's purpose, the more talent it attracts.|purpose=목적
+5|변화에 저항하는 것은 사람이 아니라 불확실성이다.|What people resist isn't change but uncertainty.|resist=저항하다
+5|디지털 전환은 기술 프로젝트가 아니라 비즈니스 변화다.|Digital transformation is a business change, not an IT project.|
+5|가장 좋은 아이디어는 종종 현장에서 나온다.|The best ideas often come from the front line.|front line=현장
+5|협업은 구조가 아니라 신뢰로 작동한다.|Collaboration runs on trust, not structure.|run on=~로 작동하다
+5|성장의 함정은 규모가 커질수록 민첩성을 잃는 것이다.|The trap of growth is losing agility as you scale.|agility=민첩성; scale=규모를 키우다
+5|시장 점유율보다 고객 점유율이 더 중요할 수 있다.|Share of wallet can matter more than market share.|share of wallet=고객 지갑 점유율
+5|좋은 리더는 자신이 모른다는 것을 인정한다.|Good leaders admit what they don't know.|
+5|단기 성과와 장기 가치 사이의 긴장은 경영의 본질이다.|The tension between short-term results and long-term value is the essence of management.|essence=본질
+5|조직의 학습 속도가 경쟁 우위가 된다.|An organization's speed of learning becomes its competitive advantage.|
+5|규칙이 많을수록 판단력은 약해진다.|The more rules there are, the weaker judgment becomes.|
+5|가장 위험한 가정은 검증하지 않은 가정이다.|The most dangerous assumption is the one you haven't tested.|
+5|비용 절감만으로 성장할 수 있는 기업은 없다.|No company can cut its way to growth.|cut one's way=비용을 줄여서 ~하다
+5|좋은 질문 하나가 열 개의 답보다 낫다.|One good question is worth more than ten answers.|
+5|신뢰는 투명성과 일관성으로 쌓인다.|Trust is built on transparency and consistency.|transparency=투명성
+5|위기 커뮤니케이션의 원칙은 빠르게, 정직하게, 반복해서다.|The rules of crisis communication: be fast, be honest, and repeat yourself.|
+5|가장 좋은 인재는 가장 어려운 문제에 배치해야 한다.|Put your best people on your hardest problems.|
+5|고객 경험은 가장 약한 접점만큼만 좋다.|A customer experience is only as good as its weakest touchpoint.|touchpoint=접점
+5|훌륭한 문화는 아무도 보지 않을 때의 행동으로 드러난다.|Great culture shows in how people act when no one is watching.|
+5|생산성은 더 많이 일하는 것이 아니라 덜 낭비하는 것이다.|Productivity is about wasting less, not working more.|waste=낭비하다
+5|좋은 경영자는 숫자 뒤의 이야기를 읽는다.|Good executives read the story behind the numbers.|executive=경영자
+5|기업의 다음 성장 동력은 기존 고객 안에 있을 수 있다.|A company's next growth engine may lie within its existing customers.|growth engine=성장 동력
+5|불확실성의 시대에는 계획보다 시나리오가 필요하다.|In uncertain times, you need scenarios more than plans.|
+5|빠르게 결정하고, 틀리면 빠르게 고쳐라.|Decide quickly, and if you're wrong, correct quickly.|correct=고치다
+5|전문성은 깊이만큼 연결이 중요하다.|Expertise is about connections as much as depth.|expertise=전문성
+5|좋은 회사는 직원을 교육하고, 위대한 회사는 직원을 성장시킨다.|Good companies train employees; great companies grow them.|
+5|중간 관리자를 잃으면 조직의 기억을 잃는다.|Lose your middle managers, and you lose the organization's memory.|
+5|합의는 좋은 결정의 조건이 아니라 결과일 때가 많다.|Consensus is often the result of a good decision, not its precondition.|precondition=전제 조건
+5|고객이 떠나는 이유는 대부분 가격이 아니라 무관심이다.|Most customers leave because of indifference, not price.|indifference=무관심
+5|조직 문화는 리더가 참는 것으로 정의된다.|A culture is defined by what its leaders tolerate.|tolerate=용인하다
+5|성공 사례보다 실패 사례에서 더 많이 배운다.|We learn more from failures than from success stories.|
+5|지금의 강점이 내일의 약점이 될 수 있다.|Today's strengths can become tomorrow's weaknesses.|
+5|최고의 전략도 실행할 사람이 없으면 소용없다.|Even the best strategy is useless without the people to carry it out.|carry out=실행하다
+5|스타트업은 자원이 아니라 속도로 경쟁한다.|Startups compete on speed, not resources.|compete on=~로 경쟁하다
+5|기업의 평판은 수십 년에 걸쳐 쌓이고 몇 분 만에 무너진다.|A reputation takes decades to build and minutes to destroy.|
+5|일하는 방식을 바꾸지 않고 도구만 바꾸면 효과가 없다.|Changing tools without changing how people work achieves nothing.|achieve=이루다
+5|리더의 말보다 리더의 일정이 우선순위를 보여 준다.|A leader's calendar reveals priorities better than words.|
+5|규모보다 밀도가 중요하다.|Density matters more than size.|density=밀도

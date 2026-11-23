@@ -1,0 +1,80 @@
+# 저널·뉴스형 (직접 작성) — 외교·국제·사회 2, 기후·과학·건강
+@society
+4|양국 정상이 전화 통화로 협력 방안을 논의했다.|The two leaders discussed cooperation in a phone call.|leader=정상
+4|무역 협상이 막바지에 접어들었다.|Trade talks are entering the final stretch.|final stretch=막바지
+4|정부가 해외 공관의 경계 수준을 높였다.|The government raised the alert level at its overseas missions.|alert level=경계 수준; mission=공관
+4|국제 회의에서 기후 기금 조성에 합의했다.|An international conference agreed to set up a climate fund.|set up=조성하다
+4|평화 협상이 중재국의 도움으로 재개됐다.|Peace talks resumed with the help of a mediator.|resume=재개되다; mediator=중재자
+4|해외 체류 국민에게 대피 권고가 내려졌다.|Citizens abroad were advised to evacuate.|evacuate=대피하다
+4|두 나라가 국경 분쟁 해결에 합의했다.|The two countries agreed to settle their border dispute.|settle=해결하다
+4|국제 사회가 그 결정을 일제히 비판했다.|The international community unanimously criticized the decision.|unanimously=일제히
+4|정상회담이 일정 문제로 연기됐다.|The summit was postponed due to scheduling issues.|
+4|외교 관계가 단절된 지 10년 만에 복원됐다.|Diplomatic ties were restored after a decade-long break.|restore=복원하다
+4|국가 간 학생 교류 프로그램이 확대된다.|Student exchange programs between the countries will be expanded.|exchange program=교류 프로그램
+4|외국인 투자 규제가 완화됐다.|Restrictions on foreign investment have been eased.|restriction=규제
+4|정부 대변인이 공식 입장을 밝혔다.|A government spokesperson stated the official position.|spokesperson=대변인
+4|국제 공급망 회복력을 위한 협의체가 출범했다.|A new forum on global supply chain resilience was launched.|forum=협의체
+4|선거 결과에 불복하는 시위가 이어졌다.|Protests against the election results continued.|
+4|이번 조치는 국제법 위반이라는 지적이 나온다.|Critics say the move violates international law.|move=조치
+4|해외 원조 예산이 삭감됐다.|The foreign aid budget was cut.|
+4|양국이 자유무역협정 개정에 착수했다.|The two countries began revising their free trade agreement.|revise=개정하다
+4|정부가 국가 안보 전략을 새로 발표했다.|The government unveiled a new national security strategy.|unveil=공개하다
+4|외국인 관광객을 위한 비자 절차가 간소화됐다.|Visa procedures for foreign tourists have been simplified.|simplify=간소화하다
+5|무역 분쟁의 진짜 쟁점은 기술 패권이다.|The real issue in the trade dispute is technological dominance.|dominance=패권
+5|국제 질서가 규칙 기반에서 힘 기반으로 바뀌고 있다는 우려가 있다.|There are fears the international order is shifting from rules to power.|
+5|동맹국 간에도 이해관계는 엇갈린다.|Even allies have conflicting interests.|conflicting=상충하는
+5|외교의 성공은 종종 아무 일도 일어나지 않는 것이다.|Success in diplomacy is often measured by what doesn't happen.|
+5|제재는 정권보다 일반 시민에게 더 큰 고통을 줄 수 있다.|Sanctions can hurt ordinary citizens more than the regime.|regime=정권
+5|국제기구의 영향력이 예전만 못하다.|International organizations aren't as influential as they once were.|influential=영향력 있는
+5|중견국 외교는 균형 감각의 예술이다.|Middle-power diplomacy is an art of balance.|
+5|국가 간 협력은 위기 때 가장 필요하지만 가장 어렵다.|International cooperation is most needed and hardest to achieve in a crisis.|
+5|국경을 넘는 데이터 이동이 새로운 외교 의제가 되었다.|Cross-border data flows have become a new diplomatic issue.|data flow=데이터 이동
+5|해외 여론도 외교 정책의 중요한 변수다.|Public opinion abroad is also a key factor in foreign policy.|
+@nature
+4|올여름 폭염 일수가 역대 최다를 기록했다.|This summer saw a record number of heat-wave days.|
+4|산불로 수천 명이 대피했다.|Wildfires forced thousands to evacuate.|wildfire=산불
+4|해수면 상승이 해안 도시를 위협하고 있다.|Rising sea levels are threatening coastal cities.|coastal=해안의
+4|미세먼지 경보가 발령됐다.|A fine dust warning was issued.|issue=발령하다
+4|가뭄으로 농작물 피해가 커지고 있다.|Drought is causing growing damage to crops.|drought=가뭄; crop=농작물
+4|멸종 위기종 보호 구역이 확대됐다.|Protected areas for endangered species have been expanded.|endangered species=멸종 위기종
+4|플라스틱 사용 규제가 강화된다.|Rules on plastic use are being tightened.|
+4|기상 이변이 일상이 되고 있다.|Extreme weather is becoming the norm.|extreme weather=기상 이변; norm=일상·표준
+4|도시 열섬 현상을 줄이기 위해 나무를 심고 있다.|Cities are planting trees to reduce the urban heat island effect.|heat island=열섬
+4|태풍이 예상보다 빠르게 북상하고 있다.|The typhoon is moving north faster than expected.|
+5|기후 적응은 이제 감축만큼 중요한 과제다.|Climate adaptation is now as important as cutting emissions.|adaptation=적응; emission=배출
+5|기후 변화의 비용은 미래가 아니라 지금 치르고 있다.|We are paying the cost of climate change now, not in the future.|
+5|탄소 중립 목표가 현실과 부딪히고 있다.|Net-zero goals are colliding with reality.|net-zero=탄소 중립; collide=충돌하다
+5|자연을 보호하는 것이 경제를 보호하는 일이다.|Protecting nature is protecting the economy.|
+5|보험사들이 기후 위험 때문에 일부 지역에서 철수하고 있다.|Insurers are pulling out of some regions because of climate risk.|pull out=철수하다
+@health
+4|독감 환자가 급증하고 있다.|Flu cases are surging.|flu=독감
+4|비만 치료제 수요가 폭발적으로 늘었다.|Demand for obesity drugs has exploded.|obesity=비만
+4|의료 인력 부족으로 응급실 대기 시간이 길어졌다.|Staff shortages have lengthened wait times in emergency rooms.|emergency room=응급실
+4|정신 건강 상담 수요가 크게 늘었다.|Demand for mental health counseling has soared.|counseling=상담
+4|수면 부족이 생산성을 떨어뜨린다는 연구가 나왔다.|A study found that lack of sleep lowers productivity.|
+4|걷기만 해도 건강에 큰 도움이 된다는 연구 결과가 나왔다.|Research shows that simply walking has major health benefits.|
+4|새 백신이 승인을 받았다.|A new vaccine has been approved.|vaccine=백신
+4|원격 진료가 제도화된다.|Telehealth is being formally adopted into the system.|telehealth=원격 진료
+4|고령 인구의 의료비가 빠르게 늘고 있다.|Medical costs for older people are rising fast.|
+4|초가공식품의 위험성에 대한 경고가 이어지고 있다.|Warnings about ultra-processed foods keep coming.|ultra-processed=초가공된
+5|건강 수명을 늘리는 것이 고령 사회의 핵심 과제다.|Extending healthy life expectancy is the key task for an aging society.|life expectancy=기대 수명
+5|예방이 치료보다 싸다.|Prevention is cheaper than cure.|prevention=예방
+5|운동은 가장 저평가된 약이다.|Exercise is the most underrated medicine.|underrated=과소평가된
+5|외로움은 하루 담배 15개비만큼 해롭다는 연구도 있다.|Some studies suggest loneliness is as harmful as smoking fifteen cigarettes a day.|harmful=해로운
+5|AI가 의료 진단의 정확도를 높이고 있다.|AI is improving the accuracy of medical diagnoses.|diagnosis=진단
+@culture
+4|K-팝 공연이 전 세계에서 매진되고 있다.|K-pop concerts are selling out around the world.|
+4|한국 드라마가 글로벌 스트리밍 순위 1위에 올랐다.|A Korean drama topped the global streaming charts.|top=1위에 오르다
+4|박물관 관람객이 사상 최다를 기록했다.|Museum attendance hit an all-time high.|attendance=관람객 수
+4|웹툰이 영화와 드라마의 원작으로 자리 잡았다.|Webtoons have become a major source for films and dramas.|source=원작
+4|지역 축제가 관광객을 끌어모으고 있다.|Local festivals are drawing in tourists.|draw in=끌어모으다
+4|전통 공예가 젊은 세대에게 새롭게 주목받고 있다.|Traditional crafts are finding new fans among young people.|craft=공예
+4|서점 수가 계속 줄고 있다.|The number of bookstores keeps falling.|
+4|공연 예술계가 관객 회복에 안간힘을 쓰고 있다.|The performing arts are struggling to win back audiences.|win back=되찾다
+4|한식이 세계적으로 인기를 얻고 있다.|Korean food is gaining popularity worldwide.|
+4|미술 시장이 조정기에 들어섰다.|The art market has entered a correction.|correction=조정
+5|문화는 가장 강력한 수출품이 되었다.|Culture has become the most powerful export.|
+5|콘텐츠의 국경이 사라지고 있다.|Borders in content are disappearing.|
+5|알고리즘이 우리의 취향을 만든다는 비판이 있다.|Critics say algorithms are shaping our tastes.|taste=취향
+5|짧은 영상이 긴 글의 자리를 빼앗고 있다.|Short videos are taking the place of long-form writing.|long-form=긴 형식의
+5|창작자 경제가 새로운 일자리를 만들고 있다.|The creator economy is creating new kinds of jobs.|creator economy=창작자 경제
