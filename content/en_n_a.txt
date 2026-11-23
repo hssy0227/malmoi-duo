@@ -1,0 +1,95 @@
+# 일상 회화 확장 (직접 작성) — 자연스러운 구어·구동사
+@daily
+3|오늘 하루 어땠어요?|How was your day?|
+3|그럭저럭 괜찮았어요.|It was all right, I guess.|all right=괜찮은
+3|정신없이 바쁜 하루였어요.|It's been a crazy busy day.|crazy busy=정신없이 바쁜
+3|드디어 금요일이네요!|Thank goodness it's Friday!|thank goodness=다행이다
+3|주말에 뭐 할 계획이에요?|Got any plans for the weekend?|
+3|그냥 집에서 푹 쉬려고요.|I'm just going to chill at home.|chill=느긋하게 쉬다
+3|어젯밤에 늦게까지 드라마 봤어요.|I stayed up late binge-watching a show last night.|stay up=깨어 있다; binge-watch=몰아 보다
+3|아침을 거르면 하루 종일 힘이 없어요.|If I skip breakfast, I feel drained all day.|skip=거르다; drained=기진맥진한
+3|커피 없이는 하루를 시작할 수 없어요.|I can't start my day without coffee.|
+3|오늘은 왠지 기분이 좋아요.|For some reason, I'm in a great mood today.|for some reason=왠지
+3|좀 우울해요.|I'm feeling a bit down.|down=우울한
+3|별일 아니에요. 신경 쓰지 마세요.|It's no big deal. Don't worry about it.|no big deal=별일 아닌 것
+3|그 말 들으니 마음이 놓이네요.|That's a relief to hear.|relief=안도
+3|그거 정말 짜증 나요.|That's really annoying.|annoying=짜증 나는
+3|오늘따라 시간이 안 가요.|Time is dragging today.|drag=느리게 가다
+3|나 요즘 운동 시작했어.|I've started working out recently.|work out=운동하다
+3|살이 좀 쪘어요.|I've put on a little weight.|put on weight=살이 찌다
+3|다이어트 중이라 단 건 참고 있어요.|I'm on a diet, so I'm staying away from sweets.|stay away from=멀리하다
+3|오늘은 그냥 배달 시켜 먹을래요.|I'll just order takeout tonight.|takeout=포장·배달 음식
+3|집에 가는 길에 장 좀 볼게요.|I'll pick up some groceries on my way home.|pick up=사 오다; groceries=식료품
+3|방 청소를 미루고 있어요.|I've been putting off cleaning my room.|put off=미루다
+3|휴대폰 배터리가 거의 다 됐어요.|My phone's almost dead.|dead=(배터리가) 다 된
+3|충전기 빌릴 수 있을까요?|Could I borrow your charger?|charger=충전기
+3|깜빡하고 우산을 안 가져왔어요.|I forgot to bring an umbrella.|
+3|비 맞아서 다 젖었어요.|I got soaked in the rain.|soaked=흠뻑 젖은
+3|오늘 너무 추워서 나가기 싫어요.|It's too cold to go out today.|
+3|날씨 좋은데 산책이나 할까요?|The weather's nice. Want to go for a walk?|go for a walk=산책하다
+3|요즘 팟캐스트 듣는 재미에 빠졌어요.|I've gotten into podcasts lately.|get into=~에 빠지다
+3|농담이죠?|You're kidding, right?|kid=농담하다
+3|진심이에요.|I mean it.|
+3|말도 안 돼!|No way!|
+3|그럴 줄 알았어요.|I knew it.|
+3|나도 같은 생각이에요.|I was thinking the same thing.|
+3|그러게 말이에요.|Tell me about it.|tell me about it=내 말이 그 말이에요
+3|그건 사람마다 다르죠.|That depends on the person.|depend on=~에 달려 있다
+3|굳이 그럴 필요 없어요.|There's no need to go out of your way.|go out of one's way=일부러 애쓰다
+3|천천히 하세요. 급할 거 없어요.|Take your time. There's no rush.|take one's time=천천히 하다
+3|잠깐 쉬었다 할까요?|Should we take a quick break?|take a break=쉬다
+3|저 먼저 갈게요. 내일 봐요.|I'm heading out. See you tomorrow.|head out=나가다
+3|조심히 들어가세요.|Get home safe.|
+3|도착하면 문자 주세요.|Text me when you get there.|text=문자 보내다
+3|연락 자주 해요.|Don't be a stranger.|don't be a stranger=자주 연락해요
+3|그 사람 요즘 소식 들었어요?|Have you heard from him lately?|hear from=소식을 듣다
+3|우리 언제 한번 밥 먹어요.|Let's grab a bite sometime.|grab a bite=간단히 먹다
+3|각자 내요.|Let's split the bill.|split the bill=나눠 내다
+3|오늘 정말 즐거웠어요.|I had a great time today.|
+4|요즘 일이 너무 많아서 번아웃 직전이에요.|I've got so much on my plate that I'm close to burning out.|on one's plate=해야 할 일; burn out=지치다
+4|퇴근하고 나면 아무것도 하기 싫어요.|After work, I don't feel like doing anything.|feel like -ing=~하고 싶다
+4|요즘 생활 패턴이 완전히 엉망이에요.|My routine has been completely thrown off lately.|routine=생활 패턴; throw off=흐트러뜨리다
+4|휴대폰 보는 시간을 좀 줄이려고 해요.|I'm trying to cut down on screen time.|cut down on=줄이다; screen time=화면 보는 시간
+4|이번 달은 지출을 좀 줄여야겠어요.|I need to tighten my belt this month.|tighten one's belt=허리띠를 졸라매다
+4|생각보다 일이 술술 풀렸어요.|Things went more smoothly than I expected.|smoothly=순조롭게
+4|모든 게 꼬여 버렸어요.|Everything went sideways.|go sideways=꼬이다
+4|그 일 때문에 하루 종일 신경이 쓰였어요.|That's been bugging me all day.|bug=신경 쓰이게 하다
+4|그냥 마음 편하게 생각하려고요.|I'm just trying to go with the flow.|go with the flow=흐름에 맡기다
+4|다시 생각해 보니 그게 맞는 것 같아요.|On second thought, I think you're right.|on second thought=다시 생각해 보니
+4|그 얘기 듣고 좀 서운했어요.|I was a little hurt when I heard that.|hurt=서운한·상처받은
+4|오해하지 마세요. 그런 뜻이 아니었어요.|Don't get me wrong. That's not what I meant.|get someone wrong=오해하다
+4|솔직히 말하면 좀 실망했어요.|To be honest, I was a bit disappointed.|disappointed=실망한
+4|그 사람 말은 반만 믿어요.|I take what he says with a grain of salt.|with a grain of salt=걸러서
+4|그건 하늘의 별 따기예요.|That's easier said than done.|easier said than done=말처럼 쉽지 않다
+4|결국 다 잘될 거예요.|It'll all work out in the end.|work out=잘 풀리다
+4|이번 일로 많이 배웠어요.|I learned a lot from this whole thing.|
+4|요즘 새로운 걸 배우는 재미가 있어요.|I'm enjoying learning new things these days.|
+4|오늘은 그냥 아무 생각 없이 쉬고 싶어요.|Today I just want to switch off and relax.|switch off=머리를 비우다
+4|그건 제 스타일이 아니에요.|That's not really my thing.|my thing=내 취향
+4|이 노래 들으면 대학 시절이 생각나요.|This song takes me back to my college days.|take back=떠올리게 하다
+4|저는 계획 세우는 걸 좋아하는 편이에요.|I tend to like making plans.|tend to=~하는 편이다
+4|즉흥적으로 떠나는 여행도 좋아요.|I like spontaneous trips too.|spontaneous=즉흥적인
+4|요즘 자기 전에 일기를 써요.|I've been journaling before bed.|journal=일기를 쓰다
+4|매일 조금씩이라도 하는 게 중요해요.|Doing a little every day is what counts.|count=중요하다
+4|생각보다 시간이 오래 걸렸어요.|It took longer than I thought.|
+4|그거 하느라 주말이 다 갔어요.|That ate up my whole weekend.|eat up=다 써 버리다
+4|이제야 좀 여유가 생겼어요.|I finally have some breathing room.|breathing room=여유
+4|오늘 할 일을 다 끝내서 뿌듯해요.|I feel good about getting everything done today.|get done=끝내다
+4|요즘 아침형 인간이 되려고 노력 중이에요.|I'm trying to become more of a morning person.|morning person=아침형 인간
+@greet
+3|오랜만이에요! 잘 지냈어요?|Long time no see! How have you been?|long time no see=오랜만이다
+3|어떻게 지내요?|How's it going?|
+3|별일 없어요?|What's new with you?|
+3|만나서 반가웠어요.|It was great catching up.|catch up=근황을 나누다
+3|저는 이 동네 토박이예요.|I was born and raised around here.|born and raised=나고 자란
+3|어떤 일 하세요?|What do you do for a living?|for a living=생계로
+3|IT 회사에서 일해요.|I work at a tech company.|tech company=IT 회사
+3|이 일 한 지 5년 됐어요.|I've been doing this for five years.|
+3|우리 어디서 만난 적 있지 않아요?|Have we met before?|
+3|말씀 많이 들었어요.|I've heard so much about you.|
+3|이분이 제가 말한 그 친구예요.|This is the friend I was telling you about.|
+3|다들 이름으로 불러 주세요.|Please, call me by my first name.|first name=이름
+3|편하게 말 놓으셔도 돼요.|Feel free to talk to me casually.|casually=편하게
+3|처음 뵙겠습니다. 잘 부탁드립니다.|Nice to meet you. I look forward to working with you.|look forward to=기대하다
+3|다음에 또 봬요.|Catch you later.|catch you later=나중에 봐요
+3|주말 잘 보내세요!|Enjoy your weekend!|

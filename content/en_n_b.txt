@@ -1,0 +1,86 @@
+# 일상 회화 확장 (직접 작성) — 식당·쇼핑·여행·건강·문제 해결
+@food
+3|얼마나 기다려야 해요?|How long is the wait?|wait=대기 시간
+3|여기 뭐가 맛있어요?|What's good here?|
+3|저도 같은 걸로 할게요.|I'll have the same.|
+3|덜 맵게 해 주실 수 있어요?|Could you make it less spicy?|spicy=매운
+3|이거 양이 많아요?|Is this a big portion?|portion=1인분 양
+3|나눠 먹으려고요. 접시 하나 더 주세요.|We're sharing. Could we get an extra plate?|share=나눠 먹다
+3|계산서 주세요.|Could we get the check, please?|check=계산서
+3|카드 되나요?|Do you take cards?|take=받다
+3|음식이 좀 식었어요.|My food is a little cold.|
+3|정말 맛있었어요. 잘 먹었습니다.|That was delicious. Thank you.|
+3|라테 하나, 우유는 귀리 우유로 바꿔 주세요.|One latte with oat milk, please.|oat milk=귀리 우유
+3|아이스로 주세요.|Can I get that iced?|iced=아이스로
+3|여기서 먹고 갈게요.|For here, please.|for here=매장에서 먹기
+3|가져갈게요.|To go, please.|to go=포장
+3|와이파이 비밀번호 알 수 있을까요?|Could I get the Wi-Fi password?|
+4|알레르기가 있어서 견과류는 빼 주세요.|I'm allergic to nuts, so please leave them out.|allergic=알레르기가 있는; leave out=빼다
+4|이 근처에 현지인들이 가는 맛집 있어요?|Is there a place around here where locals like to eat?|local=현지인
+4|예약 없이 왔는데 자리 있을까요?|We don't have a reservation. Do you have anything available?|reservation=예약
+4|코스 요리 대신 단품으로 주문해도 되나요?|Can we order à la carte instead of the set menu?|à la carte=단품으로
+4|이 와인이랑 잘 어울리는 요리가 뭐예요?|What would go well with this wine?|go well with=잘 어울리다
+@shop
+3|그냥 구경하는 중이에요.|I'm just browsing.|browse=둘러보다
+3|이거 다른 색 있어요?|Does this come in other colors?|come in=(색·크기로) 나오다
+3|한 치수 큰 거 있어요?|Do you have this in a size up?|size up=한 치수 큰 것
+3|좀 꽉 끼네요.|It's a bit tight.|tight=꽉 끼는
+3|영수증 주세요.|Could I have the receipt?|receipt=영수증
+3|이거 환불되나요?|Can I get a refund on this?|refund=환불
+3|다른 걸로 교환하고 싶어요.|I'd like to exchange this for something else.|exchange=교환하다
+4|온라인 가격이 매장보다 싼데 맞춰 주실 수 있나요?|It's cheaper online. Do you price-match?|price-match=가격을 맞춰 주다
+4|이건 품절이라 언제 다시 들어오는지 궁금해요.|This is sold out. When will it be back in stock?|back in stock=재입고된
+4|배송 조회가 안 돼요.|I can't track my package.|track=추적하다
+4|택배가 엉뚱한 주소로 갔어요.|My package went to the wrong address.|
+4|구독을 해지하고 싶은데 방법을 모르겠어요.|I want to cancel my subscription, but I can't figure out how.|figure out=알아내다
+@travel
+3|창가 자리로 주세요.|I'd like a window seat, please.|window seat=창가 자리
+3|짐은 몇 개까지 부칠 수 있어요?|How many bags can I check?|check=(짐을) 부치다
+3|기내에 들고 탈 수 있는 크기인가요?|Is this small enough to carry on?|carry on=기내에 들고 타다
+3|탑승구가 어디예요?|Where's my gate?|gate=탑승구
+3|연결 항공편을 놓쳤어요.|I missed my connecting flight.|connecting flight=연결 항공편
+3|짐이 안 나왔어요.|My luggage didn't come out.|luggage=짐
+3|시내까지 가는 가장 쉬운 방법이 뭐예요?|What's the easiest way to get downtown?|downtown=시내
+3|이 버스 공항 가요?|Does this bus go to the airport?|
+3|여기서 걸어서 갈 수 있어요?|Is it within walking distance?|within walking distance=걸어갈 만한 거리
+3|이 주소로 가 주세요.|Please take me to this address.|
+3|체크인은 몇 시부터예요?|What time is check-in?|check-in=체크인
+3|짐 좀 맡겨도 될까요?|Can I leave my bags here?|leave=맡기다
+3|방을 바꿀 수 있을까요?|Would it be possible to switch rooms?|switch=바꾸다
+3|이 근처에 꼭 가 볼 만한 곳 있어요?|Is there anything around here that's a must-see?|must-see=꼭 봐야 할 것
+3|사진 좀 찍어 주시겠어요?|Would you mind taking a picture of us?|
+3|여기 입장료가 있나요?|Is there an entrance fee?|entrance fee=입장료
+3|오늘 투어 아직 자리 있어요?|Are there still spots on today's tour?|spot=자리
+4|비행기가 지연돼서 일정을 다시 짜야 해요.|My flight was delayed, so I have to rework my plans.|rework=다시 짜다
+4|여행자 보험으로 처리될까요?|Will my travel insurance cover this?|cover=보장하다
+4|현지 유심을 사는 게 나을까요, 로밍이 나을까요?|Is it better to get a local SIM or use roaming?|roaming=로밍
+4|성수기라 가격이 많이 올랐어요.|Prices have gone way up since it's peak season.|peak season=성수기
+4|관광지 말고 현지 사람들 사는 동네를 보고 싶어요.|I'd like to see where locals actually live, not just tourist spots.|tourist spot=관광지
+@health
+3|몸이 좀 안 좋아요.|I'm not feeling well.|
+3|열이 있어요.|I've got a fever.|fever=열
+3|목이 칼칼해요.|My throat is scratchy.|scratchy=칼칼한
+3|약국이 어디 있어요?|Where's the nearest pharmacy?|pharmacy=약국
+3|병원 예약하고 싶어요.|I'd like to make a doctor's appointment.|appointment=예약
+3|어디가 아프세요?|What seems to be the problem?|
+3|어제부터 계속 기침이 나요.|I've had a cough since yesterday.|cough=기침
+4|며칠 쉬면 나아질 거예요.|A few days of rest should do the trick.|do the trick=효과가 있다
+4|스트레스 때문에 소화가 잘 안돼요.|Stress is messing with my digestion.|mess with=문제를 일으키다; digestion=소화
+4|요즘 무리했더니 몸살이 났어요.|I overdid it lately and now I'm all achy.|overdo it=무리하다; achy=쑤시는
+4|건강검진 결과가 좋게 나왔어요.|My checkup results came back fine.|checkup=건강검진
+4|규칙적으로 운동하니까 컨디션이 좋아졌어요.|Exercising regularly has really improved how I feel.|
+@trouble
+3|도와주실 수 있어요?|Could you give me a hand?|give a hand=도와주다
+3|지갑을 잃어버렸어요.|I lost my wallet.|wallet=지갑
+3|휴대폰을 택시에 두고 내렸어요.|I left my phone in a taxi.|
+3|문이 잠겼어요.|I'm locked out.|locked out=문이 잠겨 못 들어가는
+3|이거 어떻게 쓰는지 알려 주시겠어요?|Could you show me how this works?|
+3|오류가 계속 떠요.|I keep getting an error.|error=오류
+3|인터넷이 안 돼요.|The internet's down.|down=작동하지 않는
+3|다시 껐다 켜 보셨어요?|Have you tried turning it off and on again?|
+3|제가 잘못 이해했나 봐요.|I must have misunderstood.|misunderstand=오해하다
+3|착오가 있었던 것 같아요.|I think there's been a mix-up.|mix-up=착오
+4|이 문제는 오늘 안에 해결돼야 해요.|This really needs to be sorted out today.|sort out=해결하다
+4|불편을 드려 죄송합니다. 바로 처리해 드릴게요.|Sorry for the trouble. I'll take care of it right away.|take care of=처리하다
+4|환불 처리가 언제쯤 될까요?|When can I expect the refund?|expect=기대하다
+4|다시는 이런 일이 없도록 해 주세요.|Please make sure this doesn't happen again.|make sure=확실히 하다
