@@ -1,5 +1,5 @@
 // 말모이 듀오 — 오프라인 캐시 (앱 파일이 바뀌면 빌드 버전이 바뀌어 새로 받음)
-const CACHE = "malmoi-d5818ccf";
+const CACHE = "malmoi-0983c770";
 const FILES = ["./", "./index.html", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-180.png"];
 
 self.addEventListener("install", e => {

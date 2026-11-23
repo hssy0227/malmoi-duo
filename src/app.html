@@ -120,6 +120,16 @@ h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
 .opt.ok{border-color:var(--ok);background:var(--okb)}
 .opt.ng{border-color:var(--ng);background:var(--ngb)}
 .opt.fd{opacity:.55}
+.opt.ng.x{text-decoration:line-through;text-decoration-color:var(--ng);opacity:.8}
+.retry{margin:2px 0 0;font-size:13px;font-weight:600;color:var(--ng);text-align:center}
+.qres{margin:14px 0 0;font-size:14px;font-weight:600}.qres.ok{color:var(--ok)}.qres.ng{color:var(--ng)}.qres b{color:var(--ink)}
+.fbk{position:fixed;left:50%;top:42%;z-index:80;display:flex;flex-direction:column;align-items:center;gap:8px;padding:18px 26px 16px;border-radius:20px;background:var(--sf);border:1px solid var(--ln);box-shadow:0 18px 44px -16px rgba(0,0,0,.55);pointer-events:none;white-space:nowrap;animation:fbk 1.2s cubic-bezier(.2,.8,.2,1) forwards}
+.fbk svg{width:60px;height:60px}.fbk.ok{color:var(--ok)}.fbk.ng{color:var(--ng)}
+.fbk b{font-size:17px;color:var(--ink);letter-spacing:-.01em}
+.fbk path{stroke-dasharray:100;stroke-dashoffset:100;animation:fbdraw .32s .06s ease-out forwards}
+@keyframes fbk{0%{opacity:0;transform:translate(-50%,-30%) scale(.92)}16%{opacity:1;transform:translate(-50%,-50%) scale(1)}72%{opacity:1;transform:translate(-50%,-50%) scale(1)}100%{opacity:0;transform:translate(-50%,-25%) scale(.98)}}
+@keyframes fbdraw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.fbk{animation:fbk 1.4s linear forwards}.fbk path{animation:none;stroke-dashoffset:0}}
 .opts+.say,.opt+.say{margin-top:10px}
 .tg+.say,.ko+.say,.cloze+.say{margin-top:14px}
 .qfc{min-height:0}.qprompt{padding:4px 0 2px}.qfc .opts{margin-top:18px}
@@ -248,7 +258,7 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
   <dl class="hg">
     <dt>Home</dt><dd>오늘 할 카드 수와 진도. 상황 칸을 누르면 <span class="nw">그 상황만</span> 학습. <span class="mut">왼쪽 위 로고·뒤로가기로도 이동</span></dd>
     <dt>카드</dt><dd>한국어를 보고 소리 내 말한 뒤 탭 → 정답·발음 확인 → <kbd>다시</kbd><kbd>어려움</kbd><kbd>알맞음</kbd><kbd>쉬움</kbd> 중 선택. <span class="mut">버튼 아래 숫자가 다음 복습 시점</span>. 이미 아는 건 <kbd>알아요</kbd>, 필요 없는 건 <kbd>스킵</kbd> — 카드에서 빠져요</dd>
-    <dt>퀴즈</dt><dd>뜻·표현·듣기·빈칸 4가지 + 랜덤. 중간에 <kbd>나가기</kbd>로 저장(이어 풀기) 또는 기록 지우고 나가기. <span class="mut">틀린 문제는 카드 복습에 바로 추가</span></dd>
+    <dt>퀴즈</dt><dd>뜻·표현·듣기·빈칸 4가지 + 랜덤. 틀리면 한 번 더 고를 기회. 중간에 <kbd>나가기</kbd>로 저장(이어 풀기) 또는 기록 지우고 나가기. <span class="mut">틀린 문제는 카드 복습에 바로 추가</span></dd>
     <dt>말하기</dt><dd>마이크를 누르고 말하기. 초록은 맞음, 빨강은 놓침. <span class="mut">베트남어는 '성조 빼고' 점수만 높으면 성조 연습이 필요</span></dd>
     <dt>사전</dt><dd>상황 탭은 옆으로 밀거나 <kbd>펼치기</kbd>. 성조 없이 검색 가능 <span class="mut">(bao nhieu)</span>. ★ 즐겨찾기. 상태(새것·읽음·학습 중·앎·스킵)로 거르고, 항목을 열어 상태를 바꿔요. 오른쪽 위 약자는 출처 — <kbd>출처</kbd> 범례를 누르면 그 출처만 보이고 어떻게 만든 건지 설명이 나와요</dd>
     <dt>모드</dt><dd>카드·말하기·퀴즈 위의 <kbd>모드</kbd>로 상황·레벨·문장/단어·★만 고르기. <span class="mut">지금 모드는 블록으로 표시</span></dd>
@@ -535,7 +545,7 @@ function startQuiz(retry){
   if(!items.length){toast("이 범위엔 문제를 낼 항목이 없어요");return}
   const qs=items.map(it=>makeQ(L,it,QS.type)).filter(Boolean);
   delete S.qsave[L];save();
-  Object.assign(QS,{ph:"q",L,qs,i:0,pick:null,ok:0,wrong:[],undo:{},hd:0,day:today()});
+  Object.assign(QS,{ph:"q",L,qs,i:0,pick:null,miss:null,res:null,ok:0,ok2:0,wrong:[],undo:{},hd:0,day:today()});
   render(); if(qs[0].t==="l")autoListen();
 }
 function autoListen(){const q=QS.qs[QS.i];if(!q)return;const id=q.id,L=S.lang;setTimeout(()=>{const c=QS.qs&&QS.qs[QS.i];if(view==="quiz"&&QS.ph==="q"&&c&&c.id===id&&QS.pick===null)speak(ITEM[L][id].t,L)},250)}
@@ -555,8 +565,8 @@ function vQuiz(){
   }
   if(QS.ph==="done"){
     const w=QS.wrong;
-    return `<h2>${QS.ok} / ${QS.qs.length} 정답</h2>
-    <div class="box">${w.length?`<div class="sm mut" style="margin-bottom:4px">틀린 문제 — 카드 복습 목록에도 바로 올라가요</div>${w.map(id=>{const it=ITEM[L][id];return `<div class="res"><div><div style="font-weight:650">${esc(it.t)}</div><div class="sm mut">${esc(it.k)}</div></div><button class="ib" data-act="say" data-id="${id}">${IC.spk}</button></div>`}).join("")}`:`<div class="empty"><div class="big">만점</div><p class="mut">전부 맞혔어요.</p></div>`}</div>
+    return `<h2>${QS.ok} / ${QS.qs.length} 정답</h2>${QS.ok2?`<p class="sm mut" style="margin:-6px 0 12px">두 번째에 맞힌 문제 ${QS.ok2}개 · 틀린 문제와 함께 복습 목록에 올라가요</p>`:""}
+    <div class="box">${w.length?`<div class="sm mut" style="margin-bottom:4px">다시 볼 문제 — 카드 복습 목록에도 바로 올라가요</div>${w.map(id=>{const it=ITEM[L][id];return `<div class="res"><div><div style="font-weight:650">${esc(it.t)}</div><div class="sm mut">${esc(it.k)}</div></div><button class="ib" data-act="say" data-id="${id}">${IC.spk}</button></div>`}).join("")}`:`<div class="empty"><div class="big">만점</div><p class="mut">전부 맞혔어요.</p></div>`}</div>
     <div class="row" style="margin-top:12px">${w.length?`<button class="btn pri" data-act="qretry">오답만 다시</button>`:""}<button class="btn" data-act="qagain">새 문제</button><button class="btn" data-act="qsetup">유형 바꾸기</button></div>`;
   }
   const q=QS.qs[QS.i], it=ITEM[L][q.id], done=QS.pick!==null, t=q.t;
@@ -565,25 +575,40 @@ function vQuiz(){
   else if(t==="e")prompt=`<div class="ko">${esc(it.k)}</div>`;
   else if(t==="l")prompt=`<button class="play" data-act="say" data-id="${it.id}" aria-label="다시 듣기">${IC.spk}</button><div class="row" style="justify-content:center"><button class="btn sm" data-act="sayt" data-slow="1" data-t="${enc(it.t)}">천천히</button></div>${done?`<div class="tg" style="text-align:center;margin-top:8px">${esc(it.t)}</div>`:""}`;
   else prompt=`<div class="cloze">${esc(q.cz.pre)}${done?`<span style="border-bottom:2px solid var(--am)">${esc(q.cz.term)}</span>`:"<u>____</u>"}${esc(q.cz.post)}</div><div class="hint" style="margin-top:8px">${esc(it.k)}</div>`;
-  const opts=q.opts.map((o,i)=>{let c="";if(done){if(o===q.ans)c="ok";else if(i===QS.pick)c="ng";else c="fd"}return `<button class="opt ${c}" data-act="qpick" data-i="${i}" ${done?"disabled":""}>${esc(o)}</button>`}).join("");
-  const after=done?`<div class="qafter">${t!=="m"&&t!=="l"?sayBtns(it.t):""}${t!=="c"?`<div class="sm"><b>${esc(it.t)}</b> — <span class="mut">${esc(it.k)}</span></div>`:""}${detailHTML(L,it)}</div><button class="btn pri blk" style="margin-top:14px" data-act="qnext">${QS.i+1<QS.qs.length?"다음":"결과 보기"}</button>`:"";
+  const opts=q.opts.map((o,i)=>{let c="",dis=done;if(done){if(o===q.ans)c="ok";else if(i===QS.pick||i===QS.miss)c="ng";else c="fd"}else if(i===QS.miss){c="ng x";dis=true}return `<button class="opt ${c}" data-act="qpick" data-i="${i}" ${dis?"disabled":""}>${esc(o)}</button>`}).join("")+(!done&&QS.miss!=null?`<p class="retry">한 번 더 골라 보세요</p>`:"");
+  const res=done?(QS.res==="ok1"?"":QS.res==="ok2"?`<p class="qres ok">두 번째에 맞혔어요 — 복습 목록에 넣어 둘게요</p>`:`<p class="qres ng">정답은 <b>${esc(q.ans)}</b></p>`):"";
+  const after=done?res+`<div class="qafter">${t!=="m"&&t!=="l"?sayBtns(it.t):""}${t!=="c"?`<div class="sm"><b>${esc(it.t)}</b> — <span class="mut">${esc(it.k)}</span></div>`:""}${detailHTML(L,it)}</div><button class="btn pri blk" style="margin-top:14px" data-act="qnext">${QS.i+1<QS.qs.length?"다음":"결과 보기"}</button>`:"";
   return `<div class="prog"><button class="btn sm qexit" data-act="qexit">나가기</button><span>${QS.type==="r"?'<span class="rnd">랜덤 · </span>':""}${QT[t]}</span><div class="bar"><i style="width:${Math.round(QS.i/QS.qs.length*100)}%"></i></div><span>${QS.i+1} / ${QS.qs.length} · 정답 ${QS.ok}</span></div>
   <div class="fc qfc"><div class="qp">${esc(CAT[it.c])} · ${lvTag(it.l)}</div><div class="qprompt">${prompt}</div><div class="opts">${opts}</div>${after}</div>`;
 }
+const FB_SVG={ok:'<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"><path pathLength="100" d="M32 6a26 26 0 1 1 0 52a26 26 0 1 1 0-52"/></svg>',
+  ng:'<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round"><path pathLength="100" d="M16 16L48 48"/><path pathLength="100" d="M48 16L16 48" style="animation-delay:.22s"/></svg>'};
+function feedback(ok,msg){
+  document.querySelectorAll(".fbk").forEach(e=>e.remove());
+  const el=document.createElement("div");el.className="fbk "+(ok?"ok":"ng");el.setAttribute("role","status");
+  el.innerHTML=FB_SVG[ok?"ok":"ng"]+`<b>${esc(msg)}</b>`;document.body.appendChild(el);
+  setTimeout(()=>el.remove(),1300);
+  if(!ok&&navigator.vibrate)try{navigator.vibrate([25,40,25])}catch(e){}
+}
 function qpick(i){
-  const L=S.lang,q=QS.qs[QS.i],ok=q.opts[i]===q.ans;QS.pick=i;
+  const L=S.lang,q=QS.qs[QS.i];if(QS.pick!==null||i===QS.miss)return;
+  const ok=q.opts[i]===q.ans;
+  if(!ok&&QS.miss==null){QS.miss=i;render();feedback(false,"다시 한번 생각해보세요!");return}
+  QS.pick=i;const first=QS.miss==null;
+  QS.res=ok?(first?"ok1":"ok2"):"ng";
   if(!(q.id in QS.undo))QS.undo[q.id]={q:S.q[L][q.id]?S.q[L][q.id].slice():null,p:S.p[L][q.id]?{...S.p[L][q.id]}:null,seen:S.seen[L][q.id]||null};
-  const st=S.q[L][q.id]||[0,0];st[ok?0:1]++;S.q[L][q.id]=st;bump();QS.hd++;
-  if(ok)QS.ok++;else{QS.wrong.push(q.id);const p=S.p[L][q.id];if(p)p.d=Math.min(p.d,Date.now())}
+  const st=S.q[L][q.id]||[0,0];st[QS.res==="ok1"?0:1]++;S.q[L][q.id]=st;bump();QS.hd++;
+  if(QS.res==="ok1")QS.ok++;else{if(QS.res==="ok2")QS.ok2=(QS.ok2||0)+1;QS.wrong.push(q.id);const p=S.p[L][q.id];if(p)p.d=Math.min(p.d,Date.now())}
   S.seen[L][q.id]=S.seen[L][q.id]||Date.now();touch(L,q.id);
   save();render();
+  feedback(ok,ok?"정답이에요!":"아쉬워요, 정답을 확인해 보세요");
   if(S.set.auto&&q.t!=="m")speak(ITEM[L][q.id].t);
 }
 /* 중간에 나가기: 저장(나중에 이어 풀기) / 저장 안 함(이번 퀴즈 기록 되돌림) */
 function quitQuiz(keep){
   const L=QS.L;
   if(keep){
-    S.qsave[L]={type:QS.type,qs:QS.qs,i:answered(),ok:QS.ok,wrong:QS.wrong,undo:QS.undo,hd:QS.hd,day:QS.day,at:Date.now()};
+    S.qsave[L]={type:QS.type,qs:QS.qs,i:answered(),ok:QS.ok,ok2:QS.ok2||0,wrong:QS.wrong,undo:QS.undo,hd:QS.hd,day:QS.day,at:Date.now()};
     toast("저장했어요 · 퀴즈 화면에서 이어 풀 수 있어요");
   }else{
     for(const id in QS.undo){const u=QS.undo[id];
@@ -952,10 +977,10 @@ const ACT={
   qn:b=>{QS.n=+b.dataset.k;render()},
   qstart:()=>startQuiz(),
   qpick:b=>{if(QS.pick===null)qpick(+b.dataset.i)},
-  qnext:()=>{QS.i++;QS.pick=null;if(QS.i>=QS.qs.length){QS.ph="done";delete S.qsave[QS.L];save()}render();window.scrollTo(0,0);if(QS.ph==="q"&&QS.qs[QS.i].t==="l")autoListen()},
+  qnext:()=>{QS.i++;QS.pick=null;QS.miss=null;QS.res=null;if(QS.i>=QS.qs.length){QS.ph="done";delete S.qsave[QS.L];save()}render();window.scrollTo(0,0);if(QS.ph==="q"&&QS.qs[QS.i].t==="l")autoListen()},
   qexit:()=>exitSheet(),
   qquit:b=>quitQuiz(b.dataset.k==="1"),
-  qresume:()=>{const L=S.lang,sv=S.qsave[L];if(!sv)return;Object.assign(QS,{ph:"q",L,type:sv.type,qs:sv.qs,i:sv.i,pick:null,ok:sv.ok,wrong:sv.wrong,undo:sv.undo||{},hd:sv.hd||0,day:sv.day});delete S.qsave[L];save();if(QS.i>=QS.qs.length)QS.ph="done";render();if(QS.ph==="q"&&QS.qs[QS.i].t==="l")autoListen()},
+  qresume:()=>{const L=S.lang,sv=S.qsave[L];if(!sv)return;Object.assign(QS,{ph:"q",L,type:sv.type,qs:sv.qs,i:sv.i,pick:null,miss:null,res:null,ok:sv.ok,ok2:sv.ok2||0,wrong:sv.wrong,undo:sv.undo||{},hd:sv.hd||0,day:sv.day});delete S.qsave[L];save();if(QS.i>=QS.qs.length)QS.ph="done";render();if(QS.ph==="q"&&QS.qs[QS.i].t==="l")autoListen()},
   qdiscard:()=>{delete S.qsave[S.lang];save();render()},
   qretry:()=>startQuiz(QS.wrong.slice()),
   qagain:()=>startQuiz(),
@@ -985,6 +1010,7 @@ const ACT={
   closesheet:()=>closeSheet()
 };
 Object.assign(ACT,ACC_ACT);
+window.__malmoi={QS:()=>QS};  /* 테스트용 */
 function toggleHelp(force){const h=$("#help"),open=force!==undefined?force:h.hidden;h.hidden=!open;$("#helpBtn").setAttribute("aria-expanded",String(open));if(open&&!S.seenHelp){S.seenHelp=1;save();const d=$("#helpBtn .dot");if(d)d.remove()}}
 document.addEventListener("pointerdown",e=>{const h=$("#help");if(!h.hidden&&!e.target.closest("#help,#helpBtn"))toggleHelp(false)});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){toggleHelp(false);closeSheet()}});
