@@ -60,7 +60,7 @@
 4|오해하지 마세요. 그런 뜻이 아니었어요.|Don't get me wrong. That's not what I meant.|get someone wrong=오해하다
 4|솔직히 말하면 좀 실망했어요.|To be honest, I was a bit disappointed.|disappointed=실망한
 4|그 사람 말은 반만 믿어요.|I take what he says with a grain of salt.|with a grain of salt=걸러서
-4|그건 하늘의 별 따기예요.|That's easier said than done.|easier said than done=말처럼 쉽지 않다
+4|그건 하늘의 별 따기예요.|That's next to impossible.|next to impossible=거의 불가능한
 4|결국 다 잘될 거예요.|It'll all work out in the end.|work out=잘 풀리다
 4|이번 일로 많이 배웠어요.|I learned a lot from this whole thing.|
 4|요즘 새로운 걸 배우는 재미가 있어요.|I'm enjoying learning new things these days.|

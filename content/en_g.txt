@@ -117,5 +117,6 @@
 5|두 학파는 그 문제를 전혀 다르게 해석합니다.|The two schools of thought interpret the issue quite differently.|school of thought=학파; interpret=해석하다
 5|그 종은 외래종의 유입으로 개체 수가 줄었습니다.|The species declined after invasive species were introduced.|invasive species=외래(침입)종
 5|그 수치는 통계적으로 유의미한 차이를 보입니다.|The figures show a statistically significant difference.|statistically=통계적으로; significant=유의미한
-5|그 강의의 핵심은 인과관계와 상관관계의 차이입니다.|The key point of the lecture is the difference between cause and correlation.|cause=원인; correlation=상관관계
+5|그 강의의 핵심은 인과관계와 상관관계의 차이입니다.|The key point of the lecture is the difference between causation and correlation.|causation=인과관계; correlation=상관관계
 5|그 발견은 우연이었지만 획기적이었습니다.|The discovery was accidental but groundbreaking.|accidental=우연한; groundbreaking=획기적인
+4|화재의 원인은 아직 밝혀지지 않았어요.|The cause of the fire has not been found yet.|cause=원인|

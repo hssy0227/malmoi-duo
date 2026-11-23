@@ -22,7 +22,7 @@
 3|침대 시트를 갈았어요.|I changed the bed sheets.|sheet=시트·종이 한 장
 3|병에 물을 가득 채워 주세요.|Please fill the bottle with water.|bottle=병
 4|아무튼 우리끼리 해결해 봐요.|Anyway, let's sort it out ourselves.|ourselves=우리 스스로; sort out=해결하다
-4|그는 진심으로 사과했어요.|He apologized sincerely and truly meant it.|truly=진심으로
+4|그는 사과했고, 그 말은 진심이었어요.|He apologized, and he truly meant it.|truly=진심으로
 @health
 2|오늘 좀 아파요.|I feel a bit sick today.|sick=아픈
 3|그는 병에서 회복하는 중이에요.|He's recovering from an illness.|recover=회복하다; illness=질병
@@ -34,7 +34,7 @@
 3|정신 건강도 몸만큼 중요해요.|Mental health is as important as physical health.|mental=정신의
 3|응급 상황이에요! 구급차를 불러 주세요.|It's an emergency! Please call an ambulance.|emergency=응급 상황
 3|그는 사고로 다리에 부상을 입었어요.|He got a leg injury in the accident.|injury=부상
-4|그 병은 조기에 발견하면 치료할 수 있어요.|The disease can be treated if it's found early, so don't ignore the signs.|disease=질병; ignore=무시하다
+4|그 병은 조기에 발견하면 치료할 수 있으니 징후를 무시하지 마세요.|The disease can be treated if it's found early, so don't ignore the signs.|disease=질병; ignore=무시하다
 4|그녀는 스트레스에 잘 대처하는 편이에요.|She copes well with stress.|cope=대처하다
 @social
 2|당신이 이 파티의 주최자군요.|So you're the host of this party.|host=주최자
@@ -44,13 +44,13 @@
 3|오늘 우리 결혼기념일을 축하해요.|We're celebrating our wedding anniversary today.|celebrate=축하하다; anniversary=기념일
 3|그녀는 다른 사람을 탓하지 않아요.|She never blames other people.|blame=탓하다
 3|그는 키가 크고 마른 편이에요.|He's tall and rather thin.|thin=마른; rather=다소
-3|그건 그냥 사소한 일이에요.|It's just a minor affair.|affair=일·사건
+3|그건 순전히 개인적인 일이에요.|That's a purely private affair.|affair=일·사건
 3|그 사람들은 서로 경쟁하는 사이예요.|They compete with each other.|compete=경쟁하다
 3|그 둘은 공원에서 키스했어요.|The two of them kissed in the park.|kiss=키스하다
 3|그 아이는 자기 장난감을 친구와 나눠요.|The child shares his toys with his friends.|toy=장난감
 3|그녀는 외국어를 할 수 있는 능력이 뛰어나요.|She's capable of speaking several languages.|capable=능력 있는
 3|그 사람 주변에는 늘 사람이 모여요.|People always surround him.|surround=둘러싸다
-4|그는 젊은 세대를 위해 봉사하고 있어요.|He's working to help the youth in his community.|youth=청년층
+4|그는 젊은 세대를 위해 봉사하고 있어요.|He's dedicated to serving the youth.|youth=청년층
 4|그녀는 사람들 앞에서 말하는 걸 두려워하지 않아요.|She's not afraid of speaking in front of people.|afraid=두려워하는
 @work
 3|사장님이 회의 중이세요.|The boss is in a meeting.|boss=상사·사장
@@ -115,7 +115,7 @@
 3|그런 제안은 정말 도움이 돼요.|That kind of suggestion is really helpful.|suggestion=제안; helpful=도움이 되는
 3|그 사람 말은 반만 맞아요.|He's only half right.|half=절반
 3|그 어떤 것도 완벽하지는 않아요.|None of them is perfect.|none=아무것도 ~않다
-3|둘 다 마음에 안 들어요.|I don't like either of them, and neither does she.|neither=~도 아니다; either=둘 중 어느 하나
+3|둘 다 마음에 안 들어요. 그녀도 마찬가지예요.|I don't like either of them, and neither does she.|neither=~도 아니다; either=둘 중 어느 하나
 3|그 생각에는 동의하지 않아요. 게다가 비용도 문제예요.|I disagree with that. Besides, the cost is a problem.|besides=게다가
 4|정말로 그게 사실이라고 확신해요?|Are you seriously sure that's true?|seriously=진지하게
 4|그렇게 말하면 오해를 살 수 있어요.|Saying that could create the wrong impression.|impression=인상

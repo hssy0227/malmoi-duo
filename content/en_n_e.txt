@@ -18,7 +18,7 @@
 4|형이랑은 나이 들수록 더 친해졌어요.|My brother and I have gotten closer as we've gotten older.|
 4|명절마다 친척들이 결혼 언제 하냐고 물어봐요.|Every holiday, my relatives ask when I'm getting married.|relative=친척
 4|아이가 처음으로 혼자 학교에 갔어요.|My kid walked to school alone for the first time.|
-4|부모님께 용돈을 드리고 있어요.|I give my parents some money every month.|
+4|부모님께 매달 용돈을 드리고 있어요.|I give my parents some money every month.|
 4|가족 여행 계획을 짜는 게 제일 어려워요.|Planning a family trip is the hardest part.|
 @home
 3|이사 온 지 한 달 됐어요.|It's been a month since I moved in.|move in=이사 오다

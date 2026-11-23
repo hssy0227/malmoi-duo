@@ -82,7 +82,7 @@
 3|컴퓨터가 계속 꺼져요.|My computer keeps shutting down.|computer=컴퓨터
 4|그 단체는 비영리 조직이에요.|It's a non-profit organization.|organization=조직·단체
 4|여러 부서가 이 프로젝트에 참여하고 있어요.|Various departments are participating in this project.|various=다양한; participate=참여하다
-4|그는 업무상 출장이 잦은 편이에요.|He's likely to travel a lot for work.|likely=~할 것 같은
+4|그는 업무상 출장을 많이 가게 될 것 같아요.|He's likely to travel a lot for work.|likely=~할 것 같은
 4|이번 일로 그는 많은 걸 깨달았어요.|He realized a lot through this experience.|realize=깨닫다
 4|그 결정은 직원 전체에 영향을 줘요.|That decision affects every single employee.|single=단 하나의; affect=영향을 주다
 @social
@@ -129,7 +129,7 @@
 @trouble
 2|도와주실 수 있으면 정말 좋겠어요.|I'd really appreciate it if you could help.|appreciate=감사하다
 3|제가 어떻게 해야 할지 조언 좀 해 주실래요?|Could you suggest what I should do?|suggest=제안하다
-3|무엇 때문에 그런지 이유를 모르겠어요.|I don't know the purpose of this.|purpose=목적
+3|이게 무슨 목적인지 모르겠어요.|I don't know the purpose of this.|purpose=목적
 3|지갑이 비어 있어요.|My wallet is empty.|empty=빈
 3|벽에 금이 갔어요.|There's a crack in the wall.|wall=벽; crack=금
 3|바닥에 구멍이 났어요.|There's a hole in the floor.|hole=구멍; floor=바닥

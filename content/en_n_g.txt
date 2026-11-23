@@ -1,7 +1,7 @@
 # 일상 회화 확장 (직접 작성) — 자주 쓰는 관용 표현·구동사
 @daily
 3|일단 해 봐요.|Just give it a shot.|give it a shot=한번 해 보다
-3|쉽지 않네요.|It's easier said than done.|
+3|쉽지 않네요.|It's not as easy as it looks.|
 3|잘 모르겠어요. 좀 생각해 볼게요.|I'm not sure. Let me sleep on it.|sleep on it=하룻밤 생각해 보다
 3|급하게 결정하지 마세요.|Don't rush into anything.|rush into=서두르다
 3|그 사람 말 너무 신경 쓰지 마세요.|Don't take what he said to heart.|take to heart=마음에 담아 두다
@@ -39,13 +39,13 @@ w3|진정해요.|Calm down.|calm down=진정하다
 4|생각보다 괜찮았어요.|It wasn't as bad as I thought.|
 4|그건 별로 놀랍지 않아요.|That doesn't surprise me at all.|
 4|우리 같은 배를 탄 거예요.|We're in the same boat.|in the same boat=같은 처지인
-4|그건 제 소관이 아니에요.|That's out of my hands.|out of one's hands=내 소관 밖인
+4|그건 제 손을 떠난 일이에요.|That's out of my hands.|out of one's hands=내 소관 밖인
 4|그 계획은 물 건너갔어요.|That plan fell through.|fall through=무산되다
 4|그 얘기 듣고 마음이 놓였어요.|That took a load off my mind.|take a load off=마음을 놓게 하다
 4|지금은 때가 아니에요.|Now's not the time.|
 4|그 사람 정말 눈치가 빨라요.|She's really quick to pick up on things.|pick up on=눈치채다
 4|하나부터 열까지 다 챙겨 줬어요.|He took care of everything from start to finish.|
-4|일단 부딪혀 보는 수밖에 없어요.|We'll just have to cross that bridge when we come to it.|cross that bridge=그때 가서 해결하다
+4|그 문제는 닥쳤을 때 해결하면 돼요.|We'll just have to cross that bridge when we come to it.|cross that bridge=그때 가서 해결하다
 4|다 지난 일이에요.|That's all water under the bridge.|water under the bridge=지난 일
 4|이번엔 정말 아슬아슬했어요.|That was a close call.|close call=아슬아슬한 순간
 4|그 말 듣고 뜨끔했어요.|That hit close to home.|hit close to home=정곡을 찌르다
