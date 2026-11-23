@@ -1,0 +1,57 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 취미·운동·문화·영화·책
+@hobby
+3|주말마다 공을 던져요.|Cuối tuần nào tôi cũng tập ném bóng.|ném=던지다; bóng=공
+3|축구 경기 봤어요?|Anh xem trận bóng đá chưa?|trận=경기; bóng đá=축구
+3|베트남 팀이 이겼어요!|Đội Việt Nam thắng rồi!|thắng=이기다
+3|아쉽게 졌어요.|Tiếc quá, thua mất rồi.|tiếc=아쉽다; thua=지다
+3|요즘 달리기를 해요.|Dạo này tôi chạy bộ.|chạy bộ=달리기하다
+3|수영할 줄 알아요?|Anh biết bơi không?|bơi=수영하다
+3|헬스장에 다녀요.|Tôi đi tập gym.|
+3|요가를 배우고 있어요.|Tôi đang học yoga.|
+3|사진 찍는 걸 좋아해요.|Tôi thích chụp ảnh.|
+3|그림 그리는 게 취미예요.|Sở thích của tôi là vẽ tranh.|vẽ=그리다; tranh=그림
+3|기타를 칠 줄 알아요.|Tôi biết chơi guitar.|chơi=연주하다
+3|노래방 갈래요?|Đi hát karaoke không?|hát=노래하다
+3|요즘 무슨 책 읽어요?|Dạo này anh đọc sách gì?|đọc=읽다; sách=책
+3|그 영화 재미있어요?|Phim đó có hay không?|
+3|같이 영화 보러 가요.|Đi xem phim cùng nhau đi.|
+4|사회인 야구팀에서 투수를 맡고 있어요.|Tôi chơi ở vị trí ném bóng trong đội bóng chày nghiệp dư.|vị trí=포지션; nghiệp dư=아마추어
+4|구속을 올리려고 연습 중이에요.|Tôi đang tập để tăng tốc độ ném bóng.|
+4|경기 전에 스트레칭을 꼭 해요.|Trước trận tôi luôn khởi động kỹ.|khởi động=준비 운동하다
+4|어깨가 조금 아파서 쉬고 있어요.|Vai tôi hơi đau nên đang nghỉ.|vai=어깨
+4|하노이 사람들은 아침에 배드민턴을 많이 쳐요.|Người Hà Nội hay chơi cầu lông vào buổi sáng.|cầu lông=배드민턴
+4|요즘 피클볼이 인기예요.|Dạo này pickleball đang rất thịnh hành.|thịnh hành=유행하는
+4|등산 좋아하면 바비산에 가 보세요.|Nếu thích leo núi thì anh thử lên Ba Vì xem.|leo núi=등산하다
+4|자전거를 타고 서호를 한 바퀴 돌았어요.|Tôi đạp xe một vòng quanh Hồ Tây.|đạp xe=자전거 타다; vòng=바퀴
+4|와인 공부를 시작했어요.|Tôi bắt đầu tìm hiểu về rượu vang.|tìm hiểu=알아보다; rượu vang=와인
+4|이 와인은 향이 정말 좋네요.|Chai vang này thơm thật.|thơm=향기롭다
+4|커피를 직접 내려 마셔요.|Tôi tự pha cà phê.|pha=타다·내리다
+4|베트남 요리를 배우고 싶어요.|Tôi muốn học nấu món Việt.|
+4|주말에 낚시하러 가요.|Cuối tuần tôi đi câu cá.|câu cá=낚시하다
+4|게임을 너무 많이 해서 눈이 아파요.|Chơi game nhiều quá nên mắt tôi đau.|mắt=눈
+4|그 드라마 끝까지 다 봤어요.|Tôi đã xem hết bộ phim đó.|bộ=(시리즈 단위)
+4|이번 주말에 전시회 보러 갈래요?|Cuối tuần này đi xem triển lãm không?|triển lãm=전시회
+4|하노이 오페라 하우스에서 공연을 봤어요.|Tôi đã xem biểu diễn ở Nhà hát Lớn Hà Nội.|nhà hát=극장
+4|베트남 노래를 배워 보고 싶어요.|Tôi muốn học hát một bài tiếng Việt.|bài=곡
+4|이 작가 책을 다 읽었어요.|Tôi đã đọc hết sách của tác giả này.|tác giả=작가
+4|자막 없이 영화를 보는 게 목표예요.|Mục tiêu của tôi là xem phim không cần phụ đề.|phụ đề=자막
+4|팟캐스트로 듣기 연습을 해요.|Tôi luyện nghe bằng podcast.|luyện=연습하다
+4|한국 드라마를 베트남어 자막으로 봐요.|Tôi xem phim Hàn có phụ đề tiếng Việt.|
+4|요즘 꽃꽂이에 빠졌어요.|Dạo này tôi mê cắm hoa.|mê=빠지다; cắm hoa=꽃꽂이
+4|퇴근 후에 운동하면 스트레스가 풀려요.|Tập thể dục sau giờ làm giúp tôi giải tỏa căng thẳng.|
+4|우리 동호회에 들어오세요.|Anh tham gia câu lạc bộ của chúng tôi nhé.|câu lạc bộ=동호회
+5|취미는 잘하려고 하기보다 즐기려고 해야 오래 가요.|Sở thích chỉ bền lâu khi mình tận hưởng chứ không cố làm giỏi.|bền lâu=오래 가다; tận hưởng=즐기다
+5|운동을 하면서 몸뿐 아니라 마음도 단단해졌어요.|Tập luyện giúp không chỉ cơ thể mà cả tinh thần tôi vững vàng hơn.|vững vàng=단단한
+5|새로운 언어를 배우는 건 새로운 세상을 여는 일이에요.|Học một ngôn ngữ mới là mở ra một thế giới mới.|ngôn ngữ=언어; thế giới=세계
+5|영화를 보면 그 나라 사람들의 생각을 알 수 있어요.|Xem phim giúp ta hiểu cách nghĩ của người dân nước đó.|cách nghĩ=사고방식
+5|책은 다른 사람의 인생을 살아 보게 해 줘요.|Sách cho ta sống thử cuộc đời của người khác.|cuộc đời=인생
+@movie
+4|그 배우 연기가 정말 좋았어요.|Diễn xuất của diễn viên đó rất tuyệt.|diễn xuất=연기; diễn viên=배우; tuyệt=훌륭한
+4|결말이 너무 슬펐어요.|Kết phim buồn quá.|kết phim=결말
+4|반전이 대단했어요.|Cú twist bất ngờ quá.|
+4|이 영화는 실화를 바탕으로 했어요.|Bộ phim này dựa trên chuyện có thật.|chuyện có thật=실화
+4|평점이 높아서 봤는데 기대만큼은 아니었어요.|Điểm đánh giá cao nên tôi xem, nhưng không như kỳ vọng.|kỳ vọng=기대
+4|베트남 공포 영화가 요즘 인기예요.|Phim kinh dị Việt dạo này đang hot.|kinh dị=공포
+5|그 영화는 전쟁의 상처를 담담하게 그렸어요.|Bộ phim khắc họa nỗi đau chiến tranh một cách điềm tĩnh.|khắc họa=그려내다; nỗi đau=고통; chiến tranh=전쟁; điềm tĩnh=담담한
+5|좋은 영화는 끝난 뒤에도 오래 생각나게 해요.|Một bộ phim hay khiến ta còn nghĩ mãi sau khi xem xong.|nghĩ mãi=계속 생각하다
+5|배경 음악이 장면의 감정을 완벽하게 살렸어요.|Nhạc nền đã làm nổi bật hoàn hảo cảm xúc của cảnh phim.|nhạc nền=배경 음악; làm nổi bật=부각시키다; hoàn hảo=완벽한; cảnh=장면

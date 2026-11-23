@@ -1,0 +1,66 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 짧은 헤드라인 모음 (신문 제목체)
+@econ
+4|증시, 3주 연속 상승|Chứng khoán tăng ba tuần liên tiếp|liên tiếp=연속
+4|금값 급락, 투자자들 불안|Giá vàng lao dốc, nhà đầu tư lo lắng|lao dốc=급락하다; lo lắng=불안해하다
+4|달러 환율 사상 최고|Tỷ giá USD cao kỷ lục|
+4|휘발유 가격 연이어 인하|Giá xăng tiếp tục giảm|
+4|수출 회복세 뚜렷|Xuất khẩu phục hồi rõ rệt|
+4|FDI 유입 두 자릿수 증가|Vốn FDI tăng hai con số|hai con số=두 자릿수
+4|은행 예금 금리 인상 행렬|Ngân hàng đồng loạt tăng lãi suất huy động|đồng loạt=일제히; huy động=조달
+4|부동산 시장 반등 조짐|Thị trường bất động sản có dấu hiệu khởi sắc|dấu hiệu=조짐; khởi sắc=활기를 띠다
+4|쌀 수출 사상 최대 기록|Xuất khẩu gạo đạt kỷ lục|
+4|소비자 물가 상승세 둔화|Đà tăng giá tiêu dùng chậm lại|đà=추세
+4|중앙은행, 기준 금리 동결|Ngân hàng Nhà nước giữ nguyên lãi suất|
+4|정부, 성장률 목표 상향|Chính phủ nâng mục tiêu tăng trưởng|
+4|한국 기업, 베트남 투자 확대|Doanh nghiệp Hàn mở rộng đầu tư vào Việt Nam|
+4|외국인 순매도 계속|Khối ngoại tiếp tục bán ròng|khối ngoại=외국인 투자자
+4|커피 가격 급등에 농민들 웃음|Giá cà phê tăng vọt, nông dân phấn khởi|phấn khởi=기뻐하다
+4|과일 수출 중국 의존도 높아|Xuất khẩu trái cây phụ thuộc lớn vào Trung Quốc|trái cây=과일; Trung Quốc=중국
+4|관광객 수 코로나 이전 회복|Lượng khách du lịch trở lại mức trước dịch|
+4|항공권 가격 명절 앞두고 급등|Giá vé máy bay tăng mạnh trước Tết|vé máy bay=항공권
+4|중소기업 자금난 심화|Doanh nghiệp nhỏ thêm khó khăn về vốn|
+4|전자 상거래 매출 30% 증가|Doanh thu thương mại điện tử tăng 30%|
+@tech
+4|5G 가입자 천만 명 돌파|Thuê bao 5G vượt mốc 10 triệu|thuê bao=가입자; mốc=이정표
+4|AI 스타트업 투자 유치 활발|Startup AI gọi vốn sôi động|sôi động=활발한
+4|대규모 해킹 공격, 고객 정보 유출|Tấn công mạng quy mô lớn, rò rỉ dữ liệu khách hàng|rò rỉ=유출되다
+4|전기차 판매 역대 최고|Doanh số xe điện cao nhất từ trước đến nay|từ trước đến nay=역대
+4|반도체 공장 착공|Khởi công nhà máy bán dẫn|
+4|온라인 사기 주의보|Cảnh báo lừa đảo trực tuyến|cảnh báo=경보
+4|무인 매장 첫선|Cửa hàng không người bán ra mắt|không người bán=무인
+4|디지털 정부 순위 상승|Việt Nam tăng hạng chính phủ số|tăng hạng=순위 상승
+4|해저 케이블 복구 완료|Hoàn tất sửa chữa cáp quang biển|hoàn tất=완료하다; sửa chữa=수리
+4|IT 인력 10만 명 부족|Thiếu hụt 100.000 nhân lực IT|
+@society
+4|폭우로 하노이 곳곳 침수|Mưa lớn, nhiều tuyến phố Hà Nội ngập sâu|tuyến phố=거리; ngập sâu=깊이 잠기다
+4|태풍 북상, 주민 대피|Bão tiến vào đất liền, người dân sơ tán|đất liền=육지; sơ tán=대피하다
+4|설 연휴 교통사고 감소|Tai nạn giao thông dịp Tết giảm|
+4|하노이 대기질 최악 수준|Chất lượng không khí Hà Nội ở mức tồi tệ|tồi tệ=최악의
+4|고교 졸업 시험 오늘 시작|Kỳ thi tốt nghiệp THPT bắt đầu hôm nay|
+4|최저 임금 6% 인상|Lương tối thiểu tăng 6%|
+4|새 지하철 노선 개통|Khai trương tuyến metro mới|
+4|공무원 조직 대폭 축소|Tinh gọn mạnh bộ máy công chức|công chức=공무원
+4|청년 실업률 소폭 상승|Tỷ lệ thất nghiệp ở thanh niên tăng nhẹ|tăng nhẹ=소폭 상승
+4|출산율 역대 최저|Mức sinh thấp nhất từ trước đến nay|
+4|국회, 개정 토지법 통과|Quốc hội thông qua Luật Đất đai sửa đổi|đất đai=토지
+4|총리, 기업 애로 사항 해결 지시|Thủ tướng chỉ đạo tháo gỡ khó khăn cho doanh nghiệp|chỉ đạo=지시하다
+4|한-베 정상 회담 개최|Hội đàm cấp cao Việt Nam – Hàn Quốc|cấp cao=고위급
+4|한국인 관광객 1위 유지|Khách Hàn Quốc tiếp tục dẫn đầu|dẫn đầu=선두를 달리다
+4|무비자 체류 기간 확대|Mở rộng thời hạn miễn thị thực|
+@energy
+4|전력 소비 사상 최고치|Tiêu thụ điện đạt đỉnh|tiêu thụ=소비; đỉnh=정점
+4|전기 요금 4.8% 인상|Giá điện tăng 4,8%|
+4|북부 전력 부족 우려|Lo ngại thiếu điện miền Bắc|
+4|해상 풍력 첫 사업 승인|Phê duyệt dự án điện gió ngoài khơi đầu tiên|đầu tiên=첫 번째
+4|LNG 발전소 상업 운전 개시|Nhà máy điện LNG chính thức vận hành thương mại|vận hành thương mại=상업 운전
+4|옥상 태양광 설치 장려|Khuyến khích lắp điện mặt trời mái nhà|khuyến khích=장려하다; lắp=설치하다; mái nhà=지붕
+4|원전 사업 재추진 확정|Chốt tái khởi động dự án điện hạt nhân|
+4|유가 급등에 운송비 상승|Giá dầu tăng mạnh, cước vận tải leo thang|dầu=석유; cước=요금; leo thang=치솟다
+@shop
+4|블랙프라이데이 할인 열기|Sôi động mùa giảm giá Black Friday|
+4|온라인 쇼핑 플랫폼 점유율 경쟁|Cuộc đua thị phần giữa các sàn thương mại điện tử|thị phần=점유율
+4|편의점 1만 곳 돌파|Cửa hàng tiện lợi vượt mốc 10.000|
+4|가짜 상품 대량 적발|Thu giữ số lượng lớn hàng giả|thu giữ=압수하다
+4|배달 앱 수수료 논란|Tranh cãi về phí của ứng dụng giao đồ ăn|tranh cãi=논란
+4|명절 선물 세트 판매 급증|Giỏ quà Tết bán chạy|giỏ quà=선물 바구니; bán chạy=잘 팔리다
+4|라이브 커머스 매출 신기록|Doanh thu livestream bán hàng lập kỷ lục mới|
