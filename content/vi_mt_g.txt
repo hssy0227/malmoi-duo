@@ -1,0 +1,41 @@
+# 비즈니스 베트남어 (직접 작성, 북부 표준) — 팀 관리·피드백·면담·조직 문화
+@work
+4|요즘 업무는 어때요?|Dạo này công việc của em thế nào?|em=(손아랫사람) 너·자네
+4|힘든 점이 있으면 편하게 말해요.|Có gì khó khăn thì em cứ nói thoải mái nhé.|
+4|이번 프로젝트에서 정말 잘해 줬어요.|Em đã làm rất tốt trong dự án lần này.|
+4|특히 고객 응대가 훌륭했어요.|Đặc biệt là khâu chăm sóc khách hàng rất xuất sắc.|xuất sắc=훌륭한
+4|몇 가지 개선할 점이 있어요.|Có vài điểm em cần cải thiện.|
+4|보고는 결론부터 해 주세요.|Khi báo cáo, em hãy nói kết luận trước.|kết luận=결론
+4|마감 전에 중간 점검을 해 주면 좋겠어요.|Anh muốn em kiểm tra giữa chừng trước hạn chót.|giữa chừng=중간에
+4|모르는 건 바로 물어봐도 돼요.|Không biết thì cứ hỏi ngay.|
+4|올해 목표를 같이 정해 봐요.|Chúng ta cùng đặt mục tiêu cho năm nay nhé.|
+4|앞으로 어떤 일을 해 보고 싶어요?|Sau này em muốn làm những công việc gì?|sau này=앞으로
+4|교육 프로그램을 지원해 줄게요.|Anh sẽ hỗ trợ em tham gia chương trình đào tạo.|
+4|팀원들과의 소통은 어때요?|Việc giao tiếp với các thành viên trong nhóm thế nào?|giao tiếp=소통하다; thành viên=구성원
+4|회의 때 의견을 더 적극적으로 말해 주세요.|Trong cuộc họp, em hãy mạnh dạn phát biểu ý kiến hơn.|mạnh dạn=과감하게; phát biểu=발언하다
+4|이번 평가는 '우수'예요.|Kết quả đánh giá lần này của em là "xuất sắc".|
+4|연봉 인상률은 다음 주에 확정돼요.|Mức tăng lương sẽ được chốt vào tuần sau.|
+4|이 업무는 다른 사람에게 넘겨도 돼요.|Việc này em có thể bàn giao cho người khác.|bàn giao=인계하다
+4|업무 분장을 다시 하죠.|Chúng ta phân công lại công việc nhé.|
+4|이번 달 휴가 일정을 공유해 주세요.|Các bạn chia sẻ lịch nghỉ phép tháng này nhé.|
+4|팀 회식은 다음 주 목요일이에요.|Liên hoan nhóm vào thứ Năm tuần sau.|thứ Năm=목요일
+4|새 팀원을 환영해 주세요.|Mọi người cùng chào đón thành viên mới nhé.|chào đón=환영하다
+4|신입 사원 교육을 맡아 줄 수 있어요?|Em có thể phụ trách đào tạo nhân viên mới không?|
+4|이번 달 실적이 목표에 못 미쳤어요.|Kết quả tháng này chưa đạt chỉ tiêu.|
+4|원인을 같이 분석해 봐요.|Chúng ta cùng phân tích nguyên nhân.|
+4|다음 달에는 만회할 수 있을 거예요.|Tháng sau chắc chắn chúng ta sẽ gỡ lại được.|gỡ lại=만회하다
+4|퇴사 이유를 여쭤봐도 될까요?|Anh có thể hỏi lý do em nghỉ việc không?|lý do=이유
+4|붙잡고 싶지만 결정을 존중해요.|Anh muốn giữ em lại, nhưng anh tôn trọng quyết định của em.|giữ lại=붙잡다
+4|인수인계를 꼼꼼히 해 주세요.|Em bàn giao công việc thật cẩn thận nhé.|
+5|실수를 탓하기보다 다시 일어나지 않게 하는 게 중요해요.|Quan trọng không phải trách lỗi mà là làm sao để không lặp lại.|trách=탓하다
+5|좋은 피드백은 구체적이고 행동으로 옮길 수 있어야 해요.|Góp ý tốt phải cụ thể và có thể chuyển thành hành động.|chuyển thành=~로 옮기다
+5|베트남 직원들은 공개적인 지적보다 개인 면담을 선호해요.|Nhân viên Việt Nam thích được góp ý riêng hơn là bị nhắc nhở trước mọi người.|nhắc nhở=주의를 주다
+5|신뢰는 작은 약속을 지키는 데서 시작돼요.|Niềm tin bắt đầu từ việc giữ những lời hứa nhỏ.|lời hứa=약속
+5|리더의 역할은 답을 주는 것이 아니라 방향을 제시하는 거예요.|Vai trò của lãnh đạo không phải đưa ra đáp án mà là chỉ ra hướng đi.|
+5|권한을 위임해야 팀이 성장합니다.|Phải biết giao quyền thì đội ngũ mới trưởng thành.|giao quyền=권한을 위임하다; đội ngũ=팀; trưởng thành=성장하다
+5|성과가 좋은 팀은 서로 질문하는 것을 두려워하지 않아요.|Những đội làm việc hiệu quả không ngại đặt câu hỏi cho nhau.|ngại=꺼리다
+5|다양한 의견이 부딪혀야 더 좋은 결정이 나와요.|Có sự va chạm giữa nhiều ý kiến thì mới ra quyết định tốt hơn.|va chạm=부딪힘
+5|직원의 성장이 곧 회사의 성장입니다.|Sự phát triển của nhân viên chính là sự phát triển của công ty.|chính là=바로 ~이다
+5|문화 차이를 이해하면 오해의 절반은 줄어요.|Hiểu được khác biệt văn hóa thì một nửa hiểu lầm sẽ biến mất.|biến mất=사라지다
+5|칭찬은 구체적일수록 힘이 있어요.|Lời khen càng cụ thể thì càng có sức nặng.|sức nặng=무게
+5|번아웃이 오기 전에 쉬는 것도 실력이에요.|Biết nghỉ ngơi trước khi kiệt sức cũng là một năng lực.|

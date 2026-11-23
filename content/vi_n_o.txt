@@ -1,0 +1,38 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 여행·출장 중 문제 해결·긴급 상황
+@travel
+4|다음 비행기로 바꿀 수 있어요?|Có thể đổi sang chuyến bay tiếp theo không?|
+4|수하물 무게가 초과됐어요.|Hành lý của tôi bị quá cân.|quá cân=무게 초과
+4|추가 요금이 얼마예요?|Phụ phí là bao nhiêu?|phụ phí=추가 요금
+4|창가 자리로 주세요.|Cho tôi ghế cạnh cửa sổ.|ghế=좌석; cửa sổ=창문
+4|통로 쪽 자리가 좋아요.|Tôi thích ghế cạnh lối đi.|lối đi=통로
+4|환승 시간이 충분할까요?|Thời gian nối chuyến có đủ không?|nối chuyến=환승
+4|가방이 파손됐어요.|Vali của tôi bị hỏng.|vali=여행 가방
+4|분실물 센터가 어디예요?|Quầy hành lý thất lạc ở đâu?|quầy=카운터; thất lạc=분실된
+4|지갑을 택시에 두고 내렸어요.|Tôi để quên ví trên taxi.|để quên=두고 오다; ví=지갑
+4|그랩 기사님 연락처를 알 수 있을까요?|Có cách nào liên lạc với tài xế Grab không?|tài xế=기사
+4|경찰에 신고하고 싶어요.|Tôi muốn trình báo công an.|trình báo=신고하다
+4|도난 확인서가 필요해요.|Tôi cần giấy xác nhận bị mất trộm.|giấy xác nhận=확인서; mất trộm=도난당하다
+4|카드를 정지해야 해요.|Tôi phải khóa thẻ ngay.|
+4|호텔 방에 열쇠를 두고 나왔어요.|Tôi để quên thẻ phòng trong phòng.|thẻ phòng=객실 카드
+4|옆방이 너무 시끄러워요.|Phòng bên cạnh ồn quá.|bên cạnh=옆
+4|체크아웃을 늦게 할 수 있어요?|Tôi có thể trả phòng muộn không?|
+4|예약이 확인되지 않는다고요?|Không tìm thấy đặt phòng của tôi sao?|sao=~라고요?
+4|예약 확인 메일 여기 있어요.|Đây là email xác nhận đặt phòng.|
+4|요금이 예약할 때와 달라요.|Giá khác với lúc tôi đặt.|lúc=때
+4|비가 너무 많이 와서 투어가 취소됐어요.|Mưa to quá nên tour bị hủy.|
+4|태풍 때문에 비행기가 결항됐어요.|Vì bão nên chuyến bay bị hủy.|
+4|근처에 병원이 있나요?|Gần đây có bệnh viện không?|
+4|친구가 갑자기 쓰러졌어요.|Bạn tôi bỗng nhiên ngất xỉu.|bỗng nhiên=갑자기; ngất xỉu=쓰러지다
+4|불이야!|Cháy!|cháy=불나다
+4|조심하세요, 소매치기가 있어요.|Cẩn thận, có kẻ móc túi.|kẻ móc túi=소매치기
+4|가방을 앞으로 메세요.|Anh đeo ba lô ra phía trước đi.|ba lô=배낭; phía trước=앞쪽
+4|가격을 미리 정하고 타세요.|Thỏa thuận giá trước rồi hãy lên xe.|thỏa thuận=합의하다
+4|바가지를 쓴 것 같아요.|Hình như tôi bị chặt chém.|bị chặt chém=바가지 쓰다
+4|영수증을 주세요, 회사에 제출해야 해요.|Cho tôi hóa đơn, tôi phải nộp cho công ty.|
+4|출장 중에 감기에 걸렸어요.|Tôi bị cảm trong chuyến công tác.|
+4|현지 유심을 사면 데이터가 훨씬 싸요.|Mua sim địa phương thì data rẻ hơn nhiều.|
+5|문제가 생겼을 때 침착하게 대처하는 게 가장 중요해요.|Khi có sự cố, quan trọng nhất là bình tĩnh xử lý.|bình tĩnh=침착하다
+5|여권 사본과 비상 연락처는 항상 따로 보관하세요.|Luôn để riêng bản sao hộ chiếu và số liên lạc khẩn cấp.|
+5|출장 일정은 여유 있게 잡는 게 좋아요.|Nên sắp xếp lịch công tác có thời gian dự phòng.|sắp xếp=짜다; dự phòng=예비
+5|현지 사정을 잘 아는 사람에게 미리 물어보면 실수가 줄어요.|Hỏi trước người am hiểu tình hình địa phương sẽ giảm được sai sót.|am hiểu=잘 아는
+5|여행 중 생긴 문제도 지나고 나면 좋은 이야깃거리가 돼요.|Rắc rối trong chuyến đi, qua rồi lại thành chuyện để kể.|rắc rối=골칫거리; kể=이야기하다
