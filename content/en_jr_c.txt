@@ -1,0 +1,98 @@
+# 저널·뉴스형 (직접 작성) — 사회·정치·외교
+@society
+4|강대국 경쟁이 심해지면서 중견국의 협상력이 커지고 있다.|Middle powers are gaining leverage as great-power rivalry intensifies.|leverage=협상력; rivalry=경쟁
+4|정상회담에서 양국은 경제 협력 확대에 합의했다.|At the summit, the two countries agreed to expand economic cooperation.|summit=정상회담; cooperation=협력
+4|휴전 협상이 다시 교착 상태에 빠졌다.|Ceasefire talks have stalled again.|ceasefire=휴전; stall=교착되다
+4|외교 장관들이 긴장 완화를 위해 만났다.|Foreign ministers met to ease tensions.|foreign minister=외교 장관; tension=긴장
+4|정부가 새 이민 정책을 발표했다.|The government announced a new immigration policy.|immigration=이민
+4|저출생 문제가 국가적 위기로 떠올랐다.|The low birth rate has become a national crisis.|birth rate=출생률; crisis=위기
+4|청년층의 주거비 부담이 사회 문제가 되고 있다.|Housing costs for young people have become a social issue.|housing cost=주거비
+4|투표율이 예상보다 높게 나왔다.|Voter turnout was higher than expected.|turnout=투표율
+4|여론 조사에서 두 후보가 접전을 벌이고 있다.|Polls show the two candidates neck and neck.|poll=여론 조사; neck and neck=막상막하인
+4|의회가 예산안 처리를 두고 대립하고 있다.|Lawmakers are at odds over the budget bill.|lawmaker=의원; at odds=대립하는
+4|시위대가 정부 청사 앞에 모였다.|Protesters gathered outside government buildings.|protester=시위대
+4|국제 사회가 인도적 지원을 촉구했다.|The international community called for humanitarian aid.|humanitarian=인도적인; call for=촉구하다
+4|두 나라가 비자 면제 협정에 서명했다.|The two countries signed a visa-waiver agreement.|visa waiver=비자 면제
+4|정부가 기후 대응 예산을 크게 늘렸다.|The government significantly increased its climate budget.|climate=기후
+4|고령 인구가 처음으로 청소년 인구를 넘어섰다.|For the first time, the elderly outnumber young people.|outnumber=수가 더 많다; elderly=노인
+4|지방 소멸 위기가 현실이 되고 있다.|The decline of rural regions is becoming a reality.|decline=쇠퇴
+4|교육 격차가 소득 격차로 이어지고 있다.|Educational gaps are turning into income gaps.|gap=격차
+4|가짜 뉴스 대응을 위한 법안이 발의됐다.|A bill to fight fake news has been proposed.|bill=법안; propose=발의하다
+4|양국 관계가 해빙 무드를 맞고 있다.|Relations between the two countries are thawing.|thaw=풀리다(해빙)
+4|대사가 본국으로 소환됐다.|The ambassador was recalled home.|ambassador=대사; recall=소환하다
+4|정부가 외국인 근로자 쿼터를 확대한다.|The government will raise its quota for foreign workers.|quota=할당량
+4|국제기구가 세계 성장률 전망을 낮췄다.|An international organization lowered its global growth forecast.|forecast=전망
+4|난민 수용을 둘러싼 논쟁이 다시 불붙었다.|The debate over accepting refugees has flared up again.|refugee=난민; flare up=불붙다
+4|공공 의료 시스템이 인력 부족에 시달리고 있다.|The public health system is struggling with staff shortages.|public health=공공 의료
+4|선거를 앞두고 공약 경쟁이 치열하다.|Campaign promises are flying ahead of the election.|campaign promise=선거 공약
+4|대통령이 국정 운영 방향을 발표했다.|The president outlined his policy priorities.|outline=개요를 밝히다
+4|양국은 공동 성명을 통해 협력 의지를 밝혔다.|The two sides expressed their commitment to cooperation in a joint statement.|joint statement=공동 성명; commitment=의지
+4|정부가 재난 대응 체계를 점검하고 있다.|The government is reviewing its disaster response system.|disaster response=재난 대응
+4|청년 실업률이 다시 오르고 있다.|Youth unemployment is rising again.|youth unemployment=청년 실업
+4|외국인 관광객이 코로나 이전 수준을 회복했다.|Foreign tourist numbers have returned to pre-pandemic levels.|pre-pandemic=팬데믹 이전의
+5|무역은 이제 외교의 가장 강력한 무기가 되었다.|Trade has become the most powerful weapon in diplomacy.|diplomacy=외교; weapon=무기
+5|동맹은 공유된 가치만큼 공유된 이익으로 유지된다.|Alliances are held together as much by shared interests as by shared values.|alliance=동맹; interest=이익
+5|세계는 다극화 질서로 이동하고 있다.|The world is moving toward a multipolar order.|multipolar=다극화된; order=질서
+5|외교에서 침묵도 하나의 메시지다.|In diplomacy, silence is also a message.|
+5|양극화는 민주주의에 대한 신뢰를 갉아먹는다.|Polarization erodes trust in democracy.|polarization=양극화; erode=갉아먹다
+5|여론은 정책보다 감정에 더 빨리 반응한다.|Public opinion reacts faster to emotion than to policy.|public opinion=여론
+5|공급망 재편은 경제 문제이자 지정학 문제다.|Supply chain realignment is both an economic and a geopolitical issue.|realignment=재편; geopolitical=지정학적인
+5|제재의 효과는 생각보다 느리고 불확실하다.|Sanctions work more slowly and less certainly than expected.|sanction=제재
+5|기후 변화는 국경을 가리지 않는 안보 위협이다.|Climate change is a security threat that knows no borders.|know no borders=국경을 가리지 않다
+5|인구 구조의 변화가 정치 지형을 바꾸고 있다.|Demographic change is reshaping the political landscape.|demographic=인구의; landscape=지형
+5|불평등이 커질수록 사회적 신뢰는 약해진다.|As inequality grows, social trust weakens.|inequality=불평등
+5|정치적 불확실성이 외국인 투자를 위축시키고 있다.|Political uncertainty is discouraging foreign investment.|discourage=위축시키다
+5|다자주의가 약해지면서 양자 협정이 늘고 있다.|As multilateralism weakens, bilateral deals are on the rise.|multilateralism=다자주의; bilateral=양자의
+5|기술 패권 경쟁이 새로운 냉전으로 불리고 있다.|The race for tech supremacy is being called a new Cold War.|supremacy=패권
+5|이민은 노동력 부족의 해법이자 정치적 뇌관이다.|Immigration is both a solution to labor shortages and a political flashpoint.|flashpoint=뇌관·발화점
+5|복지 확대에는 결국 증세 논의가 따른다.|Expanding welfare eventually leads to a debate on raising taxes.|welfare=복지
+5|소셜미디어는 여론을 모으기도 하고 쪼개기도 한다.|Social media both unites and divides public opinion.|unite=모으다; divide=쪼개다
+5|외교적 해법이 군사적 긴장보다 비용이 덜 든다.|Diplomatic solutions cost less than military tension.|diplomatic=외교적인; military=군사적인
+5|국제 질서의 규칙이 다시 쓰이고 있다.|The rules of the international order are being rewritten.|
+5|국가 간 신뢰는 쌓기는 어렵고 무너지기는 쉽다.|Trust between nations is hard to build and easy to lose.|
+5|에너지 의존도는 외교적 선택의 폭을 좁힌다.|Energy dependence narrows a country's diplomatic options.|dependence=의존; narrow=좁히다
+5|정부 정책의 일관성이 기업 투자의 전제 조건이다.|Policy consistency is a prerequisite for business investment.|consistency=일관성; prerequisite=전제 조건
+5|사회적 합의 없는 개혁은 지속되기 어렵다.|Reforms without social consensus rarely last.|consensus=합의
+5|도시와 농촌의 격차가 정치적 분열로 이어지고 있다.|The urban-rural divide is fueling political division.|urban-rural=도시와 농촌의; fuel=부추기다
+5|지정학적 위험이 기업 경영의 상수가 되었다.|Geopolitical risk has become a constant in running a business.|constant=상수
+5|정치인의 말보다 예산이 진짜 우선순위를 보여 준다.|Budgets reveal true priorities better than politicians' words.|
+5|국제 협력 없이는 팬데믹도 기후 위기도 해결할 수 없다.|Neither pandemics nor the climate crisis can be solved without international cooperation.|neither A nor B=A도 B도 아닌
+5|외교는 가능한 것의 예술이다.|Diplomacy is the art of the possible.|art=기술·예술
+5|경제 안보라는 개념이 정책의 중심으로 들어왔다.|The concept of economic security has moved to the center of policy.|economic security=경제 안보
+5|중립을 지키는 것도 비용이 드는 선택이다.|Staying neutral is also a costly choice.|neutral=중립의
+5|인구 감소는 국방부터 연금까지 모든 것을 바꾼다.|Population decline changes everything from defense to pensions.|defense=국방; pension=연금
+5|가짜 뉴스는 진실보다 빨리 퍼진다.|Fake news spreads faster than the truth.|spread=퍼지다
+5|민주주의의 건강은 투표율보다 토론의 질에서 드러난다.|The health of a democracy shows in the quality of its debate, not just turnout.|
+5|정상회담의 진짜 성과는 공동 성명 밖에 있을 때가 많다.|The real results of a summit often lie outside the joint statement.|lie=있다·놓여 있다
+5|국제 사회의 관심은 빠르게 다른 위기로 옮겨 간다.|The world's attention quickly shifts to the next crisis.|attention=관심
+5|국경 통제가 강화되면서 여행과 교역이 위축되고 있다.|Tighter border controls are dampening travel and trade.|dampen=위축시키다
+5|지역 갈등이 세계 경제에 파급 효과를 미치고 있다.|Regional conflicts are sending ripples through the global economy.|ripple=파급 효과; conflict=갈등
+5|정부의 신뢰도는 위기 대응 방식에서 결정된다.|A government's credibility is determined by how it handles crises.|credibility=신뢰도
+5|선거 결과보다 선거 이후의 통합이 더 어렵다.|Uniting the country after an election is harder than winning it.|unite=통합하다
+5|복지 국가의 지속 가능성이 시험대에 올랐다.|The sustainability of the welfare state is being put to the test.|put to the test=시험대에 올리다
+5|세대 간 갈등이 연금 개혁 논의를 어렵게 만든다.|Generational conflict makes pension reform harder to discuss.|generational=세대 간의
+5|소프트 파워는 하루아침에 만들어지지 않는다.|Soft power isn't built overnight.|soft power=문화적 영향력; overnight=하루아침에
+5|국가 브랜드는 문화 콘텐츠로 강해진다.|A nation's brand grows stronger through its cultural exports.|cultural export=문화 수출
+5|한류는 외교관보다 더 많은 친구를 만들었다.|The Korean Wave has made more friends than any diplomat.|Korean Wave=한류; diplomat=외교관
+5|위기 때일수록 정확한 정보 전달이 중요하다.|Accurate communication matters most in a crisis.|accurate=정확한
+5|외국인 주민이 늘면서 다문화 정책이 중요해지고 있다.|As foreign residents increase, multicultural policy is becoming more important.|resident=주민; multicultural=다문화의
+5|기후 난민은 이미 현실이 되었다.|Climate refugees are already a reality.|
+5|정치적 양극화가 정책 결정을 마비시키고 있다.|Political polarization is paralyzing policymaking.|policymaking=정책 결정
+5|국제 무역 분쟁이 법정으로 가는 일이 늘고 있다.|More trade disputes are ending up in court.|trade dispute=무역 분쟁; end up=결국 ~하게 되다
+5|평화는 협정문보다 그 이행에서 결정된다.|Peace depends less on the agreement itself than on its implementation.|implementation=이행
+5|사회 안전망은 경기 침체 때 그 가치를 증명한다.|A social safety net proves its worth during a downturn.|safety net=안전망; downturn=침체
+5|독자적인 외교 노선을 걷기란 쉽지 않다.|Charting an independent foreign policy is not easy.|chart=계획하다·그리다
+5|도시 집중은 지방의 활력을 빼앗는다.|Urban concentration drains vitality from the regions.|drain=빼앗다; vitality=활력
+5|청년 세대의 정치 참여가 늘고 있다.|Young people are becoming more politically engaged.|engaged=참여하는
+5|외교 관계 수립 이후 두 나라의 교역이 크게 늘었다.|Trade between the two countries has grown sharply since diplomatic ties were established.|diplomatic ties=외교 관계
+5|국제 사회는 말이 아닌 행동을 요구하고 있다.|The international community is demanding action, not words.|
+5|지방 분권은 행정 효율과 민주주의를 함께 높일 수 있다.|Decentralization can improve both administrative efficiency and democracy.|decentralization=지방 분권; administrative=행정의
+5|정부 데이터 공개가 시민 참여를 넓히고 있다.|Open government data is broadening civic participation.|civic=시민의; broaden=넓히다
+5|기술은 민주주의를 강화할 수도, 약화할 수도 있다.|Technology can either strengthen or weaken democracy.|either A or B=A나 B
+5|해외 원조의 효과에 대한 회의론이 커지고 있다.|Skepticism about the effectiveness of foreign aid is growing.|skepticism=회의론; foreign aid=해외 원조
+5|국방비 증액이 여러 나라에서 논의되고 있다.|Many countries are debating higher defense spending.|defense spending=국방비
+5|도시 재생이 주거 문제의 해법으로 떠오르고 있다.|Urban regeneration is emerging as a solution to housing problems.|regeneration=재생
+5|세계화의 시대가 끝난 것이 아니라 모양이 바뀌고 있다.|Globalization isn't over; it's changing shape.|globalization=세계화
+5|교육 개혁은 다음 세대를 위한 가장 긴 투자다.|Education reform is the longest-term investment in the next generation.|
+5|시민 사회의 역할이 위기 때 더욱 커진다.|The role of civil society grows in times of crisis.|civil society=시민 사회
+5|재난은 사회의 가장 약한 고리를 드러낸다.|Disasters expose a society's weakest links.|expose=드러내다

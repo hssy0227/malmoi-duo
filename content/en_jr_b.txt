@@ -1,0 +1,79 @@
+# 저널·뉴스형 (직접 작성) — IT·기술·AI
+@tech
+4|AI 에이전트가 사무실 업무를 바꾸기 시작했다|AI Agents Are Starting to Reshape Office Work|reshape=재편하다
+4|생성형 AI 도입은 늘었지만 성과를 내는 기업은 소수다.|Adoption of generative AI is rising, but few companies are seeing real returns.|adoption=도입; return=성과·수익
+4|반도체 수출 통제가 공급망을 다시 그리고 있다.|Chip export controls are redrawing supply chains.|export control=수출 통제; redraw=다시 그리다
+4|빅테크가 AI 인프라에 수천억 달러를 쏟아붓고 있다.|Big Tech is pouring hundreds of billions into AI infrastructure.|pour into=쏟아붓다
+4|딥페이크가 선거의 새로운 위협으로 떠올랐다.|Deepfakes have emerged as a new threat to elections.|deepfake=딥페이크; threat=위협
+4|랜섬웨어 공격으로 병원 시스템이 마비됐다.|A ransomware attack paralyzed a hospital's systems.|ransomware=랜섬웨어; paralyze=마비시키다
+4|오픈소스 AI 모델이 빠르게 격차를 좁히고 있다.|Open-source AI models are rapidly closing the gap.|close the gap=격차를 좁히다
+4|스마트폰 시장은 AI 기능으로 반전을 노린다.|The smartphone market is betting on AI features for a turnaround.|turnaround=반전·회복; bet on=~에 걸다
+4|자율주행 택시가 더 많은 도시로 확대되고 있다.|Robotaxis are expanding to more cities.|robotaxi=자율주행 택시
+4|클라우드 비용이 예상보다 빠르게 늘고 있다.|Cloud costs are growing faster than expected.|cloud=클라우드
+4|AI가 신입 개발자의 일자리를 줄이고 있다는 우려가 나온다.|There are concerns that AI is shrinking jobs for entry-level developers.|entry-level=신입의
+4|기업들이 AI 사용 지침을 서둘러 만들고 있다.|Companies are rushing to write AI usage policies.|usage policy=사용 지침
+4|개인정보 유출 사고가 또다시 발생했다.|Yet another data breach has been reported.|data breach=정보 유출; yet another=또 하나의
+4|위성 인터넷이 외딴 지역의 연결을 바꾸고 있다.|Satellite internet is changing connectivity in remote areas.|satellite=위성; connectivity=연결성
+4|전기차 가격 경쟁이 업계 전체로 번지고 있다.|An EV price war is spreading across the industry.|price war=가격 경쟁; EV=전기차
+4|AI 검색이 웹사이트 트래픽을 빼앗고 있다.|AI search is siphoning traffic away from websites.|siphon away=빼앗아 가다; traffic=방문자 수
+4|사이버 보안 인력 부족이 심각하다.|The shortage of cybersecurity talent is severe.|cybersecurity=사이버 보안; severe=심각한
+4|휴머노이드 로봇이 공장에 시험 투입되고 있다.|Humanoid robots are being piloted on factory floors.|pilot=시험 운영하다; factory floor=생산 현장
+4|양자 컴퓨팅이 실험실을 벗어나기 시작했다.|Quantum computing is starting to move out of the lab.|quantum computing=양자 컴퓨팅
+4|AI 모델 학습에 쓸 데이터가 부족해지고 있다.|Data for training AI models is running short.|run short=부족해지다
+4|각국이 자국 AI 역량 확보에 나섰다.|Countries are racing to build their own AI capabilities.|capability=역량; race to=앞다퉈 ~하다
+4|AI가 만든 콘텐츠에 표시를 의무화하는 법이 늘고 있다.|More laws require labels on AI-generated content.|label=표시; AI-generated=AI가 만든
+4|앱스토어 수수료를 둘러싼 규제 압박이 커지고 있다.|Regulatory pressure over app store fees is mounting.|mount=커지다; fee=수수료
+4|구독 피로감에 소비자들이 서비스를 해지하고 있다.|Subscription fatigue is driving consumers to cancel services.|subscription fatigue=구독 피로감
+4|기업들이 레거시 시스템 교체를 더 미룰 수 없게 됐다.|Companies can no longer put off replacing legacy systems.|put off=미루다; legacy system=노후 시스템
+4|칩 설계 경쟁이 새로운 국면에 접어들었다.|The race in chip design has entered a new phase.|phase=국면
+4|AI 비서가 회의록 작성과 일정 관리를 대신해 준다.|AI assistants now take meeting notes and manage calendars.|assistant=비서; take notes=기록하다
+4|중소기업도 AI를 쓰기 쉬워졌다.|AI has become much easier for small businesses to use.|small business=중소기업
+4|사이버 공격이 국가 간 갈등의 도구가 되고 있다.|Cyberattacks are becoming a tool in conflicts between countries.|cyberattack=사이버 공격
+4|AI 반도체 공급 부족이 완화되고 있다.|The shortage of AI chips is easing.|ease=완화되다
+5|AI 투자 열풍이 거품인지를 두고 논쟁이 뜨겁다.|A heated debate is under way over whether the AI investment boom is a bubble.|heated=뜨거운; boom=호황
+5|AI의 생산성 효과는 아직 통계에 잡히지 않고 있다.|AI's productivity gains have yet to show up in the statistics.|show up=나타나다; have yet to=아직 ~않다
+5|가장 큰 위험은 AI를 쓰지 않는 것일 수도 있다.|The biggest risk may be not using AI at all.|
+5|데이터가 정리되지 않은 기업에서 AI는 마법이 아니다.|For companies with messy data, AI is no magic wand.|messy=정리되지 않은; magic wand=요술 지팡이
+5|기술의 속도를 규제가 따라가지 못하고 있다.|Regulation is struggling to keep pace with technology.|keep pace with=속도를 맞추다
+5|AI 규제는 혁신과 안전 사이의 줄타기다.|Regulating AI is a balancing act between innovation and safety.|balancing act=줄타기
+5|플랫폼 기업의 영향력이 국가 권력에 버금간다.|The influence of platform companies now rivals that of states.|rival=~에 맞먹다; influence=영향력
+5|사이버 보안은 IT 부서만의 일이 아니라 경영 과제다.|Cybersecurity is not just an IT issue; it's a board-level issue.|board-level=경영진 차원의
+5|AI가 쓴 글이 넘쳐나면서 신뢰의 가치가 커지고 있다.|As AI-written content floods the internet, trust is becoming more valuable.|flood=넘쳐나다
+5|반도체는 이제 경제 문제이자 안보 문제다.|Semiconductors are now as much a security issue as an economic one.|semiconductor=반도체; security=안보
+5|AI 경쟁의 승자는 모델보다 유통망을 가진 기업일 수 있다.|The winners of the AI race may be those who own distribution, not models.|distribution=유통·배포망
+5|자동화가 일자리를 없애기보다 일의 내용을 바꾸고 있다.|Automation is changing what jobs involve more than eliminating them.|involve=포함하다; eliminate=없애다
+5|AI 도입의 가장 큰 장벽은 기술이 아니라 조직 문화다.|The biggest barrier to AI adoption is organizational culture, not technology.|barrier=장벽
+5|개인정보 보호와 맞춤형 서비스 사이의 균형은 여전히 어렵다.|Balancing privacy with personalization remains difficult.|personalization=맞춤화; privacy=사생활
+5|모든 기업이 이제 어느 정도는 소프트웨어 기업이다.|Every company is now, to some extent, a software company.|to some extent=어느 정도
+5|AI가 틀릴 때 누가 책임지는지 아직 분명하지 않다.|It is still unclear who is accountable when AI gets it wrong.|accountable=책임이 있는
+5|기술 부채는 보이지 않는 곳에서 이자를 불린다.|Technical debt quietly accrues interest out of sight.|accrue=누적되다; out of sight=보이지 않는 곳에서
+5|에지 컴퓨팅이 지연 시간 문제를 해결하고 있다.|Edge computing is tackling the problem of latency.|edge computing=엣지 컴퓨팅; latency=지연 시간
+5|AI의 환각 문제는 줄었지만 사라지지는 않았다.|AI hallucinations have become less common, but they haven't disappeared.|hallucination=환각(잘못된 생성)
+5|칩 공급망은 몇몇 국가와 기업에 지나치게 집중돼 있다.|The chip supply chain is overly concentrated in a few countries and firms.|overly=지나치게
+5|데이터센터 유치를 두고 지역 간 경쟁이 치열하다.|Regions are competing fiercely to attract data centers.|attract=유치하다
+5|소프트웨어 개발자의 역할이 작성자에서 검토자로 바뀌고 있다.|Developers are shifting from writing code to reviewing it.|shift=바뀌다
+5|사이버 범죄 조직이 기업처럼 운영되고 있다.|Cybercrime groups are operating like businesses.|cybercrime=사이버 범죄
+5|빅테크 반독점 소송의 결과가 업계 판도를 바꿀 수 있다.|The outcome of Big Tech antitrust cases could reshape the industry.|antitrust=반독점
+5|기술 낙관론과 비관론 모두 과장되기 쉽다.|Both tech optimism and pessimism are easily overstated.|overstate=과장하다
+5|AI 교육은 이제 선택이 아니라 기본 소양이다.|AI literacy is no longer optional; it's a basic skill.|literacy=소양·활용 능력
+5|기기 하나로 모든 것을 하는 시대가 저물고 있다.|The era of one device doing everything is fading.|fade=저물다
+5|가장 위험한 보안 허점은 여전히 사람이다.|The weakest link in security is still people.|weakest link=가장 약한 고리
+5|AI 칩 수요가 둔화되면 반도체 경기가 다시 꺾일 수 있다.|If demand for AI chips slows, the chip cycle could turn down again.|chip cycle=반도체 경기
+5|데이터는 새로운 석유라기보다 새로운 토양에 가깝다.|Data is less like the new oil and more like new soil.|soil=토양
+5|AI 시대의 경쟁력은 좋은 질문을 던지는 능력이다.|In the AI era, the edge belongs to those who ask good questions.|edge=우위
+5|오픈소스는 혁신을 앞당기지만 보안 위험도 키운다.|Open source speeds up innovation but also increases security risks.|speed up=앞당기다
+5|클라우드에서 다시 자체 서버로 돌아가는 기업도 늘고 있다.|A growing number of firms are moving workloads back from the cloud.|workload=작업 부하
+5|기술 기업들의 대규모 감원은 효율을 앞세운 구조 조정이다.|Big layoffs at tech firms reflect a restructuring focused on efficiency.|restructuring=구조 조정
+5|AI는 일자리보다 업무 단위로 자동화한다.|AI automates tasks rather than entire jobs.|task=업무
+5|디지털 전환의 성공은 데이터 품질에서 시작된다.|Successful digital transformation starts with data quality.|digital transformation=디지털 전환
+5|규제가 엄격한 산업일수록 AI 도입 속도가 느리다.|The more regulated the industry, the slower the AI adoption.|regulated=규제를 받는
+5|스타트업 투자가 AI 분야로 쏠리고 있다.|Startup funding is concentrating in AI.|funding=투자금
+5|AI 경쟁이 전력·냉각·토지 경쟁으로 번지고 있다.|The AI race is turning into a race for power, cooling, and land.|cooling=냉각
+5|위성 산업은 이제 국가가 아닌 민간이 주도한다.|The satellite industry is now led by private companies, not governments.|private=민간의
+5|기술 표준을 선점하는 쪽이 시장을 지배한다.|Whoever sets the technical standards dominates the market.|dominate=지배하다; standard=표준
+5|AI가 만든 가짜 리뷰가 온라인 쇼핑의 신뢰를 흔들고 있다.|Fake reviews generated by AI are undermining trust in online shopping.|undermine=약화시키다
+5|AI 에이전트가 사람 대신 물건을 사는 날이 오고 있다.|The day when AI agents shop on our behalf is coming.|on one's behalf=대신하여
+5|개인 맞춤형 교육이 AI로 현실이 되고 있다.|Personalized education is becoming a reality thanks to AI.|personalized=맞춤형의
+5|원격 진료가 다시 성장세로 돌아섰다.|Telemedicine is growing again.|telemedicine=원격 진료
+5|컴퓨터 비전 기술이 물류 창고를 자동화하고 있다.|Computer vision is automating warehouses.|warehouse=물류 창고
+5|가장 성공적인 AI 활용은 눈에 띄지 않는 곳에 있다.|The most successful uses of AI are often invisible.|invisible=눈에 띄지 않는

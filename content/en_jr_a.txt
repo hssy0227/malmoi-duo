@@ -1,0 +1,99 @@
+# 저널·뉴스형 (직접 작성) — 경제·시장
+@econ
+4|관세 불확실성이 기업들에 공급망 재검토를 강요하고 있다|Tariff Uncertainty Is Forcing Companies to Rethink Their Supply Chains|tariff=관세; rethink=재검토하다
+4|중앙은행, 물가 둔화 속 금리 동결|Central Bank Holds Rates Steady as Inflation Cools|hold steady=유지하다; cool=진정되다
+4|소비자들은 더 싼 것을 찾지만, 편리함에는 여전히 돈을 쓴다.|Consumers are trading down, but they still pay for convenience.|trade down=더 싼 것으로 바꾸다; convenience=편리함
+4|강달러가 신흥국 통화를 압박하고 있다|A Strong Dollar Is Squeezing Emerging-Market Currencies|squeeze=압박하다; emerging market=신흥 시장
+4|임금 상승세가 둔화되면서 연착륙 기대가 커지고 있다.|As wage growth slows, hopes for a soft landing are rising.|wage growth=임금 상승; soft landing=연착륙
+4|투자자들은 다음 달 고용 보고서에 주목하고 있다.|Investors are watching next month's jobs report closely.|jobs report=고용 보고서
+4|원자재 가격 하락이 제조업체의 숨통을 틔워 주고 있다.|Falling commodity prices are giving manufacturers some breathing room.|breathing room=숨 돌릴 여유; commodity=원자재
+4|주택담보대출 금리가 내려가자 거래가 조금씩 살아나고 있다.|Home sales are slowly picking up as mortgage rates ease.|mortgage rate=주택담보대출 금리; pick up=회복되다
+4|경기 침체 우려에도 소비 지출은 예상보다 견조했다.|Consumer spending held up better than expected despite recession fears.|hold up=견디다; recession=경기 침체
+4|기업들이 불확실성 때문에 신규 채용을 미루고 있다.|Companies are holding off on new hiring because of uncertainty.|hold off on=미루다
+4|금값이 사상 최고치를 다시 경신했다.|Gold prices hit another record high.|record high=사상 최고치
+4|수출 둔화가 제조업 중심 경제에 부담이 되고 있다.|Slowing exports are weighing on manufacturing-heavy economies.|weigh on=부담을 주다
+4|정부가 경기 부양을 위해 인프라 지출을 늘린다.|The government will boost infrastructure spending to support growth.|boost=늘리다; infrastructure=기반 시설
+4|재정 적자가 커지면서 국채 금리가 오르고 있다.|Government bond yields are rising as the fiscal deficit widens.|bond yield=채권 금리; fiscal deficit=재정 적자
+4|생활비 위기는 아직 끝나지 않았다|The Cost-of-Living Crisis Isn't Over Yet|cost of living=생활비
+4|식료품 가격은 안정됐지만 서비스 물가는 여전히 높다.|Food prices have stabilized, but service costs remain stubbornly high.|stubbornly=끈질기게; stabilize=안정되다
+4|소매업체들은 연말 대목을 앞두고 재고를 줄이고 있다.|Retailers are trimming inventory ahead of the holiday season.|trim=줄이다; inventory=재고
+4|기업 실적 시즌이 시작되며 시장의 눈이 이익률에 쏠린다.|As earnings season kicks off, all eyes are on profit margins.|earnings season=실적 시즌; kick off=시작되다
+4|경기 지표가 엇갈리면서 시장 방향성이 불투명하다.|Mixed economic data has left markets without a clear direction.|mixed=엇갈린
+4|최저임금 인상을 두고 노사가 팽팽히 맞서고 있다.|Labor and management remain deadlocked over a minimum wage increase.|deadlocked=교착 상태인; minimum wage=최저임금
+5|관세는 결국 소비자에게 전가되는 세금이라는 지적이 나온다.|Critics argue that tariffs are ultimately a tax passed on to consumers.|pass on=전가하다; ultimately=결국
+5|공급망 다변화는 비용이 들지만 보험과 같다.|Diversifying supply chains is costly, but it works like insurance.|diversify=다변화하다
+5|'차이나 플러스 원' 전략으로 동남아 공장 투자가 늘고 있다.|The "China plus one" strategy is driving factory investment in Southeast Asia.|drive=이끌다·촉진하다
+5|리쇼어링은 말처럼 쉽지 않다.|Bringing manufacturing back home is easier said than done.|easier said than done=말처럼 쉽지 않다
+5|저성장 시대에 기업은 효율보다 회복력을 택하고 있다.|In an era of slow growth, companies are choosing resilience over efficiency.|resilience=회복력; efficiency=효율
+5|금리 인하가 늦어지면 부채가 많은 기업부터 타격을 입는다.|If rate cuts are delayed, highly indebted companies will be hit first.|indebted=부채가 있는; rate cut=금리 인하
+5|노동력 부족이 임금과 물가를 함께 밀어 올리고 있다.|Labor shortages are pushing up both wages and prices.|labor shortage=인력 부족
+5|고령화는 성장률을 낮추는 구조적 요인이다.|An aging population is a structural drag on growth.|drag=걸림돌; structural=구조적인
+5|정책 불확실성이 그 자체로 경제 비용이 되고 있다.|Policy uncertainty has become an economic cost in itself.|in itself=그 자체로
+5|통화 정책만으로는 생산성 둔화를 해결할 수 없다.|Monetary policy alone cannot fix slowing productivity.|monetary policy=통화 정책; productivity=생산성
+5|보호무역의 귀환이 세계 교역의 규칙을 바꾸고 있다.|The return of protectionism is rewriting the rules of global trade.|protectionism=보호무역주의; rewrite=다시 쓰다
+5|시장은 최악의 시나리오를 이미 가격에 반영했다.|Markets have already priced in the worst-case scenario.|price in=가격에 반영하다
+5|소비 심리는 실제 소득보다 뉴스에 더 크게 흔들린다.|Consumer sentiment is swayed more by headlines than by actual income.|sentiment=심리; sway=흔들다
+5|인플레이션이 꺾였다고 해서 물가가 내려가는 것은 아니다.|Slower inflation doesn't mean prices are coming down.|inflation=물가 상승률
+5|기업 부채의 만기가 몰리는 내년이 고비가 될 것이다.|Next year, when a wall of corporate debt comes due, will be the real test.|come due=만기가 되다; wall of debt=몰린 부채
+5|환율 변동성이 커지자 수출 기업들이 헤지를 늘리고 있다.|With currency swings widening, exporters are hedging more of their exposure.|hedge=위험을 회피하다; exposure=노출
+5|경제는 숫자보다 기대로 움직일 때가 많다.|Economies often move on expectations more than on numbers.|expectation=기대
+5|재정 여력이 줄어든 정부는 선택과 집중이 필요하다.|Governments with less fiscal room need to set clearer priorities.|fiscal room=재정 여력; priority=우선순위
+5|가계 저축률이 떨어지면서 소비 여력도 줄고 있다.|As household savings rates fall, the capacity to spend is shrinking too.|savings rate=저축률; shrink=줄어들다
+5|노동 시장이 식어 가고 있지만 아직 얼어붙지는 않았다.|The labor market is cooling, but it hasn't frozen.|cool=식다; freeze=얼어붙다
+@fin
+4|비트코인이 다시 급등하며 투자 열기가 살아났다.|Bitcoin surged again, reviving investor enthusiasm.|surge=급등하다; revive=되살리다
+4|스테이블코인 규제가 본격화되고 있다.|Regulation of stablecoins is finally taking shape.|take shape=구체화되다; stablecoin=스테이블코인
+4|개인 투자자들이 소수 대형 기술주에 몰리고 있다.|Retail investors are piling into a handful of big tech stocks.|pile into=몰려들다; a handful of=소수의
+4|AI 관련주가 시장 상승을 주도하고 있다.|AI-related stocks are leading the market rally.|rally=상승장
+4|변동성이 커지자 현금 비중을 늘리는 투자자가 많아졌다.|As volatility rose, more investors moved into cash.|volatility=변동성
+4|은행들이 대출 기준을 다시 강화하고 있다.|Banks are tightening their lending standards again.|lending standard=대출 기준
+4|부동산 시장 침체로 건설사들의 자금난이 심해지고 있다.|A property slump is deepening the cash crunch at builders.|slump=침체; cash crunch=자금난
+4|사모펀드가 인수 자금을 마련하기 어려워졌다.|Private equity firms are finding it harder to finance deals.|private equity=사모펀드; finance=자금을 대다
+5|시장 집중도가 높아질수록 지수 투자도 위험해진다.|As market concentration rises, even index investing becomes riskier.|concentration=집중도; index investing=지수 투자
+5|거품인지 아닌지는 지나고 나서야 알 수 있다.|Whether it's a bubble can only be known in hindsight.|in hindsight=지나고 나서
+5|금리가 오래 높게 유지되면 자산 가격 재조정은 불가피하다.|If rates stay higher for longer, a repricing of assets is inevitable.|higher for longer=고금리 장기화; repricing=재평가
+5|규제 당국은 그림자 금융의 위험을 경고했다.|Regulators warned about risks building up in shadow banking.|shadow banking=그림자 금융; build up=쌓이다
+5|디지털 자산이 제도권 금융으로 들어오고 있다.|Digital assets are moving into the financial mainstream.|mainstream=주류
+5|배당보다 성장을 택한 기업에 투자자들이 다시 주목한다.|Investors are again favoring companies that choose growth over dividends.|favor=선호하다; dividend=배당
+5|높은 이익률이 영원히 지속될 것이라는 가정은 위험하다.|Assuming high margins will last forever is a dangerous bet.|margin=이익률; bet=내기
+@energy
+4|데이터센터 전력 수요가 급증하고 있다.|Power demand from data centers is soaring.|soar=급증하다; data center=데이터센터
+4|AI의 진짜 병목은 이제 칩이 아니라 전력이다.|The real bottleneck for AI is no longer chips but electricity.|bottleneck=병목
+4|빅테크 기업들이 원자력 발전에 다시 관심을 보이고 있다.|Big Tech is taking a fresh look at nuclear power.|take a fresh look=다시 살펴보다; nuclear power=원자력
+4|유가는 공급 과잉 우려로 하락했다.|Oil prices fell on concerns about oversupply.|oversupply=공급 과잉
+4|LNG 수입국들이 장기 계약 확보에 나섰다.|LNG importers are rushing to lock in long-term contracts.|lock in=확보하다; long-term contract=장기 계약
+4|전력망 확충이 재생에너지 확대의 발목을 잡고 있다.|Slow grid expansion is holding back the growth of renewables.|hold back=발목을 잡다; grid=전력망
+4|소형 모듈 원자로가 새로운 대안으로 떠오르고 있다.|Small modular reactors are emerging as a new option.|small modular reactor=소형 모듈 원자로(SMR); emerge=떠오르다
+4|폭염이 이어지며 전력 수요가 최고치를 기록했다.|Power demand hit a record during a prolonged heat wave.|heat wave=폭염; prolonged=장기화된
+5|에너지 안보가 탈탄소만큼 중요한 의제가 되었다.|Energy security has become as important an agenda as decarbonization.|energy security=에너지 안보; decarbonization=탈탄소
+5|전기 요금 인상은 정치적으로 가장 민감한 문제 중 하나다.|Raising electricity prices is one of the most politically sensitive issues.|politically sensitive=정치적으로 민감한
+5|배터리 저장 비용이 떨어지면서 태양광의 경제성이 높아졌다.|Cheaper battery storage has made solar far more economical.|economical=경제적인; battery storage=배터리 저장
+5|가스는 당분간 재생에너지의 공백을 메우는 다리 역할을 할 것이다.|Gas will serve as a bridge to fill the gaps in renewables for some time.|bridge=가교; fill the gap=공백을 메우다
+5|기후 목표와 경제 현실 사이의 간극이 벌어지고 있다.|The gap between climate goals and economic reality is widening.|widen=벌어지다
+5|전력 시장 개편 없이는 수요 증가를 감당하기 어렵다.|Without power market reform, it will be hard to meet rising demand.|reform=개편; meet demand=수요를 충족하다
+@work
+4|기업들이 AI 도입으로 중간 관리자 층을 줄이고 있다.|Companies are using AI to thin out layers of middle management.|thin out=솎아내다; middle management=중간 관리자
+4|사무실 복귀 지시에 직원들의 반발이 이어지고 있다.|Return-to-office mandates continue to face pushback from employees.|mandate=지시; pushback=반발
+4|원격근무가 사무실을 없앤 게 아니라, 사무실의 쓰임새를 바꿨다.|Remote work didn't kill the office; it changed what the office is for.|remote work=원격근무
+4|AI 에이전트에 여전히 사람 관리자가 필요한 이유|Why AI Agents Still Need Human Managers|AI agent=AI 에이전트
+4|좋은 리더는 답보다 질문을 먼저 던진다.|Good leaders ask questions before they give answers.|leader=리더
+4|번아웃은 개인의 문제가 아니라 조직의 문제다.|Burnout isn't a personal problem; it's an organizational one.|burnout=번아웃·탈진
+4|신입 사원 교육이 AI 시대에 다시 설계되고 있다.|Onboarding is being redesigned for the age of AI.|onboarding=신입 적응 교육; redesign=다시 설계하다
+4|대규모 해고 이후 남은 직원들의 사기가 떨어졌다.|Morale among remaining staff has dropped after mass layoffs.|morale=사기; layoff=해고
+4|주 4일 근무 실험이 여러 나라로 확산되고 있다.|Four-day workweek trials are spreading to more countries.|workweek=주 근무일; trial=실험
+4|기술보다 사람을 바꾸는 것이 더 어렵다.|Changing people is harder than changing technology.|
+5|AI 시대에 가장 희소한 능력은 판단력이다.|In the age of AI, the scarcest skill is judgment.|scarce=희소한; judgment=판단력
+5|조직의 속도는 가장 느린 결재 단계에서 결정된다.|An organization moves only as fast as its slowest approval step.|approval=결재·승인
+5|성과 평가는 결과만이 아니라 과정도 봐야 한다.|Performance reviews should look at the process, not just the results.|performance review=성과 평가
+5|하이브리드 근무의 성패는 회의 문화에 달려 있다.|The success of hybrid work depends on meeting culture.|hybrid work=혼합형 근무
+5|피드백은 연례 행사가 아니라 일상이 되어야 한다.|Feedback should be a daily habit, not an annual event.|annual=연례의
+5|경력 사다리보다 경력 격자가 더 현실적이다.|A career lattice is more realistic than a career ladder.|lattice=격자; career ladder=경력 사다리
+5|심리적 안전감이 있는 팀이 더 빨리 배운다.|Teams with psychological safety learn faster.|psychological safety=심리적 안전감
+5|채용 공고보다 회사의 평판이 인재를 끌어온다.|A company's reputation attracts talent more than its job postings do.|job posting=채용 공고; talent=인재
+5|리더의 가장 중요한 일은 우선순위를 정하는 것이다.|A leader's most important job is setting priorities.|
+5|조용한 퇴사는 결국 관리의 실패를 보여 준다.|Quiet quitting ultimately reveals a failure of management.|quiet quitting=조용한 퇴사; reveal=드러내다
+5|숙련 인력의 은퇴가 지식 공백을 만들고 있다.|The retirement of skilled workers is creating a knowledge gap.|knowledge gap=지식 공백
+5|평생 직장은 사라졌지만 평생 학습은 필수가 됐다.|Lifetime employment is gone, but lifelong learning has become essential.|lifelong learning=평생 학습
+5|재택근무는 생산성보다 신뢰의 문제다.|Remote work is less about productivity than about trust.|trust=신뢰
+5|가장 좋은 전략도 실행되지 않으면 의미가 없다.|Even the best strategy is meaningless if it isn't executed.|execute=실행하다
+5|중간 관리자는 변화의 걸림돌이 아니라 핵심 연결 고리다.|Middle managers aren't obstacles to change; they're the critical link.|obstacle=걸림돌; critical link=핵심 연결 고리
