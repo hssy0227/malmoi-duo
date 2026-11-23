@@ -1,0 +1,123 @@
+# 토익 전용 어휘(TSL 1.1) 누락 보강 — 토익 Part 1~7에 자주 나오는 장면 (Lv2~4)
+@toeic
+2|웨이터가 손님들에게 메뉴를 건네고 있어요.|A waiter is handing menus to the customers.|waiter=웨이터; hand=건네다
+2|여자가 우산을 펼치고 있어요.|A woman is opening an umbrella.|umbrella=우산
+2|남자가 여행 가방을 끌고 있어요.|A man is pulling a suitcase.|suitcase=여행 가방
+2|사람들이 슈퍼마켓 통로를 걷고 있어요.|People are walking down a supermarket aisle.|supermarket=슈퍼마켓; aisle=통로
+2|점원이 선반에 상자를 쌓고 있어요.|A clerk is stacking boxes on a shelf.|clerk=점원; stack=쌓다
+2|여자가 노트북 키보드로 타자를 치고 있어요.|A woman is typing on a laptop keyboard.|laptop=노트북; keyboard=키보드
+2|남자가 사다리에 올라가 있어요.|A man is standing on a ladder.|ladder=사다리
+2|정비사가 차 밑을 살펴보고 있어요.|A mechanic is inspecting the underside of a car.|mechanic=정비사; inspect=점검하다
+2|책상 서랍이 열려 있어요.|A desk drawer has been left open.|drawer=서랍
+2|분수 옆에 벤치가 놓여 있어요.|There's a bench next to the fountain.|bench=벤치; fountain=분수
+2|보도 위에 자전거가 세워져 있어요.|Some bicycles are parked on the sidewalk.|bicycle=자전거; sidewalk=보도
+2|여자가 카트를 밀고 있어요.|A woman is pushing a cart.|cart=카트
+2|램프가 소파 옆에 있어요.|There's a lamp beside the sofa.|lamp=램프; sofa=소파
+2|쓰레기통이 비어 있어요.|The garbage can is empty.|garbage=쓰레기
+2|사람들이 공원에서 소풍을 즐기고 있어요.|People are enjoying a picnic in the park.|picnic=소풍
+2|목수가 나무판을 자르고 있어요.|A carpenter is cutting a wooden board.|carpenter=목수
+2|남자가 장갑을 끼고 있어요.|A man is putting on gloves.|glove=장갑
+2|쟁반 위에 샌드위치와 주스가 있어요.|There are sandwiches and juice on the tray.|tray=쟁반; sandwich=샌드위치; juice=주스
+3|그 메모 받으셨어요?|Did you get the memo?|memo=메모·사내 공지
+3|이력서를 이메일로 보내 주세요.|Please email us your résumé.|résumé=이력서
+3|안내 책자를 동봉해 드립니다.|Please find the brochure enclosed.|brochure=안내 책자; enclose=동봉하다
+3|웹사이트에서 신청서를 다운로드하세요.|Download the application form from our website.|website=웹사이트; download=내려받다
+3|팩스로 계약서를 보내 드릴게요.|I'll send you the contract by fax.|fax=팩스
+3|제 상사께 먼저 여쭤볼게요.|Let me check with my supervisor first.|supervisor=상사·관리자
+3|회계사가 세금 서류를 검토하고 있어요.|The accountant is reviewing the tax documents.|accountant=회계사
+3|접수처에 성함을 말씀해 주세요.|Please give your name at reception.|reception=접수처
+3|접수원이 방문객 출입증을 드릴 거예요.|The receptionist will give you a visitor's badge.|receptionist=접수원; badge=출입증
+3|구내식당은 열두 시부터 문을 열어요.|The cafeteria opens at noon.|cafeteria=구내식당
+3|다음 주에 마케팅 워크숍이 있어요.|There's a marketing workshop next week.|workshop=워크숍
+3|다가오는 연례 회의에 참석하실 건가요?|Will you be attending the upcoming annual conference?|upcoming=다가오는
+3|그 기차는 아홉 시에 출발해요.|The train departs at nine.|depart=출발하다
+3|동료가 대신 발표해 줬어요.|A coworker gave the presentation for me.|coworker=동료
+3|복사기가 또 고장 났어요.|The photocopier is broken again.|photocopier=복사기
+3|이 서류 열 부 복사해 주시겠어요?|Could you make ten photocopies of this document?|photocopy=복사(본)
+3|파일은 공유 폴더에 저장해 두었어요.|I saved the file in the shared folder.|folder=폴더
+3|잉크 카트리지를 교체해야 해요.|The ink cartridge needs replacing.|ink=잉크; cartridge=카트리지
+3|문구류는 수납장 맨 위 칸에 있어요.|The stationery is on the top shelf of the cabinet.|stationery=문구류; cabinet=수납장
+3|건물 보수 공사가 곧 끝날 예정이에요.|The building renovation will be finished shortly.|shortly=곧
+3|매장이 리모델링 중이라 임시 휴업합니다.|The store is closed temporarily while it's being renovated.|renovate=보수하다
+3|이번 주 뉴스레터에 신제품 소식이 실렸어요.|This week's newsletter features our new product.|newsletter=소식지
+3|본사는 서울에 있어요.|Our headquarters is in Seoul.|headquarters=본사
+3|그 건축가가 새 도서관을 설계했어요.|The architect designed the new library.|architect=건축가
+3|연회는 호텔 연회장에서 열려요.|The banquet will be held in the hotel ballroom.|banquet=연회
+3|다과가 회의 후에 제공됩니다.|Refreshments will be served after the meeting.|refreshments=다과
+3|행사장은 시내 중심가에 있어요.|The venue is in the downtown area.|venue=행사장; downtown=시내
+3|출퇴근하는 사람들로 기차가 꽉 찼어요.|The train was packed with commuters.|commuter=통근자
+3|회사 로고가 새로 바뀌었어요.|The company has a new logo.|logo=로고
+3|설문지를 작성해 주시면 감사하겠습니다.|We'd appreciate it if you could fill out the questionnaire.|questionnaire=설문지
+3|서류에 서명이 빠져 있어요.|Your signature is missing on the form.|signature=서명
+3|택배 기사가 소포를 배달했어요.|The courier delivered the package.|courier=택배 기사
+3|이 계산기는 고장 났어요.|This calculator doesn't work.|calculator=계산기
+3|계산원에게 영수증을 달라고 하세요.|Ask the cashier for a receipt.|cashier=계산원
+3|그 서점은 주말에 늦게까지 열어요.|The bookstore stays open late on weekends.|bookstore=서점
+3|세미나 발표자가 마이크를 조정하고 있어요.|The presenter is adjusting the microphone.|presenter=발표자; microphone=마이크
+3|프로젝터가 작동하지 않아요.|The projector isn't working.|projector=프로젝터
+3|회의실에 무선 인터넷이 되나요?|Is there wireless internet in the boardroom?|wireless=무선의; boardroom=회의실
+3|라운지에서 잠시 기다려 주세요.|Please wait in the lounge for a moment.|lounge=라운지
+3|우리 팀에 인턴 두 명이 새로 왔어요.|Two new interns joined our team.|intern=인턴
+3|인턴십은 6개월 과정이에요.|The internship lasts six months.|internship=인턴십
+3|교육생들은 첫 주에 오리엔테이션을 받아요.|Trainees receive an orientation in their first week.|trainee=교육생
+3|이 강사는 경력이 아주 많아요.|This instructor is very experienced.|instructor=강사
+3|직원 할인 쿠폰은 이번 달 말까지 사용할 수 있어요.|The employee voucher can be used until the end of the month.|voucher=할인권
+3|급여 명세서는 매달 25일에 나와요.|Paychecks are issued on the 25th of every month.|paycheck=급여
+3|급여 담당 부서에 문의해 보세요.|Please contact the payroll department.|payroll=급여 대장·급여 담당
+3|채식 메뉴도 준비돼 있어요.|Vegetarian options are also available.|vegetarian=채식의
+3|오늘 점심은 출장 뷔페로 해요.|Lunch today will be a catered buffet.|cater=음식을 공급하다; buffet=뷔페
+3|그 식당은 가격이 싸고 양이 많아요.|The restaurant is inexpensive and the portions are large.|inexpensive=저렴한
+3|오늘 밤에 고객과 식사할 예정이에요.|I'm dining with a client tonight.|dine=식사하다
+3|그 요리사는 이 지역 재료만 써요.|The chef only uses local ingredients.|chef=요리사
+3|음료는 메뉴 뒷면에 있어요.|Beverages are listed on the back of the menu.|beverage=음료
+3|그 상점은 할인 품목에 가격표를 붙였어요.|The shop put price tags on the sale items.|tag=꼬리표·가격표
+3|그 쇼핑몰은 주차가 무료예요.|Parking is free at the mall.|mall=쇼핑몰
+3|이 매장은 매주 월요일에 휴무예요.|This outlet is closed on Mondays.|outlet=매장·아울렛
+3|보석 매장은 2층에 있어요.|The jewelry store is on the second floor.|jewelry=보석류
+3|이 스웨터는 세탁기에 돌려도 돼요.|This sweater is machine washable.|sweater=스웨터
+3|정장 대신 편한 복장으로 오세요.|Please wear casual clothes instead of a suit.|casual=평상시의
+3|무료 체험 기간 후에는 자동으로 결제돼요.|After the free trial, you'll be charged automatically.|trial=체험·시험
+3|이 노트북은 보증 기간 내 무상 수리가 돼요.|This laptop can be repaired for free under warranty.|repair=수리하다
+3|렌터카를 공항에서 반납할 수 있어요?|Can I return the rental car at the airport?|rental=임대의
+3|오늘 밤 크루즈선이 출항해요.|The cruise ship departs tonight.|cruise=크루즈
+3|탑승권과 신분증을 보여 주세요.|Please show your boarding pass and identification.|identification=신분증
+3|승무원이 안전 수칙을 안내하고 있어요.|The flight attendant is explaining the safety procedures.|attendant=승무원·안내원
+3|항공료가 지난달보다 올랐어요.|Airfares have gone up since last month.|airfare=항공료
+3|그 호텔 방은 넓고 깨끗했어요.|The hotel room was spacious and clean.|spacious=넓은
+3|이번 시즌 객실 점유율이 매우 높아요.|Room occupancy is very high this season.|occupancy=점유율
+3|정원사가 잔디를 깎고 있어요.|A gardener is mowing the lawn.|lawn=잔디; mow=깎다
+3|배관공이 새는 파이프를 고쳤어요.|The plumber fixed the leaking pipe.|plumber=배관공
+3|전기 기사가 조명을 설치하고 있어요.|The electrician is installing the lights.|electrician=전기 기사
+3|세입자는 다음 달에 이사 나갈 예정이에요.|The tenant is moving out next month.|tenant=세입자
+3|부동산 중개인이 집을 보여 줬어요.|The realtor showed us the house.|realtor=부동산 중개인
+3|천장에서 물이 새요.|Water is leaking from the ceiling.|ceiling=천장
+4|본 이메일에 회신하실 필요는 없습니다.|There's no need to reply to this e-mail.|e-mail=이메일
+4|계약 갱신 여부를 알려 주세요.|Please let us know about your contract renewal.|renewal=갱신
+4|예약 취소는 24시간 전까지 가능합니다.|Cancellations must be made 24 hours in advance.|cancellation=취소
+4|이 시설은 주거 지역에 있어요.|The facility is located in a residential area.|residential=주거의
+4|본 제품의 사양은 웹사이트에서 확인하실 수 있습니다.|The product specifications are available on our website.|specification=사양
+4|잠재 고객에게 견본을 보냈어요.|We sent samples to prospective clients.|prospective=잠재적인
+4|공급업체와 거래 조건을 협상했어요.|We negotiated terms with the vendor.|vendor=판매업체
+4|프랜차이즈 매장을 하나 더 열 계획이에요.|We plan to open another franchise store.|franchise=가맹점
+4|그 모델은 오작동 때문에 회수됐어요.|That model was recalled due to a malfunction.|malfunction=오작동
+4|결함 있는 부품을 교체해 드리겠습니다.|We'll replace the faulty part.|faulty=결함 있는; replacement=교체(품)
+4|기계 결함으로 생산이 지연됐어요.|Production was delayed by a mechanical problem.|mechanical=기계의
+4|공장 기계를 정기 점검했어요.|The factory machinery was inspected regularly.|machinery=기계류; inspection=점검
+4|이 지역은 안전모 착용이 필수예요.|Protective helmets are required in this area.|protective=보호용의
+4|분실물을 신고하는 절차를 안내해 드릴게요.|Let me explain how to report a misplaced item.|misplace=잃어버리다
+4|오늘 할 일은 서류 작업이 대부분이에요.|Most of today's work is paperwork.|paperwork=서류 작업
+4|제안서를 꼼꼼히 교정해 주세요.|Please proofread the proposal thoroughly.|proofread=교정하다; thoroughly=꼼꼼히
+4|그 사실을 바탕으로 무엇을 추론할 수 있나요?|What can be inferred from that fact?|infer=추론하다
+4|그 직책에는 회계 자격증이 필요해요.|The position requires an accounting certification.|certification=자격증
+4|직원들은 효율적으로 협력해야 해요.|Staff members need to cooperate efficiently.|cooperate=협력하다; efficiently=효율적으로
+4|회사는 직원들에게 노트북을 지급해요.|The company equips its employees with laptops.|equip=갖춰 주다
+4|그 은행가는 여러 대기업과 거래해요.|The banker deals with several large corporations.|banker=은행가
+4|주주들이 합병에 찬성했어요.|The stockholders approved the merger.|stockholder=주주
+4|모든 지출 내역은 승인을 받아야 해요.|All expenses must be authorized.|authorize=승인하다
+4|본 거래는 영업일 기준 이틀 안에 처리됩니다.|The transaction will be processed within two business days.|transaction=거래
+4|이번 계약은 상당히 비용이 많이 들었어요.|The contract turned out to be quite costly.|costly=비용이 많이 드는
+4|선택 사항이지만 참석을 권장합니다.|Attendance is optional but recommended.|optional=선택적인
+4|대변인이 공식 입장을 발표했어요.|A spokesperson announced the official position.|spokesperson=대변인
+4|전 직원이 참석하는 오찬이 금요일에 있어요.|There's a staff luncheon on Friday.|luncheon=오찬
+4|사무실이 다른 건물로 이전해요.|The office is relocating to another building.|relocate=이전하다
+4|그 회사는 전 세계에 지사를 두고 있어요.|The company has offices worldwide.|worldwide=전 세계에

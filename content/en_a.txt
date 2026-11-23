@@ -152,7 +152,7 @@
 2|방 청소 부탁드려요.|Could I get housekeeping?|housekeeping=객실 청소
 2|열쇠 없이 문이 잠겨 버렸어요.|I locked myself out.|lock oneself out=열쇠를 두고 나와 문이 잠기다
 2|모닝콜 해 주실 수 있어요?|Can I get a wake-up call?|wake-up call=모닝콜
-2|하룻밤 더 묵고 싶어요.|I'd like to extend my stay by one night.|extend=연장하다; stay=숙박
+2|숙박을 하루 연장하고 싶어요.|I'd like to extend my stay by one night.|extend=연장하다; stay=숙박
 2|방에 금고 있어요?|Is there a safe in the room?|safe=금고
 3|레이트 체크아웃 되나요?|Is late checkout available?|available=이용 가능한
 3|방이 좀 시끄러워요.|My room is a bit noisy.|noisy=시끄러운

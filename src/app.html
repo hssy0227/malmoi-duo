@@ -160,6 +160,13 @@ h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
 .fld .d{grid-column:1/-1;font-size:12.5px;color:var(--mut)}
 select,input[type=number]{min-height:40px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:0 10px;font-size:16px;max-width:60vw}
 input[type=range]{width:100%;accent-color:var(--am)}
+.acc input[type=email],.acc input[type=password],.acc input[type=text]{width:100%;min-height:44px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:0 12px;font-size:16px}
+.acc .two{display:grid;grid-template-columns:minmax(0,1fr) 8.5em;gap:8px;margin:10px 0}
+.acc .who{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}.acc .who b{word-break:break-all}
+.stbar{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.stbar .pill{white-space:nowrap}
+.cardx{display:flex;gap:8px;justify-content:center;margin-top:10px}
+.stsel{max-width:7em;padding:0 6px!important}
 textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--ln);background:var(--sf2);padding:10px;font-size:13px}
 .sw{position:relative;width:50px;height:30px;border-radius:999px;background:var(--ln);flex:none}
 .sw::after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#fff;transition:transform .15s}
@@ -212,11 +219,12 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
   <div class="hd"><b>사용법</b><span class="mut sm">맨 위에서 언어 선택 → 홈의 학습 시작</span><button class="ib" data-act="help" aria-label="닫기"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></div>
   <dl class="hg">
     <dt>Home</dt><dd>오늘 할 카드 수와 진도. 상황 칸을 누르면 <span class="nw">그 상황만</span> 학습. <span class="mut">왼쪽 위 로고·뒤로가기로도 이동</span></dd>
-    <dt>카드</dt><dd>한국어를 보고 소리 내 말한 뒤 탭 → 정답·발음 확인 → <kbd>다시</kbd><kbd>어려움</kbd><kbd>알맞음</kbd><kbd>쉬움</kbd> 중 선택. <span class="mut">버튼 아래 숫자가 다음 복습 시점</span></dd>
+    <dt>카드</dt><dd>한국어를 보고 소리 내 말한 뒤 탭 → 정답·발음 확인 → <kbd>다시</kbd><kbd>어려움</kbd><kbd>알맞음</kbd><kbd>쉬움</kbd> 중 선택. <span class="mut">버튼 아래 숫자가 다음 복습 시점</span>. 이미 아는 건 <kbd>알아요</kbd>, 필요 없는 건 <kbd>스킵</kbd> — 카드에서 빠져요</dd>
     <dt>퀴즈</dt><dd>뜻·표현·듣기·빈칸 4가지. <span class="mut">틀린 문제는 카드 복습에 바로 추가</span></dd>
     <dt>말하기</dt><dd>마이크를 누르고 말하기. 초록은 맞음, 빨강은 놓침. <span class="mut">베트남어는 '성조 빼고' 점수만 높으면 성조 연습이 필요</span></dd>
-    <dt>사전</dt><dd>상황 탭은 옆으로 밀거나 <kbd>펼치기</kbd>. 성조 없이 검색 가능 <span class="mut">(bao nhieu)</span>. ★ 누르면 즐겨찾기</dd>
+    <dt>사전</dt><dd>상황 탭은 옆으로 밀거나 <kbd>펼치기</kbd>. 성조 없이 검색 가능 <span class="mut">(bao nhieu)</span>. ★ 즐겨찾기. 상태(새것·읽음·학습 중·앎·스킵)로 거르고, 항목을 열어 상태를 바꿔요</dd>
     <dt>모드</dt><dd>카드·말하기·퀴즈 위의 <kbd>모드</kbd>로 상황·레벨·문장/단어·★만 고르기. <span class="mut">지금 모드는 블록으로 표시</span></dd>
+    <dt>계정</dt><dd>설정 → 계정에서 이메일 + PIN 6자리로 로그인하면 휴대폰·PC 어디서든 진도가 이어져요</dd>
     <dt>소리</dt><dd>단어 풀이의 단어를 누르면 그 단어만 재생. <kbd>천천히</kbd>는 0.7배속</dd>
   </dl>
   <h4>갤럭시 폴드에서</h4>
@@ -224,7 +232,7 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
     <li>베트남어 소리에 성조가 없거나 안 나오면: 휴대폰 설정 → 일반 → 텍스트 음성 변환(TTS) → 엔진 설정에서 베트남어 음성 설치 <span class="mut">(설정 검색창에 'TTS')</span></li>
     <li>말하기(음성 인식)는 Chrome 권장. 처음 한 번 마이크 허용</li>
     <li>앱처럼 쓰기: Chrome <kbd>⋮</kbd> → 홈 화면에 추가 <span class="mut">/ 삼성 인터넷 <kbd>≡</kbd> → 현재 페이지 추가 → 홈 화면</span></li>
-    <li>진도는 이 브라우저에만 저장돼요. 가끔 설정 → 백업</li>
+    <li>로그인하지 않으면 진도는 이 브라우저에만 저장돼요. 설정 → 계정에서 로그인하거나 가끔 백업</li>
   </ul>
 </div>
 <script>
@@ -251,8 +259,9 @@ const IC = {
 const LS = "dumal.v1";
 const DEF = ()=>({lang:"vi",
   set:{rate:{vi:.85,en:1},voice:{vi:"",en:""},auto:true,dir:"k2t",newPerDay:20},
-  scope:{vi:{cats:[],lv:[1,2,3,4],type:"s",star:false},en:{cats:[],lv:[1,2,3,4],type:"s",star:false}},
+  scope:{vi:{cats:[],lv:[1,2,3,4,5],type:"s",star:false},en:{cats:[],lv:[1,2,3,4,5],type:"s",star:false}},
   p:{vi:{},en:{}}, star:{vi:{},en:{}}, q:{vi:{},en:{}}, sp:{vi:{},en:{}},
+  st:{vi:{},en:{}}, seen:{vi:{},en:{}}, mod:{vi:{},en:{}}, dirty:{vi:{},en:{}}, sync:{},
   day:{d:"",n:{vi:0,en:0}}, hist:{}});
 function merge(a,b){for(const k in b){if(b[k]&&typeof b[k]==="object"&&!Array.isArray(b[k])&&a[k]&&typeof a[k]==="object"&&!Array.isArray(a[k]))merge(a[k],b[k]);else a[k]=b[k]}return a}
 let S = DEF();
@@ -262,8 +271,16 @@ function save(){clearTimeout(saveT);saveT=setTimeout(()=>{try{localStorage.setIt
 const today=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
 function rollDay(){const t=today(); if(S.day.d!==t){S.day={d:t,n:{vi:0,en:0}};save()}}
 rollDay();
-/* 레벨4 추가 전 저장값 이관 */
-for(const L of ["vi","en"]){const lv=S.scope[L].lv;if(!S.lvMig&&lv.length===3&&lv.join()==="1,2,3")S.scope[L].lv=[1,2,3,4]}S.lvMig=1;
+/* 레벨 체계 이관: 3→4단계(구), 4→5단계(CEFR A1~C1) */
+for(const L of ["vi","en"]){let lv=S.scope[L].lv;if(!S.lvMig&&lv.join()==="1,2,3")lv=[1,2,3,4];if((S.lvMig||0)<2&&lv.join()==="1,2,3,4")lv=[1,2,3,4,5];S.scope[L].lv=lv}S.lvMig=2;
+const LEVELS=DATA.levels, LVN=LEVELS.length;
+const lvTag=l=>{const x=LEVELS.find(v=>v[0]===l);return "Lv"+l+(x?"·"+x[1]:"")};
+/* 항목 상태: 새것·읽음·학습 중·앎·스킵 */
+const STN={new:"새것",seen:"읽음",learning:"학습 중",known:"앎",skip:"스킵"};
+function stOf(L,id){const v=S.st[L][id];if(v==="k")return "known";if(v==="x")return "skip";if(S.p[L][id])return "learning";if(S.seen[L][id])return "seen";return "new"}
+function touch(L,id){S.mod[L][id]=Date.now();S.dirty[L][id]=1;schedSync()}
+function markSeen(L,id){if(!S.seen[L][id]){S.seen[L][id]=Date.now();touch(L,id);save()}}
+function setSt(L,id,v){if(v)S.st[L][id]=v;else delete S.st[L][id];touch(L,id);save()}
 
 /* ---------- 데이터 준비: 문장 + 단어장(풀이에서 자동 생성) ---------- */
 const hash = s=>{let h=5381;for(let i=0;i<s.length;i++)h=(h*33^s.charCodeAt(i))>>>0;return h.toString(36)};
@@ -299,7 +316,7 @@ function pool(L,sc){
 }
 function scopeChips(L){const sc=S.scope[L];
   const c=sc.cats.length?CAT[sc.cats[0]]+(sc.cats.length>1?" +"+(sc.cats.length-1):""):"전체";
-  const lv=sc.lv.length===4||!sc.lv.length?"Lv전체":"Lv"+sc.lv.join("·");
+  const lv=sc.lv.length===LVN||!sc.lv.length?"Lv전체":"Lv"+sc.lv.join("·");
   return [c,lv,{s:"문장",w:"단어",a:"문장+단어"}[sc.type]].concat(sc.star?["★만"]:[]);}
 const scopeBtn=L=>`<button class="scope" data-act="scope" aria-label="학습 모드 바꾸기">${scopeChips(L).map((x,i)=>`<span class="sb${i?"":" sb0"}">${esc(x)}</span>`).join("")}<span class="md">${IC.filt}모드</span></button>`;
 
@@ -348,9 +365,10 @@ function nextState(p,g){
 function fmtIv(p){const ms=p.d-Date.now(); if(ms<36e5)return Math.max(1,Math.round(ms/6e4))+"분"; if(ms<DAY)return Math.round(ms/36e5)+"시간"; const d=ms/DAY; if(d<30)return Math.round(d)+"일"; if(d<365)return (d/30).toFixed(1).replace(".0","")+"개월"; return (d/365).toFixed(1).replace(".0","")+"년"}
 function bump(){const t=today();S.hist[t]=(S.hist[t]||0)+1}
 function stats(L){
-  const P=S.p[L], now=Date.now(); let due=0,ls=0,lw=0,ms=0;
-  for(const id in P){const p=P[id], it=ITEM[L][id]; if(!it)continue; if(p.d<=now)due++; if(p.r>0||p.lp){it.kind==="s"?ls++:lw++} if(p.i>=21)ms++}
-  return {due,ls,lw,ms,newLeft:Math.max(0,S.set.newPerDay-S.day.n[L])};
+  const P=S.p[L], X=S.st[L], now=Date.now(); let due=0,ls=0,lw=0,ms=0,kn=0;
+  for(const id in P){const p=P[id], it=ITEM[L][id]; if(!it||X[id])continue; if(p.d<=now)due++; if(p.r>0||p.lp){it.kind==="s"?ls++:lw++} if(p.i>=21)ms++}
+  for(const id in X)if(X[id]==="k"&&ITEM[L][id])kn++;
+  return {due,ls,lw,ms,kn,newLeft:Math.max(0,S.set.newPerDay-S.day.n[L])};
 }
 function streak(){let n=0;const d=new Date();if(!S.hist[today()])d.setDate(d.getDate()-1);for(;;){const k=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");if(S.hist[k]){n++;d.setDate(d.getDate()-1)}else break}return n}
 
@@ -376,7 +394,7 @@ function vHome(){
   const L=S.lang, st=stats(L), sk=streak();
   const days=[];for(let i=6;i>=0;i--){const d=new Date();d.setDate(d.getDate()-i);const k=d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");days.push([k,"일월화수목금토"[d.getDay()]])}
   const mx=Math.max(10,...days.map(d=>S.hist[d[0]]||0));
-  const todo=st.due+Math.min(st.newLeft,pool(L).filter(it=>!S.p[L][it.id]).length);
+  const todo=st.due+Math.min(st.newLeft,pool(L).filter(it=>!S.p[L][it.id]&&!S.st[L][it.id]).length);
   const catRows=CATS_OF[L].map(c=>{const list=SENT[L].filter(s=>s.c===c);const done=list.filter(s=>S.p[L][s.id]).length;const pct=Math.round(done/list.length*100);
     return `<button class="cat" data-act="catgo" data-c="${c}"><div class="n">${esc(CAT[c])}</div><div class="c">${done} / ${list.length} · ${pct}%</div><div class="bar"><i style="width:${pct}%"></i></div></button>`}).join("");
   return `
@@ -387,7 +405,7 @@ function vHome(){
   <div class="kpis">
     <div class="kpi"><div class="v">${st.ls}<small> / ${SENT[L].length}</small></div><div class="k">학습한 문장</div></div>
     <div class="kpi"><div class="v">${st.lw}<small> / ${WORD[L].length}</small></div><div class="k">학습한 단어</div></div>
-    <div class="kpi"><div class="v">${st.ms}</div><div class="k">숙달(3주+)</div></div>
+    <div class="kpi"><div class="v">${st.ms+st.kn}</div><div class="k">숙달·앎</div></div>
   </div>
   <h3>최근 7일 학습량</h3>
   <div class="box"><div class="week">${days.map(([k,w])=>{const v=S.hist[k]||0;return `<div><span>${v||""}</span><i class="${v?"":"z"}" style="height:${v?Math.max(6,v/mx*52):3}px"></i>${w}</div>`}).join("")}</div></div>
@@ -400,7 +418,7 @@ function vHome(){
 /* ---------- 카드 ---------- */
 let CS=null;
 function buildCards(){
-  const L=S.lang, now=Date.now(), P=S.p[L], pl=pool(L);
+  const L=S.lang, now=Date.now(), P=S.p[L], pl=pool(L).filter(it=>!S.st[L][it.id]);
   const due=pl.filter(it=>P[it.id]&&P[it.id].d<=now).sort((a,b)=>P[a.id].d-P[b.id].d).map(it=>it.id);
   const left=Math.max(0,S.set.newPerDay-S.day.n[L]);
   const fresh=pl.filter(it=>!P[it.id]).slice(0,left).map(it=>it.id);
@@ -413,7 +431,7 @@ function vCards(){
   if(!CS||CS.L!==L||CS.key!==JSON.stringify(S.scope[L])+S.set.newPerDay)buildCards();
   const head=scopeBtn(L);
   if(CS.i>=CS.q.length){
-    const st=stats(L), more=pool(L).filter(it=>!S.p[L][it.id]).length;
+    const st=stats(L), more=pool(L).filter(it=>!S.p[L][it.id]&&!S.st[L][it.id]).length;
     return head+`<div class="box empty"><div class="big">${CS.done?"완료":"쉬는 중"}</div>
       <p>${CS.done?`이번 세션 ${CS.done}장을 마쳤어요.`:"지금 이 범위에 복습할 카드가 없어요."}</p>
       <p class="mut sm">오늘 새 카드 ${S.day.n[L]} / ${S.set.newPerDay} · 이 범위에 아직 안 본 카드 ${more}장</p>
@@ -422,7 +440,7 @@ function vCards(){
   const id=CS.q[CS.i], it=ITEM[L][id], P=S.p[L][id];
   if(!CS.dir)CS.dir=cardDir();
   const isNew=!P, pct=Math.round(CS.i/CS.q.length*100);
-  const tagline=`<div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · Lv${it.l}</span>${isNew?'<span class="pill" style="color:var(--am)">새 카드</span>':""}<span class="star">${starBtn(L,id)}</span></div>`;
+  const tagline=`<div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · ${lvTag(it.l)}</span>${isNew?'<span class="pill" style="color:var(--am)">새 카드</span>':""}<span class="star">${starBtn(L,id)}</span></div>`;
   let body;
   const tgt=`<div class="tg">${esc(it.t)}</div>`, ko=`<div class="ko">${esc(it.k)}</div>`;
   if(!CS.flip){
@@ -431,13 +449,14 @@ function vCards(){
     body=`<div class="front" style="padding-bottom:6px">${CS.dir==="k2t"?ko+tgt:tgt+ko}</div>${sayBtns(it.t)}${detailHTML(L,it)}`;
   }
   const grades=CS.flip?`<div class="grades">${["다시","어려움","알맞음","쉬움"].map((n,g)=>`<button class="g${g}" data-act="grade" data-g="${g}">${n}<small>${fmtIv(nextState(P,g))}</small></button>`).join("")}</div>`:`<button class="btn pri blk" style="margin-top:12px" data-act="flip">정답 보기</button>`;
+  const markRow=`<div class="cardx"><button class="btn sm" data-act="cmark" data-s="k">이미 알아요</button><button class="btn sm" data-act="cmark" data-s="x">스킵</button></div>`;
   return head+`<div class="prog"><span>${CS.i+1} / ${CS.q.length}</span><div class="bar"><i style="width:${pct}%"></i></div><span>복습 ${CS.nd} · 새 ${CS.nn}</span></div>
-    <div class="fc">${tagline}${body}</div>${grades}`;
+    <div class="fc">${tagline}${body}</div>${grades}${markRow}`;
 }
 function grade(g){
   const L=CS.L,id=CS.q[CS.i],old=S.p[L][id];
   if(!old)S.day.n[L]++;
-  S.p[L][id]=nextState(old,g); bump();
+  S.p[L][id]=nextState(old,g); bump(); touch(L,id);
   if(g===0)CS.q.splice(Math.min(CS.q.length,CS.i+5),0,id);
   CS.i++;CS.done++;CS.flip=false;CS.dir=null;save();render();
 }
@@ -454,6 +473,7 @@ function clozeOf(s){
 }
 function quizPool(){
   const L=S.lang;let pl=pool(L,QS.type==="c"?{...S.scope[L],type:"s"}:null);
+  pl=pl.filter(it=>S.st[L][it.id]!=="x");
   if(QS.src==="seen")pl=pl.filter(it=>S.p[L][it.id]);
   if(QS.src==="wrong")pl=pl.filter(it=>(S.q[L][it.id]||[0,0])[1]>0);
   if(QS.type==="c")pl=pl.filter(it=>it.kind==="s"&&clozeOf(it));
@@ -505,12 +525,13 @@ function vQuiz(){
   const opts=q.opts.map((o,i)=>{let c="";if(done){if(o===q.ans)c="ok";else if(i===QS.pick)c="ng";else c="fd"}return `<button class="opt ${c}" data-act="qpick" data-i="${i}" ${done?"disabled":""}>${esc(o)}</button>`}).join("");
   const after=done?`${QS.type!=="m"&&QS.type!=="l"?sayBtns(it.t):""}${QS.type!=="c"?`<div class="sm" style="margin-top:8px"><b>${esc(it.t)}</b> — <span class="mut">${esc(it.k)}</span></div>`:""}${detailHTML(L,it)}<button class="btn pri blk" style="margin-top:12px" data-act="qnext">${QS.i+1<QS.qs.length?"다음":"결과 보기"}</button>`:"";
   return `<div class="prog"><span>${QT[QS.type]}</span><div class="bar"><i style="width:${Math.round(QS.i/QS.qs.length*100)}%"></i></div><span>${QS.i+1} / ${QS.qs.length} · 정답 ${QS.ok}</span></div>
-  <div class="fc" style="min-height:0"><div class="qp">${esc(CAT[it.c])} · Lv${it.l}</div>${prompt}<div class="opts">${opts}</div>${after}</div>`;
+  <div class="fc" style="min-height:0"><div class="qp">${esc(CAT[it.c])} · ${lvTag(it.l)}</div>${prompt}<div class="opts">${opts}</div>${after}</div>`;
 }
 function qpick(i){
   const L=S.lang,q=QS.qs[QS.i],ok=q.opts[i]===q.ans;QS.pick=i;
   const st=S.q[L][q.id]||[0,0];st[ok?0:1]++;S.q[L][q.id]=st;bump();
   if(ok)QS.ok++;else{QS.wrong.push(q.id);const p=S.p[L][q.id];if(p)p.d=Math.min(p.d,Date.now())}
+  S.seen[L][q.id]=S.seen[L][q.id]||Date.now();touch(L,q.id);
   save();render();
   if(S.set.auto&&QS.type!=="m")speak(ITEM[L][q.id].t);
 }
@@ -518,7 +539,7 @@ function qpick(i){
 /* ---------- 말하기 ---------- */
 const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
 let SP=null, rec=null;
-function buildSpeak(){const L=S.lang;SP={L,key:JSON.stringify(S.scope[L]),order:shuffle(pool(L).map(it=>it.id)),i:0,hide:SP?SP.hide:false,state:"idle",tx:"",res:null}}
+function buildSpeak(){const L=S.lang;SP={L,key:JSON.stringify(S.scope[L]),order:shuffle(pool(L).filter(it=>S.st[L][it.id]!=="x").map(it=>it.id)),i:0,hide:SP?SP.hide:false,state:"idle",tx:"",res:null}}
 function norm(s,L){
   s=s.normalize("NFC").toLowerCase().replace(/[’`]/g,"'");
   if(L==="en")s=s.replace(/\blet'?s\b/g,"let us").replace(/n't\b/g," not").replace(/'re\b/g," are").replace(/'m\b/g," am").replace(/'ll\b/g," will").replace(/'ve\b/g," have").replace(/'d\b/g," would").replace(/'s\b/g," is").replace(/\bca not\b/g,"cannot").replace(/\bwo not\b/g,"will not").replace(/\bcan not\b/g,"cannot");
@@ -552,7 +573,7 @@ function vSpeak(){
     <div class="sm mut" style="margin-top:6px">초록은 맞게 들린 단어, 빨강은 놓치거나 다르게 들린 단어</div></div>`;}
   if(SP.err)res+=`<div class="warn">${esc(SP.err)}</div>`;
   return head+`<div class="prog"><span>${SP.i%SP.order.length+1} / ${SP.order.length}</span><div class="sp"></div><button class="chip ${SP.hide?"on":""}" data-act="sphide">${SP.hide?"원문 숨김":"원문 보기"}</button></div>
-  <div class="fc" style="min-height:0"><div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · Lv${it.l}</span>${best!=null?`<span class="pill">최고 ${best}%</span>`:""}<span class="star">${starBtn(L,id)}</span></div>
+  <div class="fc" style="min-height:0"><div class="tag"><span class="pill">${it.kind==="w"?"단어":"문장"}</span><span>${esc(CAT[it.c])} · ${lvTag(it.l)}</span>${best!=null?`<span class="pill">최고 ${best}%</span>`:""}<span class="star">${starBtn(L,id)}</span></div>
     <div class="front" style="padding:12px 2px"><div class="ko">${esc(it.k)}</div>${SP.hide&&!SP.res?`<button class="hint" data-act="sphide1" style="text-align:left">원문 잠깐 보기</button>`:`<div class="tg">${esc(it.t)}</div>`}</div>
     ${sayBtns(it.t)}
     ${unsupported?`<div class="warn">이 브라우저는 음성 인식을 지원하지 않아요. 듣기를 따라 말해 본 뒤 스스로 평가하세요. (Chrome·Safari 최신 버전에서 지원, 마이크 권한 필요)</div><div class="row"><button class="btn" data-act="spself" data-v="60">다시 연습</button><button class="btn pri" data-act="spself" data-v="100">잘 말했어요</button></div>`
@@ -573,26 +594,29 @@ function mic(){
   rec.onresult=e=>{inter="";for(const r of e.results){inter+=r[0].transcript;if(r.isFinal)finals=[...r].map(a=>a.transcript)}SP.tx=inter;const p=document.getElementById("live");if(p&&SP.state==="live")p.textContent="듣는 중… "+inter};
   rec.onerror=e=>{SP.err={"not-allowed":"마이크 권한이 막혀 있어요. 브라우저 설정에서 마이크를 허용해 주세요.","no-speech":"소리가 들리지 않았어요. 다시 눌러 말해 보세요.","language-not-supported":"이 기기에서 "+LANGS[L].name+" 음성 인식을 지원하지 않아요.","network":"음성 인식 서버에 연결하지 못했어요(인터넷 필요)."}[e.error]||("음성 인식 오류: "+e.error)};
   rec.onend=()=>{SP.state="idle";const alts=finals||(inter?[inter]:null);
-    if(alts){SP.res=scoreSpeech(it.t,alts,L);const pct=Math.round(SP.res.sc*100);S.sp[L][id]=Math.max(S.sp[L][id]||0,pct);bump();save();SP.err=""}
+    if(alts){SP.res=scoreSpeech(it.t,alts,L);const pct=Math.round(SP.res.sc*100);S.sp[L][id]=Math.max(S.sp[L][id]||0,pct);bump();touch(L,id);save();SP.err=""}
     if(SP.L===S.lang&&view==="speak")render()};
   try{rec.start()}catch(e){SP.state="idle";SP.err="음성 인식을 시작할 수 없어요.";render()}
 }
 
 /* ---------- 사전 ---------- */
-let DS={q:"",type:"s",cat:"",star:false,open:null,lim:200,wrap:false};
+let DS={q:"",type:"s",cat:"",star:false,st:"",open:null,lim:200,wrap:false};
 const fold=s=>untone(s.toLowerCase());
 function dictList(){
   const L=S.lang,q=fold(DS.q.trim());
   let list=allOf(L,DS.type);
   if(DS.cat)list=list.filter(it=>it.kind==="w"?it.cs.has(DS.cat):it.c===DS.cat);
   if(DS.star)list=list.filter(it=>S.star[L][it.id]);
+  if(DS.st)list=list.filter(it=>stOf(L,it.id)===DS.st);
   if(q)list=list.filter(it=>fold(it.t+" "+it.k+" "+(it.w||[]).map(w=>w.join(" ")).join(" ")).includes(q));
   return list;
 }
 function itemRow(L,it){
   const p=S.p[L][it.id], open=DS.open===it.id;
   const st=p?(p.d<=Date.now()?"복습 대기":"다음 복습 "+fmtIv(p)+" 후"):"";
-  return `<div class="it"><button class="ib" data-act="say" data-id="${it.id}" aria-label="듣기">${IC.spk}</button><div class="tx" data-act="dopen" data-id="${it.id}"><div class="t">${esc(it.t)}</div><div class="k">${esc(it.k)}</div></div>${starBtn(L,it.id)}${open?`<div class="more">${detailHTML(L,it)}<div class="cnt">${esc(CAT[it.c])} · Lv${it.l}${st?" · "+st:""}</div></div>`:""}</div>`;
+  const cur=stOf(L,it.id), x=S.st[L][it.id];
+  const stbar=open?`<div class="stbar"><span class="pill">${STN[cur]}</span><span class="sp"></span>${x?`<button class="btn sm" data-act="dmark" data-id="${it.id}" data-s="">되돌리기</button>`:""}${x!=="k"?`<button class="btn sm" data-act="dmark" data-id="${it.id}" data-s="k">앎</button>`:""}${x!=="x"?`<button class="btn sm" data-act="dmark" data-id="${it.id}" data-s="x">스킵</button>`:""}</div>`:"";
+  return `<div class="it"><button class="ib" data-act="say" data-id="${it.id}" aria-label="듣기">${IC.spk}</button><div class="tx" data-act="dopen" data-id="${it.id}"><div class="t">${esc(it.t)}</div><div class="k">${esc(it.k)}</div></div>${starBtn(L,it.id)}${open?`<div class="more">${detailHTML(L,it)}<div class="cnt">${esc(CAT[it.c])} · ${lvTag(it.l)}${st?" · "+st:""}</div>${stbar}</div>`:""}</div>`;
 }
 function renderDictList(){
   const L=S.lang,list=dictList(),el=$("#dlist");if(!el)return;
@@ -601,7 +625,7 @@ function renderDictList(){
 }
 function vDict(){
   return `<div class="search">${IC.search}<input id="dq" type="search" placeholder="한국어·원어로 검색" value="${esc(DS.q)}" autocomplete="off"></div>
-  <div class="row" style="margin-top:10px"><div class="seg" style="margin:0">${[["s","문장"],["w","단어"]].map(([k,n])=>`<button class="${DS.type===k?"on":""}" data-act="dtype" data-k="${k}">${n}</button>`).join("")}</div><button class="chip ${DS.star?"on":""}" data-act="dstar">${IC.star}즐겨찾기</button></div>
+  <div class="row" style="margin-top:10px"><div class="seg" style="margin:0">${[["s","문장"],["w","단어"]].map(([k,n])=>`<button class="${DS.type===k?"on":""}" data-act="dtype" data-k="${k}">${n}</button>`).join("")}</div><button class="chip ${DS.star?"on":""}" data-act="dstar">${IC.star}즐겨찾기</button><select class="stsel" data-ch="dst" aria-label="상태로 거르기"><option value="">상태</option>${Object.keys(STN).map(k=>`<option value="${k}" ${DS.st===k?"selected":""}>${STN[k]}</option>`).join("")}</select></div>
   <div class="catbar ${DS.wrap?"wrap":""}"><div class="hscroll" id="dcats"><button class="chip ${DS.cat?"":"on"}" data-act="dcat" data-c="">전체</button>${CATS_OF[S.lang].map(c=>`<button class="chip ${DS.cat===c?"on":""}" data-act="dcat" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div><button class="catx" data-act="dwrap" aria-label="${DS.wrap?"접기":"상황 전체 펼치기"}">${DS.wrap?"접기":"펼치기"}</button></div>
   <div id="dlist"></div>`;
 }
@@ -614,22 +638,24 @@ function vPrefs(){
       <div class="fld"><label>${LANGS[L].name} 속도 <span class="mut nw">${S.set.rate[L].toFixed(2)}×</span></label><button class="btn sm" data-act="sayt" data-l="${L}" data-t="${enc(L==="vi"?"Xin chào, rất vui được gặp anh.":"Hi, it's great to finally meet you in person.")}">${IC.spk}테스트</button><input type="range" min="0.5" max="1.3" step="0.05" value="${S.set.rate[L]}" data-ch="rate" data-l="${L}" style="grid-column:1/-1"></div>`};
   const sw=(k,on)=>`<button class="sw ${on?"on":""}" data-act="tog" data-k="${k}" aria-pressed="${on}" aria-label="${k}"></button>`;
   return `<h2>설정</h2>
+  <h3>계정 · 동기화</h3><div class="box acc" id="acc">${accHTML()}</div>
   <h3>발음 듣기</h3><div class="box" style="padding:0 14px">${hasTTS?vrow("vi")+vrow("en"):`<div class="fld"><div class="d">이 브라우저는 음성 재생을 지원하지 않아요.</div></div>`}</div>
   <h3>카드 학습</h3><div class="box" style="padding:0 14px">
     <div class="fld"><label>카드 앞면</label><select data-ch="dir"><option value="k2t" ${S.set.dir==="k2t"?"selected":""}>한국어 → 원어</option><option value="t2k" ${S.set.dir==="t2k"?"selected":""}>원어 → 한국어</option><option value="mix" ${S.set.dir==="mix"?"selected":""}>섞기</option></select></div>
     <div class="fld"><label>하루 새 카드</label><select data-ch="newPerDay">${[5,10,15,20,30,50].map(n=>`<option ${S.set.newPerDay===n?"selected":""}>${n}</option>`).join("")}</select><div class="d">언어별로 따로 셉니다. 복습 카드는 제한 없음.</div></div>
     <div class="fld"><label>정답 공개 시 자동 재생</label>${sw("auto",S.set.auto)}</div></div>
-  <h3>데이터 (이 기기에만 저장됨)</h3><div class="box">
+  <h3>백업</h3><div class="box">
     <div class="row"><button class="btn sm" data-act="export">백업 파일 저장</button><button class="btn sm" data-act="copyx">백업 복사</button><button class="btn sm" data-act="importsheet">복원</button><span class="sp"></span><button class="btn sm" data-act="reset" style="color:var(--ng)">${LANGS[S.lang].name} 진도 초기화</button></div>
-    <p class="sm mut" style="margin-bottom:0">브라우저 데이터를 지우면 진도도 사라져요. 가끔 백업해 두세요.</p></div>
+    <p class="sm mut" style="margin-bottom:0">${AUTH?"계정에 자동 저장 중이에요. 백업은 파일로 따로 보관할 때만.":"로그인하지 않으면 브라우저 데이터를 지울 때 진도도 사라져요. 가끔 백업해 두세요."}</p></div>
   <h3>앱 정보</h3><div class="box sm">
     <div>베트남어 문장 ${SENT.vi.length} · 단어 ${WORD.vi.length} / 영어 문장 ${SENT.en.length} · 표현 ${WORD.en.length}</div>
+    <div class="mut">레벨 ${LEVELS.map(([l,c])=>`Lv${l}=${c}`).join(" · ")} (CEFR)</div>
     <div class="mut">버전 ${VER} · 베트남어는 북부(하노이) 표준, 메모에 남부 차이 표기</div>
     <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>`;
 }
 function exportJSON(){return JSON.stringify({app:"dumal",v:1,at:new Date().toISOString(),data:S})}
 function importJSON(txt){
-  try{const o=JSON.parse(txt);const d=o&&o.app==="dumal"?o.data:o;if(!d||!d.p||!d.set)throw 0;S=merge(DEF(),d);rollDay();save();CS=null;SP=null;toast("복원했어요");closeSheet();render()}catch(e){toast("백업 형식이 아니에요")}
+  try{const o=JSON.parse(txt);const d=o&&o.app==="dumal"?o.data:o;if(!d||!d.p||!d.set)throw 0;const keep=S.sync;S=merge(DEF(),d);S.sync=keep;markAllDirty(true);rollDay();save();CS=null;SP=null;toast("복원했어요");closeSheet();render()}catch(e){toast("백업 형식이 아니에요")}
 }
 
 /* ---------- 바텀시트 ---------- */
@@ -640,9 +666,168 @@ function scopeSheet(){
   const L=S.lang;draft=draft||JSON.parse(JSON.stringify(S.scope[L]));
   const n=pool(L,draft).length;
   openSheet(`<h3>상황</h3><div class="chips"><button class="chip ${draft.cats.length?"":"on"}" data-act="sc" data-c="">전체</button>${CATS_OF[L].map(c=>`<button class="chip ${draft.cats.includes(c)?"on":""}" data-act="sc" data-c="${c}">${esc(CAT[c])}</button>`).join("")}</div>
-   <h3>레벨</h3><div class="chips">${[[1,"Lv1 기초"],[2,"Lv2 초중급"],[3,"Lv3 중급"],[4,"Lv4 고급"]].map(([l,nm])=>`<button class="chip ${draft.lv.includes(l)?"on":""}" data-act="sl" data-l="${l}">${nm}</button>`).join("")}</div>
+   <h3>레벨 <span class="sm mut" style="font-weight:500">CEFR 기준</span></h3><div class="chips">${LEVELS.map(([l,c,nm])=>`<button class="chip ${draft.lv.includes(l)?"on":""}" data-act="sl" data-l="${l}">Lv${l} ${c} ${nm}</button>`).join("")}</div>
    <h3>종류</h3><div class="chips">${[["s","문장"],["w","단어"],["a","문장+단어"]].map(([k,nm])=>`<button class="chip ${draft.type===k?"on":""}" data-act="st" data-k="${k}">${nm}</button>`).join("")}<button class="chip ${draft.star?"on":""}" data-act="sst">${IC.star}즐겨찾기만</button></div>
    <div class="row" style="margin-top:18px"><span class="sm mut nw">해당 항목 ${n}개</span><span class="sp"></span><button class="btn" data-act="scx">취소</button><button class="btn pri" data-act="scok" ${n?"":"disabled"}>적용</button></div>`);
+}
+
+/* ---------- 계정 · 동기화 (Supabase REST, 라이브러리 없이) ---------- */
+const SB=DATA.sb||{}, SB_ON=!!(SB.url&&SB.key);
+const AK="malmoi.auth";
+let AUTH=null;try{AUTH=JSON.parse(localStorage.getItem(AK)||"null")}catch(e){}
+const saveAuth=()=>{try{AUTH?localStorage.setItem(AK,JSON.stringify(AUTH)):localStorage.removeItem(AK)}catch(e){}};
+const SYNC={busy:false,err:"",msg:"",again:false};
+const PIN_RE=/^\d{6}$/;
+let refreshing=null;
+async function sbFetch(path,opt){
+  opt=opt||{};
+  const h={apikey:SB.key,"Content-Type":"application/json",...(opt.headers||{})};
+  if(opt.auth!==false&&AUTH){await ensureFresh();if(AUTH)h.Authorization="Bearer "+AUTH.at}
+  else if(SB.key.startsWith("eyJ"))h.Authorization="Bearer "+SB.key;
+  let r;
+  try{r=await fetch(SB.url.replace(/\/+$/,"")+path,{method:opt.method||"GET",headers:h,body:opt.body!==undefined?JSON.stringify(opt.body):undefined})}
+  catch(e){const x=new Error("인터넷 연결을 확인해 주세요");x.net=true;throw x}
+  const txt=await r.text();let j=null;try{j=txt?JSON.parse(txt):null}catch(e){}
+  if(!r.ok){const raw=(j&&(j.msg||j.message||j.error_description||j.error))||("HTTP "+r.status);const x=new Error(authMsg(raw,r.status));x.status=r.status;x.raw=raw;throw x}
+  return j;
+}
+function authMsg(m,st){
+  if(st===429||/rate limit/i.test(m))return "요청이 많아요. 잠시 후 다시 시도해 주세요";
+  if(/invalid login credentials/i.test(m))return "이메일 또는 PIN이 맞지 않아요";
+  if(/already registered|already been registered|user_already_exists/i.test(m))return "이미 가입된 이메일이에요. 로그인해 주세요";
+  if(/not confirmed/i.test(m))return "메일함의 인증 링크를 먼저 눌러 주세요";
+  if(/password should be|weak_password|at least/i.test(m))return "PIN이 서버 조건에 맞지 않아요 (README의 비밀번호 최소 길이 설정 확인)";
+  if(/invalid.*email|unable to validate email/i.test(m))return "이메일 주소를 확인해 주세요";
+  if(/jwt|token/i.test(m)&&st===401)return "로그인이 만료됐어요. 다시 로그인해 주세요";
+  return m;
+}
+function setSession(j){
+  AUTH={at:j.access_token,rt:j.refresh_token,exp:Date.now()+(+j.expires_in||3600)*1000,
+    uid:(j.user&&j.user.id)||(AUTH&&AUTH.uid)||"",email:(j.user&&j.user.email)||(AUTH&&AUTH.email)||""};
+  saveAuth();
+}
+async function ensureFresh(){
+  if(!AUTH||AUTH.exp-60e3>Date.now())return;
+  if(!refreshing)refreshing=(async()=>{
+    try{setSession(await sbFetch("/auth/v1/token?grant_type=refresh_token",{method:"POST",body:{refresh_token:AUTH.rt},auth:false}))}
+    catch(e){if(e.status&&e.status<500){AUTH=null;saveAuth();SYNC.err="로그인이 만료됐어요. 다시 로그인해 주세요."}throw e}
+    finally{refreshing=null}})();
+  return refreshing;
+}
+const backTo=()=>enc(location.origin+location.pathname);
+async function signIn(email,pin){setSession(await sbFetch("/auth/v1/token?grant_type=password",{method:"POST",body:{email,password:pin},auth:false}))}
+async function signUp(email,pin){const j=await sbFetch("/auth/v1/signup?redirect_to="+backTo(),{method:"POST",body:{email,password:pin},auth:false});if(j&&j.access_token){setSession(j);return true}return false}
+async function signOut(){try{await sbFetch("/auth/v1/logout",{method:"POST"})}catch(e){}AUTH=null;saveAuth()}
+
+/* 로컬 ↔ 서버 행 변환 */
+function rowOf(L,id){const p=S.p[L][id],q=S.q[L][id]||[0,0],sp=S.sp[L][id];
+  return {user_id:AUTH.uid,lang:L,item_id:id,status:stOf(L,id),star:!!S.star[L][id],
+    reps:p?p.r:null,ease:p?p.e:null,ivl:p?p.i:null,due_at:p?Math.round(p.d):null,lapses:p?(p.lp||0):null,last_at:p&&p.s?Math.round(p.s):null,
+    quiz_ok:q[0]||0,quiz_ng:q[1]||0,speak_best:sp==null?null:Math.round(sp),seen_at:S.seen[L][id]||null,updated_at:S.mod[L][id]||Date.now()}}
+function applyRow(r){const L=r.lang,id=r.item_id;
+  if(r.reps==null)delete S.p[L][id];else S.p[L][id]={r:r.reps,e:r.ease,i:r.ivl,d:r.due_at,lp:r.lapses||0,s:r.last_at||0};
+  if(r.star)S.star[L][id]=1;else delete S.star[L][id];
+  if(r.status==="known")S.st[L][id]="k";else if(r.status==="skip")S.st[L][id]="x";else delete S.st[L][id];
+  if(r.quiz_ok||r.quiz_ng)S.q[L][id]=[r.quiz_ok,r.quiz_ng];else delete S.q[L][id];
+  if(r.speak_best!=null)S.sp[L][id]=r.speak_best;else delete S.sp[L][id];
+  if(r.seen_at)S.seen[L][id]=r.seen_at;else delete S.seen[L][id];
+  S.mod[L][id]=r.updated_at;delete S.dirty[L][id];}
+const stateBlob=()=>({set:S.set,scope:S.scope,hist:S.hist,day:S.day,seenHelp:S.seenHelp||0});
+function applyState(d){if(!d)return;
+  if(d.set)S.set=merge(DEF().set,d.set);
+  if(d.scope)S.scope=merge(DEF().scope,d.scope);
+  if(d.hist)for(const k in d.hist)S.hist[k]=Math.max(S.hist[k]||0,d.hist[k]);
+  if(d.day&&d.day.d===S.day.d)for(const L of ["vi","en"])S.day.n[L]=Math.max(S.day.n[L]||0,(d.day.n||{})[L]||0);
+  if(d.seenHelp)S.seenHelp=1;}
+function markAllDirty(now){for(const L of ["vi","en"]){
+  const ids=new Set([...Object.keys(S.p[L]),...Object.keys(S.q[L]),...Object.keys(S.sp[L]),...Object.keys(S.star[L]),...Object.keys(S.st[L]),...Object.keys(S.seen[L])]);
+  for(const id of ids){S.mod[L][id]=now?Date.now():(S.mod[L][id]||(S.p[L][id]&&S.p[L][id].s)||1);S.dirty[L][id]=1}}}
+const dirtyCount=()=>Object.keys(S.dirty.vi).length+Object.keys(S.dirty.en).length;
+function linkAccount(){if(!AUTH)return;if(S.sync.uid!==AUTH.uid){S.sync={uid:AUTH.uid};markAllDirty(false);save()}}
+let syncT=0;
+function schedSync(){if(!AUTH)return;clearTimeout(syncT);syncT=setTimeout(()=>syncNow(),4000)}
+async function syncNow(){
+  if(!SB_ON||!AUTH)return;
+  if(SYNC.busy){SYNC.again=true;return}
+  SYNC.busy=true;SYNC.err="";updAcc();let changed=0;
+  try{
+    linkAccount();
+    /* 1) 내려받기: 마지막으로 받은 서버 시각 이후 행만 */
+    const since=S.sync.pullAt||"1970-01-01T00:00:00Z";let last=since;
+    for(let off=0;;off+=1000){
+      const rows=await sbFetch(`/rest/v1/progress?select=*&server_at=gte.${enc(since)}&order=server_at.asc,item_id.asc&limit=1000&offset=${off}`);
+      for(const r of rows){if(!S.mod[r.lang])continue;const lm=S.mod[r.lang][r.item_id]||0;
+        if(r.updated_at>lm||(r.updated_at===lm&&!S.dirty[r.lang][r.item_id])){if(r.updated_at!==lm)changed++;applyRow(r)}
+        if(r.server_at>last)last=r.server_at}
+      if(rows.length<1000)break}
+    S.sync.pullAt=last;
+    /* 2) 올리기: 이 기기에서 바뀐 항목 */
+    for(const L of ["vi","en"]){const ids=Object.keys(S.dirty[L]);
+      for(let i=0;i<ids.length;i+=500){const rows=ids.slice(i,i+500).map(id=>rowOf(L,id));
+        await sbFetch("/rest/v1/progress?on_conflict=user_id,lang,item_id",{method:"POST",headers:{Prefer:"resolution=merge-duplicates,return=minimal"},body:rows});
+        for(const r of rows)if(S.mod[L][r.item_id]===r.updated_at)delete S.dirty[L][r.item_id]}}
+    /* 3) 설정·학습 기록 */
+    const us=await sbFetch("/rest/v1/user_state?select=data,updated_at");
+    if(us&&us[0]&&us[0].updated_at>(S.sync.stateAt||0)){applyState(us[0].data);S.sync.stateAt=us[0].updated_at;changed++}
+    const blob=JSON.stringify(stateBlob());
+    if(blob!==S.sync.blob){const t=Date.now();
+      await sbFetch("/rest/v1/user_state?on_conflict=user_id",{method:"POST",headers:{Prefer:"resolution=merge-duplicates,return=minimal"},body:[{user_id:AUTH.uid,data:JSON.parse(blob),updated_at:t}]});
+      S.sync.blob=blob;S.sync.stateAt=t}
+    S.sync.at=Date.now();
+  }catch(e){SYNC.err=e.message||"동기화하지 못했어요"}
+  finally{
+    SYNC.busy=false;save();
+    if(changed&&view!=="cards"&&view!=="prefs"){CS=null;SP=null;render()}else updAcc();
+    if(SYNC.again){SYNC.again=false;setTimeout(syncNow,500)}
+  }
+}
+function fmtAgo(t){if(!t)return "아직 없음";const m=Math.round((Date.now()-t)/6e4);if(m<1)return "방금";if(m<60)return m+"분 전";const h=Math.round(m/60);if(h<24)return h+"시간 전";return Math.round(h/24)+"일 전"}
+function accHTML(){
+  if(!SB_ON)return `<p class="sm" style="margin:0">계정 서버가 아직 연결되지 않았어요.</p><p class="sm mut" style="margin:6px 0 0">Supabase 프로젝트를 만들고 <span class="nw">config.json</span>에 주소·공개 키를 넣으면 이메일 + PIN으로 로그인할 수 있어요. (README 참고)</p>`;
+  if(AUTH){const n=dirtyCount();
+    return `<div class="who"><b>${esc(AUTH.email||"로그인됨")}</b><span class="sm mut nw">로그인 중</span></div>
+    <p class="sm mut" style="margin:6px 0 10px">${SYNC.busy?"동기화 중…":`마지막 동기화 ${fmtAgo(S.sync.at)}`}${n?` · 올릴 변경 ${n}개`:""}</p>
+    ${SYNC.err?`<div class="warn" style="margin:0 0 10px">${esc(SYNC.err)}</div>`:""}
+    <div class="row"><button class="btn sm pri" data-act="accsync" ${SYNC.busy?"disabled":""}>지금 동기화</button><button class="btn sm" data-act="accpin">PIN 변경</button><span class="sp"></span><button class="btn sm" data-act="acclogout">로그아웃</button></div>`}
+  return `<p class="sm mut" style="margin:0">이메일과 숫자 PIN 6자리로 로그인하면 휴대폰·PC 어디서든 진도가 이어져요. 이 기기의 진도는 처음 로그인할 때 계정에 합쳐져요.</p>
+  <div class="two"><input type="email" id="accEmail" placeholder="이메일" autocomplete="email" value="${esc(S.sync.email||"")}"><input type="password" id="accPin" placeholder="PIN 6자리" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="current-password"></div>
+  ${SYNC.err?`<div class="warn" style="margin:0 0 10px">${esc(SYNC.err)}</div>`:""}${SYNC.msg?`<p class="sm" style="margin:0 0 10px">${esc(SYNC.msg)}</p>`:""}
+  <div class="row"><button class="btn sm pri" data-act="acclogin" ${SYNC.busy?"disabled":""}>로그인</button><button class="btn sm" data-act="accsignup" ${SYNC.busy?"disabled":""}>계정 만들기</button><span class="sp"></span><button class="btn sm" data-act="accforgot">PIN을 잊었어요</button></div>`;
+}
+function updAcc(){const el=document.getElementById("acc");if(!el)return;
+  const e=document.getElementById("accEmail"),p=document.getElementById("accPin");const ev=e&&e.value,pv=p&&p.value;
+  el.innerHTML=accHTML();
+  const e2=document.getElementById("accEmail"),p2=document.getElementById("accPin");if(e2&&ev!=null)e2.value=ev;if(p2&&pv!=null)p2.value=pv}
+function accInput(){const email=(($("#accEmail")||{}).value||"").trim().toLowerCase(),pin=(($("#accPin")||{}).value||"").trim();
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){SYNC.err="이메일 주소를 확인해 주세요";updAcc();return null}
+  if(!PIN_RE.test(pin)){SYNC.err="PIN은 숫자 6자리예요";updAcc();return null}
+  S.sync.email=email;return {email,pin}}
+async function accRun(fn){SYNC.busy=true;SYNC.err="";SYNC.msg="";updAcc();try{await fn()}catch(e){SYNC.err=e.message}finally{SYNC.busy=false;updAcc()}}
+const ACC_ACT={
+  acclogin:()=>{const v=accInput();if(!v)return;accRun(async()=>{await signIn(v.email,v.pin);toast("로그인했어요");linkAccount()}).then(()=>{if(AUTH)syncNow()})},
+  accsignup:()=>{const v=accInput();if(!v)return;accRun(async()=>{const inNow=await signUp(v.email,v.pin);if(inNow){toast("계정을 만들었어요");linkAccount()}else SYNC.msg="인증 메일을 보냈어요. 메일의 링크를 누르면 이 앱으로 돌아와 로그인돼요."}).then(()=>{if(AUTH)syncNow()})},
+  accforgot:()=>{const email=(($("#accEmail")||{}).value||"").trim().toLowerCase();if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){SYNC.err="PIN을 재설정할 이메일을 위 칸에 입력해 주세요";updAcc();return}
+    accRun(async()=>{await sbFetch("/auth/v1/recover?redirect_to="+backTo(),{method:"POST",body:{email},auth:false});SYNC.msg="PIN 재설정 메일을 보냈어요. 링크를 누르면 새 PIN을 정할 수 있어요."})},
+  accsync:()=>syncNow(),
+  accpin:()=>pinSheet(),
+  acclogout:()=>openSheet(`<h3>로그아웃</h3><p>이 기기의 진도는 그대로 남고, 계정과의 동기화만 멈춰요.${dirtyCount()?` <b>아직 올리지 못한 변경 ${dirtyCount()}개</b>가 있어요.`:""}</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="dologout">로그아웃</button></div>`),
+  dologout:async()=>{closeSheet();await signOut();SYNC.err="";toast("로그아웃했어요");render()},
+  dopin:()=>{const a=(($("#pin1")||{}).value||"").trim(),b=(($("#pin2")||{}).value||"").trim();
+    if(!PIN_RE.test(a)){toast("PIN은 숫자 6자리예요");return}if(a!==b){toast("두 PIN이 달라요");return}
+    sbFetch("/auth/v1/user",{method:"PUT",body:{password:a}}).then(()=>{closeSheet();toast("PIN을 바꿨어요")},e=>toast(e.message))}
+};
+function pinSheet(){openSheet(`<h3>새 PIN</h3><p class="sm mut">숫자 6자리</p><div class="acc"><div class="two" style="grid-template-columns:1fr 1fr"><input type="password" id="pin1" inputmode="numeric" maxlength="6" placeholder="새 PIN" autocomplete="new-password"><input type="password" id="pin2" inputmode="numeric" maxlength="6" placeholder="한 번 더" autocomplete="new-password"></div></div><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="dopin">저장</button></div>`)}
+/* 인증·재설정 메일 링크로 돌아왔을 때 (#access_token=…&type=signup|recovery) */
+function readAuthHash(){const h=location.hash.slice(1);if(!/access_token=|error_description=/.test(h))return null;
+  const o=Object.fromEntries(new URLSearchParams(h));try{history.replaceState(null,"","#prefs")}catch(e){}return o}
+async function finishMailLink(o){
+  if(o.error_description){SYNC.err=decodeURIComponent(o.error_description.replace(/\+/g," "));updAcc();return}
+  if(!SB_ON)return;
+  setSession({access_token:o.access_token,refresh_token:o.refresh_token,expires_in:o.expires_in});
+  try{const u=await sbFetch("/auth/v1/user");AUTH.uid=u.id;AUTH.email=u.email;saveAuth()}catch(e){SYNC.err=e.message;updAcc();return}
+  linkAccount();updAcc();
+  if(o.type==="recovery"){pinSheet();toast("새 PIN을 정해 주세요")}else toast("메일 인증 완료 — 로그인됐어요");
+  syncNow();
 }
 
 /* ---------- 렌더 & 이벤트 ---------- */
@@ -670,7 +855,7 @@ const ACT={
   lang:b=>{if(S.lang===b.dataset.l)return;S.lang=b.dataset.l;save();try{if(hasTTS)speechSynthesis.cancel()}catch(e){}DS.open=null;if(DS.cat&&!CATS_OF[S.lang].includes(DS.cat))DS.cat="";render()},
   say:b=>{const it=ITEM[S.lang][b.dataset.id];if(it)speak(it.t)},
   sayt:b=>speak(decodeURIComponent(b.dataset.t),b.dataset.l||S.lang,!!b.dataset.slow),
-  star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;save();b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
+  star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;touch(L,id);save();b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
   catgo:b=>{const L=S.lang;S.scope[L]={...S.scope[L],cats:[b.dataset.c],type:"s",star:false};save();CS=null;go("cards")},
   scope:()=>{draft=null;scopeSheet()},
   sc:b=>{const c=b.dataset.c;if(!c)draft.cats=[];else{const i=draft.cats.indexOf(c);i<0?draft.cats.push(c):draft.cats.splice(i,1)}scopeSheet()},
@@ -679,7 +864,7 @@ const ACT={
   sst:()=>{draft.star=!draft.star;scopeSheet()},
   scx:()=>{draft=null;closeSheet()},
   scok:()=>{S.scope[S.lang]=draft;draft=null;save();closeSheet();if(view==="quiz")QS.ph="setup";render()},
-  flip:()=>{if(CS.flip)return;CS.flip=true;render();if(S.set.auto)speak(ITEM[CS.L][CS.q[CS.i]].t)},
+  flip:()=>{if(CS.flip)return;CS.flip=true;markSeen(CS.L,CS.q[CS.i]);render();if(S.set.auto)speak(ITEM[CS.L][CS.q[CS.i]].t)},
   grade:b=>grade(+b.dataset.g),
   morenew:()=>{S.day.n[S.lang]=Math.max(0,S.day.n[S.lang]-10);save();CS=null;render()},
   qtype:b=>{QS.type=b.dataset.k;render()},
@@ -695,11 +880,13 @@ const ACT={
   sphide:()=>{SP.hide=!SP.hide;render()},
   sphide1:b=>{b.outerHTML=`<div class="tg">${esc(ITEM[S.lang][SP.order[SP.i%SP.order.length]].t)}</div>`},
   spmove:b=>{try{rec&&rec.abort()}catch(e){}SP.i=(SP.i+(+b.dataset.d)+SP.order.length)%SP.order.length;SP.res=null;SP.err="";SP.state="idle";render();window.scrollTo(0,0)},
-  spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();save();ACT.spmove({dataset:{d:1}})},
+  spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();touch(L,id);save();ACT.spmove({dataset:{d:1}})},
   dtype:b=>{DS.type=b.dataset.k;DS.open=null;DS.lim=200;render()},
   dcat:b=>{DS.cat=b.dataset.c;DS.open=null;DS.lim=200;render()},
   dstar:()=>{DS.star=!DS.star;render()},
-  dopen:b=>{DS.open=DS.open===b.dataset.id?null:b.dataset.id;renderDictList()},
+  dopen:b=>{DS.open=DS.open===b.dataset.id?null:b.dataset.id;if(DS.open)markSeen(S.lang,DS.open);renderDictList()},
+  dmark:b=>{setSt(S.lang,b.dataset.id,b.dataset.s);toast(b.dataset.s==="k"?"앎으로 표시 — 카드에서 빠져요":b.dataset.s==="x"?"스킵 — 카드·퀴즈·말하기에서 빠져요":"되돌렸어요");CS=null;SP=null;renderDictList()},
+  cmark:b=>{const L=CS.L,id=CS.q[CS.i];setSt(L,id,b.dataset.s);CS.q=CS.q.filter(x=>x!==id);CS.flip=false;CS.dir=null;toast(b.dataset.s==="k"?"앎으로 표시했어요 · 사전에서 되돌릴 수 있어요":"스킵했어요 · 사전에서 되돌릴 수 있어요");render()},
   dmore:()=>{DS.lim+=200;renderDictList()},
   dwrap:()=>{DS.wrap=!DS.wrap;render()},
   tog:b=>{const k=b.dataset.k;S.set[k]=!S.set[k];save();render()},
@@ -707,11 +894,12 @@ const ACT={
   copyx:()=>{const t=exportJSON();(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>toast("백업 내용을 복사했어요"),()=>openSheet(`<h3>백업 내용</h3><p class="sm mut">아래 내용을 길게 눌러 전체 복사해 메모에 보관하세요.</p><textarea readonly>${esc(t)}</textarea><button class="btn blk" style="margin-top:10px" data-act="closesheet">닫기</button>`))},
   importsheet:()=>openSheet(`<h3>백업 복원</h3><p class="sm mut">백업 파일을 고르거나 복사해 둔 내용을 붙여 넣으세요. 지금 진도는 백업으로 바뀝니다.</p><input type="file" id="impf" accept="application/json,.json"><textarea id="impt" placeholder="백업 내용 붙여넣기" style="margin-top:10px"></textarea><div class="row" style="margin-top:10px"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="doimport">복원</button></div>`),
   doimport:()=>{const f=$("#impf"),t=$("#impt");if(f&&f.files&&f.files[0]){f.files[0].text().then(importJSON)}else if(t&&t.value.trim())importJSON(t.value.trim());else toast("파일이나 내용을 넣어 주세요")},
-  reset:()=>openSheet(`<h3>${LANGS[S.lang].name} 진도 초기화</h3><p>카드 복습 기록, 퀴즈·말하기 기록이 모두 지워져요. 즐겨찾기는 남아요.</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="doreset" style="background:var(--ng);border-color:var(--ng);color:#fff">초기화</button></div>`),
-  doreset:()=>{const L=S.lang;S.p[L]={};S.q[L]={};S.sp[L]={};S.day.n[L]=0;save();CS=null;SP=null;closeSheet();toast("초기화했어요");render()},
+  reset:()=>openSheet(`<h3>${LANGS[S.lang].name} 진도 초기화</h3><p>카드 복습 기록, 퀴즈·말하기 기록, 앎·스킵 표시가 모두 지워져요. 즐겨찾기는 남아요. 로그인 중이면 계정에서도 지워져요.</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="doreset" style="background:var(--ng);border-color:var(--ng);color:#fff">초기화</button></div>`),
+  doreset:()=>{const L=S.lang;const ids=new Set([...Object.keys(S.p[L]),...Object.keys(S.q[L]),...Object.keys(S.sp[L]),...Object.keys(S.st[L]),...Object.keys(S.seen[L])]);S.p[L]={};S.q[L]={};S.sp[L]={};S.st[L]={};S.seen[L]={};S.day.n[L]=0;for(const id of ids)touch(L,id);save();CS=null;SP=null;closeSheet();toast("초기화했어요");render()},
   help:()=>toggleHelp(),
   closesheet:()=>closeSheet()
 };
+Object.assign(ACT,ACC_ACT);
 function toggleHelp(force){const h=$("#help"),open=force!==undefined?force:h.hidden;h.hidden=!open;$("#helpBtn").setAttribute("aria-expanded",String(open));if(open&&!S.seenHelp){S.seenHelp=1;save();const d=$("#helpBtn .dot");if(d)d.remove()}}
 document.addEventListener("pointerdown",e=>{const h=$("#help");if(!h.hidden&&!e.target.closest("#help,#helpBtn"))toggleHelp(false)});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){toggleHelp(false);closeSheet()}});
@@ -722,6 +910,7 @@ document.addEventListener("change",e=>{const el=e.target.closest("[data-ch]");if
   if(k==="rate"){S.set.rate[el.dataset.l]=+el.value;}
   if(k==="dir")S.set.dir=el.value;
   if(k==="newPerDay"){S.set.newPerDay=+el.value;CS=null}
+  if(k==="dst"){DS.st=el.value;DS.open=null;DS.lim=200;renderDictList();return}
   save();render()});
 document.addEventListener("input",e=>{const el=e.target;if(el.dataset&&el.dataset.ch==="rate"){const lab=el.parentElement.querySelector("label span");if(lab)lab.textContent=(+el.value).toFixed(2)+"×"}});
 document.addEventListener("keydown",e=>{
@@ -729,10 +918,13 @@ document.addEventListener("keydown",e=>{
   if(view==="cards"&&CS&&CS.i<CS.q.length){if(e.key===" "||e.key==="Enter"){e.preventDefault();CS.flip?null:ACT.flip()}else if(CS.flip&&"1234".includes(e.key))grade(+e.key-1)}
   if(view==="quiz"&&QS.ph==="q"){if(QS.pick===null&&"1234".includes(e.key))qpick(+e.key-1);else if(QS.pick!==null&&(e.key==="Enter"||e.key===" ")){e.preventDefault();ACT.qnext()}}
 });
-document.addEventListener("visibilitychange",()=>{if(!document.hidden){const d=S.day.d;rollDay();if(d!==S.day.d){CS=null;render()}}});
+document.addEventListener("visibilitychange",()=>{if(!document.hidden){const d=S.day.d;rollDay();if(d!==S.day.d){CS=null;render()}syncNow()}else if(AUTH&&dirtyCount())syncNow()});
+setInterval(()=>{if(!document.hidden&&AUTH)syncNow()},5*60e3);
 
-view=VIEWS[location.hash.slice(1)]?location.hash.slice(1):"home";
+const fromMail=readAuthHash();
+view=fromMail?"prefs":VIEWS[location.hash.slice(1)]?location.hash.slice(1):"home";
 render();
+if(fromMail)finishMailLink(fromMail);else if(AUTH)syncNow();
 
 /* 오프라인 캐시 (지원되는 곳에서만) */
 if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostname==="localhost")){

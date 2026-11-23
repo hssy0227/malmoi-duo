@@ -1,5 +1,5 @@
+*.zip
+.DS_Store
+__pycache__/
 pkg/
 shots/
-*.zip
-__pycache__/
-.DS_Store

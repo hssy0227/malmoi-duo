@@ -1,0 +1,53 @@
+# Lv5 (CEFR C1 · 베트남어 능력 기준 5등급) — 시사·추상 토론·관용구(thành ngữ)·격식체
+@opinion
+5|이 문제는 단기적 이익보다 장기적 관점에서 접근해야 한다고 봅니다.|Tôi cho rằng vấn đề này cần được tiếp cận từ góc độ dài hạn thay vì lợi ích trước mắt.|cho rằng=~라고 보다; tiếp cận=접근하다; góc độ=관점; lợi ích trước mắt=눈앞의 이익|
+5|양측의 주장 모두 일리가 있지만 근거의 무게는 분명히 다릅니다.|Lập luận của cả hai bên đều có lý, nhưng sức nặng của dẫn chứng rõ ràng là khác nhau.|lập luận=논증·주장; có lý=일리 있다; dẫn chứng=근거·예증|
+5|규제를 강화하는 것만이 능사는 아니라고 생각합니다.|Tôi nghĩ siết chặt quản lý không phải là giải pháp vạn năng.|siết chặt=조이다·강화하다; vạn năng=만능의|
+5|그 정책은 취지는 좋지만 현실과 괴리가 큽니다.|Chính sách đó có mục đích tốt nhưng lại xa rời thực tế.|chính sách=정책; xa rời thực tế=현실과 동떨어진|
+5|이 사안을 흑백 논리로 판단해서는 안 됩니다.|Không nên đánh giá vấn đề này theo kiểu trắng đen rạch ròi.|đánh giá=판단하다; rạch ròi=분명히 가르는|
+5|기술 발전이 일자리를 빼앗는다는 우려는 어느 정도 과장된 면이 있습니다.|Nỗi lo công nghệ cướp mất việc làm phần nào bị thổi phồng.|cướp=빼앗다; thổi phồng=과장하다; phần nào=어느 정도|
+5|결국 중요한 것은 제도가 아니라 그것을 운영하는 사람입니다.|Rốt cuộc điều quan trọng không phải là thể chế mà là con người vận hành nó.|thể chế=제도; vận hành=운영하다|
+5|반론을 제기하자면, 그 통계는 표본이 지나치게 작습니다.|Nếu phải phản biện thì số liệu đó có mẫu quá nhỏ.|phản biện=반론하다; số liệu=통계; mẫu=표본|
+5|사회적 합의 없이 추진된 개혁은 오래가기 어렵습니다.|Cải cách được thúc đẩy mà không có đồng thuận xã hội thì khó bền vững.|cải cách=개혁; đồng thuận=합의; bền vững=지속 가능한|
+5|언론은 사실 보도와 의견을 명확히 구분해야 합니다.|Báo chí cần phân biệt rõ giữa đưa tin sự thật và bày tỏ quan điểm.|báo chí=언론; đưa tin=보도하다; bày tỏ=표명하다|
+@culture
+5|"물을 마실 때는 그 근원을 생각하라"는 말처럼 베트남 사람들은 은혜를 중시해요.|Như câu "Uống nước nhớ nguồn", người Việt rất coi trọng lòng biết ơn.|uống nước nhớ nguồn=음수사원(은혜를 잊지 말라); biết ơn=감사하다; coi trọng=중시하다|베트남 대표 속담
+5|"천천히 가야 오래 간다"는 속담은 성급함을 경계하는 말이에요.|Câu tục ngữ "Chậm mà chắc" khuyên người ta đừng vội vàng.|tục ngữ=속담; chậm mà chắc=느려도 확실하게; vội vàng=서두르다|
+5|"한 그루 나무로는 숲이 되지 않는다"는 말은 협력의 중요성을 뜻해요.|Câu "Một cây làm chẳng nên non" nói lên tầm quan trọng của sự đoàn kết.|một cây làm chẳng nên non=나무 한 그루로는 산을 못 이룬다; đoàn kết=단결|뒤 구절: ba cây chụm lại nên hòn núi cao
+5|"원님 덕에 나팔 분다"와 비슷한 베트남 속담이 있나요?|Tiếng Việt có câu tục ngữ nào tương tự "ăn theo" người khác không?|tương tự=비슷한; ăn theo=남 덕에 득을 보다|
+5|"집에서 새는 바가지 들에서도 샌다"는 말과 비슷하게 "강산은 바뀌어도 본성은 바뀌기 어렵다"고 해요.|Người Việt cũng nói "Giang sơn dễ đổi, bản tính khó dời".|giang sơn=강산; bản tính=본성; dời=옮기다·바뀌다|
+5|"말은 돈을 들이지 않으니 골라서 상대를 기쁘게 하라"는 말이 있어요.|Có câu "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau".|lựa lời=말을 고르다; vừa lòng=흡족하게 하다|말조심을 권하는 속담
+5|베트남 현대 문학은 전쟁의 상처를 다양한 시각에서 조명해 왔어요.|Văn học hiện đại Việt Nam đã soi chiếu vết thương chiến tranh từ nhiều góc nhìn.|soi chiếu=조명하다; vết thương=상처; góc nhìn=시각|
+5|도시화가 빠르게 진행되면서 전통 마을 공동체가 해체되고 있어요.|Quá trình đô thị hóa diễn ra nhanh chóng khiến cộng đồng làng truyền thống dần tan rã.|đô thị hóa=도시화; cộng đồng=공동체; tan rã=해체되다|
+5|명절 풍습이 간소화되는 것을 아쉬워하는 어르신들이 많아요.|Nhiều người cao tuổi tiếc nuối khi phong tục ngày Tết ngày càng được giản lược.|phong tục=풍습; giản lược=간소화하다; tiếc nuối=아쉬워하다|
+@biz
+5|본 건은 이사회 승인을 거쳐야 최종 확정됩니다.|Vấn đề này phải được hội đồng quản trị phê duyệt mới chính thức có hiệu lực.|hội đồng quản trị=이사회; phê duyệt=승인하다; hiệu lực=효력|
+5|귀사의 제안을 면밀히 검토한 후 회신드리겠습니다.|Chúng tôi sẽ xem xét kỹ lưỡng đề xuất của quý công ty và phản hồi sau.|quý công ty=귀사; kỹ lưỡng=면밀히; phản hồi=회신하다|격식 서신체
+5|원자재 가격 변동이 수익성에 직접적인 영향을 미치고 있습니다.|Biến động giá nguyên vật liệu đang ảnh hưởng trực tiếp đến khả năng sinh lời.|biến động=변동; nguyên vật liệu=원자재; khả năng sinh lời=수익성|
+5|계약 조건 중 일부 조항은 재협상이 필요하다고 판단됩니다.|Chúng tôi nhận thấy một số điều khoản trong hợp đồng cần được đàm phán lại.|điều khoản=조항; đàm phán lại=재협상하다|
+5|시장 점유율 확대보다 수익 구조 개선이 우선입니다.|Cải thiện cơ cấu lợi nhuận cần được ưu tiên hơn việc mở rộng thị phần.|cơ cấu=구조; thị phần=시장 점유율; ưu tiên=우선하다|
+5|이번 투자는 위험 대비 기대 수익이 충분하지 않습니다.|Khoản đầu tư này chưa có lợi suất kỳ vọng tương xứng với rủi ro.|lợi suất=수익률; tương xứng=상응하는; rủi ro=위험|
+5|에너지 전환 정책에 맞춰 사업 포트폴리오를 재편하고 있습니다.|Chúng tôi đang tái cơ cấu danh mục kinh doanh theo chính sách chuyển dịch năng lượng.|tái cơ cấu=재편하다; danh mục=포트폴리오; chuyển dịch năng lượng=에너지 전환|
+5|협상 결렬 시를 대비한 대안도 마련해 두어야 합니다.|Cần chuẩn bị sẵn phương án dự phòng trong trường hợp đàm phán đổ vỡ.|phương án dự phòng=대안; đổ vỡ=결렬되다|
+@life
+5|돌이켜 보면 그 실패가 오히려 전화위복이 됐어요.|Nhìn lại thì thất bại ấy lại hóa ra là trong cái rủi có cái may.|trong cái rủi có cái may=불행 속에 행운(전화위복); hóa ra=알고 보니|
+5|낯선 땅에서 산다는 건 매일 자신의 한계를 시험하는 일이었어요.|Sống ở nơi đất khách quê người là ngày ngày thử thách giới hạn của bản thân.|đất khách quê người=타향; giới hạn=한계; thử thách=시험하다|
+5|나이가 들수록 소유보다 경험의 가치가 크다는 걸 깨달아요.|Càng lớn tuổi tôi càng nhận ra giá trị của trải nghiệm lớn hơn của cải.|của cải=재산; nhận ra=깨닫다|
+5|그분의 한마디가 제 인생의 방향을 바꿔 놓았어요.|Một câu nói của người ấy đã làm thay đổi hướng đi cuộc đời tôi.|hướng đi=방향|
+@study
+5|이 논문은 기존 연구의 한계를 보완하는 데 의의가 있어요.|Bài nghiên cứu này có ý nghĩa ở chỗ bổ khuyết cho hạn chế của các nghiên cứu trước.|bổ khuyết=보완하다; hạn chế=한계; ý nghĩa=의의|
+5|한자어를 알면 베트남어 추상 어휘를 훨씬 빨리 익힐 수 있어요.|Biết từ Hán Việt giúp học từ vựng trừu tượng tiếng Việt nhanh hơn nhiều.|từ Hán Việt=한자어; trừu tượng=추상적인; từ vựng=어휘|예: 'kinh tế'(經濟)=경제
+5|발표할 때는 결론을 먼저 제시하고 근거를 덧붙이는 게 효과적이에요.|Khi thuyết trình, nên nêu kết luận trước rồi bổ sung luận cứ.|thuyết trình=발표하다; luận cứ=논거; nêu=제시하다|
+5|원문의 뉘앙스를 살리면서 자연스럽게 번역하기란 쉽지 않아요.|Dịch sao cho tự nhiên mà vẫn giữ được sắc thái của nguyên văn không hề dễ.|sắc thái=뉘앙스; nguyên văn=원문|
+@nature
+5|기후 변화로 메콩 델타 지역의 염수 침입이 심각해지고 있어요.|Do biến đổi khí hậu, tình trạng xâm nhập mặn ở đồng bằng sông Cửu Long ngày càng nghiêm trọng.|xâm nhập mặn=염수 침입; đồng bằng sông Cửu Long=메콩 델타|
+5|무분별한 개발이 생태계 균형을 무너뜨리고 있어요.|Việc khai thác bừa bãi đang phá vỡ sự cân bằng sinh thái.|bừa bãi=무분별한; cân bằng sinh thái=생태계 균형|
+5|대기 오염이 심한 날에는 외출을 자제하라는 권고가 내려졌어요.|Cơ quan chức năng khuyến cáo người dân hạn chế ra ngoài vào những ngày ô nhiễm không khí nặng.|khuyến cáo=권고하다; hạn chế=자제하다; ô nhiễm=오염|뉴스 문체
+@money
+5|금리 인상 기조가 이어지면서 가계 부채 부담이 커지고 있어요.|Xu hướng tăng lãi suất kéo dài khiến gánh nặng nợ hộ gia đình ngày càng lớn.|lãi suất=금리; gánh nặng=부담; hộ gia đình=가계|
+5|환율 변동성이 커서 수입 기업들이 어려움을 겪고 있어요.|Tỷ giá biến động mạnh khiến các doanh nghiệp nhập khẩu gặp khó khăn.|tỷ giá=환율; nhập khẩu=수입|
+5|분산 투자는 위험을 줄이는 가장 기본적인 원칙이에요.|Đa dạng hóa danh mục đầu tư là nguyên tắc cơ bản nhất để giảm rủi ro.|đa dạng hóa=다각화하다; nguyên tắc=원칙|
+@tech
+5|생성형 AI의 확산은 저작권 개념에 근본적인 질문을 던지고 있어요.|Sự lan rộng của AI tạo sinh đang đặt ra câu hỏi căn bản về khái niệm bản quyền.|AI tạo sinh=생성형 AI; bản quyền=저작권; căn bản=근본적인|
+5|개인정보 보호와 데이터 활용 사이의 균형을 찾아야 합니다.|Cần tìm sự cân bằng giữa bảo vệ dữ liệu cá nhân và khai thác dữ liệu.|dữ liệu cá nhân=개인정보; khai thác=활용하다|
+5|디지털 전환은 기술 도입보다 조직 문화의 변화가 더 어렵습니다.|Chuyển đổi số khó ở chỗ thay đổi văn hóa tổ chức hơn là áp dụng công nghệ.|chuyển đổi số=디지털 전환; văn hóa tổ chức=조직 문화|

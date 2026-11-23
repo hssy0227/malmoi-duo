@@ -2,12 +2,12 @@
 @travel
 1|여행 왔어요.|Tôi đi du lịch.|du lịch=여행
 1|여기 처음 와 봐요.|Đây là lần đầu tôi đến đây.|lần đầu=처음
-1|사진 좀 찍어 주시겠어요?|Anh chụp giúp tôi một tấm ảnh được không?|chụp ảnh=사진 찍다; giúp=도와주다
-1|여기서 사진 찍어도 돼요?|Ở đây có được chụp ảnh không?|được=해도 되다
-1|입장료가 얼마예요?|Vé vào cửa bao nhiêu tiền?|vé vào cửa=입장권
-1|몇 시에 문 열어요?|Mấy giờ mở cửa ạ?|mở cửa=문을 열다
-1|몇 시에 문 닫아요?|Mấy giờ đóng cửa ạ?|đóng cửa=문을 닫다
-1|화장실이 어디예요?|Nhà vệ sinh ở đâu ạ?|nhà vệ sinh=화장실
+1|사진 한 장 찍어 주실 수 있어요?|Anh chụp giúp tôi một tấm ảnh được không?|chụp ảnh=사진 찍다; giúp=도와주다
+1|여기서는 사진 촬영이 되나요?|Ở đây có được chụp ảnh không?|được=해도 되다
+1|입장권은 얼마예요?|Vé vào cửa bao nhiêu tiền?|vé vào cửa=입장권
+1|몇 시에 문 열어요? (공손하게)|Mấy giờ mở cửa ạ?|mở cửa=문을 열다
+1|몇 시에 문 닫아요? (공손하게)|Mấy giờ đóng cửa ạ?|đóng cửa=문을 닫다
+1|화장실이 어디예요? (공손하게)|Nhà vệ sinh ở đâu ạ?|nhà vệ sinh=화장실
 1|경치가 정말 아름다워요.|Phong cảnh đẹp quá.|phong cảnh=경치
 2|이 근처에 볼 만한 곳이 있어요?|Gần đây có chỗ nào đáng xem không?|đáng xem=볼 만한; chỗ=곳
 2|여기서 걸어갈 수 있어요?|Từ đây đi bộ được không?|đi bộ=걷다
@@ -26,13 +26,13 @@
 2|일출 보려면 몇 시에 일어나야 해요?|Muốn ngắm bình minh thì mấy giờ phải dậy?|bình minh=일출; dậy=일어나다
 2|당일치기로 다녀올 수 있어요?|Có thể đi về trong ngày được không?|đi về trong ngày=당일치기로 다녀오다
 2|짐을 여기 맡겨도 돼요?|Tôi gửi hành lý ở đây được không?|gửi=맡기다; hành lý=짐
-2|와이파이 비밀번호가 뭐예요?|Mật khẩu wifi là gì ạ?|mật khẩu=비밀번호
+2|와이파이 비밀번호가 뭐예요? (공손하게)|Mật khẩu wifi là gì ạ?|mật khẩu=비밀번호
 2|유심 카드를 어디서 사요?|Mua sim điện thoại ở đâu?|sim=유심
 2|카드로 결제돼요?|Có trả bằng thẻ được không?|trả=지불하다; thẻ=카드
 2|현금만 받아요?|Chỉ nhận tiền mặt thôi à?|tiền mặt=현금; nhận=받다
 3|공항에서 시내까지 어떻게 가는 게 제일 편해요?|Từ sân bay vào trung tâm thì đi thế nào tiện nhất?|sân bay=공항; trung tâm=시내·중심; tiện=편리한
 3|그랩 부르면 얼마쯤 나와요?|Gọi Grab thì khoảng bao nhiêu tiền?|gọi=부르다; khoảng=약
-3|미터기 켜 주세요.|Anh bật đồng hồ tính tiền giúp tôi.|bật=켜다; đồng hồ tính tiền=미터기
+3|미터기 좀 켜 주시겠어요?|Anh bật đồng hồ tính tiền giúp tôi.|bật=켜다; đồng hồ tính tiền=미터기
 3|여기서 내려 주세요.|Cho tôi xuống ở đây.|xuống=내리다
 3|천천히 가 주세요, 멀미가 나요.|Anh đi chậm thôi, tôi bị say xe.|chậm=느린; say xe=차멀미하다
 3|하노이에서 사파까지 야간 버스로 가려고 해요.|Tôi định đi xe giường nằm từ Hà Nội lên Sa Pa.|xe giường nằm=침대 버스; lên=(북쪽·산으로) 올라가다
@@ -95,7 +95,7 @@
 3|러시아워에는 차가 엄청 막혀요.|Giờ cao điểm thì tắc đường kinh khủng.|giờ cao điểm=러시아워; tắc đường=길이 막히다; kinh khủng=엄청난
 3|요금은 내릴 때 내면 돼요.|Khi xuống xe thì trả tiền.|trả tiền=돈을 내다
 @stay
-2|빈방 있어요?|Còn phòng trống không ạ?|phòng trống=빈방
+2|빈방 있어요? (공손하게)|Còn phòng trống không ạ?|phòng trống=빈방
 3|에어컨이 고장 났어요.|Điều hòa bị hỏng rồi.|điều hòa=에어컨; hỏng=고장 난
 3|하루 더 묵을 수 있을까요?|Tôi ở thêm một đêm được không?|ở thêm=더 머물다
 3|체크아웃은 몇 시까지예요?|Mấy giờ phải trả phòng ạ?|trả phòng=체크아웃

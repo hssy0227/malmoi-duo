@@ -86,7 +86,7 @@
 4|그 결정은 지역 사회 전체에 이익이 될 것입니다.|The decision will benefit the entire community.|benefit=이익이 되다; community=지역 사회
 @life
 3|대학 시절 가장 기억에 남는 경험은 해외 교환 학생이었어요.|My most memorable experience in college was studying abroad as an exchange student.|memorable=기억에 남는; exchange student=교환 학생
-3|그 경험 덕분에 시야가 넓어졌어요.|That experience broadened my horizons.|broaden one's horizons=시야를 넓히다
+3|그 여행 이후로 다른 문화에 관심이 생겼어요.|Since that trip, I've become interested in other cultures.|become interested in=~에 관심이 생기다
 4|처음엔 힘들었지만 결국 많은 걸 배웠어요.|It was tough at first, but I ended up learning a lot.|end up=결국 ~하게 되다
 4|그 일을 계기로 진로를 바꾸게 됐어요.|That incident led me to change my career path.|career path=진로
 4|돌이켜 보면 그건 옳은 결정이었어요.|Looking back, it was the right decision.|looking back=돌이켜 보면

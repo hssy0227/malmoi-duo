@@ -1,0 +1,164 @@
+# NGSL 1,001~2,000위 누락 어휘 보강 (Lv2~4)
+@daily
+2|여기 앉아도 돼요?|Can I sit here?|sit=앉다
+2|아마 그럴 거예요.|Maybe you're right.|maybe=아마
+2|그건 쉽게 할 수 있어요.|You can do that easily.|easily=쉽게
+2|시계가 오 분 빨라요.|The clock is five minutes fast.|clock=시계
+2|오늘은 아빠가 저녁을 해요.|Dad is making dinner tonight.|dad=아빠
+2|네, 좋아요.|Okay, sounds good.|okay=좋아요
+3|그렇게 화내지 마세요.|Don't get so angry.|angry=화난
+3|그런 농담은 좀 불편해요.|That kind of joke makes me uncomfortable.|joke=농담
+3|오늘 운이 좋았어요.|I was lucky today.|lucky=운이 좋은
+3|행운을 빌어요!|Good luck!|luck=행운
+3|그 소식을 들으니 정말 감사한 마음이 들어요.|I'm so grateful to hear that.|grateful=감사하는
+3|아들이 자랑스러워요.|I'm proud of my son.|proud=자랑스러운
+3|이 일 때문에 신경 쓰지 마세요.|Don't let this bother you.|bother=신경 쓰이게 하다
+3|어디에나 사람이 많네요.|There are people everywhere.|everywhere=어디에나
+3|열쇠를 주머니에 넣었어요.|I put the keys in my pocket.|pocket=주머니
+3|기분 좋은 소식으로 하루를 시작했어요.|I started the day with some delightful news.|delightful=기분 좋은
+3|사과는 열두 개에 한 묶음이에요.|The apples come by the dozen.|dozen=12개
+3|이 가방은 작지만 꽤 쓸모 있어요.|This bag is tiny but quite useful.|tiny=아주 작은; useful=쓸모 있는
+3|비가 그치면 마당에서 놀자.|Let's play in the yard when the rain stops.|yard=마당
+3|침대 시트를 갈았어요.|I changed the bed sheets.|sheet=시트·종이 한 장
+3|병에 물을 가득 채워 주세요.|Please fill the bottle with water.|bottle=병
+4|아무튼 우리끼리 해결해 봐요.|Anyway, let's sort it out ourselves.|ourselves=우리 스스로; sort out=해결하다
+4|그는 진심으로 사과했어요.|He apologized sincerely and truly meant it.|truly=진심으로
+@health
+2|오늘 좀 아파요.|I feel a bit sick today.|sick=아픈
+3|그는 병에서 회복하는 중이에요.|He's recovering from an illness.|recover=회복하다; illness=질병
+3|목을 다쳐서 고개를 못 돌려요.|I hurt my neck and can't turn my head.|neck=목
+3|무릎이 아파서 스트레칭을 했어요.|My knees hurt, so I did some stretching.|stretch=스트레칭하다
+3|뼈가 부러진 건 아닌지 엑스레이를 찍었어요.|They took an X-ray to see if a bone was broken.|bone=뼈
+3|기름진 음식을 줄이고 식단을 바꿨어요.|I cut back on fatty foods and changed my diet.|fat=지방·뚱뚱한; diet=식단
+3|단백질을 충분히 먹는 게 중요해요.|It's important to get enough protein.|protein=단백질
+3|정신 건강도 몸만큼 중요해요.|Mental health is as important as physical health.|mental=정신의
+3|응급 상황이에요! 구급차를 불러 주세요.|It's an emergency! Please call an ambulance.|emergency=응급 상황
+3|그는 사고로 다리에 부상을 입었어요.|He got a leg injury in the accident.|injury=부상
+4|그 병은 조기에 발견하면 치료할 수 있어요.|The disease can be treated if it's found early, so don't ignore the signs.|disease=질병; ignore=무시하다
+4|그녀는 스트레스에 잘 대처하는 편이에요.|She copes well with stress.|cope=대처하다
+@social
+2|당신이 이 파티의 주최자군요.|So you're the host of this party.|host=주최자
+3|그는 회사 축구팀 코치예요.|He's the coach of the company football team.|coach=코치; football=축구
+3|그 사람 얼굴은 익숙한데 이름이 기억 안 나요.|His face is familiar, but I can't remember his name.|familiar=익숙한
+3|그 사람은 진짜 신사예요.|He's a real gentleman.|gentleman=신사
+3|오늘 우리 결혼기념일을 축하해요.|We're celebrating our wedding anniversary today.|celebrate=축하하다; anniversary=기념일
+3|그녀는 다른 사람을 탓하지 않아요.|She never blames other people.|blame=탓하다
+3|그는 키가 크고 마른 편이에요.|He's tall and rather thin.|thin=마른; rather=다소
+3|그건 그냥 사소한 일이에요.|It's just a minor affair.|affair=일·사건
+3|그 사람들은 서로 경쟁하는 사이예요.|They compete with each other.|compete=경쟁하다
+3|그 둘은 공원에서 키스했어요.|The two of them kissed in the park.|kiss=키스하다
+3|그 아이는 자기 장난감을 친구와 나눠요.|The child shares his toys with his friends.|toy=장난감
+3|그녀는 외국어를 할 수 있는 능력이 뛰어나요.|She's capable of speaking several languages.|capable=능력 있는
+3|그 사람 주변에는 늘 사람이 모여요.|People always surround him.|surround=둘러싸다
+4|그는 젊은 세대를 위해 봉사하고 있어요.|He's working to help the youth in his community.|youth=청년층
+4|그녀는 사람들 앞에서 말하는 걸 두려워하지 않아요.|She's not afraid of speaking in front of people.|afraid=두려워하는
+@work
+3|사장님이 회의 중이세요.|The boss is in a meeting.|boss=상사·사장
+3|그 회사는 직원을 백 명 고용하고 있어요.|The company employs a hundred people.|employ=고용하다
+3|월급이 다음 달부터 올라요.|My salary goes up next month.|salary=월급
+3|그는 회사 대표로 회의에 참석했어요.|He attended the meeting as a company representative.|representative=대표
+3|그는 영업 부서의 책임자예요.|He's the chief of the sales division.|chief=책임자; division=부서
+3|이 차트는 매출 추이를 보여 줘요.|This chart shows the sales trend.|chart=도표
+3|그녀는 제 조수로 일하고 있어요.|She works as my assistant.|assistant=조수·비서
+3|이 방법은 효과적으로 비용을 줄여요.|This method effectively cuts costs.|effectively=효과적으로
+3|이 자리에는 적합한 사람이 필요해요.|We need someone suitable for this position.|suitable=적합한
+3|회의는 대회의실에서 열려요.|The meeting is in the main hall.|hall=홀·회관
+3|그 정책은 다음 달부터 도입돼요.|The policy will be introduced next month.|introduce=도입하다
+3|그 공장은 자동차 부품을 수출해요.|The factory exports car parts.|export=수출하다
+3|그는 그 회사의 회장이에요.|He's the chairman of the company.|chairman=회장
+4|그 제조업체는 해외 시장에 집중하고 있어요.|The manufacturer is focusing on overseas markets.|manufacturer=제조업체
+4|그 기업은 세계적인 대기업이에요.|It's a global corporation.|corporation=기업
+4|그 위원회가 새 규정을 승인했어요.|The commission approved the new rules.|commission=위원회
+4|우리는 품질을 보장해요.|We guarantee the quality.|guarantee=보장하다
+4|이 시스템의 주요 구성 요소를 설명해 드릴게요.|Let me explain the main components of this system.|component=구성 요소
+4|이 기계에는 강력한 엔진이 들어 있어요.|This machine has a powerful engine.|powerful=강력한; engine=엔진
+4|이번 프로젝트의 개요를 간단히 말씀드릴게요.|Let me briefly outline this project.|outline=개요를 말하다
+4|그는 이 프로젝트에 깊이 관여하고 있어요.|He's deeply engaged in this project.|engage=관여하다
+4|그녀를 팀장으로 임명했어요.|They appointed her as team leader.|appoint=임명하다
+4|그 직원은 상당한 성과를 냈어요.|The employee achieved considerable results.|considerable=상당한; achieve=달성하다
+4|그 결과에 대한 판단은 잠시 보류할게요.|I'll hold off on my judgment of the results.|judgment=판단; hold off=보류하다
+4|그 계획은 처음부터 상당히 야심 찼어요.|The plan was somewhat ambitious from the start.|somewhat=다소; ambitious=야심 찬
+4|그 문제는 반드시 해결해야 할 중요한 과제예요.|It's a crucial issue that we must resolve.|crucial=중대한
+@move
+2|이 자리는 승객 전용이에요.|These seats are for passengers only.|passenger=승객
+3|버스가 언덕을 올라가고 있어요.|The bus is going up the hill.|hill=언덕
+3|그 비행기는 동쪽으로 날아가고 있어요.|The plane is flying east.|east=동쪽
+3|해안을 따라 드라이브했어요.|We drove along the coast.|coast=해안
+3|이 길은 서쪽으로 쭉 이어져요.|This road goes all the way west.|west=서쪽
+3|여행은 생각보다 긴 여정이었어요.|The trip turned out to be a long journey.|journey=여정
+3|바퀴에 펑크가 났어요.|One of the wheels has a flat tire.|wheel=바퀴; flat=바람 빠진
+3|이 광장은 항상 관광객으로 붐벼요.|This square is always crowded with tourists.|square=광장
+4|그 길은 너무 위험해서 밤에는 피하는 게 좋아요.|That road is too dangerous, so avoid it at night.|dangerous=위험한
+4|빙판길에서 미끄러질 뻔했어요.|I almost slipped on the ice.|ice=얼음
+@trouble
+3|그 사고로 차가 크게 부서졌어요.|The car was badly damaged in the crash.|crash=충돌 사고
+3|여기서 빠져나갈 방법이 없어요.|There's no way to escape from here.|escape=탈출하다
+3|그 아이는 울면서 소리쳤어요.|The child was crying and shouting.|shout=소리치다
+3|다시 한 번 상기시켜 드리자면, 마감은 금요일이에요.|Just to remind you, the deadline is Friday.|remind=상기시키다
+3|이 장비는 설치가 아주 간단해요.|This equipment is very easy to install.|install=설치하다
+3|건물이 화재로 파괴됐어요.|The building was destroyed by fire.|destroy=파괴하다
+3|경찰이 그 사건을 조사하고 있어요.|The police are investigating the case.|investigate=조사하다
+3|그 남자는 도둑질 혐의로 체포됐어요.|The man was arrested for theft.|arrest=체포하다; theft=절도
+3|그는 그 사건의 피해자예요.|He's the victim in that case.|victim=피해자
+3|목격자가 경찰에 사건을 설명했어요.|A witness described the incident to the police.|witness=목격자
+3|변호사와 상의해 보는 게 좋겠어요.|You should talk to a lawyer.|lawyer=변호사
+4|그 남자를 범인으로 의심하고 있어요.|They suspect the man of the crime.|suspect=의심하다
+4|그는 감옥에서 3년을 보냈어요.|He spent three years in prison.|prison=감옥
+4|법원은 아직 판결을 내리지 않았어요.|The court has not reached a judgment yet.|court=법원
+4|이 문제는 정의의 문제예요.|This is a matter of justice.|justice=정의
+@opinion
+3|그 말은 분명히 맞아요.|That's obviously true.|obviously=분명히
+3|그건 단순히 시간 문제예요.|It's simply a matter of time.|simply=단순히
+3|저도 그렇게 생각해요. 특히 그 부분이요.|I agree, particularly on that point.|particularly=특히
+3|그 사람이 늦을 거라고 생각해요.|I suppose he'll be late.|suppose=생각하다·추측하다
+3|아무도 그걸 알 수는 없죠.|Nobody can know that for sure.|for sure=확실히
+3|그런 제안은 정말 도움이 돼요.|That kind of suggestion is really helpful.|suggestion=제안; helpful=도움이 되는
+3|그 사람 말은 반만 맞아요.|He's only half right.|half=절반
+3|그 어떤 것도 완벽하지는 않아요.|None of them is perfect.|none=아무것도 ~않다
+3|둘 다 마음에 안 들어요.|I don't like either of them, and neither does she.|neither=~도 아니다; either=둘 중 어느 하나
+3|그 생각에는 동의하지 않아요. 게다가 비용도 문제예요.|I disagree with that. Besides, the cost is a problem.|besides=게다가
+4|정말로 그게 사실이라고 확신해요?|Are you seriously sure that's true?|seriously=진지하게
+4|그렇게 말하면 오해를 살 수 있어요.|Saying that could create the wrong impression.|impression=인상
+4|그 의견은 소수의 생각일 뿐이에요.|That's just the view of a minority.|minority=소수
+4|민주주의에서는 다양한 의견이 존중돼야 해요.|In a democracy, different opinions should be respected.|democracy=민주주의
+4|그 문제는 도덕적인 측면도 고려해야 해요.|We also need to consider the moral side of the issue.|moral=도덕적인
+4|그 둘의 조합은 의외로 잘 어울려요.|The combination of the two works surprisingly well.|combination=조합
+4|그 차이는 상당히 커요.|The difference is enormous.|enormous=엄청난
+4|그건 개인적으로는 동의하지만 공식적으로는 말하기 어려워요.|Personally, I agree, but I can't say so formally.|personally=개인적으로; formally=공식적으로
+4|그 제도의 장점을 잘 보존해야 해요.|We need to preserve the strengths of the system.|preserve=보존하다
+4|무엇보다 그 결정이 미치는 영향을 생각해야 해요.|Above all, we need to think about the implications of that decision.|implication=영향·함의
+4|그 주장은 잘못된 전제에서 출발했어요.|That argument starts from a false premise.|premise=전제
+4|이 문제는 시민 모두의 책임이에요.|This issue is the responsibility of every citizen.|citizen=시민
+4|그는 그 정책에 대해 강하게 항의했어요.|He strongly protested against the policy.|protest=항의하다
+4|그 법안은 의회에서 통과됐어요.|The bill was passed by parliament.|bill=법안; parliament=의회
+4|그녀는 그 결정에 대해 유권자들에게 설명했어요.|She explained the decision to the voters.|voter=유권자
+4|정치인은 국민의 목소리를 들어야 해요.|Politicians should listen to the voice of the people.|politician=정치인
+@culture
+3|그 왕은 백성들에게 존경받았어요.|The king was respected by his people.|king=왕
+3|그 군인은 전쟁에서 큰 공을 세웠어요.|The soldier served with honor in the war.|soldier=군인; honor=명예
+3|그 나라는 군대가 아주 강해요.|That country has a very strong army.|army=군대
+3|그 지역에는 오래된 돌 성벽이 남아 있어요.|An old stone wall still stands in that area.|stone=돌
+3|그 축제는 그 도시의 탄생을 기념해요.|The festival celebrates the birth of the city.|birth=탄생
+3|그 지역 사람들은 신앙심이 깊어요.|People in that region have deep faith.|faith=신앙
+3|그 나라는 종교의 자유를 보장해요.|The country guarantees freedom of religion.|religion=종교
+3|그 오래된 성당은 고전 건축의 대표작이에요.|The old cathedral is a classic example of its architecture.|classic=전형적인·고전의
+3|그 무용수는 무대 위에서 우아하게 움직였어요.|The dancer moved gracefully across the stage.|dancer=무용수; stage=무대
+3|그 전시회에는 고대 유물이 전시돼 있어요.|The exhibition displays ancient objects.|exhibition=전시회; ancient=고대의
+4|그 전투는 역사의 흐름을 바꿨어요.|That battle changed the course of history.|battle=전투
+4|그 나라는 국내 문제로 어려움을 겪고 있어요.|The country is struggling with domestic problems.|domestic=국내의; struggle=애쓰다·고군분투하다
+4|그 왕국은 여러 지방으로 나뉘어 있었어요.|The kingdom was divided into several districts.|district=지역·구역
+4|그 오래된 전통을 지키는 것이 공동체의 정신이에요.|Keeping the old traditions alive is the spirit of the community.|spirit=정신
+@study
+3|수학은 제가 제일 못하는 과목이에요.|Mathematics is my weakest subject.|mathematics=수학; weak=약한
+3|그 수업은 학문적인 글쓰기를 다뤄요.|The class covers academic writing.|academic=학문의
+3|시험 결과는 다음 주에 나와요.|The examination results come out next week.|examination=시험
+3|그 학교는 교육 환경이 좋아요.|The school has a good educational environment.|educational=교육의
+3|그 학생은 지능이 아주 높아요.|The student has very high intelligence.|intelligence=지능
+3|이 구절은 외워야 해요.|You need to memorize this passage.|passage=구절; memorize=암기하다
+3|그 표현을 사용해서 문장을 만들어 보세요.|Make a sentence using that phrase.|phrase=구·표현
+3|그는 과학적인 방법으로 문제를 풀었어요.|He solved the problem using a scientific method.|scientific=과학적인
+4|기억력은 반복을 통해 향상돼요.|Memory is enhanced through repetition.|enhance=향상시키다; repetition=반복
+4|그 연구에서 놀라운 결과가 도출됐어요.|Surprising results were derived from the study.|derive=도출하다
+4|그 이론은 하나의 개념에 불과해요.|The theory is merely a notion.|notion=개념
+4|그는 지식인으로서 사회 문제에 목소리를 냈어요.|As an intellectual, he spoke out on social issues.|intellectual=지식인
+4|아이를 잘 교육하는 건 부모의 몫이에요.|Educating children well is the parents' job.|educate=교육하다

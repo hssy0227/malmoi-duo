@@ -1,0 +1,247 @@
+# NGSL(일반 영어 핵심 2,800) 누락 어휘 보강 — 고빈도 단어가 실제 회화 문장 속에 들어가도록 작성 (Lv2~4)
+@greet
+2|저 남자분이 우리 새 팀원이에요.|That man is a new member of our team.|man=남자; member=구성원
+2|네, 맞아요. 저도 그 동네 출신이에요.|Yes, that's right. I'm from that town too.|yes=네; town=동네·소도시
+2|이분은 제 옛 동료이자 좋은 친구예요.|This is a former colleague and a good friend of mine.|former=이전의
+2|드디어 직접 만나 뵙네요. 얘기 많이 들었어요.|We finally meet in person. I've heard so much about you.|in person=직접
+3|다들 서로 이미 아는 사이인 것 같네요.|It looks like everybody already knows each other.|everybody=모두; already=이미
+3|이 동네에서 혼자 사신 지 오래됐어요?|Have you lived in this village by yourself for long?|village=마을; by oneself=혼자
+@daily
+2|아무것도 하기 싫은 날이에요.|It's one of those days when I don't feel like doing anything.|feel like -ing=~하고 싶다
+2|오늘은 정말 아무 일도 없었어요.|Nothing really happened today.|nothing=아무것도 ~않다
+2|갑자기 비가 쏟아지기 시작했어요.|Suddenly it started pouring.|suddenly=갑자기; pour=쏟아지다
+2|가장 좋아하는 계절이 뭐예요?|What's your favorite season?|favorite=가장 좋아하는; season=계절
+2|어젯밤에 이상한 꿈을 꿨어요.|I had a strange dream last night.|strange=이상한; dream=꿈
+3|웃으면 기분이 조금 나아져요.|Smiling makes me feel a little better.|smile=웃다
+3|요즘 머리를 기르고 있어요.|I'm growing my hair out these days.|hair=머리카락; grow out=기르다
+3|체중을 좀 줄여야 할 것 같아요.|I think I need to lose some weight.|weight=체중; lose=줄이다
+3|아마 내일은 좀 더 일찍 일어날 거예요.|I'll probably get up a bit earlier tomorrow.|probably=아마
+3|사실 저는 아침형 인간이 아니에요.|Actually, I'm not a morning person.|actually=사실은
+3|그거 말고 다른 거 필요한 거 있어요?|Do you need anything else?|else=그 밖의
+3|누가 문을 두드렸는데 아무도 없었어요.|Somebody knocked on the door, but nobody was there.|somebody=누군가; nobody=아무도 ~않다
+3|저는 혼자 있는 시간이 꼭 필요해요.|I really need some time to myself.|time to oneself=혼자만의 시간
+3|그 소식을 듣고 깜짝 놀랐어요.|I was surprised to hear the news.|surprised=놀란; news=소식
+3|정말 아름다운 저녁이에요.|What a beautiful evening.|beautiful=아름다운
+3|어떤 기분인지 상상이 돼요.|I can imagine how you feel.|imagine=상상하다
+3|그는 어제 이후로 연락이 없어요.|He hasn't contacted me since yesterday.|contact=연락하다
+4|어두운 데를 무서워하는 건 아이들한테 흔한 일이에요.|A fear of the dark is common among children.|fear=두려움; common=흔한
+4|웃음이 최고의 약이라고들 하잖아요.|They say laughter is the best medicine.|laughter=웃음; medicine=약
+@food
+2|이 식당은 차는 어떤 종류가 있어요?|What types of tea do you have here?|type=종류
+2|이 중에 어느 게 제일 덜 매워요?|Which of these is the least spicy?|which=어느 것; least=가장 덜
+3|저는 특히 매운 음식을 좋아해요.|I especially like spicy food.|especially=특히
+3|이 가게는 다양한 디저트로 유명해요.|This place is known for its variety of desserts.|variety=다양함; be known for=~로 유명하다
+3|빵 한 조각만 더 먹어도 될까요?|Could I have one more piece of bread?|piece=조각
+3|전 고기 대신 두부로 할게요.|I'll have tofu instead of meat.|instead of=~대신에
+3|여기는 일 인분 양이 정말 넉넉해요.|The portions here are really generous.|portion=1인분; generous=넉넉한
+3|이 집은 가격 대비 맛있어요.|The food here is good for the price.|price=가격
+4|메뉴판에 없는 메뉴도 주문할 수 있나요?|Is it possible to order something that isn't on the menu?|possible=가능한
+@shop
+2|이건 너무 비싸요. 더 싼 건 없어요?|This is too expensive. Is there anything cheaper?|expensive=비싼; cheap=싼
+3|둘 중에 하나를 고르기가 어려워요.|It's hard to choose between the two.|choose=고르다
+3|정확히 어떤 모델을 찾으세요?|Exactly which model are you looking for?|exactly=정확히
+3|이 신발은 디자인이 마음에 들어요.|I like the design of these shoes.|design=디자인
+3|그 가게는 시내 한가운데에 있어요.|The store is right in the center of town.|center=중심
+3|진열된 상품도 팔아요?|Do you sell the items on display?|display=진열; item=상품
+3|이 금 목걸이는 생일 선물이에요.|This gold necklace is a birthday gift.|gold=금; necklace=목걸이
+4|불행히도 그 상품은 단종됐어요.|Unfortunately, that product has been discontinued.|unfortunately=불행히도; discontinue=단종하다
+@move
+2|택시를 타면 더 빨라요.|It's faster if we take a taxi.|taxi=택시
+2|이 길 끝에서 왼쪽으로 도세요.|Turn left at the end of this street.|street=거리·길; turn left=좌회전하다
+3|여기서 공항까지는 몇 마일 정도 돼요.|It's a few miles from here to the airport.|mile=마일
+3|북쪽 출구로 나가세요.|Take the north exit.|north=북쪽; exit=출구
+3|그 마을은 강 남쪽에 있어요.|The village is south of the river.|south=남쪽
+3|비행기가 착륙할 때 귀가 아파요.|My ears hurt when the plane lands.|plane=비행기; land=착륙하다
+3|대중교통이 이 도시는 정말 잘 돼 있어요.|Public transport in this city is excellent.|public transport=대중교통
+3|차를 그 건물 뒤에 주차했어요.|I parked the car behind the building.|park=주차하다; behind=뒤에
+4|차량 통행이 금지된 구역이에요.|This area is closed to vehicles.|vehicle=차량; area=구역
+@time
+2|벌써 열두 시예요.|It's already twelve o'clock.|already=벌써
+3|잠깐 쉬었다가 계속할까요?|Shall we take a short pause and then continue?|pause=멈춤·잠깐 쉼; continue=계속하다
+3|다섯 시까지 기다려 줄 수 있어요?|Can you wait till five?|till=~까지
+3|몇 달 전만 해도 이 길은 공사 중이었어요.|Just a few months ago, this road was under construction.|ago=전에
+3|그 회의는 보통 한 시간 정도 걸려요.|The meeting normally takes about an hour.|normally=보통
+4|지난번에 말씀드린 대로 일정이 바뀌었어요.|As I mentioned previously, the schedule has changed.|previously=이전에; mention=언급하다
+@phone
+2|다시 연락 주시면 좋겠어요.|I hope you can get back to me.|hope=바라다
+3|잠깐만요, 메모할게요.|Hold on, let me take a note.|note=메모
+3|그분께 제가 전화했다고 전해 주시겠어요?|Could you tell him I called?|tell=말하다·전하다
+3|라디오에서 그 노래를 처음 들었어요.|I first heard that song on the radio.|radio=라디오
+3|전화번호를 다시 한번 확인하고 싶어요.|I'd like to double-check your telephone number.|telephone=전화; double-check=재확인하다
+4|저녁 일곱 시 이후에는 아무 때나 괜찮아요.|Any time after seven in the evening is fine, whatever suits you.|whatever=무엇이든; suit=맞다
+@work
+2|그녀는 이 일을 충분히 할 수 있어요.|She is able to handle this job.|be able to=~할 수 있다; handle=처리하다
+3|이 섹션은 제가 맡을게요.|I'll take care of this section.|section=부분
+3|그는 이 회사에서 가장 성실한 직원이에요.|He's the hardest worker in the company.|worker=직원
+3|그녀는 그 분야 전문가예요.|She's an expert in that field.|expert=전문가
+3|이 자리는 면접을 두 번 봐야 해요.|There are two interviews for this position.|interview=면접
+3|사장님이 다음 주에 사무실을 방문하세요.|The president of the company is visiting the office next week.|president=사장·대통령; visit=방문하다
+3|비서가 회의 일정을 잡아 줄 거예요.|My secretary will arrange the meeting.|secretary=비서; arrange=준비하다·잡다
+3|이 일은 우리 팀의 책임이에요.|This is our team's duty.|duty=책임·의무
+3|그 서류는 종이로도 필요해요.|We need the document on paper too.|paper=종이
+3|컴퓨터가 계속 꺼져요.|My computer keeps shutting down.|computer=컴퓨터
+4|그 단체는 비영리 조직이에요.|It's a non-profit organization.|organization=조직·단체
+4|여러 부서가 이 프로젝트에 참여하고 있어요.|Various departments are participating in this project.|various=다양한; participate=참여하다
+4|그는 업무상 출장이 잦은 편이에요.|He's likely to travel a lot for work.|likely=~할 것 같은
+4|이번 일로 그는 많은 걸 깨달았어요.|He realized a lot through this experience.|realize=깨닫다
+4|그 결정은 직원 전체에 영향을 줘요.|That decision affects every single employee.|single=단 하나의; affect=영향을 주다
+@social
+2|파티에 오면 좋겠어요.|I wish you could come to the party.|wish=~라면 좋겠다
+2|저 남자애는 누구예요?|Who's that boy?|boy=남자아이
+2|저 여자애가 제 조카예요.|That girl is my niece.|girl=여자아이
+3|그 커플은 정말 잘 어울려요.|That couple looks great together.|couple=커플
+3|그 사람 정말 재미있는 사람이에요.|He's a really funny guy.|funny=재미있는; guy=남자·녀석
+3|무슨 일인지 궁금하네요.|I wonder what's going on.|wonder=궁금해하다
+3|무엇이든 물어보세요.|Ask me anything you like.|anything=무엇이든
+3|다들 지금 자기 일만 신경 써요.|Everyone just looks after themselves these days.|themselves=그들 자신; look after=돌보다
+3|그녀는 스스로 그걸 해냈어요.|She did it all by herself.|herself=그녀 스스로
+3|그는 자기 실수를 인정하지 않았어요.|He didn't admit his own mistake.|admit=인정하다
+3|사실 그건 비밀이에요.|Actually, it's a secret.|secret=비밀
+3|팬들이 공항에 모였어요.|Fans gathered at the airport.|fan=팬; gather=모이다
+3|우리 아들이 어른이 다 됐어요.|My son is all grown up and an adult now.|adult=성인
+3|그분은 정말 사랑스러운 분이에요.|She's a lovely lady.|lovely=사랑스러운; lady=여성분
+4|아이를 키우는 건 큰 책임이 따르는 일이에요.|Bringing up a child comes with a big responsibility.|bring up=키우다; responsibility=책임
+4|그 소문이 사실인지 의심스러워요.|I doubt the rumor is true.|doubt=의심하다; rumor=소문
+@health
+2|의사 선생님을 만나야 할 것 같아요.|I think I need to see a doctor.|doctor=의사
+3|피를 조금 흘렸어요.|I lost a little blood.|blood=피
+3|발목을 삐어서 발이 부었어요.|I twisted my ankle, and my foot is swollen.|foot=발; twist=삐다
+3|통증이 어디서 시작됐어요?|Where did the pain start?|pain=통증
+3|입 안이 헐었어요.|I have a sore in my mouth.|mouth=입; sore=상처
+3|그 환자는 많이 좋아졌어요.|The patient is doing much better.|patient=환자
+3|치료는 보통 일주일 걸려요.|The treatment usually takes a week.|treatment=치료
+3|건강해지려면 잘 자는 게 중요해요.|Sleeping well is important for staying healthy.|healthy=건강한
+3|약국은 길 건너편에 있어요.|The drugstore is across the street.|drugstore=약국
+4|뇌는 잠을 자는 동안에도 일해요.|Your brain keeps working even while you sleep.|brain=뇌
+4|그는 오랫동안 허리 통증에 시달렸어요.|He suffered from back pain for years.|suffer=시달리다
+@travel
+2|이 동네는 처음 방문해요.|This is my first visit to this area.|visit=방문
+3|이 성당은 정말 아름다워요.|This church is really beautiful.|church=교회·성당
+3|저 산 꼭대기까지는 꽤 멀어요.|It's fairly far to the top of that mountain.|fairly=꽤
+3|섬 주변을 배로 한 바퀴 돌았어요.|We went round the island by boat.|round=~을 돌아
+3|이 마을 사람들은 대부분 농부예요.|Most people in this village are farmers.|farmer=농부
+3|그 박물관은 무료 입장이에요.|Access to the museum is free.|access=입장·이용
+3|이 다리는 나무로 만들어졌어요.|This bridge is made of wood.|wood=나무(목재); bridge=다리
+3|그 호텔은 해변 바로 앞에 있어요.|The hotel is right on the beach.|right=바로
+3|사막 한가운데서 별을 봤어요.|We watched the stars in the middle of the desert.|middle=한가운데; desert=사막
+4|국경을 넘을 때 여권을 확인해요.|They check your passport when you cross the border.|border=국경; cross=건너다
+4|그 지역은 야생 동물이 많기로 유명해요.|The area is famous for its wild animals.|wild=야생의
+@trouble
+2|도와주실 수 있으면 정말 좋겠어요.|I'd really appreciate it if you could help.|appreciate=감사하다
+3|제가 어떻게 해야 할지 조언 좀 해 주실래요?|Could you suggest what I should do?|suggest=제안하다
+3|무엇 때문에 그런지 이유를 모르겠어요.|I don't know the purpose of this.|purpose=목적
+3|지갑이 비어 있어요.|My wallet is empty.|empty=빈
+3|벽에 금이 갔어요.|There's a crack in the wall.|wall=벽; crack=금
+3|바닥에 구멍이 났어요.|There's a hole in the floor.|hole=구멍; floor=바닥
+3|문제가 해결되지 않으면 다시 연락 주세요.|Contact us again unless the problem is solved.|unless=~하지 않으면
+3|제 실수예요. 그렇지 않으면 이런 일이 없었을 거예요.|It's my mistake. Otherwise this wouldn't have happened.|otherwise=그렇지 않으면
+3|어디선가 타는 냄새가 나요.|I can smell something burning somewhere.|burn=타다; somewhere=어딘가에
+3|누군가 제 자전거를 훔쳐 갔어요.|Someone stole my bike.|steal=훔치다
+3|경찰관에게 신고했어요.|I reported it to a police officer.|officer=경관·직원; report=신고하다
+4|분실물 센터에 문의해 보세요.|Try asking at the lost property office.|property=물건·재산
+4|그분이 제 상황을 설명하는 걸 도와줬어요.|She helped me explain my circumstances.|circumstance=상황·사정
+4|이 문제는 전문가 도움 없이는 해결하기 힘들어요.|This is hardly something we can fix without an expert.|hardly=거의 ~않다
+@opinion
+2|그건 사실이 아니에요.|That isn't true.|true=사실인
+3|하지만 저는 생각이 좀 달라요.|However, I see it a bit differently.|however=하지만
+3|비록 비싸지만 살 가치가 있어요.|Although it's expensive, it's worth buying.|although=비록 ~이지만
+3|그 말에 동의는 하지만 걱정이 되긴 해요.|I agree, though I'm still a little worried.|though=~이지만
+3|그건 규칙에 어긋나요.|That's against the rules.|rule=규칙; against=~에 어긋나는
+3|아마 그게 최선일 거예요.|Perhaps that's the best option.|perhaps=아마
+3|그게 확실히 더 나은 방법이에요.|That's certainly the better way.|certainly=확실히
+3|그런 식의 말투는 좀 무례해요.|That kind of attitude is a bit rude.|attitude=태도
+3|어쨌든 결정은 당신 몫이에요.|Anyway, it's your decision.|anyway=어쨌든
+3|저는 그 생각에 강하게 반대해요.|I strongly oppose that idea.|oppose=반대하다
+3|그건 분명한 사실이에요.|It's an obvious fact.|obvious=명백한
+3|그 둘을 비교하는 건 공정하지 않아요.|The comparison between the two isn't fair.|comparison=비교; fair=공정한
+3|그 결과는 아직 불분명해요.|The outcome is still unclear.|unclear=불분명한
+4|그러므로 우리는 다른 방법을 찾아야 해요.|Therefore, we need to find another way.|therefore=그러므로
+4|따라서 그 계획은 다시 검토해야 해요.|Thus, the plan needs to be reviewed again.|thus=따라서
+4|게다가 비용도 훨씬 적게 들어요.|Moreover, it costs far less.|moreover=게다가
+4|그럼에도 불구하고 시도해 볼 가치는 있어요.|Nevertheless, it's worth a try.|nevertheless=그럼에도 불구하고
+4|어떤 사람은 찬성하는 반면 어떤 사람은 반대해요.|Some people agree, whereas others disagree.|whereas=반면에
+4|정말로 그게 유일한 방법인가요?|Is that indeed the only way?|indeed=정말로
+4|특정한 사례 하나를 들어 보죠.|Let's take one particular example.|particular=특정한
+4|예를 들어, 많은 사람이 재택근무를 선호해요.|For instance, many people prefer working from home.|for instance=예를 들어
+4|그가 늦을 거라고 가정해 봅시다.|Let's assume he'll be late.|assume=가정하다
+4|그 둘은 별개의 문제예요.|Those are two separate issues.|separate=별개의
+4|대부분 사람에게는 상식적인 얘기예요.|It's common sense to most people.|common sense=상식
+4|그는 자신의 의견을 끝까지 고집했어요.|He insisted on his opinion to the end.|insist=고집하다
+4|그 주장을 뒷받침할 근거가 있나요?|Is there any evidence to support that belief?|belief=믿음; evidence=증거
+4|우리는 그 결정을 존중해야 한다고 생각해요.|I think we ought to respect the decision.|ought to=~해야 한다
+4|교육은 사회 전체의 미래를 결정해요.|Education shapes the future of society as a whole.|education=교육; society=사회
+4|평화는 모든 나라가 바라는 거예요.|Peace is what every nation wants.|peace=평화; nation=국가
+4|자유에는 책임이 따라요.|Freedom comes with responsibility.|freedom=자유
+4|법은 모두에게 평등해야 해요.|The law should be equal for everyone.|law=법; equal=평등한
+4|정치에 대한 관심이 점점 줄고 있어요.|Interest in politics is gradually declining.|politics=정치
+4|선거 결과가 내일 발표돼요.|The election results will be announced tomorrow.|election=선거
+4|범죄율이 작년보다 감소했어요.|The crime rate has decreased since last year.|crime=범죄; decrease=감소하다
+@life
+3|어릴 때 꿈은 과학자가 되는 거였어요.|When I was a kid, my dream was to become a scientist.|scientist=과학자
+3|결혼 후 삶이 많이 달라졌어요.|My life changed a lot after marriage.|marriage=결혼
+3|그때 생각하면 아직도 웃음이 나요.|It still makes me smile when I remember that time.|remember=기억하다
+3|어린 시절 대부분을 시골에서 보냈어요.|I spent most of my childhood in the country.|childhood=어린 시절; country=시골·나라
+3|그 경험이 저를 바꿔 놓았어요.|That experience changed me.|experience=경험
+3|고등학교 때는 수줍음이 많았어요.|I was very shy in high school.|shy=수줍은
+3|대학 시절에 처음 외국에 갔어요.|I went abroad for the first time in college.|abroad=외국에
+3|처음 일을 시작했을 때 실수를 많이 했어요.|I made a lot of mistakes when I first started working.|mistake=실수
+3|그 일을 하겠다고 약속했어요.|I promised to do it.|promise=약속하다
+3|그분이 제게 많은 걸 가르쳐 주셨어요.|He taught me a lot.|teach=가르치다
+4|그분이 돌아가셨다는 소식을 듣고 많이 울었어요.|I cried a lot when I heard about his death.|death=죽음
+4|그 일을 계기로 제 태도가 완전히 바뀌었어요.|That changed my whole attitude toward life.|whole=전체의
+4|힘들었지만 결국 성공했어요.|It was hard, but I succeeded in the end.|succeed=성공하다
+4|그 덕분에 진정한 자유가 뭔지 알게 됐어요.|Thanks to that, I learned what true freedom is.|true=진정한
+@study
+3|이 과목은 역사와 과학을 함께 다뤄요.|This course covers both history and science.|science=과학; cover=다루다
+3|오늘 수업 주제가 뭐예요?|What's the topic of today's lesson?|topic=주제; lesson=수업
+3|이 문장의 표현이 좀 어색해요.|The expression in this sentence is a bit awkward.|expression=표현; awkward=어색한
+3|사전에서 그 단어의 정의를 찾아봤어요.|I looked up the definition of the word in the dictionary.|definition=정의
+3|발표 내용에 대해 의견을 남겨 주세요.|Please leave a comment on the presentation.|comment=의견·논평
+3|모르는 문제는 표시해 두세요.|Mark the questions you don't know.|mark=표시하다
+3|이번 학기에 미술 수업을 들어요.|I'm taking an art class this semester.|art=미술; semester=학기
+4|학생들은 수업에 집중하는 데 어려움을 겪고 있어요.|Students are having difficulty concentrating in class.|difficulty=어려움; concentrate=집중하다
+4|그는 화학 실험을 진행하고 있어요.|He's conducting a chemistry experiment.|chemistry=화학
+4|우주에 대해 더 배우고 싶어요.|I want to learn more about space.|space=우주
+4|이 수치는 전체의 몇 퍼센트인가요?|What percentage of the total is this figure?|percentage=백분율; total=전체
+4|그 이론은 아직 증명되지 않았어요.|The theory hasn't been proven yet.|theory=이론; prove=증명하다
+4|그의 연구 분야는 사회 심리학이에요.|His field of research is social psychology.|social=사회의; psychology=심리학
+@culture
+3|그 화가는 이 도시 출신이에요.|The artist is from this city.|artist=예술가·화가
+3|그 밴드는 십 년째 활동하고 있어요.|The band has been together for ten years.|band=밴드
+3|이 미술관은 현대 미술 소장품으로 유명해요.|This gallery is famous for its modern art collection.|modern=현대의; collection=소장품
+3|그 사진작가는 자연을 주로 찍어요.|The photographer mostly takes pictures of nature.|photographer=사진작가; mostly=주로
+3|이 오래된 건물은 지금 박물관으로 쓰여요.|This old building is now used as a museum.|building=건물
+3|공연이 끝나자 관객들이 일어나서 박수를 쳤어요.|When the show ended, the audience stood up and clapped.|audience=관객; clap=박수 치다
+3|이 지역 사람들은 전통을 소중히 여겨요.|People here value their traditions.|tradition=전통; value=소중히 여기다
+4|그 작품은 당시 사회 분위기를 잘 보여 줘요.|The work reflects the social mood of the time.|reflect=반영하다; mood=분위기
+4|그 의식은 수백 년 동안 이어져 왔어요.|The ceremony has been held for hundreds of years.|ceremony=의식
+4|문화적 차이를 이해하는 게 중요해요.|It's important to understand cultural differences.|cultural=문화적인
+4|그 영화제에는 다양한 나라의 작품이 출품돼요.|The festival features films from various countries.|feature=선보이다
+@movie
+3|그 배우는 이 역할로 큰 상을 받았어요.|The actor won a major award for this role.|role=역할; major=주요한
+3|이 영화는 촬영 장소가 정말 멋져요.|The locations in this film are stunning.|location=촬영지; stunning=멋진
+3|저는 액션 영화보다 코미디가 좋아요.|I prefer comedies to action films.|prefer A to B=B보다 A를 좋아하다
+3|이번 시즌 첫 화는 좀 실망스러웠어요.|The first episode of this season was a bit disappointing.|episode=회·편; disappointing=실망스러운
+3|스포일러 하지 마세요. 아직 안 봤어요.|No spoilers, please. I haven't seen it yet.|spoiler=스포일러
+3|그 장면은 스튜디오에서 촬영했대요.|I heard that scene was shot in a studio.|shoot=촬영하다; studio=스튜디오
+3|그 감독의 다음 작품이 기대돼요.|I'm looking forward to the director's next film.|look forward to=기대하다
+3|채널을 돌리다가 우연히 그 프로그램을 봤어요.|I came across the show while changing channels.|channel=채널; come across=우연히 보다
+3|이 시리즈는 등장인물이 너무 많아요.|There are too many characters in this series.|character=등장인물
+4|그 영화는 실제 사건을 바탕으로 한 범죄 드라마예요.|The film is a crime drama based on a real case.|crime=범죄; case=사건
+4|두 주인공 사이의 대비가 흥미로워요.|The contrast between the two main characters is interesting.|contrast=대비
+4|이 영화는 배경 음악이 장면을 훨씬 살려 줘요.|The background music really brings the scenes to life.|background=배경; bring to life=생기를 불어넣다
+@book
+3|이 소설의 배경은 작은 어촌 마을이에요.|The novel is set in a small fishing village.|be set in=~을 배경으로 하다
+3|그 작가는 첫 책으로 큰 성공을 거뒀어요.|The author had great success with her first book.|success=성공
+3|도서관은 오후 여섯 시에 문을 닫아요.|The library closes at six p.m.|close=문을 닫다
+3|이 책은 제목만 보고 골랐어요.|I chose this book just by its title.|title=제목
+3|그 편집자가 원고를 꼼꼼히 검토했어요.|The editor carefully reviewed the manuscript.|editor=편집자; manuscript=원고
+3|이 책의 결말은 정말 예상 밖이었어요.|The ending of this book was totally unexpected.|ending=결말; unexpected=예상 밖의
+3|그 등장인물 묘사가 아주 생생해요.|The description of that character is very vivid.|description=묘사; vivid=생생한
+3|요즘 전자책 대신 종이책을 다시 읽어요.|These days I read paper books again instead of e-books.|instead of=~대신에
+4|이 책은 여러 단편 소설을 모은 거예요.|This book is a collection of short stories.|collection=모음집; short story=단편 소설
+4|문학은 다른 사람의 삶을 이해하게 해 줘요.|Literature helps us understand other people's lives.|literature=문학
+4|이 시인은 자연을 섬세하게 표현해요.|This poet describes nature delicately.|poet=시인; delicately=섬세하게
+4|작가는 주인공의 내면을 통해 진실을 이야기해요.|The author tells the truth through the hero's inner world.|truth=진실; hero=주인공
+4|이 책은 역사적 사실과 허구를 잘 섞었어요.|This book mixes historical fact and fiction well.|fiction=허구; historical=역사적인
+4|이 책을 읽고 나서 세상을 다르게 보게 됐어요.|After reading this book, I see the world differently.|differently=다르게

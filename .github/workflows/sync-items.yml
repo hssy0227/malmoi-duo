@@ -1,0 +1,23 @@
+name: Sync items to Supabase
+
+# content/가 바뀌면 문장·단어를 Supabase items 테이블에 반영 (레벨·CEFR·상황 포함)
+on:
+  push:
+    branches: [main]
+    paths: ["content/**", "build.py", "tools/items.py", "tools/sync_items.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 교차검증
+        run: python3 tools/check.py --strict
+      - name: items 업서트
+        env:
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python3 tools/sync_items.py

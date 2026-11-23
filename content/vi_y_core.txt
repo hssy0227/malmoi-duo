@@ -1,0 +1,235 @@
+# 두 언어 공통 핵심 문장 (sources/gen_core.py로 생성 — 직접 수정 금지)
+@family
+1|저희 어머니는 선생님이세요.|Mẹ tôi là giáo viên.|mẹ=어머니; giáo viên=교사
+1|아버지는 회사원이에요.|Bố tôi là nhân viên văn phòng.|bố=아버지(북부); nhân viên văn phòng=회사원
+1|저는 누나가 한 명 있어요.|Tôi có một chị gái.|chị gái=누나·언니
+1|남동생은 대학생이에요.|Em trai tôi là sinh viên.|em trai=남동생; sinh viên=대학생
+1|딸이 둘 있어요.|Tôi có hai con gái.|con gái=딸
+1|아들은 이제 다섯 살이에요.|Con trai tôi năm nay năm tuổi.|con trai=아들; tuổi=살·나이
+1|아내는 간호사예요.|Vợ tôi là y tá.|vợ=아내; y tá=간호사
+1|남편은 요리를 잘해요.|Chồng tôi nấu ăn rất giỏi.|chồng=남편; nấu ăn=요리하다; giỏi=잘하는
+2|할머니 댁은 시골에 있어요.|Nhà bà tôi ở quê.|bà=할머니; quê=시골·고향
+2|할아버지는 올해 여든 살이 되세요.|Ông tôi năm nay tám mươi tuổi.|ông=할아버지; tám mươi=80
+2|사촌들과 자주 만나요.|Tôi hay gặp các anh chị em họ.|anh chị em họ=사촌; hay=자주
+2|이모가 다음 주에 결혼해요.|Dì tôi sẽ cưới vào tuần sau.|dì=이모; cưới=결혼하다
+2|삼촌은 외국에 살아요.|Chú tôi sống ở nước ngoài.|chú=삼촌(아버지의 남동생); nước ngoài=외국
+2|저는 외동이에요.|Tôi là con một.|con một=외동
+2|부모님과 같이 살아요.|Tôi sống cùng bố mẹ.|bố mẹ=부모님; cùng=함께
+2|아기가 막 걷기 시작했어요.|Em bé vừa mới biết đi.|em bé=아기; vừa mới=막
+2|저는 엄마를 많이 닮았어요.|Tôi giống mẹ lắm.|giống=닮다
+2|주말마다 가족과 시간을 보내요.|Cuối tuần nào tôi cũng dành thời gian cho gia đình.|dành=할애하다; cuối tuần=주말
+3|부모님께 매주 전화를 드려요.|Tuần nào tôi cũng gọi điện cho bố mẹ.|gọi điện=전화하다
+3|언니랑은 나이 차이가 많이 나요.|Tôi với chị gái cách nhau nhiều tuổi.|cách nhau=차이 나다
+3|조카가 이번에 초등학교에 들어가요.|Cháu tôi năm nay vào lớp một.|cháu=조카·손주; lớp một=초등 1학년
+3|우리는 결혼한 지 십 년 됐어요.|Chúng tôi lấy nhau được mười năm rồi.|lấy nhau=결혼하다(구어)
+3|요즘 부모님 건강이 걱정돼요.|Dạo này tôi lo cho sức khỏe của bố mẹ.|lo=걱정하다; sức khỏe=건강
+3|형하고 저는 성격이 정반대예요.|Anh tôi với tôi tính cách trái ngược hẳn.|tính cách=성격; trái ngược=정반대인
+3|명절에는 온 가족이 할머니 댁에 모여요.|Dịp lễ Tết cả nhà tụ họp ở nhà bà.|tụ họp=모이다; dịp=때·기회
+3|이웃집 사람들과 사이가 좋아요.|Tôi với hàng xóm rất hòa thuận.|hàng xóm=이웃; hòa thuận=사이좋은
+3|여자 친구를 부모님께 소개하려고 해요.|Tôi định giới thiệu bạn gái với bố mẹ.|bạn gái=여자 친구; giới thiệu=소개하다
+@nature
+1|비가 와요.|Trời đang mưa.|mưa=비(가 오다)
+1|오늘은 정말 더워요.|Hôm nay nóng quá.|nóng=더운
+1|밖이 추워요.|Bên ngoài lạnh lắm.|lạnh=추운; bên ngoài=밖
+1|눈이 와요.|Tuyết đang rơi.|tuyết=눈; rơi=떨어지다
+2|하늘이 정말 파래요.|Bầu trời xanh quá.|bầu trời=하늘; xanh=푸른
+2|구름이 끼었어요.|Trời nhiều mây.|mây=구름
+2|내일은 맑을 거예요.|Ngày mai trời sẽ nắng.|nắng=맑은·햇볕이 나는
+2|봄에는 꽃이 많이 펴요.|Mùa xuân hoa nở nhiều.|mùa xuân=봄; hoa=꽃; nở=피다
+2|여름에는 바다에 가요.|Mùa hè tôi đi biển.|mùa hè=여름; biển=바다
+2|가을은 시원하고 하늘이 높아요.|Mùa thu mát mẻ và trời cao.|mùa thu=가을; mát mẻ=시원한
+2|겨울에는 해가 일찍 져요.|Mùa đông trời tối sớm.|mùa đông=겨울; tối=어두워지다
+2|산에 올라가는 걸 좋아해요.|Tôi thích leo núi.|leo núi=등산하다; núi=산
+2|강가를 따라 산책했어요.|Tôi đi dạo dọc bờ sông.|đi dạo=산책하다; bờ sông=강가
+2|이 나무는 아주 오래됐어요.|Cây này rất lâu năm.|cây=나무; lâu năm=오래된
+2|새소리가 들려요.|Tôi nghe thấy tiếng chim hót.|chim=새; hót=(새가) 지저귀다
+2|개를 키우고 있어요.|Tôi nuôi một con chó.|nuôi=기르다; chó=개
+2|고양이가 창가에서 자고 있어요.|Con mèo đang ngủ bên cửa sổ.|mèo=고양이
+3|섬에서 일출을 봤어요.|Tôi đã ngắm bình minh trên đảo.|đảo=섬; bình minh=일출
+3|숲속 공기가 정말 맑아요.|Không khí trong rừng trong lành quá.|rừng=숲; trong lành=맑은
+3|오늘 밤에 별이 많이 보여요.|Đêm nay nhìn thấy nhiều sao.|sao=별
+3|달이 아주 밝네요.|Trăng sáng quá.|trăng=달; sáng=밝은
+3|기온이 영하로 떨어졌어요.|Nhiệt độ xuống dưới không độ.|nhiệt độ=기온; dưới=아래
+3|습도가 높아서 끈적거려요.|Độ ẩm cao nên người dính dính.|độ ẩm=습도; dính=끈적한
+3|태풍이 오고 있어서 배가 다 취소됐어요.|Bão sắp đến nên tàu thuyền bị hủy hết.|bão=태풍; tàu thuyền=배·선박
+3|지진이 나면 탁자 밑으로 들어가세요.|Nếu có động đất thì chui xuống gầm bàn.|động đất=지진; gầm bàn=탁자 밑
+3|해변에서 조개껍데기를 주웠어요.|Tôi nhặt vỏ sò trên bãi biển.|nhặt=줍다; vỏ sò=조개껍데기
+3|이 지역은 물이 깨끗해서 수영하기 좋아요.|Nước ở đây sạch nên bơi rất thích.|sạch=깨끗한; bơi=수영하다
+3|환경을 위해 플라스틱을 덜 쓰려고 해요.|Tôi cố dùng ít đồ nhựa hơn để bảo vệ môi trường.|đồ nhựa=플라스틱 제품; bảo vệ=보호하다
+@cook
+1|벌써 배고파요.|Tôi đói rồi.|đói=배고픈
+1|배불러요.|Tôi no rồi.|no=배부른
+1|물 한 잔 주세요.|Cho tôi một cốc nước.|cốc=컵(북부); nước=물
+1|아침에 빵이랑 달걀을 먹어요.|Buổi sáng tôi ăn bánh mì với trứng.|bánh mì=빵; trứng=달걀
+1|저는 생선을 좋아해요.|Tôi thích ăn cá.|cá=생선·물고기
+1|과일을 매일 먹어요.|Ngày nào tôi cũng ăn hoa quả.|hoa quả=과일(북부)
+2|냉장고에 우유가 있어요?|Trong tủ lạnh có sữa không?|tủ lạnh=냉장고; sữa=우유
+2|부엌에서 저녁을 만들고 있어요.|Tôi đang nấu bữa tối trong bếp.|bếp=부엌; bữa tối=저녁 식사
+2|양파를 잘게 썰어 주세요.|Thái nhỏ hành tây giúp tôi.|thái=썰다(북부); hành tây=양파
+2|고기를 먼저 볶으세요.|Xào thịt trước.|xào=볶다; thịt=고기
+2|물이 끓으면 면을 넣으세요.|Khi nước sôi thì cho mì vào.|sôi=끓다; mì=면
+2|소금을 조금만 넣어요.|Cho một chút muối thôi.|muối=소금
+2|설탕은 빼 주세요.|Đừng cho đường nhé.|đường=설탕
+2|차 한잔할래요?|Uống trà không?|trà=차
+2|장 보러 시장에 가요.|Tôi đi chợ mua đồ ăn.|đi chợ=장 보다
+3|이 요리는 어떻게 만들어요?|Món này làm thế nào?|món=요리
+3|재료를 다 준비했어요.|Tôi đã chuẩn bị đủ nguyên liệu.|nguyên liệu=재료; đủ=충분히
+3|약한 불에서 십 분 정도 졸이세요.|Đun nhỏ lửa khoảng mười phút cho sánh lại.|đun=끓이다·데우다; nhỏ lửa=약불; sánh=걸쭉해지다
+3|간이 좀 싱거운 것 같아요.|Hình như hơi nhạt.|nhạt=싱거운
+3|좀 짜요.|Hơi mặn.|mặn=짠
+3|이 소스는 매콤하면서 달아요.|Nước sốt này vừa cay vừa ngọt.|nước sốt=소스; cay=매운; ngọt=단
+3|채소는 살짝만 데치세요.|Rau chỉ chần sơ thôi.|rau=채소; chần=데치다
+3|남은 음식은 냉동실에 넣어 두세요.|Đồ ăn thừa thì cho vào ngăn đá.|đồ ăn thừa=남은 음식; ngăn đá=냉동실
+3|오븐에 이십 분 구우면 돼요.|Nướng lò hai mươi phút là được.|nướng=굽다; lò=오븐
+3|고수는 빼 주실 수 있어요?|Không cho rau mùi được không?|rau mùi=고수(북부)
+3|이 요리는 엄마한테 배웠어요.|Món này tôi học từ mẹ.|học=배우다
+3|손님이 오셔서 음식을 넉넉하게 했어요.|Có khách đến nên tôi nấu nhiều đồ ăn.|khách=손님
+@hobby
+1|저는 음악 듣는 걸 좋아해요.|Tôi thích nghe nhạc.|nghe nhạc=음악을 듣다
+1|주말에 축구를 해요.|Cuối tuần tôi chơi bóng đá.|bóng đá=축구; chơi=하다·놀다
+1|그림 그리는 걸 좋아해요.|Tôi thích vẽ tranh.|vẽ=그리다; tranh=그림
+2|노래 부르는 걸 좋아해요.|Tôi thích hát.|hát=노래하다
+2|요즘 기타를 배우고 있어요.|Dạo này tôi đang học đàn ghi-ta.|đàn ghi-ta=기타
+2|매일 아침 공원에서 달려요.|Sáng nào tôi cũng chạy bộ ở công viên.|chạy bộ=달리기하다; công viên=공원
+2|일주일에 세 번 헬스장에 가요.|Tôi đi tập gym một tuần ba lần.|tập=운동하다·연습하다; lần=번
+2|친구들이랑 게임을 해요.|Tôi chơi game với bạn bè.|bạn bè=친구들
+2|춤추는 걸 배우고 싶어요.|Tôi muốn học nhảy.|nhảy=춤추다
+2|사진 찍는 게 제 취미예요.|Chụp ảnh là sở thích của tôi.|chụp ảnh=사진 찍다
+2|이번 주말에 낚시하러 가요.|Cuối tuần này tôi đi câu cá.|câu cá=낚시하다
+2|자전거 타는 걸 좋아해요.|Tôi thích đạp xe.|đạp xe=자전거 타다
+3|어제 콘서트에 갔는데 정말 신났어요.|Hôm qua tôi đi xem hòa nhạc, vui cực.|hòa nhạc=콘서트; cực=엄청
+3|어떤 운동을 좋아해요?|Anh thích môn thể thao nào?|môn thể thao=운동 종목
+3|저는 수영을 정말 못해요.|Tôi bơi dở lắm.|dở=서투른
+3|우리 팀이 어제 경기에서 이겼어요.|Đội tôi thắng trận hôm qua.|đội=팀; thắng=이기다; trận=경기
+3|아쉽게 한 점 차이로 졌어요.|Tiếc là thua có một điểm.|thua=지다; điểm=점수
+3|요가를 하면 마음이 편해져요.|Tập yoga làm tôi thấy thư thái.|thư thái=마음이 편한
+3|캠핑 가서 불 피우고 고기 구워 먹었어요.|Đi cắm trại chúng tôi đốt lửa và nướng thịt.|cắm trại=캠핑하다; đốt lửa=불을 피우다
+3|퇴근 후에 동호회에서 배드민턴을 쳐요.|Sau giờ làm tôi chơi cầu lông ở câu lạc bộ.|cầu lông=배드민턴; câu lạc bộ=동호회
+3|어릴 때부터 피아노를 쳤어요.|Tôi chơi piano từ nhỏ.|từ nhỏ=어릴 때부터
+3|퍼즐 맞추는 건 집중력에 좋아요.|Ghép hình rất tốt cho khả năng tập trung.|ghép hình=퍼즐 맞추기; tập trung=집중하다
+3|정원 가꾸는 데 재미를 붙였어요.|Tôi bắt đầu thích làm vườn.|làm vườn=정원을 가꾸다
+@culture
+2|설날에는 가족이 다 모여요.|Tết thì cả gia đình sum họp.|Tết=설날; sum họp=모이다
+2|크리스마스에 선물을 주고받아요.|Giáng sinh mọi người tặng quà cho nhau.|Giáng sinh=크리스마스; tặng quà=선물하다
+2|추석에는 송편을 먹어요.|Tết Trung thu người Hàn ăn bánh songpyeon.|Tết Trung thu=추석·중추절
+2|베트남에서는 중추절에 아이들이 등불을 들고 다녀요.|Ở Việt Nam, Trung thu trẻ em rước đèn.|rước đèn=등불을 들고 행진하다; trẻ em=아이들
+2|이 노래는 한국에서 아주 유명해요.|Bài hát này rất nổi tiếng ở Hàn Quốc.|bài hát=노래; nổi tiếng=유명한
+3|축의금은 얼마나 내는 게 보통이에요?|Mừng cưới thường bao nhiêu tiền?|mừng cưới=축의금을 내다; thường=보통
+3|세배하면 어른들이 세뱃돈을 주세요.|Chúc Tết xong người lớn sẽ lì xì.|chúc Tết=새해 인사하다; lì xì=세뱃돈을 주다
+3|명절 연휴에는 고속도로가 꽉 막혀요.|Dịp nghỉ lễ đường cao tốc tắc cứng.|nghỉ lễ=명절 연휴; đường cao tốc=고속도로; tắc=막히다
+3|그 축제는 매년 가을에 열려요.|Lễ hội đó được tổ chức vào mùa thu hằng năm.|lễ hội=축제; tổ chức=개최하다; hằng năm=매년
+3|전통 의상을 입고 사진을 찍었어요.|Tôi mặc trang phục truyền thống chụp ảnh.|trang phục=의상; truyền thống=전통
+3|베트남 사람들은 아오자이를 특별한 날에 입어요.|Người Việt mặc áo dài vào những dịp đặc biệt.|áo dài=아오자이; đặc biệt=특별한
+3|그 나라 문화를 이해하려면 언어부터 배워야 해요.|Muốn hiểu văn hóa nước đó thì phải học ngôn ngữ trước.|văn hóa=문화; ngôn ngữ=언어
+3|박물관에서 그 나라 역사를 배웠어요.|Tôi học về lịch sử nước đó ở bảo tàng.|lịch sử=역사; bảo tàng=박물관
+3|제사 때 조상님께 음식을 올려요.|Khi cúng giỗ, người ta dâng đồ ăn lên tổ tiên.|cúng giỗ=제사 지내다; tổ tiên=조상
+3|그 지역은 독특한 음식 문화가 있어요.|Vùng đó có văn hóa ẩm thực độc đáo.|ẩm thực=음식(문화); độc đáo=독특한
+4|두 나라는 비슷한 점도 많지만 다른 점도 많아요.|Hai nước có nhiều điểm giống nhau nhưng cũng nhiều điểm khác.|điểm=점; giống nhau=비슷한
+4|그 나라에서는 나이를 묻는 게 실례가 아니에요.|Ở nước đó hỏi tuổi không bị coi là bất lịch sự.|bị coi là=~로 여겨지다; bất lịch sự=무례한
+@home
+1|집이 어디예요?|Nhà anh ở đâu?|nhà=집
+1|제 방은 작아요.|Phòng tôi nhỏ.|phòng=방; nhỏ=작은
+2|침실이 두 개, 화장실이 하나예요.|Có hai phòng ngủ và một nhà vệ sinh.|phòng ngủ=침실
+2|거실 창문이 커서 밝아요.|Cửa sổ phòng khách to nên sáng sủa.|phòng khách=거실; sáng sủa=밝은
+2|불 좀 꺼 주세요.|Tắt đèn giúp tôi với.|tắt=끄다; đèn=불·등
+2|문 좀 닫아 주세요.|Đóng cửa giúp tôi với.|đóng=닫다; cửa=문
+2|열쇠를 어디 뒀는지 모르겠어요.|Tôi không biết để chìa khóa ở đâu rồi.|chìa khóa=열쇠; để=두다
+2|오늘은 빨래를 해야 해요.|Hôm nay tôi phải giặt quần áo.|giặt=빨래하다; quần áo=옷
+2|설거지는 제가 할게요.|Để tôi rửa bát.|rửa bát=설거지하다(북부)
+3|이사한 지 얼마 안 됐어요.|Tôi mới chuyển nhà chưa lâu.|chuyển nhà=이사하다
+3|월세가 너무 올랐어요.|Tiền thuê nhà tăng nhiều quá.|tiền thuê nhà=집세; tăng=오르다
+3|윗집 소음 때문에 잠을 못 자요.|Tôi không ngủ được vì tiếng ồn nhà trên.|tiếng ồn=소음
+3|에어컨을 켜면 전기 요금이 많이 나와요.|Bật điều hòa thì tiền điện cao lắm.|tiền điện=전기 요금; bật=켜다
+3|창문을 열어서 환기 좀 할게요.|Để tôi mở cửa sổ cho thoáng.|thoáng=통풍이 잘되는
+3|주말에 가구 배치를 바꿨어요.|Cuối tuần tôi sắp xếp lại đồ đạc.|sắp xếp=배치하다; đồ đạc=가구·살림
+@money
+1|돈이 없어요.|Tôi không có tiền.|tiền=돈
+2|은행에 가야 해요.|Tôi phải ra ngân hàng.|ngân hàng=은행
+2|이번 달에 돈을 너무 많이 썼어요.|Tháng này tôi tiêu nhiều tiền quá.|tiêu=쓰다(돈)
+2|여행 가려고 돈을 모으고 있어요.|Tôi đang để dành tiền đi du lịch.|để dành=모으다·저축하다
+3|친구한테 돈을 빌렸어요.|Tôi vay tiền của bạn.|vay=빌리다(돈)
+3|월급날이 언제예요?|Ngày nào được lĩnh lương?|lĩnh lương=월급을 받다(북부)
+3|가계부를 쓰기 시작했어요.|Tôi bắt đầu ghi sổ chi tiêu.|sổ chi tiêu=가계부
+3|물가가 많이 올라서 생활비가 빠듯해요.|Vật giá tăng nhiều nên chi phí sinh hoạt eo hẹp.|vật giá=물가; eo hẹp=빠듯한
+@study
+1|저는 학생이에요.|Tôi là học sinh.|học sinh=학생
+1|숙제가 많아요.|Tôi có nhiều bài tập.|bài tập=숙제
+2|오늘 수업은 몇 시에 끝나요?|Hôm nay mấy giờ tan học?|tan học=수업이 끝나다
+2|선생님, 질문이 있어요.|Thưa cô, em có câu hỏi ạ.|thưa=(존칭 호칭 앞에) ~님; câu hỏi=질문
+2|다시 한 번 설명해 주시겠어요?|Cô giải thích lại một lần nữa được không ạ?|giải thích=설명하다
+2|다음 주에 쪽지 시험이 있어요.|Tuần sau tôi có bài kiểm tra.|bài kiểm tra=시험
+3|시험을 잘 봤어요.|Tôi làm bài thi tốt.|bài thi=시험(답안)
+3|문법이 제일 어려워요.|Ngữ pháp là khó nhất.|ngữ pháp=문법
+3|발음을 연습하려고 매일 소리 내서 읽어요.|Ngày nào tôi cũng đọc to để luyện phát âm.|đọc to=소리 내어 읽다; phát âm=발음
+3|외국어를 배우면 생각하는 방식이 넓어져요.|Học ngoại ngữ giúp cách suy nghĩ rộng mở hơn.|ngoại ngữ=외국어; rộng mở=넓어진
+@movie
+1|영화관이 어디예요?|Rạp chiếu phim ở đâu?|rạp chiếu phim=영화관
+2|오늘 밤에 TV에서 뭐 해요?|Tối nay trên ti vi có gì?|ti vi=TV
+2|이 드라마 정말 재미있어요.|Bộ phim truyền hình này hay thật.|phim truyền hình=TV 드라마
+2|저는 공포 영화를 못 봐요.|Tôi không dám xem phim kinh dị.|không dám=~할 엄두가 안 나다
+2|그 배우는 연기를 정말 잘해요.|Diễn viên đó diễn xuất rất giỏi.|diễn xuất=연기
+3|마지막 장면이 너무 슬펐어요.|Cảnh cuối buồn quá.|cảnh cuối=마지막 장면
+3|그 영화는 실화를 바탕으로 했어요.|Bộ phim đó dựa trên câu chuyện có thật.|câu chuyện có thật=실화
+3|주인공 성격이 마음에 들어요.|Tôi thích tính cách của nhân vật chính.|nhân vật chính=주인공
+3|감독이 누구예요?|Đạo diễn là ai?|đạo diễn=감독
+3|관객이 천만 명을 넘었대요.|Nghe nói số khán giả đã vượt mười triệu.|khán giả=관객; vượt=넘다
+3|자막을 끄고 보면서 듣기 연습을 해요.|Tôi tắt phụ đề để luyện nghe.|tắt=끄다; luyện nghe=듣기 연습
+3|이 영화는 음악상을 받았어요.|Phim này đoạt giải âm nhạc.|đoạt giải=상을 받다
+3|극장에서 휴대폰을 보는 건 예의가 아니에요.|Xem điện thoại trong rạp là bất lịch sự.|rạp=극장
+3|그 장면에서 다들 웃음이 터졌어요.|Đến cảnh đó ai cũng phá lên cười.|phá lên cười=웃음이 터지다
+4|이 영화는 평범한 사람들의 삶을 사실적으로 그렸어요.|Bộ phim khắc họa chân thực cuộc sống của những người bình thường.|chân thực=사실적으로; bình thường=평범한
+4|등장인물들의 대화가 아주 자연스러워요.|Lời thoại giữa các nhân vật rất tự nhiên.|lời thoại=대사; tự nhiên=자연스러운
+4|기대보다 별로였지만 배우들은 훌륭했어요.|Phim không hay như kỳ vọng nhưng diễn viên thì xuất sắc.|xuất sắc=훌륭한
+4|이 다큐멘터리는 기후 변화의 심각성을 보여 줘요.|Bộ phim tài liệu này cho thấy mức độ nghiêm trọng của biến đổi khí hậu.|biến đổi khí hậu=기후 변화; nghiêm trọng=심각한
+@book
+1|책을 읽어요.|Tôi đọc sách.|sách=책
+2|이 책 누구 거예요?|Cuốn sách này của ai?|của ai=누구의
+2|도서관에서 책을 빌렸어요.|Tôi mượn sách ở thư viện.|thư viện=도서관
+2|이 작가의 소설을 좋아해요.|Tôi thích tiểu thuyết của nhà văn này.|nhà văn=작가; tiểu thuyết=소설
+2|잡지를 정기 구독해요.|Tôi đặt mua tạp chí dài hạn.|tạp chí=잡지; dài hạn=장기
+2|아침마다 신문을 읽어요.|Sáng nào tôi cũng đọc báo.|báo=신문
+3|이 책은 몇 쪽이에요?|Cuốn này dày bao nhiêu trang?|trang=쪽
+3|그 기사 읽어 봤어요?|Anh đọc bài báo đó chưa?|bài báo=기사
+3|이 시는 짧지만 여운이 길어요.|Bài thơ này ngắn nhưng đọng lại rất lâu.|bài thơ=시; đọng lại=여운이 남다
+3|이 책의 제목이 마음에 들어요.|Tôi thích tựa đề của cuốn sách này.|tựa đề=제목
+3|작가가 이 이야기를 쓰는 데 십 년이 걸렸대요.|Nghe nói tác giả mất mười năm để viết câu chuyện này.|câu chuyện=이야기; viết=쓰다
+3|첫 문장부터 독자를 사로잡아요.|Ngay từ câu đầu đã cuốn hút người đọc.|người đọc=독자; cuốn hút=사로잡다
+3|이 책은 문학 수업에서 꼭 읽어야 하는 책이에요.|Đây là cuốn sách bắt buộc trong giờ văn học.|bắt buộc=필수의; văn học=문학
+3|요즘 역사책에 빠졌어요.|Dạo này tôi mê sách lịch sử.|mê=빠지다·푹 빠지다
+3|책 내용을 한 문단으로 요약해 보세요.|Hãy tóm tắt nội dung cuốn sách trong một đoạn văn.|tóm tắt=요약하다; đoạn văn=문단
+4|이 소설은 전쟁이 개인의 삶을 어떻게 바꾸는지 보여 줘요.|Cuốn tiểu thuyết cho thấy chiến tranh thay đổi cuộc đời mỗi người như thế nào.|chiến tranh=전쟁; cuộc đời=인생
+4|작가의 문체가 간결하면서도 따뜻해요.|Văn phong của tác giả vừa giản dị vừa ấm áp.|văn phong=문체; giản dị=간결한
+4|번역본은 원작의 분위기를 잘 살리지 못했어요.|Bản dịch chưa truyền tải được không khí của bản gốc.|truyền tải=전달하다; bản gốc=원작
+4|책을 다 읽고 나서 작가에 대해 더 알고 싶어졌어요.|Đọc xong cuốn sách, tôi muốn tìm hiểu thêm về tác giả.|tìm hiểu=알아보다
+@daily
+1|빨간색을 좋아해요.|Tôi thích màu đỏ.|màu=색; đỏ=빨간
+1|이건 검은색이고 저건 흰색이에요.|Cái này màu đen, cái kia màu trắng.|đen=검은; trắng=흰
+1|초록색 가방이 제 거예요.|Cái túi màu xanh lá là của tôi.|xanh lá=초록; túi=가방
+1|노란 꽃이 예뻐요.|Hoa màu vàng đẹp quá.|vàng=노란
+1|오늘 너무 피곤해요.|Hôm nay tôi mệt quá.|mệt=피곤한
+2|오늘 기분이 어때요?|Hôm nay anh thấy thế nào?|thấy=느끼다
+2|아침 일곱 시에 일어나요.|Tôi dậy lúc bảy giờ sáng.|dậy=일어나다
+2|저녁에는 보통 집에서 쉬어요.|Buổi tối tôi thường nghỉ ở nhà.|nghỉ=쉬다
+2|정말 행복해요.|Tôi hạnh phúc lắm.|hạnh phúc=행복한
+2|조금 슬퍼요.|Tôi hơi buồn.|buồn=슬픈
+2|걱정 마.|Đừng lo.|lo=걱정하다
+@shop
+1|이 셔츠 얼마예요?|Cái áo sơ mi này bao nhiêu tiền?|áo sơ mi=셔츠
+1|바지가 너무 길어요.|Quần dài quá.|quần=바지; dài=긴
+1|신발을 사고 싶어요.|Tôi muốn mua giày.|giày=신발
+2|모자 써 봐도 돼요?|Tôi đội thử cái mũ được không?|đội=(모자를) 쓰다; mũ=모자
+2|치마가 좀 짧아요.|Cái váy hơi ngắn.|váy=치마; ngắn=짧은
+2|이 코트 따뜻해 보여요.|Cái áo khoác này trông ấm nhỉ.|áo khoác=코트·외투; ấm=따뜻한
+2|이 원피스 다른 색도 있어요?|Cái váy liền này có màu khác không?|váy liền=원피스
+@health
+2|이가 아파요.|Tôi bị đau răng.|răng=이·치아
+2|눈이 좀 가려워요.|Mắt tôi hơi ngứa.|mắt=눈; ngứa=가려운
+2|다리를 다쳤어요.|Tôi bị thương ở chân.|bị thương=다치다; chân=다리·발
+2|손을 깨끗이 씻으세요.|Rửa tay sạch sẽ nhé.|rửa tay=손을 씻다
+2|어깨가 결려요.|Tôi bị mỏi vai.|mỏi=결리다·뻐근하다; vai=어깨
+3|등이 아파서 잘 못 걷겠어요.|Lưng đau quá nên tôi đi lại khó khăn.|lưng=등; đi lại=걸어 다니다
+3|팔이 부었어요.|Cánh tay tôi bị sưng.|cánh tay=팔; sưng=붓다
+3|귀에서 소리가 나요.|Tai tôi bị ù.|tai=귀; ù=(귀가) 멍멍하다
+3|코가 막혀서 숨쉬기 힘들어요.|Mũi tôi bị nghẹt nên khó thở.|mũi=코; nghẹt=막힌; thở=숨 쉬다
+3|손가락을 칼에 베였어요.|Tôi bị dao cắt vào ngón tay.|ngón tay=손가락; dao=칼
+3|심장이 너무 빨리 뛰어요.|Tim tôi đập nhanh quá.|tim=심장; đập=뛰다

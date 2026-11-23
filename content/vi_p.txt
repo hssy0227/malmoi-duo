@@ -1,0 +1,75 @@
+# 영화·드라마 대사로 자주 나오는 구어 (자막 빈도 상위 음절 보강) — 메모에 말투 설명
+@movie
+2|야, 너 어디 가?|Này, cậu đi đâu đấy?|này=야·저기; cậu=너(친구 사이); đấy=(의문 강조)|cậu/tớ는 친구끼리 쓰는 부드러운 너/나 (북부 구어)
+2|나 지금 바빠.|Tớ đang bận.|tớ=나(친구 사이); bận=바쁜|
+2|너 진짜 웃긴다.|Cậu buồn cười thật đấy.|buồn cười=웃기는|
+2|고마워, 친구야.|Cám ơn cậu nhé.|cám ơn=고마워(=cảm ơn)|cám ơn은 cảm ơn의 구어 변이형
+2|빨리 와!|Mau lên!|mau=빨리|
+2|저기 봐!|Kìa, nhìn kìa!|kìa=저기(가리킴)|
+2|어머, 깜짝이야!|Ôi, giật cả mình!|ôi=어머·아이고; giật mình=깜짝 놀라다|
+2|뭐라고?|Hả? Gì cơ?|hả=응?·뭐?; cơ=(되물을 때 덧붙임)|되물을 때 쓰는 구어
+2|그래? 진짜?|Thế à? Thật hả?|thế à=그래?; thật=진짜|
+2|잠깐만, 기다려 봐!|Khoan đã, chờ chút!|khoan=잠깐; chờ=기다리다|
+2|조용히 해!|Im lặng đi!|im lặng=조용히 하다|
+2|무서워 죽겠어.|Sợ chết đi được.|sợ=무서운; chết đi được=죽을 만큼|과장 표현
+2|저리 가!|Đi chỗ khác đi!|chỗ khác=다른 곳|
+2|거짓말하지 마.|Đừng nói dối.|nói dối=거짓말하다|
+3|그 녀석은 어디로 사라졌지?|Hắn biến đi đâu rồi?|hắn=그놈·그 녀석(낮춤); biến=사라지다|hắn은 제3자를 낮추어 부르는 말
+3|어서 도망쳐!|Chạy mau đi! Trốn đi!|trốn=숨다·도망치다|
+3|여기서 빠져나가야 해.|Phải thoát khỏi đây.|thoát=빠져나가다; khỏi=~에서|
+3|저 사람 뒤를 쫓아!|Đuổi theo hắn!|đuổi theo=뒤쫓다|
+3|약속할게, 맹세해.|Tớ hứa, tớ thề đấy.|hứa=약속하다; thề=맹세하다|
+3|이건 우리끼리 비밀이야.|Đây là bí mật giữa chúng mình.|bí mật=비밀; chúng mình=우리(친근)|
+3|너 바보야? 그것도 몰라?|Cậu ngốc à? Cái đó cũng không biết?|ngốc=바보 같은|친한 사이 농담
+3|얘들아, 이리 와 봐!|Bọn mình ơi, lại đây!|bọn=무리·애들; lại đây=이리 와|북부는 bọn, 남부·더빙 자막은 tụi를 많이 씀
+3|꼬맹아, 엄마 어디 계셔?|Nhóc ơi, mẹ cháu đâu?|nhóc=꼬마·꼬맹이|
+3|영감님, 제발 살려 주세요.|Thưa ngài, xin hãy tha cho tôi.|ngài=각하·나리(존칭); tha=용서하다·살려 주다|사극·법정극의 존칭
+3|폐하, 명령을 내려 주십시오.|Thưa bệ hạ, xin người ra lệnh.|bệ hạ=폐하; lệnh=명령|사극 표현
+3|그는 나쁜 놈이 아니야.|Hắn không phải kẻ xấu đâu.|kẻ=놈·자(낮춤); xấu=나쁜|
+3|왜냐하면 그가 거짓말을 했기 때문이야.|Bởi vì hắn đã nói dối.|bởi vì=왜냐하면|
+3|그 남자는 그녀에게 첫눈에 반했어.|Chàng đã yêu nàng ngay từ cái nhìn đầu tiên.|chàng=그 남자(문어·연애물); nàng=그녀(문어)|로맨스·옛이야기 말투
+3|가슴이 두근거려.|Tim tớ đập thình thịch.|tim=심장; thình thịch=두근두근|
+3|너 때문에 미치겠어.|Cậu làm tớ phát điên mất.|phát điên=미치다|
+3|진정해. 다 잘될 거야.|Bình tĩnh nào. Mọi chuyện sẽ ổn thôi.|bình tĩnh=진정하다; ổn=괜찮은|
+3|그만 좀 해!|Thôi đi!|thôi=그만|
+3|도대체 무슨 일이야?|Rốt cuộc là chuyện gì vậy?|rốt cuộc=도대체|
+3|넌 네 잘못을 인정해야 해.|Cậu phải nhận lỗi của mình.|nhận lỗi=잘못을 인정하다|
+3|살려 줘!|Cứu với!|cứu=구하다|
+3|총 내려놔!|Bỏ súng xuống!|súng=총; bỏ xuống=내려놓다|액션물 단골 대사
+3|경찰이다! 움직이지 마!|Công an đây! Đứng im!|công an=경찰; đứng im=꼼짝 마|
+3|감옥에서 막 나왔대.|Nghe nói hắn vừa ra tù.|ra tù=출소하다|
+3|이 빚은 꼭 갚을게.|Món nợ này tớ nhất định sẽ trả.|nợ=빚; nhất định=반드시|
+3|그건 네 탓이 아니야.|Đó không phải lỗi của cậu.|lỗi=잘못·탓|
+3|난 너를 믿어.|Tớ tin cậu.|tin=믿다|
+3|정신 차려!|Tỉnh lại đi!|tỉnh=깨어나다|
+3|큰일 났다!|Chết rồi!|chết rồi=큰일 났다(감탄)|직역은 '죽었다'지만 '큰일 났다'라는 감탄
+3|괜히 겁주지 마.|Đừng có dọa tớ.|dọa=겁주다|
+3|아이고, 불쌍해라.|Ôi, tội nghiệp quá.|tội nghiệp=불쌍한|
+3|넌 그 사람한테 안 어울려.|Cậu không xứng với người đó.|xứng=어울리다·자격 있다|
+3|됐어, 신경 쓰지 마.|Thôi, kệ đi.|kệ=신경 쓰지 않다|
+3|그러니까 내 말은…|Ý tớ là…|ý=뜻·의미|
+3|음… 잘 모르겠어.|Ừm… tớ không chắc.|ừm=음; chắc=확실한|
+3|착하지, 우리 아가.|Ngoan nào, con yêu.|ngoan=착한(아이); con yêu=우리 아가|
+3|네, 알겠습니다.|Dạ, con hiểu rồi ạ.|dạ=네(공손); con=저(부모 앞에서 자식)|북부는 vâng·dạ를 함께 쓰고, 남부는 주로 dạ
+4|mày, tao는 아주 친한 사이 아니면 무례하게 들려요.|"Mày" với "tao" nghe rất thô nếu không phải bạn rất thân.|mày=너(낮춤); tao=나(낮춤); thô=거친|영화 속 싸움·친구 장면에 자주 나옴 — 직접 쓰기보다 알아듣는 용도
+4|그 영화는 대사에 욕이 너무 많아서 자막이 순화됐어요.|Phim đó chửi thề nhiều quá nên phụ đề đã được nói giảm đi.|chửi thề=욕하다; nói giảm=순화하다|
+4|사극에서는 존칭이 현대어와 완전히 달라요.|Trong phim cổ trang, cách xưng hô khác hẳn tiếng hiện đại.|phim cổ trang=사극; xưng hô=호칭|
+4|추격 장면이 너무 길어서 좀 지루했어요.|Cảnh rượt đuổi dài quá nên hơi chán.|rượt đuổi=추격하다|
+4|주인공이 결국 복수에 성공하지만 마음은 허전해요.|Cuối cùng nhân vật chính trả thù được nhưng lòng vẫn trống rỗng.|trả thù=복수하다; trống rỗng=허전한|
+4|악당의 정체가 마지막에 밝혀져요.|Danh tính của kẻ ác được tiết lộ ở cuối phim.|danh tính=정체; kẻ ác=악당; tiết lộ=밝히다|
+4|전쟁 영화라서 총소리와 폭발 장면이 많아요.|Phim chiến tranh nên có nhiều tiếng súng và cảnh nổ.|nổ=폭발하다|
+4|그 장면에서 군인들이 숲을 지나 국경을 넘어요.|Trong cảnh đó, lính băng qua rừng để vượt biên.|lính=군인; băng qua=가로지르다; vượt biên=국경을 넘다|
+@social
+2|얘들아, 오랜만이야!|Chào các cậu, lâu quá không gặp!|các cậu=너희들(친구 사이)|
+2|머리 잘랐어? 잘 어울린다.|Cắt tóc à? Hợp lắm đấy.|tóc=머리카락; hợp=어울리다|
+2|너희 이모 오셨어?|Dì cậu đến chưa?|dì=이모|
+3|좀 이따 연락할게.|Tí nữa tớ gọi lại nhé.|tí nữa=좀 이따|tí = 조금(구어)
+3|요즘 잠을 제대로 못 자.|Dạo này tớ ngủ không ngon giấc.|giấc=잠(한숨)|
+3|걔는 부자인데 전혀 티를 안 내.|Nó giàu mà chẳng khoe khoang gì.|giàu=부유한; khoe khoang=자랑하다; nó=걔(친근·낮춤)|
+3|우리 둘 다 길이 막혀서 늦었어.|Cả hai đứa mình đều bị tắc đường nên đến muộn.|tắc đường=길이 막히다(북부); đứa=아이·사람(구어 수량사)|
+3|걔 고양이가 쥐를 잡았대.|Nghe nói mèo nhà nó bắt được chuột.|chuột=쥐; bắt=잡다|
+3|다들 무서워서 아무 말도 못 했어.|Ai cũng sợ hãi nên chẳng nói được gì.|sợ hãi=겁먹다|
+3|방이 너무 더러워서 청소 좀 했어.|Phòng bẩn quá nên tớ dọn một chút.|bẩn=더러운; dọn=치우다|
+3|그렇게 고생했는데 결과가 이래서 속상해.|Khổ thế mà kết quả lại thế này, buồn ghê.|khổ=고생; ghê=엄청(구어)|
+3|운동을 너무 해서 다리가 뻣뻣해.|Tập nhiều quá nên chân cứng đơ.|cứng đơ=뻣뻣한|
+3|자동차 경주 보는 거 좋아해?|Cậu có thích xem đua xe không?|đua xe=자동차 경주|

@@ -17,6 +17,9 @@ CATS = [
     ("ai", "AI·데이터"), ("energy", "에너지·원자재"),
 ]
 CAT_KEYS = {k for k, _ in CATS}
+# 두 언어 공통 5단계 — CEFR 매핑 (Supabase levels 테이블과 동일)
+LEVELS = [(1, "A1", "기초"), (2, "A2", "초급"), (3, "B1", "중급"), (4, "B2", "중상급"), (5, "C1", "고급")]
+LV_KEYS = {str(l) for l, _, _ in LEVELS}
 
 
 def hid(s):
@@ -43,7 +46,7 @@ def parse(lang):
             lv, ko, t = parts[0], parts[1].strip(), unicodedata.normalize("NFC", parts[2].strip())
             gl = parts[3].strip() if len(parts) > 3 else ""
             note = parts[4].strip() if len(parts) > 4 else ""
-            if lv not in ("1","2","3","4") or not ko or not t:
+            if lv not in LV_KEYS or not ko or not t:
                 errors.append(f"{f.name}:{n} bad level/empty: {line}")
                 continue
             words = []
@@ -58,25 +61,35 @@ def parse(lang):
                 errors.append(f"{f.name}:{n} duplicate of {seen[key]}: {t}")
                 continue
             seen[key] = f"{f.name}:{n}"
-            items.append({"id": hid(lang + ":" + t), "c": cat, "l": int(lv), "k": ko, "t": t, "w": words, "n": note})
+            items.append({"id": hid(lang + ":" + t), "c": cat, "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name})
     ids = [i["id"] for i in items]
     if len(ids) != len(set(ids)):
         errors.append("id collision")
     return items, errors
 
 
+PARSED = {}
+
+
 def main():
-    data = {"cats": CATS, "langs": {}}
+    cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8")) if (ROOT / "config.json").exists() else {}
+    import os
+    sb_url = os.environ.get("MALMOI_SB_URL", cfg.get("supabaseUrl", ""))  # 테스트용 덮어쓰기
+    sb_key = os.environ.get("MALMOI_SB_KEY", cfg.get("supabaseAnonKey", ""))
+    data = {"cats": CATS, "levels": LEVELS, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
     all_err = []
     for lang in ("vi", "en"):
         items, errs = parse(lang)
         all_err += [f"[{lang}] {e}" for e in errs]
-        data["langs"][lang] = items
-        per = {}
+        data["langs"][lang] = [{k: v for k, v in i.items() if k != "f"} for i in items]
+        (ROOT / "dist").mkdir(exist_ok=True)
+        PARSED[lang] = items
+        per, lvs = {}, {}
         for i in items:
+            lvs[i["l"]] = lvs.get(i["l"], 0) + 1
             per[i["c"]] = per.get(i["c"], 0) + 1
         terms = {w[0].lower() for i in items for w in i["w"]}
-        print(f"{lang}: {len(items)} sentences, {len(terms)} unique terms, per-cat {per}")
+        print(f"{lang}: {len(items)} sentences, {len(terms)} unique terms, levels {dict(sorted(lvs.items()))}")
     if all_err:
         print("\n".join(all_err))
         sys.exit(1)

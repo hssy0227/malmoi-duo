@@ -1,0 +1,25 @@
+name: Supabase keepalive
+
+# Supabase 무료 플랜은 7일간 DB 활동이 없으면 일시정지됨 → 주 2회 DB에 기록
+# GitHub는 60일간 저장소 활동이 없으면 예약 실행을 끔 → 매번 이 워크플로를 다시 활성화해 카운터를 초기화
+on:
+  schedule:
+    - cron: "17 3 * * 1,4"   # 월·목 12:17 KST
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Supabase에 기록 남기기
+        run: python3 tools/keepalive.py
+      - name: 예약 실행이 꺼지지 않게 다시 활성화
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow enable keepalive.yml

@@ -1,0 +1,117 @@
+# 두 언어 공통 핵심 문장 (CEFR A1~B1 주제 기준, 한국어 뜻을 공유해 언어 간 누락 교차검증)
+# 형식: 레벨|한국어|베트남어|베트남어 풀이|영어|영어 풀이   (sources/gen_core.py로 content/*_y_core*.txt 생성)
+@family
+1|저희 어머니는 선생님이세요.|Mẹ tôi là giáo viên.|mẹ=어머니; giáo viên=교사|My mother is a teacher.|mother=어머니; teacher=선생님
+1|아버지는 회사원이에요.|Bố tôi là nhân viên văn phòng.|bố=아버지(북부); nhân viên văn phòng=회사원|My father works in an office.|father=아버지; office=사무실
+1|저는 누나가 한 명 있어요.|Tôi có một chị gái.|chị gái=누나·언니|I have an older sister.|older sister=누나·언니
+1|남동생은 대학생이에요.|Em trai tôi là sinh viên.|em trai=남동생; sinh viên=대학생|My younger brother is a college student.|younger brother=남동생; college student=대학생
+1|딸이 둘 있어요.|Tôi có hai con gái.|con gái=딸|I have two daughters.|daughter=딸
+1|아들은 이제 다섯 살이에요.|Con trai tôi năm nay năm tuổi.|con trai=아들; tuổi=살·나이|My son is five years old now.|son=아들
+1|아내는 간호사예요.|Vợ tôi là y tá.|vợ=아내; y tá=간호사|My wife is a nurse.|wife=아내; nurse=간호사
+1|남편은 요리를 잘해요.|Chồng tôi nấu ăn rất giỏi.|chồng=남편; nấu ăn=요리하다; giỏi=잘하는|My husband is a great cook.|husband=남편; cook=요리사·요리하다
+1|형제가 몇 명이에요?|Anh có mấy anh chị em?|anh chị em=형제자매|How many brothers and sisters do you have?|brothers and sisters=형제자매
+2|할머니 댁은 시골에 있어요.|Nhà bà tôi ở quê.|bà=할머니; quê=시골·고향|My grandmother lives in the countryside.|grandmother=할머니; countryside=시골
+2|할아버지는 올해 여든 살이 되세요.|Ông tôi năm nay tám mươi tuổi.|ông=할아버지; tám mươi=80|My grandfather is turning eighty this year.|grandfather=할아버지; turn=(나이가) 되다
+2|사촌들과 자주 만나요.|Tôi hay gặp các anh chị em họ.|anh chị em họ=사촌; hay=자주|I often see my cousins.|cousin=사촌; often=자주
+2|이모가 다음 주에 결혼해요.|Dì tôi sẽ cưới vào tuần sau.|dì=이모; cưới=결혼하다|My aunt is getting married next week.|aunt=이모·고모; get married=결혼하다
+2|삼촌은 외국에 살아요.|Chú tôi sống ở nước ngoài.|chú=삼촌(아버지의 남동생); nước ngoài=외국|My uncle lives abroad.|uncle=삼촌; abroad=외국에서
+2|저는 외동이에요.|Tôi là con một.|con một=외동|I'm an only child.|only child=외동
+2|부모님과 같이 살아요.|Tôi sống cùng bố mẹ.|bố mẹ=부모님; cùng=함께|I live with my parents.|parents=부모님
+2|우리 가족은 네 식구예요.|Gia đình tôi có bốn người.|gia đình=가족|There are four people in my family.|family=가족
+2|아기가 막 걷기 시작했어요.|Em bé vừa mới biết đi.|em bé=아기; vừa mới=막|The baby has just started walking.|baby=아기; just=막
+2|저는 엄마를 많이 닮았어요.|Tôi giống mẹ lắm.|giống=닮다|I look a lot like my mom.|look like=닮다
+2|주말마다 가족과 시간을 보내요.|Cuối tuần nào tôi cũng dành thời gian cho gia đình.|dành=할애하다; cuối tuần=주말|I spend every weekend with my family.|spend=(시간을) 보내다
+3|부모님께 매주 전화를 드려요.|Tuần nào tôi cũng gọi điện cho bố mẹ.|gọi điện=전화하다|I call my parents every week.|call=전화하다
+3|언니랑은 나이 차이가 많이 나요.|Tôi với chị gái cách nhau nhiều tuổi.|cách nhau=차이 나다|There's a big age gap between my sister and me.|age gap=나이 차이
+3|조카가 이번에 초등학교에 들어가요.|Cháu tôi năm nay vào lớp một.|cháu=조카·손주; lớp một=초등 1학년|My niece is starting elementary school this year.|niece=(여자) 조카; elementary school=초등학교
+3|우리는 결혼한 지 십 년 됐어요.|Chúng tôi lấy nhau được mười năm rồi.|lấy nhau=결혼하다(구어)|We've been married for ten years.|be married=결혼한 상태이다
+3|요즘 부모님 건강이 걱정돼요.|Dạo này tôi lo cho sức khỏe của bố mẹ.|lo=걱정하다; sức khỏe=건강|I've been worried about my parents' health lately.|health=건강; worried=걱정하는
+3|아이들 키우는 게 쉽지 않아요.|Nuôi con không dễ chút nào.|nuôi con=아이를 키우다|Raising children isn't easy at all.|raise=기르다; children=아이들
+3|형하고 저는 성격이 정반대예요.|Anh tôi với tôi tính cách trái ngược hẳn.|tính cách=성격; trái ngược=정반대인|My brother and I have completely different personalities.|personality=성격; completely=완전히
+3|명절에는 온 가족이 할머니 댁에 모여요.|Dịp lễ Tết cả nhà tụ họp ở nhà bà.|tụ họp=모이다; dịp=때·기회|On holidays the whole family gathers at Grandma's house.|gather=모이다; whole=전체의
+3|이웃집 사람들과 사이가 좋아요.|Tôi với hàng xóm rất hòa thuận.|hàng xóm=이웃; hòa thuận=사이좋은|I get along well with my neighbors.|neighbor=이웃; get along=사이좋게 지내다
+3|여자 친구를 부모님께 소개하려고 해요.|Tôi định giới thiệu bạn gái với bố mẹ.|bạn gái=여자 친구; giới thiệu=소개하다|I'm planning to introduce my girlfriend to my parents.|girlfriend=여자 친구; introduce=소개하다
+@nature
+1|오늘 날씨가 좋네요.|Hôm nay trời đẹp quá.|trời=하늘·날씨; đẹp=좋은·예쁜|The weather is nice today.|weather=날씨
+1|비가 와요.|Trời đang mưa.|mưa=비(가 오다)|It's raining.|rain=비가 오다
+1|오늘은 정말 더워요.|Hôm nay nóng quá.|nóng=더운|It's really hot today.|hot=더운
+1|밖이 추워요.|Bên ngoài lạnh lắm.|lạnh=추운; bên ngoài=밖|It's cold outside.|cold=추운; outside=밖에
+1|바람이 많이 불어요.|Gió to quá.|gió=바람; to=센|It's very windy.|windy=바람이 부는; wind=바람
+1|눈이 와요.|Tuyết đang rơi.|tuyết=눈; rơi=떨어지다|It's snowing.|snow=눈이 오다
+2|하늘이 정말 파래요.|Bầu trời xanh quá.|bầu trời=하늘; xanh=푸른|The sky is so blue.|sky=하늘; blue=파란
+2|구름이 끼었어요.|Trời nhiều mây.|mây=구름|It's cloudy.|cloudy=흐린
+2|내일은 맑을 거예요.|Ngày mai trời sẽ nắng.|nắng=맑은·햇볕이 나는|It will be sunny tomorrow.|sunny=화창한
+2|봄에는 꽃이 많이 펴요.|Mùa xuân hoa nở nhiều.|mùa xuân=봄; hoa=꽃; nở=피다|Lots of flowers bloom in spring.|spring=봄; flower=꽃
+2|여름에는 바다에 가요.|Mùa hè tôi đi biển.|mùa hè=여름; biển=바다|In summer I go to the beach.|summer=여름; beach=해변
+2|가을은 시원하고 하늘이 높아요.|Mùa thu mát mẻ và trời cao.|mùa thu=가을; mát mẻ=시원한|Autumn is cool, and the sky is high.|autumn=가을; cool=시원한
+2|겨울에는 해가 일찍 져요.|Mùa đông trời tối sớm.|mùa đông=겨울; tối=어두워지다|It gets dark early in winter.|winter=겨울; dark=어두운
+2|산에 올라가는 걸 좋아해요.|Tôi thích leo núi.|leo núi=등산하다; núi=산|I like climbing mountains.|climb=오르다; mountain=산
+2|강가를 따라 산책했어요.|Tôi đi dạo dọc bờ sông.|đi dạo=산책하다; bờ sông=강가|I took a walk along the river.|walk=산책; river=강
+2|이 나무는 아주 오래됐어요.|Cây này rất lâu năm.|cây=나무; lâu năm=오래된|This tree is very old.|tree=나무
+2|새소리가 들려요.|Tôi nghe thấy tiếng chim hót.|chim=새; hót=(새가) 지저귀다|I can hear birds singing.|bird=새; sing=노래하다
+2|개를 키우고 있어요.|Tôi nuôi một con chó.|nuôi=기르다; chó=개|I have a dog.|dog=개
+2|고양이가 창가에서 자고 있어요.|Con mèo đang ngủ bên cửa sổ.|mèo=고양이|The cat is sleeping by the window.|cat=고양이
+3|섬에서 일출을 봤어요.|Tôi đã ngắm bình minh trên đảo.|đảo=섬; bình minh=일출|I watched the sunrise on the island.|island=섬; sunrise=일출
+3|숲속 공기가 정말 맑아요.|Không khí trong rừng trong lành quá.|rừng=숲; trong lành=맑은|The air in the forest is so fresh.|forest=숲; fresh=신선한
+3|오늘 밤에 별이 많이 보여요.|Đêm nay nhìn thấy nhiều sao.|sao=별|You can see a lot of stars tonight.|star=별
+3|달이 아주 밝네요.|Trăng sáng quá.|trăng=달; sáng=밝은|The moon is very bright.|moon=달; bright=밝은
+3|기온이 영하로 떨어졌어요.|Nhiệt độ xuống dưới không độ.|nhiệt độ=기온; dưới=아래|The temperature dropped below zero.|temperature=기온; below=아래로
+3|습도가 높아서 끈적거려요.|Độ ẩm cao nên người dính dính.|độ ẩm=습도; dính=끈적한|It's humid, so I feel sticky.|humid=습한; sticky=끈적한
+3|태풍이 오고 있어서 배가 다 취소됐어요.|Bão sắp đến nên tàu thuyền bị hủy hết.|bão=태풍; tàu thuyền=배·선박|A typhoon is coming, so all the boats were canceled.|typhoon=태풍; boat=배
+3|지진이 나면 탁자 밑으로 들어가세요.|Nếu có động đất thì chui xuống gầm bàn.|động đất=지진; gầm bàn=탁자 밑|If there's an earthquake, get under a table.|earthquake=지진
+3|해변에서 조개껍데기를 주웠어요.|Tôi nhặt vỏ sò trên bãi biển.|nhặt=줍다; vỏ sò=조개껍데기|I picked up shells on the beach.|pick up=줍다; shell=껍데기
+3|이 지역은 물이 깨끗해서 수영하기 좋아요.|Nước ở đây sạch nên bơi rất thích.|sạch=깨끗한; bơi=수영하다|The water here is clean, so it's great for swimming.|clean=깨끗한; swim=수영하다
+3|환경을 위해 플라스틱을 덜 쓰려고 해요.|Tôi cố dùng ít đồ nhựa hơn để bảo vệ môi trường.|đồ nhựa=플라스틱 제품; bảo vệ=보호하다|I try to use less plastic for the environment.|environment=환경; less=덜
+@cook
+1|벌써 배고파요.|Tôi đói rồi.|đói=배고픈|I'm already hungry.|hungry=배고픈; already=벌써
+1|배불러요.|Tôi no rồi.|no=배부른|I'm full.|full=배부른
+1|물 한 잔 주세요.|Cho tôi một cốc nước.|cốc=컵(북부); nước=물|A glass of water, please.|glass=잔·유리컵; water=물
+1|아침에 빵이랑 달걀을 먹어요.|Buổi sáng tôi ăn bánh mì với trứng.|bánh mì=빵; trứng=달걀|I have bread and eggs for breakfast.|bread=빵; egg=달걀
+1|저는 생선을 좋아해요.|Tôi thích ăn cá.|cá=생선·물고기|I like fish.|fish=생선
+1|과일을 매일 먹어요.|Ngày nào tôi cũng ăn hoa quả.|hoa quả=과일(북부)|I eat fruit every day.|fruit=과일
+2|냉장고에 우유가 있어요?|Trong tủ lạnh có sữa không?|tủ lạnh=냉장고; sữa=우유|Is there any milk in the fridge?|fridge=냉장고; milk=우유
+2|부엌에서 저녁을 만들고 있어요.|Tôi đang nấu bữa tối trong bếp.|bếp=부엌; bữa tối=저녁 식사|I'm making dinner in the kitchen.|kitchen=부엌; dinner=저녁 식사
+2|양파를 잘게 썰어 주세요.|Thái nhỏ hành tây giúp tôi.|thái=썰다(북부); hành tây=양파|Please chop the onion finely.|chop=썰다; onion=양파
+2|고기를 먼저 볶으세요.|Xào thịt trước.|xào=볶다; thịt=고기|Stir-fry the meat first.|stir-fry=볶다; meat=고기
+2|물이 끓으면 면을 넣으세요.|Khi nước sôi thì cho mì vào.|sôi=끓다; mì=면|When the water boils, add the noodles.|boil=끓다; noodle=면
+2|소금을 조금만 넣어요.|Cho một chút muối thôi.|muối=소금|Just add a little salt.|salt=소금
+2|설탕은 빼 주세요.|Đừng cho đường nhé.|đường=설탕|No sugar, please.|sugar=설탕
+2|차 한잔할래요?|Uống trà không?|trà=차|Would you like a cup of tea?|tea=차
+2|장 보러 시장에 가요.|Tôi đi chợ mua đồ ăn.|đi chợ=장 보다|I'm going to the market for groceries.|market=시장; groceries=식료품
+3|이 요리는 어떻게 만들어요?|Món này làm thế nào?|món=요리|How do you make this dish?|dish=요리
+3|재료를 다 준비했어요.|Tôi đã chuẩn bị đủ nguyên liệu.|nguyên liệu=재료; đủ=충분히|I've got all the ingredients ready.|ingredient=재료
+3|약한 불에서 십 분 정도 졸이세요.|Đun nhỏ lửa khoảng mười phút cho sánh lại.|đun=끓이다·데우다; nhỏ lửa=약불; sánh=걸쭉해지다|Simmer it over low heat for about ten minutes.|simmer=약불에 끓이다; heat=불·열
+3|간이 좀 싱거운 것 같아요.|Hình như hơi nhạt.|nhạt=싱거운|I think it's a little bland.|bland=싱거운
+3|좀 짜요.|Hơi mặn.|mặn=짠|It's a bit salty.|salty=짠
+3|이 소스는 매콤하면서 달아요.|Nước sốt này vừa cay vừa ngọt.|nước sốt=소스; cay=매운; ngọt=단|This sauce is both spicy and sweet.|sauce=소스; spicy=매운; sweet=단
+3|채소는 살짝만 데치세요.|Rau chỉ chần sơ thôi.|rau=채소; chần=데치다|Just blanch the vegetables lightly.|vegetable=채소; blanch=데치다
+3|남은 음식은 냉동실에 넣어 두세요.|Đồ ăn thừa thì cho vào ngăn đá.|đồ ăn thừa=남은 음식; ngăn đá=냉동실|Put the leftovers in the freezer.|leftovers=남은 음식; freezer=냉동실
+3|오븐에 이십 분 구우면 돼요.|Nướng lò hai mươi phút là được.|nướng=굽다; lò=오븐|Bake it in the oven for twenty minutes.|bake=굽다; oven=오븐
+3|고수는 빼 주실 수 있어요?|Không cho rau mùi được không?|rau mùi=고수(북부)|Could you leave out the cilantro?|leave out=빼다; cilantro=고수
+3|이 요리는 엄마한테 배웠어요.|Món này tôi học từ mẹ.|học=배우다|I learned this dish from my mom.|learn=배우다
+3|손님이 오셔서 음식을 넉넉하게 했어요.|Có khách đến nên tôi nấu nhiều đồ ăn.|khách=손님|We have guests coming, so I made plenty of food.|guest=손님; plenty=넉넉함
+@hobby
+1|취미가 뭐예요?|Sở thích của anh là gì?|sở thích=취미|What are your hobbies?|hobby=취미
+1|저는 음악 듣는 걸 좋아해요.|Tôi thích nghe nhạc.|nghe nhạc=음악을 듣다|I like listening to music.|listen=듣다; music=음악
+1|주말에 축구를 해요.|Cuối tuần tôi chơi bóng đá.|bóng đá=축구; chơi=하다·놀다|I play soccer on weekends.|soccer=축구; play=(운동을) 하다
+1|그림 그리는 걸 좋아해요.|Tôi thích vẽ tranh.|vẽ=그리다; tranh=그림|I love drawing pictures.|draw=그리다; picture=그림
+2|노래 부르는 걸 좋아해요.|Tôi thích hát.|hát=노래하다|I like singing.|sing=노래하다
+2|요즘 기타를 배우고 있어요.|Dạo này tôi đang học đàn ghi-ta.|đàn ghi-ta=기타|I'm learning the guitar these days.|guitar=기타
+2|매일 아침 공원에서 달려요.|Sáng nào tôi cũng chạy bộ ở công viên.|chạy bộ=달리기하다; công viên=공원|I run in the park every morning.|run=달리다; park=공원
+2|일주일에 세 번 헬스장에 가요.|Tôi đi tập gym một tuần ba lần.|tập=운동하다·연습하다; lần=번|I go to the gym three times a week.|gym=헬스장
+2|친구들이랑 게임을 해요.|Tôi chơi game với bạn bè.|bạn bè=친구들|I play games with my friends.|game=게임
+2|춤추는 걸 배우고 싶어요.|Tôi muốn học nhảy.|nhảy=춤추다|I want to learn to dance.|dance=춤추다
+2|사진 찍는 게 제 취미예요.|Chụp ảnh là sở thích của tôi.|chụp ảnh=사진 찍다|Taking photos is my hobby.|photo=사진
+2|이번 주말에 낚시하러 가요.|Cuối tuần này tôi đi câu cá.|câu cá=낚시하다|I'm going fishing this weekend.|go fishing=낚시하러 가다
+2|자전거 타는 걸 좋아해요.|Tôi thích đạp xe.|đạp xe=자전거 타다|I enjoy riding my bike.|ride=타다; bike=자전거
+3|어제 콘서트에 갔는데 정말 신났어요.|Hôm qua tôi đi xem hòa nhạc, vui cực.|hòa nhạc=콘서트; cực=엄청|I went to a concert yesterday, and it was so exciting.|concert=콘서트; exciting=신나는
+3|어떤 운동을 좋아해요?|Anh thích môn thể thao nào?|môn thể thao=운동 종목|What sports do you like?|sport=운동·스포츠
+3|저는 수영을 정말 못해요.|Tôi bơi dở lắm.|dở=서투른|I'm really bad at swimming.|be bad at=~을 못하다
+3|우리 팀이 어제 경기에서 이겼어요.|Đội tôi thắng trận hôm qua.|đội=팀; thắng=이기다; trận=경기|My team won the game yesterday.|team=팀; win=이기다
+3|아쉽게 한 점 차이로 졌어요.|Tiếc là thua có một điểm.|thua=지다; điểm=점수|Sadly, we lost by one point.|lose=지다; point=점수
+3|요가를 하면 마음이 편해져요.|Tập yoga làm tôi thấy thư thái.|thư thái=마음이 편한|Doing yoga helps me relax.|relax=긴장을 풀다
+3|캠핑 가서 불 피우고 고기 구워 먹었어요.|Đi cắm trại chúng tôi đốt lửa và nướng thịt.|cắm trại=캠핑하다; đốt lửa=불을 피우다|We went camping, made a fire, and grilled meat.|camping=캠핑; grill=굽다
+3|퇴근 후에 동호회에서 배드민턴을 쳐요.|Sau giờ làm tôi chơi cầu lông ở câu lạc bộ.|cầu lông=배드민턴; câu lạc bộ=동호회|After work I play badminton at a club.|badminton=배드민턴; club=동호회
+3|어릴 때부터 피아노를 쳤어요.|Tôi chơi piano từ nhỏ.|từ nhỏ=어릴 때부터|I've played the piano since I was little.|piano=피아노; since=~이후로
+3|퍼즐 맞추는 건 집중력에 좋아요.|Ghép hình rất tốt cho khả năng tập trung.|ghép hình=퍼즐 맞추기; tập trung=집중하다|Doing puzzles is good for concentration.|puzzle=퍼즐; concentration=집중력
+3|정원 가꾸는 데 재미를 붙였어요.|Tôi bắt đầu thích làm vườn.|làm vườn=정원을 가꾸다|I've gotten into gardening.|gardening=정원 가꾸기; get into=~에 재미를 붙이다

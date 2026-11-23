@@ -1,0 +1,247 @@
+# 두 언어 공통 핵심 문장 (sources/gen_core.py로 생성 — 직접 수정 금지)
+@family
+1|저희 어머니는 선생님이세요.|My mother is a teacher.|mother=어머니; teacher=선생님
+1|아버지는 회사원이에요.|My father works in an office.|father=아버지; office=사무실
+1|저는 누나가 한 명 있어요.|I have an older sister.|older sister=누나·언니
+1|남동생은 대학생이에요.|My younger brother is a college student.|younger brother=남동생; college student=대학생
+1|딸이 둘 있어요.|I have two daughters.|daughter=딸
+1|아들은 이제 다섯 살이에요.|My son is five years old now.|son=아들
+1|아내는 간호사예요.|My wife is a nurse.|wife=아내; nurse=간호사
+1|남편은 요리를 잘해요.|My husband is a great cook.|husband=남편; cook=요리사·요리하다
+1|형제가 몇 명이에요?|How many brothers and sisters do you have?|brothers and sisters=형제자매
+2|할머니 댁은 시골에 있어요.|My grandmother lives in the countryside.|grandmother=할머니; countryside=시골
+2|할아버지는 올해 여든 살이 되세요.|My grandfather is turning eighty this year.|grandfather=할아버지; turn=(나이가) 되다
+2|사촌들과 자주 만나요.|I often see my cousins.|cousin=사촌; often=자주
+2|이모가 다음 주에 결혼해요.|My aunt is getting married next week.|aunt=이모·고모; get married=결혼하다
+2|삼촌은 외국에 살아요.|My uncle lives abroad.|uncle=삼촌; abroad=외국에서
+2|저는 외동이에요.|I'm an only child.|only child=외동
+2|부모님과 같이 살아요.|I live with my parents.|parents=부모님
+2|우리 가족은 네 식구예요.|There are four people in my family.|family=가족
+2|아기가 막 걷기 시작했어요.|The baby has just started walking.|baby=아기; just=막
+2|저는 엄마를 많이 닮았어요.|I look a lot like my mom.|look like=닮다
+2|주말마다 가족과 시간을 보내요.|I spend every weekend with my family.|spend=(시간을) 보내다
+3|부모님께 매주 전화를 드려요.|I call my parents every week.|call=전화하다
+3|언니랑은 나이 차이가 많이 나요.|There's a big age gap between my sister and me.|age gap=나이 차이
+3|조카가 이번에 초등학교에 들어가요.|My niece is starting elementary school this year.|niece=(여자) 조카; elementary school=초등학교
+3|우리는 결혼한 지 십 년 됐어요.|We've been married for ten years.|be married=결혼한 상태이다
+3|요즘 부모님 건강이 걱정돼요.|I've been worried about my parents' health lately.|health=건강; worried=걱정하는
+3|아이들 키우는 게 쉽지 않아요.|Raising children isn't easy at all.|raise=기르다; children=아이들
+3|형하고 저는 성격이 정반대예요.|My brother and I have completely different personalities.|personality=성격; completely=완전히
+3|명절에는 온 가족이 할머니 댁에 모여요.|On holidays the whole family gathers at Grandma's house.|gather=모이다; whole=전체의
+3|이웃집 사람들과 사이가 좋아요.|I get along well with my neighbors.|neighbor=이웃; get along=사이좋게 지내다
+3|여자 친구를 부모님께 소개하려고 해요.|I'm planning to introduce my girlfriend to my parents.|girlfriend=여자 친구; introduce=소개하다
+@nature
+1|오늘 날씨가 좋네요.|The weather is nice today.|weather=날씨
+1|비가 와요.|It's raining.|rain=비가 오다
+1|오늘은 정말 더워요.|It's really hot today.|hot=더운
+1|밖이 추워요.|It's cold outside.|cold=추운; outside=밖에
+1|바람이 많이 불어요.|It's very windy.|windy=바람이 부는; wind=바람
+1|눈이 와요.|It's snowing.|snow=눈이 오다
+2|하늘이 정말 파래요.|The sky is so blue.|sky=하늘; blue=파란
+2|구름이 끼었어요.|It's cloudy.|cloudy=흐린
+2|내일은 맑을 거예요.|It will be sunny tomorrow.|sunny=화창한
+2|봄에는 꽃이 많이 펴요.|Lots of flowers bloom in spring.|spring=봄; flower=꽃
+2|여름에는 바다에 가요.|In summer I go to the beach.|summer=여름; beach=해변
+2|가을은 시원하고 하늘이 높아요.|Autumn is cool, and the sky is high.|autumn=가을; cool=시원한
+2|겨울에는 해가 일찍 져요.|It gets dark early in winter.|winter=겨울; dark=어두운
+2|산에 올라가는 걸 좋아해요.|I like climbing mountains.|climb=오르다; mountain=산
+2|강가를 따라 산책했어요.|I took a walk along the river.|walk=산책; river=강
+2|이 나무는 아주 오래됐어요.|This tree is very old.|tree=나무
+2|새소리가 들려요.|I can hear birds singing.|bird=새; sing=노래하다
+2|개를 키우고 있어요.|I have a dog.|dog=개
+2|고양이가 창가에서 자고 있어요.|The cat is sleeping by the window.|cat=고양이
+3|섬에서 일출을 봤어요.|I watched the sunrise on the island.|island=섬; sunrise=일출
+3|숲속 공기가 정말 맑아요.|The air in the forest is so fresh.|forest=숲; fresh=신선한
+3|오늘 밤에 별이 많이 보여요.|You can see a lot of stars tonight.|star=별
+3|달이 아주 밝네요.|The moon is very bright.|moon=달; bright=밝은
+3|기온이 영하로 떨어졌어요.|The temperature dropped below zero.|temperature=기온; below=아래로
+3|습도가 높아서 끈적거려요.|It's humid, so I feel sticky.|humid=습한; sticky=끈적한
+3|태풍이 오고 있어서 배가 다 취소됐어요.|A typhoon is coming, so all the boats were canceled.|typhoon=태풍; boat=배
+3|지진이 나면 탁자 밑으로 들어가세요.|If there's an earthquake, get under a table.|earthquake=지진
+3|해변에서 조개껍데기를 주웠어요.|I picked up shells on the beach.|pick up=줍다; shell=껍데기
+3|이 지역은 물이 깨끗해서 수영하기 좋아요.|The water here is clean, so it's great for swimming.|clean=깨끗한; swim=수영하다
+3|환경을 위해 플라스틱을 덜 쓰려고 해요.|I try to use less plastic for the environment.|environment=환경; less=덜
+@cook
+1|벌써 배고파요.|I'm already hungry.|hungry=배고픈; already=벌써
+1|배불러요.|I'm full.|full=배부른
+1|물 한 잔 주세요.|A glass of water, please.|glass=잔·유리컵; water=물
+1|아침에 빵이랑 달걀을 먹어요.|I have bread and eggs for breakfast.|bread=빵; egg=달걀
+1|저는 생선을 좋아해요.|I like fish.|fish=생선
+1|과일을 매일 먹어요.|I eat fruit every day.|fruit=과일
+2|냉장고에 우유가 있어요?|Is there any milk in the fridge?|fridge=냉장고; milk=우유
+2|부엌에서 저녁을 만들고 있어요.|I'm making dinner in the kitchen.|kitchen=부엌; dinner=저녁 식사
+2|양파를 잘게 썰어 주세요.|Please chop the onion finely.|chop=썰다; onion=양파
+2|고기를 먼저 볶으세요.|Stir-fry the meat first.|stir-fry=볶다; meat=고기
+2|물이 끓으면 면을 넣으세요.|When the water boils, add the noodles.|boil=끓다; noodle=면
+2|소금을 조금만 넣어요.|Just add a little salt.|salt=소금
+2|설탕은 빼 주세요.|No sugar, please.|sugar=설탕
+2|차 한잔할래요?|Would you like a cup of tea?|tea=차
+2|장 보러 시장에 가요.|I'm going to the market for groceries.|market=시장; groceries=식료품
+3|이 요리는 어떻게 만들어요?|How do you make this dish?|dish=요리
+3|재료를 다 준비했어요.|I've got all the ingredients ready.|ingredient=재료
+3|약한 불에서 십 분 정도 졸이세요.|Simmer it over low heat for about ten minutes.|simmer=약불에 끓이다; heat=불·열
+3|간이 좀 싱거운 것 같아요.|I think it's a little bland.|bland=싱거운
+3|좀 짜요.|It's a bit salty.|salty=짠
+3|이 소스는 매콤하면서 달아요.|This sauce is both spicy and sweet.|sauce=소스; spicy=매운; sweet=단
+3|채소는 살짝만 데치세요.|Just blanch the vegetables lightly.|vegetable=채소; blanch=데치다
+3|남은 음식은 냉동실에 넣어 두세요.|Put the leftovers in the freezer.|leftovers=남은 음식; freezer=냉동실
+3|오븐에 이십 분 구우면 돼요.|Bake it in the oven for twenty minutes.|bake=굽다; oven=오븐
+3|고수는 빼 주실 수 있어요?|Could you leave out the cilantro?|leave out=빼다; cilantro=고수
+3|이 요리는 엄마한테 배웠어요.|I learned this dish from my mom.|learn=배우다
+3|손님이 오셔서 음식을 넉넉하게 했어요.|We have guests coming, so I made plenty of food.|guest=손님; plenty=넉넉함
+@hobby
+1|취미가 뭐예요?|What are your hobbies?|hobby=취미
+1|저는 음악 듣는 걸 좋아해요.|I like listening to music.|listen=듣다; music=음악
+1|주말에 축구를 해요.|I play soccer on weekends.|soccer=축구; play=(운동을) 하다
+1|그림 그리는 걸 좋아해요.|I love drawing pictures.|draw=그리다; picture=그림
+2|노래 부르는 걸 좋아해요.|I like singing.|sing=노래하다
+2|요즘 기타를 배우고 있어요.|I'm learning the guitar these days.|guitar=기타
+2|매일 아침 공원에서 달려요.|I run in the park every morning.|run=달리다; park=공원
+2|일주일에 세 번 헬스장에 가요.|I go to the gym three times a week.|gym=헬스장
+2|친구들이랑 게임을 해요.|I play games with my friends.|game=게임
+2|춤추는 걸 배우고 싶어요.|I want to learn to dance.|dance=춤추다
+2|사진 찍는 게 제 취미예요.|Taking photos is my hobby.|photo=사진
+2|이번 주말에 낚시하러 가요.|I'm going fishing this weekend.|go fishing=낚시하러 가다
+2|자전거 타는 걸 좋아해요.|I enjoy riding my bike.|ride=타다; bike=자전거
+3|어제 콘서트에 갔는데 정말 신났어요.|I went to a concert yesterday, and it was so exciting.|concert=콘서트; exciting=신나는
+3|어떤 운동을 좋아해요?|What sports do you like?|sport=운동·스포츠
+3|저는 수영을 정말 못해요.|I'm really bad at swimming.|be bad at=~을 못하다
+3|우리 팀이 어제 경기에서 이겼어요.|My team won the game yesterday.|team=팀; win=이기다
+3|아쉽게 한 점 차이로 졌어요.|Sadly, we lost by one point.|lose=지다; point=점수
+3|요가를 하면 마음이 편해져요.|Doing yoga helps me relax.|relax=긴장을 풀다
+3|캠핑 가서 불 피우고 고기 구워 먹었어요.|We went camping, made a fire, and grilled meat.|camping=캠핑; grill=굽다
+3|퇴근 후에 동호회에서 배드민턴을 쳐요.|After work I play badminton at a club.|badminton=배드민턴; club=동호회
+3|어릴 때부터 피아노를 쳤어요.|I've played the piano since I was little.|piano=피아노; since=~이후로
+3|퍼즐 맞추는 건 집중력에 좋아요.|Doing puzzles is good for concentration.|puzzle=퍼즐; concentration=집중력
+3|정원 가꾸는 데 재미를 붙였어요.|I've gotten into gardening.|gardening=정원 가꾸기; get into=~에 재미를 붙이다
+@culture
+1|새해 복 많이 받으세요!|Happy New Year!|happy=행복한; new year=새해
+2|설날에는 가족이 다 모여요.|The whole family gets together for Lunar New Year.|get together=모이다; Lunar New Year=설날
+2|크리스마스에 선물을 주고받아요.|People exchange gifts at Christmas.|gift=선물; exchange=주고받다
+2|추석에는 송편을 먹어요.|We eat songpyeon on Chuseok.|eat=먹다
+2|베트남에서는 중추절에 아이들이 등불을 들고 다녀요.|In Vietnam, children carry lanterns at the Mid-Autumn Festival.|lantern=등불; festival=축제
+2|결혼식에 초대받았어요.|I've been invited to a wedding.|wedding=결혼식; invite=초대하다
+2|이 노래는 한국에서 아주 유명해요.|This song is very famous in Korea.|song=노래; famous=유명한
+3|축의금은 얼마나 내는 게 보통이에요?|How much do people usually give as a wedding gift?|usually=보통
+3|세배하면 어른들이 세뱃돈을 주세요.|After the New Year's bow, the elders give you money.|elder=어른
+3|명절 연휴에는 고속도로가 꽉 막혀요.|The highways are jammed during the holiday.|highway=고속도로; jammed=꽉 막힌
+3|그 축제는 매년 가을에 열려요.|The festival is held every fall.|be held=열리다; fall=가을
+3|전통 의상을 입고 사진을 찍었어요.|I took pictures in traditional clothes.|traditional=전통적인; clothes=옷
+3|베트남 사람들은 아오자이를 특별한 날에 입어요.|Vietnamese people wear the ao dai on special occasions.|occasion=행사·때; special=특별한
+3|그 나라 문화를 이해하려면 언어부터 배워야 해요.|To understand a country's culture, you should learn the language first.|culture=문화; country=나라
+3|박물관에서 그 나라 역사를 배웠어요.|I learned about the country's history at the museum.|history=역사; museum=박물관
+3|제사 때 조상님께 음식을 올려요.|At ancestral rites, we offer food to our ancestors.|ancestor=조상; offer=올리다·바치다
+3|그 지역은 독특한 음식 문화가 있어요.|That region has a unique food culture.|unique=독특한; region=지역
+4|두 나라는 비슷한 점도 많지만 다른 점도 많아요.|The two countries have a lot in common, but also many differences.|in common=공통으로; difference=차이
+4|그 나라에서는 나이를 묻는 게 실례가 아니에요.|In that country, asking someone's age isn't considered rude.|rude=무례한; be considered=~로 여겨지다
+@home
+1|집이 어디예요?|Where do you live?|live=살다
+1|제 방은 작아요.|My room is small.|room=방; small=작은
+2|침실이 두 개, 화장실이 하나예요.|There are two bedrooms and one bathroom.|bedroom=침실; bathroom=화장실
+2|거실 창문이 커서 밝아요.|The living room has big windows, so it's bright.|living room=거실; window=창문
+2|불 좀 꺼 주세요.|Please turn off the light.|turn off=끄다; light=불
+2|문 좀 닫아 주세요.|Please close the door.|close=닫다; door=문
+2|열쇠를 어디 뒀는지 모르겠어요.|I don't know where I put my keys.|key=열쇠; put=두다
+2|오늘은 빨래를 해야 해요.|I have to do the laundry today.|laundry=빨래
+2|설거지는 제가 할게요.|I'll do the dishes.|do the dishes=설거지하다
+3|이사한 지 얼마 안 됐어요.|I just moved recently.|move=이사하다; recently=최근에
+3|월세가 너무 올랐어요.|The rent has gone up too much.|rent=집세; go up=오르다
+3|윗집 소음 때문에 잠을 못 자요.|I can't sleep because of the noise upstairs.|noise=소음; upstairs=위층
+3|에어컨을 켜면 전기 요금이 많이 나와요.|The electricity bill goes up when I use the AC.|electricity bill=전기 요금
+3|창문을 열어서 환기 좀 할게요.|Let me open the window to air out the room.|air out=환기하다
+3|주말에 가구 배치를 바꿨어요.|I rearranged the furniture over the weekend.|furniture=가구; rearrange=재배치하다
+@money
+1|돈이 없어요.|I don't have any money.|money=돈
+2|은행에 가야 해요.|I need to go to the bank.|bank=은행
+2|이번 달에 돈을 너무 많이 썼어요.|I spent too much money this month.|spend=(돈을) 쓰다
+2|여행 가려고 돈을 모으고 있어요.|I'm saving money for a trip.|save=저축하다
+3|친구한테 돈을 빌렸어요.|I borrowed money from a friend.|borrow=빌리다
+3|월급날이 언제예요?|When is payday?|payday=월급날
+3|가계부를 쓰기 시작했어요.|I've started keeping a household budget.|budget=예산·가계부
+3|물가가 많이 올라서 생활비가 빠듯해요.|Prices have gone up so much that money is tight.|price=물가·가격; tight=빠듯한
+@study
+1|저는 학생이에요.|I'm a student.|student=학생
+1|숙제가 많아요.|I have a lot of homework.|homework=숙제
+2|오늘 수업은 몇 시에 끝나요?|What time does class end today?|class=수업; end=끝나다
+2|선생님, 질문이 있어요.|Excuse me, I have a question.|question=질문
+2|다시 한 번 설명해 주시겠어요?|Could you explain that one more time?|explain=설명하다
+2|이 단어는 무슨 뜻이에요?|What does this word mean?|word=단어; mean=의미하다
+2|다음 주에 쪽지 시험이 있어요.|I have a quiz next week.|quiz=쪽지 시험
+3|시험을 잘 봤어요.|I did well on the exam.|exam=시험; do well=잘하다
+3|문법이 제일 어려워요.|Grammar is the hardest part.|grammar=문법
+3|발음을 연습하려고 매일 소리 내서 읽어요.|I read aloud every day to practice my pronunciation.|pronunciation=발음; aloud=소리 내어
+3|외국어를 배우면 생각하는 방식이 넓어져요.|Learning a foreign language broadens the way you think.|foreign language=외국어
+@movie
+1|영화관이 어디예요?|Where is the movie theater?|movie theater=영화관
+2|그 영화 봤어요?|Have you seen that movie?|movie=영화
+2|오늘 밤에 TV에서 뭐 해요?|What's on TV tonight?|TV=텔레비전
+2|이 드라마 정말 재미있어요.|This TV series is really good.|series=시리즈
+2|저는 공포 영화를 못 봐요.|I can't watch horror movies.|horror movie=공포 영화
+2|그 배우는 연기를 정말 잘해요.|That actor is a really good performer.|actor=배우; performer=연기자
+3|마지막 장면이 너무 슬펐어요.|The last scene was so sad.|scene=장면; sad=슬픈
+3|그 영화는 실화를 바탕으로 했어요.|That film is based on a true story.|film=영화; true story=실화
+3|주인공 성격이 마음에 들어요.|I like the main character's personality.|main character=주인공; character=등장인물
+3|감독이 누구예요?|Who is the director?|director=감독
+3|관객이 천만 명을 넘었대요.|I heard the audience topped ten million.|audience=관객
+3|자막을 끄고 보면서 듣기 연습을 해요.|I turn off the subtitles to practice listening.|subtitles=자막
+3|이 영화는 음악상을 받았어요.|This film won an award for its music.|award=상
+3|극장에서 휴대폰을 보는 건 예의가 아니에요.|Looking at your phone in the theater is rude.|theater=극장
+3|그 장면에서 다들 웃음이 터졌어요.|Everyone burst out laughing at that scene.|burst out laughing=웃음을 터뜨리다; laugh=웃다
+4|이 영화는 평범한 사람들의 삶을 사실적으로 그렸어요.|The film realistically portrays the lives of ordinary people.|portray=그리다; ordinary=평범한
+4|등장인물들의 대화가 아주 자연스러워요.|The conversations between the characters feel very natural.|conversation=대화; natural=자연스러운
+4|기대보다 별로였지만 배우들은 훌륭했어요.|It wasn't as good as I expected, but the cast was excellent.|cast=출연진; excellent=훌륭한
+4|이 다큐멘터리는 기후 변화의 심각성을 보여 줘요.|This documentary shows how serious climate change is.|documentary=다큐멘터리; climate change=기후 변화
+@book
+1|책을 읽어요.|I'm reading a book.|book=책; read=읽다
+2|이 책 누구 거예요?|Whose book is this?|whose=누구의
+2|도서관에서 책을 빌렸어요.|I borrowed a book from the library.|library=도서관
+2|이 작가의 소설을 좋아해요.|I like this writer's novels.|writer=작가; novel=소설
+2|잡지를 정기 구독해요.|I subscribe to a magazine.|magazine=잡지; subscribe=구독하다
+2|아침마다 신문을 읽어요.|I read the newspaper every morning.|newspaper=신문
+3|이 책은 몇 쪽이에요?|How many pages does this book have?|page=쪽
+3|그 기사 읽어 봤어요?|Have you read that article?|article=기사
+3|이 시는 짧지만 여운이 길어요.|This poem is short, but it stays with you.|poem=시; stay with=마음에 남다
+3|이 책의 제목이 마음에 들어요.|I like the title of this book.|title=제목
+3|작가가 이 이야기를 쓰는 데 십 년이 걸렸대요.|I heard it took the author ten years to write this story.|author=작가; story=이야기
+3|첫 문장부터 독자를 사로잡아요.|It grabs the reader from the very first sentence.|reader=독자; sentence=문장
+3|이 책은 문학 수업에서 꼭 읽어야 하는 책이에요.|This book is required reading in literature class.|literature=문학; required=필수의
+3|요즘 역사책에 빠졌어요.|I'm really into history books these days.|be into=~에 빠지다
+3|책 내용을 한 문단으로 요약해 보세요.|Try summarizing the book in one paragraph.|summarize=요약하다; paragraph=문단
+4|이 소설은 전쟁이 개인의 삶을 어떻게 바꾸는지 보여 줘요.|This novel shows how war changes individual lives.|war=전쟁; individual=개인의
+4|작가의 문체가 간결하면서도 따뜻해요.|The author's style is simple yet warm.|style=문체; simple=간결한
+4|번역본은 원작의 분위기를 잘 살리지 못했어요.|The translation didn't capture the mood of the original.|translation=번역; capture=담아내다
+4|책을 다 읽고 나서 작가에 대해 더 알고 싶어졌어요.|After finishing the book, I wanted to know more about the author.|finish=다 끝내다
+@daily
+1|빨간색을 좋아해요.|I like red.|red=빨간색
+1|이건 검은색이고 저건 흰색이에요.|This one is black, and that one is white.|black=검은색; white=흰색
+1|초록색 가방이 제 거예요.|The green bag is mine.|green=초록색; bag=가방
+1|노란 꽃이 예뻐요.|The yellow flowers are pretty.|yellow=노란색; pretty=예쁜
+1|오늘 너무 피곤해요.|I'm so tired today.|tired=피곤한
+1|지금 몇 시예요?|What time is it now?|time=시간
+2|오늘 기분이 어때요?|How are you feeling today?|feel=느끼다
+2|아침 일곱 시에 일어나요.|I get up at seven in the morning.|get up=일어나다
+2|저녁에는 보통 집에서 쉬어요.|I usually rest at home in the evening.|rest=쉬다; evening=저녁
+2|정말 행복해요.|I'm really happy.|happy=행복한
+2|조금 슬퍼요.|I'm a little sad.|sad=슬픈
+2|걱정 마.|Don't worry.|worry=걱정하다
+@shop
+1|이 셔츠 얼마예요?|How much is this shirt?|shirt=셔츠
+1|바지가 너무 길어요.|The pants are too long.|pants=바지; long=긴
+1|신발을 사고 싶어요.|I want to buy some shoes.|shoes=신발
+2|모자 써 봐도 돼요?|Can I try on the hat?|hat=모자; try on=입어 보다
+2|치마가 좀 짧아요.|The skirt is a bit short.|skirt=치마; short=짧은
+2|이 코트 따뜻해 보여요.|This coat looks warm.|coat=코트; warm=따뜻한
+2|더 큰 사이즈 있어요?|Do you have a bigger size?|size=사이즈; bigger=더 큰
+2|이 원피스 다른 색도 있어요?|Does this dress come in other colors?|dress=원피스; color=색
+@health
+2|이가 아파요.|I have a toothache.|toothache=치통
+2|눈이 좀 가려워요.|My eyes are a little itchy.|eye=눈; itchy=가려운
+2|다리를 다쳤어요.|I hurt my leg.|hurt=다치다; leg=다리
+2|손을 깨끗이 씻으세요.|Wash your hands well.|wash=씻다; hand=손
+2|어깨가 결려요.|My shoulders are stiff.|shoulder=어깨; stiff=뻐근한
+3|등이 아파서 잘 못 걷겠어요.|My back hurts so much I can barely walk.|back=등; barely=거의 ~못하는
+3|팔이 부었어요.|My arm is swollen.|arm=팔; swollen=부은
+3|귀에서 소리가 나요.|My ears are ringing.|ear=귀; ring=울리다
+3|코가 막혀서 숨쉬기 힘들어요.|My nose is blocked, so it's hard to breathe.|nose=코; breathe=숨 쉬다
+3|손가락을 칼에 베였어요.|I cut my finger with a knife.|finger=손가락; knife=칼
+3|심장이 너무 빨리 뛰어요.|My heart is beating really fast.|heart=심장; beat=뛰다

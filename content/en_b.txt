@@ -1,5 +1,5 @@
 @time
-1|지금 몇 시예요?|What time is it?|what time=몇 시
+1|몇 시예요?|What time is it?|what time=몇 시
 1|3시 반이에요.|It's three thirty.|thirty=30|'half past three'도 씀
 1|오늘 무슨 요일이에요?|What day is it today?|day=요일·날
 1|오늘 며칠이에요?|What's the date today?|date=날짜
