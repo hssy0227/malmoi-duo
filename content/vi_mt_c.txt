@@ -1,0 +1,64 @@
+# 비즈니스 미팅 베트남어 (직접 작성, 북부 표준) — 프로젝트·IT·데이터·보고
+@work
+4|프로젝트 진행 상황을 보고드리겠습니다.|Tôi xin báo cáo tiến độ dự án.|
+4|현재 계획 대비 80% 진행됐습니다.|Hiện dự án đã đạt 80% so với kế hoạch.|
+4|1단계는 예정대로 끝났습니다.|Giai đoạn 1 đã hoàn thành đúng hạn.|đúng hạn=기한대로
+4|2단계는 일주일 정도 지연되고 있습니다.|Giai đoạn 2 đang chậm khoảng một tuần.|khoảng=약
+4|지연 원인은 데이터 수집 문제입니다.|Nguyên nhân chậm là do vấn đề thu thập dữ liệu.|thu thập=수집하다
+4|이 문제를 해결하려면 추가 인력이 필요합니다.|Để giải quyết vấn đề này cần bổ sung nhân lực.|bổ sung=보충하다; nhân lực=인력
+4|시스템 테스트는 다음 주에 시작합니다.|Kiểm thử hệ thống sẽ bắt đầu vào tuần sau.|kiểm thử=테스트; hệ thống=시스템
+4|테스트 결과는 금요일까지 공유하겠습니다.|Kết quả kiểm thử sẽ được chia sẻ trước thứ Sáu.|thứ Sáu=금요일
+4|사용자 피드백을 반영해 화면을 수정했습니다.|Chúng tôi đã sửa giao diện theo phản hồi của người dùng.|giao diện=화면·UI; phản hồi=피드백
+4|오류가 몇 건 발견됐습니다.|Đã phát hiện một số lỗi.|phát hiện=발견하다; lỗi=오류
+4|심각한 오류는 이미 수정했습니다.|Những lỗi nghiêm trọng đã được khắc phục.|khắc phục=고치다
+4|서버 용량을 늘려야 합니다.|Cần nâng cấp dung lượng máy chủ.|nâng cấp=업그레이드하다; dung lượng=용량; máy chủ=서버
+4|보안 점검을 먼저 받아야 합니다.|Cần qua kiểm tra bảo mật trước.|kiểm tra=점검하다; bảo mật=보안
+4|운영 시스템과 연동이 가장 어려운 부분입니다.|Kết nối với hệ thống vận hành là phần khó nhất.|kết nối=연결하다
+4|데이터 형식이 부서마다 다릅니다.|Định dạng dữ liệu mỗi phòng ban một khác.|định dạng=형식; phòng ban=부서
+4|데이터 정의부터 통일해야 합니다.|Cần thống nhất định nghĩa dữ liệu trước.|định nghĩa=정의
+4|이 지표는 매일 자동으로 업데이트됩니다.|Chỉ số này được cập nhật tự động hằng ngày.|tự động=자동; hằng ngày=매일
+4|대시보드에서 실시간으로 확인할 수 있습니다.|Có thể theo dõi theo thời gian thực trên dashboard.|theo dõi=모니터링하다; thời gian thực=실시간
+4|예측 정확도가 목표치를 넘었습니다.|Độ chính xác dự báo đã vượt mục tiêu.|độ chính xác=정확도; dự báo=예측
+4|모델을 개선하려면 데이터가 더 필요합니다.|Để cải thiện mô hình cần thêm dữ liệu.|cải thiện=개선하다; mô hình=모델
+4|시범 운영을 한 부서에서 먼저 해 보죠.|Hãy chạy thử ở một phòng ban trước.|chạy thử=시범 운영하다
+4|사용자 교육 일정도 잡아야 합니다.|Cũng cần lên lịch đào tạo người dùng.|lên lịch=일정을 잡다
+4|이 기능은 다음 버전에 넣겠습니다.|Tính năng này sẽ đưa vào phiên bản sau.|tính năng=기능; phiên bản=버전
+4|요구 사항이 자주 바뀌어서 어렵습니다.|Yêu cầu thay đổi thường xuyên nên rất khó.|thường xuyên=자주
+4|범위를 줄이는 게 현실적입니다.|Thu hẹp phạm vi là phương án thực tế.|phạm vi=범위; thực tế=현실적인
+4|AI 도입으로 업무 시간이 30% 줄었습니다.|Áp dụng AI giúp giảm 30% thời gian làm việc.|áp dụng=적용하다
+4|반복 업무를 자동화할 수 있습니다.|Có thể tự động hóa các công việc lặp lại.|
+4|외부 업체와 협업하고 있습니다.|Chúng tôi đang phối hợp với đối tác bên ngoài.|
+4|일정표를 업데이트해서 보내 드릴게요.|Tôi sẽ cập nhật lịch trình rồi gửi lại.|lịch trình=일정표
+4|다음 주까지 초안을 완성하겠습니다.|Chúng tôi sẽ hoàn thiện bản nháp trước tuần sau.|hoàn thiện=완성하다; bản nháp=초안
+4|이 보고서는 경영진 보고용입니다.|Báo cáo này dùng để trình ban lãnh đạo.|trình=올리다(보고)
+4|한 장으로 요약해 주세요.|Xin tóm tắt vào một trang.|trang=페이지
+4|그래프로 보여 주면 더 이해하기 쉽습니다.|Thể hiện bằng biểu đồ sẽ dễ hiểu hơn.|thể hiện=표현하다; biểu đồ=그래프
+4|숫자를 다시 확인해 주세요.|Xin kiểm tra lại các con số.|
+4|출처를 명확히 적어 주세요.|Xin ghi rõ nguồn.|ghi=적다; nguồn=출처
+5|기술보다 업무 프로세스 개선이 먼저입니다.|Cải tiến quy trình làm việc cần đi trước công nghệ.|cải tiến=개선하다; quy trình=프로세스; đi trước=선행하다
+5|현업이 쓰지 않으면 아무리 좋은 시스템도 소용없습니다.|Nếu bộ phận nghiệp vụ không dùng thì hệ thống tốt đến mấy cũng vô ích.|nghiệp vụ=현업; đến mấy=아무리; vô ích=소용없는
+5|데이터 거버넌스가 없으면 AI 결과를 신뢰하기 어렵습니다.|Không có quản trị dữ liệu thì khó tin kết quả của AI.|quản trị dữ liệu=데이터 거버넌스
+5|파일럿의 목적은 성공이 아니라 학습입니다.|Mục đích của thí điểm là học hỏi chứ không phải thành công.|thí điểm=파일럿; chứ không phải=~가 아니라
+5|운영 책임자를 먼저 정해야 오픈 후에 혼란이 없습니다.|Phải xác định người chịu trách nhiệm vận hành trước để tránh lộn xộn sau khi triển khai.|lộn xộn=혼란; triển khai=배포하다
+5|단계적으로 확산하면서 성과를 검증하겠습니다.|Chúng tôi sẽ nhân rộng từng bước và kiểm chứng hiệu quả.|nhân rộng=확산하다; từng bước=단계적으로; kiểm chứng=검증하다
+5|이번 결과는 아직 검증 전이라 참고용입니다.|Kết quả này chưa được kiểm chứng nên chỉ mang tính tham khảo.|mang tính=~성격을 띠다; tham khảo=참고
+5|기술 부채를 지금 해결하지 않으면 나중에 비용이 더 커집니다.|Nếu không xử lý nợ kỹ thuật ngay bây giờ, chi phí về sau sẽ lớn hơn.|nợ kỹ thuật=기술 부채; về sau=나중에
+5|가설을 세우고 데이터로 검증하는 방식으로 진행하겠습니다.|Chúng tôi sẽ tiến hành theo cách đặt giả thuyết rồi kiểm chứng bằng dữ liệu.|giả thuyết=가설
+5|경영진에게는 결정이 필요한 사항부터 보고해야 합니다.|Với ban lãnh đạo, cần báo cáo trước những vấn đề cần ra quyết định.|ra quyết định=결정하다
+5|성과는 숫자로, 한계는 솔직하게 말씀드리겠습니다.|Kết quả tôi xin trình bày bằng số liệu, còn hạn chế thì xin nói thẳng.|trình bày=발표하다; hạn chế=한계; nói thẳng=솔직히 말하다
+5|부서 간 협력이 이 프로젝트의 성패를 좌우합니다.|Sự phối hợp giữa các phòng ban quyết định thành bại của dự án.|thành bại=성패
+5|변화 관리가 기술 도입보다 더 어렵습니다.|Quản lý sự thay đổi khó hơn việc đưa công nghệ vào.|
+5|외부 솔루션을 살지 직접 개발할지 총비용으로 판단하죠.|Hãy quyết định mua giải pháp bên ngoài hay tự phát triển dựa trên tổng chi phí.|tự phát triển=자체 개발하다
+5|이 프로젝트가 회사 디지털 전환의 대표 사례가 될 수 있습니다.|Dự án này có thể trở thành điển hình cho chuyển đổi số của công ty.|điển hình=대표 사례
+@econ
+4|올해 목표 매출은 5천억 동입니다.|Doanh thu mục tiêu năm nay là 500 tỷ đồng.|đồng=동(화폐)
+4|이익률이 지난해보다 개선됐습니다.|Biên lợi nhuận đã cải thiện so với năm ngoái.|biên lợi nhuận=이익률
+4|원가가 올라서 가격 인상이 불가피합니다.|Giá vốn tăng nên việc tăng giá là không tránh khỏi.|giá vốn=원가; không tránh khỏi=불가피한
+4|환율 변동이 수익에 영향을 줍니다.|Biến động tỷ giá ảnh hưởng đến lợi nhuận.|biến động=변동
+4|예산 집행률이 낮습니다.|Tỷ lệ giải ngân ngân sách còn thấp.|
+4|비용을 10% 줄여야 합니다.|Chúng ta cần cắt giảm 10% chi phí.|
+4|내년 사업 계획을 세우고 있습니다.|Chúng tôi đang xây dựng kế hoạch kinh doanh năm sau.|kinh doanh=사업
+4|투자 대비 효과를 분석해 주세요.|Xin phân tích hiệu quả so với vốn đầu tư.|phân tích=분석하다
+5|매출보다 현금 흐름을 더 주의 깊게 봐야 합니다.|Cần theo dõi dòng tiền kỹ hơn doanh thu.|dòng tiền=현금 흐름; kỹ=꼼꼼히
+5|단기 실적보다 장기 경쟁력에 투자해야 합니다.|Cần đầu tư cho năng lực cạnh tranh dài hạn hơn là kết quả ngắn hạn.|
+5|리스크를 감안하면 보수적인 전망이 맞습니다.|Xét đến rủi ro thì dự báo thận trọng là hợp lý.|xét đến=고려하다; thận trọng=신중한; hợp lý=합리적인
