@@ -1,0 +1,700 @@
+# 영어 단어 확장 — 시사·뉴스 단어 (첨부 어휘 목록의 단어·뜻 기반. 형식: 레벨|뜻|단어||품사)
+# 이미 있는 단어는 없던 뜻만 합쳐 보강했어요.
+@daily
+w4|이혼 · 분리하다|divorce||명사
+w4|모임 · 집회|gathering||명사
+@econ
+w5|구제 금융|bailout||명사
+w4|자본주의|capitalism||명사
+w4|적자 · 부족액|deficit||명사
+w4|국내의 · 가정의|domestic||형용사
+w1|경제의 · 경제학의|economic||형용사
+w4|경제학|economics||명사
+w4|경제학자|economist||명사
+w2|경제 · 절약|economy||명사
+w5|노출 · 폭로 · 보도|exposure||명사
+w5|명령 · 법령 · 법정 화폐|fiat||명사
+w4|재점화되다 · 활활 타오르다 · 급증하다 · 섬광|flare||동사
+w4|분절화 · 파편화 · 분열|fragmentation||명사
+@health
+w5|질병 · 경미한 질환|ailment||명사
+w4|진료소 · 클리닉|clinic||명사
+w4|전염성의 · 옮기 쉬운|contagious||형용사
+w5|경련을 일으키다 · 뒤흔들다|convulse||동사
+w4|법원 · 궁정 · 구애하다|court||명사
+w4|불황 · 우울증 · 함몰|depression||명사
+w4|진단하다|diagnose||동사
+w3|식단 · 식이요법 · 의회|diet||명사
+w4|질병 · 질환|disease||명사
+w4|소독하다 · 살균하다|disinfect||동사
+w4|복용량 · 투여량 · 투여하다|dose||명사
+w2|약물 · 마약|drug||명사
+w3|응급 상황 · 비상사태|emergency||명사
+w4|전염병 · 유행 · 유행하는|epidemic||명사
+w5|법의학의 · 과학 수사의|forensic||형용사
+w3|건강한 · 건전한|healthy||형용사
+w5|출혈 · 급격한 손실|hemorrhage||명사
+w4|위생 · 청결|hygiene||명사
+w4|위생적인|hygienic||형용사
+w5|저체온증|hypothermia||명사
+@hobby
+w5|개선하다 · 호전시키다|ameliorate||동사
+w4|의식 · 식전|ceremony||명사
+w2|축제 · 페스티벌|festival||명사
+w5|집요하게 괴롭히다 · 사냥개|hound||동사
+@home
+w5|쇄도 · 홍수 · 범람시키다|deluge||명사
+w5|배출 · 방출|emission||명사
+w2|화재 · 사격 · 해고하다|fire||명사
+w5|급증 · 돌풍 · 소란|flurry||명사
+w4|강풍 · 돌풍|gale||명사
+w4|환호하다 · 우박 · 부르다|hail||동사
+@movie
+w4|자막 · 캡션|caption||명사
+w4|평론가 · 비평가|critic||명사
+w4|대사 · 대화 · 회담|dialogue||명사
+w4|다큐멘터리 · 기록의|documentary||명사
+w3|편집자 · 주필|editor||명사
+@opinion
+w4|시민 · 국민|citizen||명사
+w4|연민 · 동정심|compassion||명사
+w4|비겁함|cowardice||명사
+w4|죽음 · 사망|death||명사
+w4|근거 · 증거 · 입증하다|evidence||명사
+w4|두려움 없는 · 용감한|fearless||형용사
+w5|거센 비판 · 대공포|flak||명사
+w4|비탄 · 슬픔|grief||명사
+w4|공포스러운 · 참혹한|horrific||형용사
+w4|경악시키다 · 공포에 떨게 하다|horrify||동사
+w4|공포 · 혐오감|horror||명사
+@saying
+w4|던지다 · 출연진 · 투영하다 · 배역|cast||동사
+w3|정복하다 · 극복하다|conquer||동사
+w5|경멸 · 모욕|contempt||명사
+w5|부패하다 · 부패한 · 타락시키다|corrupt||형용사
+w4|치료 · 치료법 · 치유하다|cure||명사
+w4|배고픔 · 굶주림 · 갈망|hunger||명사
+@shop
+w5|무너지다 · 붕괴하다|collapse||동사
+w5|논란 · 논쟁|controversy||명사
+w4|가구 · 가계 · 가정의|household||명사
+w4|주거 · 주택 · 주거 시설|housing||명사
+@society
+w3|포기하다 · 버리다|abandon||동사
+w4|폐지하다|abolish||동사
+w5|면제하다 · 책임을 벗기다|absolve||동사
+w5|찬사 · 호평하다|acclaim||명사
+w5|공범|accomplice||명사
+w4|비난 · 고발|accusation||명사
+w4|극심한 · 예리한|acute||형용사
+w5|판결하다 · 심사하다|adjudicate||동사
+w5|훈계하다 · 경고하다|admonish||동사
+w4|부정적인 · 불리한|adverse||형용사
+w5|적수 · 상대|adversary||명사
+w4|옹호하다 · 지지자|advocate||동사
+w5|괴롭히다 · 고통을 주다|afflict||동사
+w5|부유한|affluent||형용사
+w4|공격성 · 침략|aggression||명사
+w5|선동하다 · 동요시키다|agitate||동사
+w5|소외시키다 · 이간질하다|alienate||동사
+w5|매력 · 유혹하다|allure||명사
+w5|모으다 · 축적하다|amass||동사
+w5|사면 · 대사|amnesty||명사
+w4|고정하다 · 앵커를 맡다|anchor||동사
+w4|익명의|anonymous||형용사
+w5|무관심 · 냉담|apathy||명사
+w5|달래다 · 유화하다|appease||동사
+w5|우려 · 체포|apprehension||명사
+w5|승인 · 찬성|approbation||명사
+w4|아케이드 · 아치형 통로|arcade||명사
+w4|무대 · 경기장 · 활동 영역|arena||명사
+w5|휴전 · 정전|armistice||명사
+w5|무기고 · 비축 무기|arsenal||명사
+w5|맹렬히 비난하다 · 습격하다|assail||동사
+w4|폭행 · 급습|assault||명사
+w5|망명 · 보호 시설|asylum||명사
+w5|잔혹 행위|atrocity||명사
+w5|대담한 · 무모한|audacious||형용사
+w5|길조의 · 유망한|auspicious||형용사
+w5|엄격한 · 검소한 · 긴축의|austere||형용사
+w5|권위주의적인|authoritarian||형용사
+w5|복수하다|avenge||동사
+w4|배경|backdrop||명사
+w5|주저하다 · 난색을 표하다|balk||동사
+w4|투표 · 투표용지|ballot||명사
+w4|산적 · 강도|bandit||명사
+w5|추방하다 · 떨쳐 버리다|banish||동사
+w4|현수막 · 주요 기사|banner||명사
+w5|야만적인|barbaric||형용사
+w5|연이은 질문 · 포격|barrage||명사
+w5|보루 · 요새|bastion||명사
+w5|등대 · 지표|beacon||명사
+w5|포위하다 · 괴롭히다|beleaguer||동사
+w5|호전적인 · 교전 중인|belligerent||형용사
+w5|호되게 꾸짖다|berate||동사
+w5|광란의 · 날뛰는|berserk||형용사
+w5|괴롭히다 · 둘러싸다|beset||동사
+w5|포위하다 · 쇄도하다|besiege||동사
+w4|배신하다 · 드러내다|betray||동사
+w5|양원제의|bicameral||형용사
+w5|양자의 · 양자 간의|bilateral||형용사
+w5|바이오 연료|biofuel||명사
+w5|초당적인 · 양당의|bipartisan||형용사
+w4|기괴한 · 기이한|bizarre||형용사
+w5|노골적인 · 뻔뻔한|blatant||형용사
+w4|암울한 · 황량한|bleak||형용사
+w5|황폐화 · 병충해|blight||명사
+w5|봉쇄|blockade||명사
+w4|실책 · 큰 실수|blunder||명사
+w4|불매 운동을 하다|boycott||동사
+w4|방송하다|broadcast||동사
+w5|불룩해지다 · 돌출|bulge||동사
+w5|부양하다 · 활기를 북돋우다|buoy||동사
+w5|재앙 · 참사|calamity||명사
+w5|냉혹한 · 무감각한|callous||형용사
+w5|솔직함 · 정직함|candor||명사
+w5|항복하다 · 굴복하다|capitulate||동사
+w4|탄소|carbon||명사
+w5|풍자화 · 희화화|caricature||명사
+w5|대학살 · 참상|carnage||명사
+w4|사상자 · 피해자|casualty||명사
+w4|대재앙|catastrophe||명사
+w5|경고의 · 주의해야 할|cautionary||형용사
+w5|양도하다 · 내주다|cede||동사
+w4|유명 인사|celebrity||명사
+w5|검열하다 · 검열관|censor||동사
+w5|비난하다 · 견책|censure||동사
+w5|인구 조사|census||명사
+w5|중단 · 정지|cessation||명사
+w4|방 · 의회 · 상공회의소|chamber||명사
+w4|옹호하다 · 챔피언|champion||동사
+w4|혼돈 · 대혼란|chaos||명사
+w4|혼란스러운|chaotic||형용사
+w5|카리스마 · 매력|charisma||명사
+w5|호되게 꾸짖다 · 처벌하다|chastise||동사
+w5|배타적 애국주의 · 우월주의|chauvinism||명사
+w4|만성적인 · 고질적인|chronic||형용사
+w4|유통 · 발행 부수 · 순환|circulation||명사
+w5|성채 · 요새|citadel||명사
+w5|시민의 · 시의|civic||형용사
+w3|민간의 · 시민의 · 예의 바른|civil||형용사
+w4|민간인|civilian||명사
+w5|비밀의 · 은밀한|clandestine||형용사
+w4|충돌 · 대립|clash||명사
+w5|관용 · 관대함|clemency||명사
+w4|기후 · 분위기 · 풍조|climate||명사
+w4|잘라내다 · 고정하다|clip||동사
+w5|파벌 · 배타적 집단|clique||명사
+w4|막히게 하다 · 방해하다|clog||동사
+w5|연립 · 연합|coalition||명사
+w5|강압하다 · 강제하다|coerce||동사
+w5|강압 · 강제|coercion||명사
+w4|공존하다|coexist||동사
+w4|집단적인 · 공동의|collective||형용사
+w4|충돌|collision||명사
+w5|공모 · 담합|collusion||명사
+w3|칼럼 · 기둥 · 열|column||명사
+w4|맞서 싸우다 · 전투|combat||동사
+w3|명령하다 · 지휘하다 · 장악하다|command||동사
+w5|기념하다|commemorate||동사
+w4|논평 · 해설|commentary||명사
+w3|저지르다 · 전념하다|commit||동사
+w5|소란 · 동요|commotion||명사
+w4|합병증 · 복잡한 문제|complication||명사
+w5|의무적인 · 강제의|compulsory||형용사
+w5|합심한 · 공동의|concerted||형용사
+w5|지어내다 · 만들어 내다|concoct||동사
+w5|화합 · 협정|concord||명사
+w4|규탄하다 · 선고하다|condemn||동사
+w5|묵인하다 · 용서하다|condone||동사
+w4|자백하다 · 고백하다|confess||동사
+w5|털어놓다 · 신뢰하다|confide||동사
+w5|몰수하다 · 압수하다|confiscate||동사
+w5|갈등 · 충돌 · 상충하다|conflict||명사
+w4|직면하다 · 맞서다|confront||동사
+w4|대립 · 대치|confrontation||명사
+w4|혼잡 · 울혈|congestion||명사
+w5|회중 · 집회|congregation||명사
+w4|의회 · 총회|congress||명사
+w4|양심|conscience||명사
+w4|합의 · 여론 일치|consensus||명사
+w4|보존 · 보호|conservation||명사
+w5|음모 · 공모|conspiracy||명사
+w5|선거구 · 지지층|constituency||명사
+w5|구성 요소 · 유권자|constituent||명사
+w4|헌법 · 구성|constitution||명사
+w4|오염시키다|contaminate||동사
+w5|주장 · 논쟁 · 분쟁|contention||명사
+w5|논쟁을 불러일으키는|contentious||형용사
+w4|대회 · 경쟁 · 이의를 제기하다|contest||명사
+w5|난제 · 수수께끼|conundrum||명사
+w5|수렴 · 융합|convergence||명사
+w4|유죄 판결을 내리다 · 죄수|convict||동사
+w4|신념 · 유죄 판결|conviction||명사
+w5|소집하다|convoke||동사
+w5|호송선단 · 호위하다|convoy||명사
+w5|대관식|coronation||명사
+w5|부대 · 군단|corps||명사
+w4|시체 · 주검|corpse||명사
+w4|부패 · 부정부패|corruption||명사
+w5|세계주의적인 · 국제적인|cosmopolitan||형용사
+w3|의회 · 평의회|council||명사
+w4|조언 · 변호인 · 조언하다|counsel||명사
+w4|반박하다 · 대응하다 · 대응책|counter||동사
+w5|위조의 · 모조품|counterfeit||형용사
+w5|상대방 · 대응물|counterpart||명사
+w5|쿠데타 · 쾌거|coup||명사
+w4|용기 있는|courageous||형용사
+w5|비밀의 · 은밀한|covert||형용사
+w4|신뢰할 수 있는 · 믿을 만한|credible||형용사
+w5|신조 · 교리|creed||명사
+w3|범죄의 · 범인|criminal||형용사
+w3|비판적인 · 중대한 · 위기의|critical||형용사
+w4|잔인한 · 가혹한|cruel||형용사
+w5|성전 · 캠페인 · 운동을 벌이다|crusade||명사
+w5|과실이 있는 · 비난받을 만한|culpable||형용사
+w5|범인 · 원인|culprit||명사
+w4|광신 집단 · 숭배|cult||명사
+w5|억제하다 · 제한하다 · 연석|curb||동사
+w5|통행 금지령|curfew||명사
+w2|현재의 · 해류 · 전류|current||형용사
+w5|단축하다 · 축소하다|curtail||동사
+w5|구금 · 양육권 · 보호|custody||명사
+w5|냉소적인 · 비관적인|cynical||형용사
+w3|위험|danger||명사
+w4|대담한 · 용감한|daring||형용사
+w4|돌진하다 · 좌절시키다 · 대시|dash||동사
+w5|교착 상태|deadlock||명사
+w4|치명적인|deadly||형용사
+w5|금지하다 · 배제하다|debar||동사
+w5|잔해 · 파편|debris||명사
+w4|데뷔 · 첫선을 보이다|debut||명사
+w5|고인의 · 사망한|deceased||형용사
+w5|속임수 · 기만|deceit||명사
+w5|기만 · 사기|deception||명사
+w3|선언하다 · 신고하다|declare||동사
+w5|법령 · 명령 · 선고하다|decree||명사
+w5|비난하다 · 규탄하다|decry||동사
+w5|훼손하다 · 낙서하다|deface||동사
+w5|명예 훼손|defamation||명사
+w3|패배시키다 · 패배|defeat||동사
+w3|방어하다 · 변호하다|defend||동사
+w5|피고|defendant||명사
+w5|국방 · 방어 · 변호|defense||명사
+w5|반항 · 도전|defiance||명사
+w5|반항적인 · 당당한|defiant||형용사
+w5|사취하다 · 속여 빼앗다|defraud||동사
+w5|체납된 · 비행의|delinquent||형용사
+w5|사망 · 종말 · 소멸|demise||명사
+w5|동원 해제하다|demobilize||동사
+w4|민주주의자 · 민주당원|democrat||명사
+w4|철거하다 · 파괴하다|demolish||동사
+w4|시위 · 입증 · 시연|demonstration||명사
+w5|사기를 꺾다|demoralize||동사
+w4|부인 · 거부|denial||명사
+w5|비난하다 · 고발하다|denounce||동사
+w5|비난 · 규탄|denunciation||명사
+w5|고갈시키다 · 소모하다|deplete||동사
+w5|고갈 · 감소|depletion||명사
+w5|추방하다 · 국외 추방하다|deport||동사
+w5|국외 추방|deportation||명사
+w5|폐위하다 · 증언하다|depose||동사
+w4|박탈하다 · 빼앗다|deprive||동사
+w4|대리인 · 부관|deputy||명사
+w5|탈선시키다 · 좌초시키다|derail||동사
+w5|버려진 · 방치된|derelict||형용사
+w5|모욕적인 · 비하하는|derogatory||형용사
+w5|신성 모독하다 · 훼손하다|desecrate||동사
+w4|절망 · 절망하다|despair||명사
+w4|필사적인 · 절망적인|desperate||형용사
+w5|전제 군주 · 폭군|despot||명사
+w5|극빈의 · 무일푼의|destitute||형용사
+w4|파괴|destruction||명사
+w4|파괴적인|destructive||형용사
+w5|구금하다 · 지체시키다|detain||동사
+w5|구금 · 억류|detention||명사
+w5|단념시키다 · 억제하다|deter||동사
+w5|악화 · 저하|deterioration||명사
+w5|억지력 · 억제책|deterrent||명사
+w5|폭발시키다 · 기폭하다|detonate||동사
+w5|황폐화시키다 · 큰 충격을 주다|devastate||동사
+w4|파괴적인 · 엄청난 충격의|devastating||형용사
+w5|교활한 · 우회적인|devious||형용사
+w5|신랄한 비난 · 독설|diatribe||명사
+w4|받아쓰게 하다 · 지시하다 · 명령|dictate||동사
+w4|독재자|dictator||명사
+w5|독재적인 · 독단적인|dictatorial||형용사
+w5|위엄 있는 · 품위 있는|dignified||형용사
+w5|고위 인사 · 요인|dignitary||명사
+w4|존엄 · 품위|dignity||명사
+w5|낡아빠진 · 황폐한|dilapidated||형용사
+w4|딜레마 · 진퇴양난|dilemma||명사
+w5|외교 · 외교술|diplomacy||명사
+w5|외교적인 · 외교 수완이 있는|diplomatic||형용사
+w5|불만을 품은 · 이탈한|disaffected||형용사
+w4|불승인 · 비난|disapproval||명사
+w4|찬성하지 않다 · 비난하다|disapprove||동사
+w4|무장 해제하다 · 경계심을 풀게 하다|disarm||동사
+w4|재난 · 참사|disaster||명사
+w4|재앙적인 · 참담한|disastrous||형용사
+w5|부인하다 · 연을 끊다|disavow||동사
+w5|해산하다 · 흩어지다|disband||동사
+w4|불만 · 불만족스러운|discontent||명사
+w5|불화 · 부조화|discord||명사
+w4|차별하다 · 구별하다|discriminate||동사
+w4|차별 · 식별력|discrimination||명사
+w5|환멸을 느낀 · 실망한|disenchanted||형용사
+w5|손상시키다 · 흉하게 만들다|disfigure||동사
+w4|불명예 · 수치 · 망신을 주다|disgrace||명사
+w4|변장하다 · 위장하다|disguise||동사
+w5|불성실한 · 속셈이 있는|disingenuous||형용사
+w4|음울한 · 형편없는|dismal||형용사
+w4|낙담 · 당혹감 · 경악하게 하다|dismay||명사
+w4|무질서 · 장애|disorder||명사
+w5|흩어지다 · 분산시키다|disperse||동사
+w4|대체하다 · 이주시키다 · 내쫓다|displace||동사
+w5|대체 · 강제 이주 · 배수량|displacement||명사
+w5|불균형한 · 지나친|disproportionate||형용사
+w4|자격을 박탈하다 · 실격시키다|disqualify||동사
+w5|무시하다 · 경시|disregard||동사
+w5|황폐 · 방치 상태|disrepair||명사
+w5|평판이 나쁜 · 불명예스러운|disreputable||형용사
+w5|반대 · 이의 · 반대하다|dissent||명사
+w5|반체제 인사 · 반대자|dissident||명사
+w5|해산 · 해체 · 소멸|dissolution||명사
+w5|왜곡하다 · 일그러뜨리다|distort||동사
+w5|왜곡 · 변형|distortion||명사
+w5|극도로 당황한 · 비탄에 잠긴|distraught||형용사
+w4|고통 · 곤경 · 괴롭히다|distress||명사
+w4|불신 · 불신하다|distrust||명사
+w4|방해 · 소란 · 장애|disturbance||명사
+w5|전환 · 우회 · 기분 전환|diversion||명사
+w5|누설하다 · 밝히다|divulge||동사
+w5|교리 · 원칙 · 독트린|doctrine||명사
+w4|피하다 · 회피하다|dodge||동사
+w5|실업 수당 · 나누어 주다|dole||명사
+w5|지배 · 패권|domination||명사
+w4|기부자 · 기증자|donor||명사
+w4|파멸 · 운명 · 파멸시키다|doom||명사
+w4|호우 · 폭우|downpour||명사
+w5|빼앗다 · 배수하다 · 고갈시키다 · 소모|drain||동사
+w3|극적인 · 급격한|dramatic||형용사
+w5|과감한 · 급격한|drastic||형용사
+w4|익사하다 · 압도하다|drown||동사
+w5|별명을 붙이다 · 더빙하다|dub||동사
+w5|의심스러운 · 미심쩍은|dubious||형용사
+w5|강압 · 강요|duress||명사
+w4|주거 · 주택|dwelling||명사
+w5|점점 줄어들다 · 쇠퇴하다|dwindle||동사
+w5|기능 장애 · 부전|dysfunction||명사
+w4|메아리치다 · 공명하다 · 메아리|echo||동사
+w5|빛을 잃게 하다 · 능가하다 · 일식 · 월식|eclipse||동사
+w4|생태학적인|ecological||형용사
+w5|칙령 · 포고령|edict||명사
+w4|사설 · 편집의|editorial||명사
+w5|초상 · 허수아비|effigy||명사
+w5|지독한 · 터무니없는|egregious||형용사
+w4|방출하다 · 퇴출시키다|eject||동사
+w4|노인 · 연세가 지긋한 · 고령의|elderly||형용사
+w3|선출하다 · 선출된|elect||동사
+w5|선거의|electoral||형용사
+w4|제거 · 탈락|elimination||명사
+w4|엘리트 · 최상류층|elite||명사
+w5|피하다 · 빠져나가다|elude||동사
+w5|해방시키다|emancipate||동사
+w5|금수 조치 · 통상 금지|embargo||명사
+w4|대사관|embassy||명사
+w4|상징 · 문장|emblem||명사
+w5|대담하게 하다 · 용기를 북돋우다|embolden||동사
+w4|포용하다 · 수용하다 · 포옹|embrace||동사
+w5|연루시키다 · 분쟁에 휘말리게 하다|embroil||동사
+w5|출현 · 부상|emergence||명사
+w4|이민 가다|emigrate||동사
+w5|특사 · 사절|emissary||명사
+w5|제정하다 · 상연하다|enact||동사
+w5|법률 제정 · 법령|enactment||명사
+w5|외국인 거주 구역 · 월경지|enclave||명사
+w3|마주치다 · 직면하다 · 조우|encounter||동사
+w5|침범하다 · 잠식하다|encroach||동사
+w4|위험에 빠뜨리다|endanger||동사
+w5|풍토병의 · 특정 지역에 고유한|endemic||형용사
+w3|적 · 적군|enemy||명사
+w2|에너지 · 활력|energy||명사
+w4|집행 · 단속|enforcement||명사
+w5|참정권을 주다 · 해방하다|enfranchise||동사
+w5|명령하다 · 금지 명령을 내리다|enjoin||동사
+w4|모집하다 · 입대하다 · 협력을 구하다|enlist||동사
+w5|적의 · 반목|enmity||명사
+w5|극악무도함 · 엄청난 규모|enormity||명사
+w4|격노하게 하다|enrage||동사
+w5|소중히 간직하다 · 명문화하다|enshrine||동사
+w5|뒤따라 일어나다 · 초래되다|ensue||동사
+w4|오락 · 접대|entertainment||명사
+w5|자격 · 수급권|entitlement||명사
+w5|수행원 · 측근|entourage||명사
+w5|뿌리 깊은 · 확고히 자리 잡은|entrenched||형용사
+w3|환경의|environmental||형용사
+w5|상상하다 · 구상하다|envision||동사
+w5|사절 · 특사|envoy||명사
+w4|평등|equality||명사
+w5|공정한 · 공평한|equitable||형용사
+w5|근절하다 · 박멸하다|eradicate||동사
+w5|불규칙한 · 변덕스러운|erratic||형용사
+w4|분출하다 · 폭발하다 · 발발하다|erupt||동사
+w5|확대 · 고조|escalation||명사
+w5|모험적 행동 · 난행|escapade||명사
+w4|호위하다 · 동행하다 · 호위|escort||동사
+w5|첩보 활동 · 간첩 행위|espionage||명사
+w5|지지하다 · 채택하다|espouse||동사
+w4|설립 · 기구 · 체제|establishment||명사
+w5|소원해진 · 별거 중인|estranged||형용사
+w4|민족의 · 인종의|ethnic||형용사
+w4|대피하다 · 대피시키다 · 철수하다|evacuate||동사
+w4|대피 · 철수|evacuation||명사
+w5|회피하다 · 피하다|evade||동사
+w5|회피하는 · 애매모호한|evasive||형용사
+w5|퇴거시키다 · 쫓아내다|evict||동사
+w5|악화시키다|exacerbate||동사
+w4|배제하다 · 제외하다|exclude||동사
+w4|배제 · 제외|exclusion||명사
+w5|신랄히 비판하다|excoriate||동사
+w5|망명 · 유배 · 추방하다|exile||명사
+w5|대탈출 · 대량 이탈|exodus||명사
+w5|면책하다 · 무죄를 입증하다|exonerate||동사
+w5|터무니없이 비싼 · 지나친|exorbitant||형용사
+w5|편의적인 · 방편|expedient||형용사
+w4|추방하다 · 퇴학시키다|expel||동사
+w4|폭발하다 · 급증하다|explode||동사
+w4|착취하다 · 이용하다 · 위업|exploit||동사
+w5|착취 · 개발 · 이용|exploitation||명사
+w4|폭발 · 급증|explosion||명사
+w4|폭발적인 · 폭발물|explosive||형용사
+w5|드러내다 · 노출시키다 · 폭로하다|expose||동사
+w5|추방 · 퇴학|expulsion||명사
+w4|멸종 · 소멸|extinction||명사
+w5|갈취하다 · 강탈하다|extort||동사
+w5|범죄인을 인도하다|extradite||동사
+w5|극단주의|extremism||명사
+w5|조작하다 · 날조하다 · 제작하다|fabricate||동사
+w5|날조 · 조작 · 제작|fabrication||명사
+w5|외관 · 허울|facade||명사
+w5|파벌 · 당파|faction||명사
+w5|공정 · 공정성|fairness||명사
+w4|가짜의 · 위조하다|fake||형용사
+w5|위조하다 · 조작하다|falsify||동사
+w5|흔들리다 · 주저하다 · 더듬거리다|falter||동사
+w4|기근 · 식량난|famine||명사
+w5|광신자 · 열광적인|fanatic||명사
+w5|광신적인 · 맹목적인|fanatical||형용사
+w5|소동극 · 터무니없는 짓|farce||명사
+w5|파시즘 · 전체주의|fascism||명사
+w4|치명적인 · 파멸을 부르는|fatal||형용사
+w5|사망자 · 참사|fatality||명사
+w5|중대한 · 운명적인|fateful||형용사
+w5|위업 · 공적|feat||명사
+w3|연방의|federal||형용사
+w5|연방 · 연합|federation||명사
+w5|기운이 넘치는 · 까다로운|feisty||형용사
+w5|중범죄자|felon||명사
+w4|막아내다 · 스스로 꾸려 나가다|fend||동사
+w5|비옥도 · 출산력|fertility||명사
+w5|불화 · 반목 · 다투다|feud||명사
+w5|열광적인 · 흥분한 · 열이 나는|feverish||형용사
+w5|대실패 · 망신|fiasco||명사
+w5|악마 · 중독자|fiend||명사
+w4|치열한 · 사나운|fierce||형용사
+w2|싸우다 · 투쟁하다 · 싸움|fight||동사
+w4|전투기 · 투사|fighter||명사
+w4|총기|firearm||명사
+w5|노골적인 · 극악한|flagrant||형용사
+w5|화려한 · 눈에 띄는|flamboyant||형용사
+w4|측면 · 옆구리 · 측면에 위치하다|flank||명사
+w4|도망치다 · 달아나다|flee||동사
+w4|함대 · 선단 · 빠른|fleet||명사
+w5|수문 · 억제 풀림|floodgate||명사
+w5|무시하다 · 비웃으며 어기다|flout||동사
+w5|적 · 적수|foe||명사
+w5|좌절시키다 · 호일 · 대비물|foil||동사
+w5|선동하다 · 부추기다|foment||동사
+w4|발자국 · 탄소 발자국|footprint||명사
+w4|금지하다|forbid||동사
+w4|금지된|forbidden||형용사
+w1|힘 · 무력 · 강요하다|force||명사
+w5|힘 있는 · 설득력 있는|forceful||형용사
+w5|강제적인 · 물리적인|forcible||형용사
+w2|외국의 · 이질적인|foreign||형용사
+w4|외국인|foreigner||명사
+w5|위조 · 위조 문서|forgery||명사
+w4|요새 · 보루|fort||명사
+w5|솔직한 · 직설적인|forthright||형용사
+w5|요새화하다 · 강화하다|fortify||동사
+w4|요새|fortress||명사
+w4|협의체 · 포럼 · 토론장|forum||명사
+w4|조성하다 · 육성하다 · 위탁 양육하다|foster||동사
+w4|더러운 · 사악한 · 반칙 · 더럽히다|foul||형용사
+w4|골절 · 균열 · 분열시키다|fracture||명사
+w4|솔직한 · 숨김없는|frank||형용사
+w4|광란의 · 필사적인|frantic||형용사
+w5|가득 찬 · ~이 수반되는|fraught||형용사
+w5|해지다 · 마모되다 · 긴장되다|fray||동사
+w4|기현상 · 괴짜 · 기이한|freak||명사
+w5|광분한 · 열광적인|frenetic||형용사
+w5|광란 · 격분|frenzy||명사
+w5|주변부 · 가장자리 · 주변의|fringe||명사
+w5|몸수색하다 · 깡충 뛰다|frisk||동사
+w1|앞면 · 전선 · 정면의|front||명사
+w5|부추기다 · 연료 · 연료를 공급하다|fuel||명사
+w5|도망자 · 도피 중인|fugitive||명사
+w4|연기 · 매연 · 분개하다|fume||명사
+w4|장례식|funeral||명사
+w4|격노한 · 맹렬한|furious||형용사
+w5|몰래 하는 · 숨기는|furtive||형용사
+w4|격노 · 맹위|fury||명사
+w5|실언 · 실수|gaffe||명사
+w4|갤러리 · 방청석|gallery||명사
+w5|자극하다 · 분발시키다|galvanize||동사
+w4|도박하다 · 모험을 걸다|gamble||동사
+w4|갱단 · 무리|gang||명사
+w4|갱단원 · 폭력배|gangster||명사
+w5|수비대 · 주둔지|garrison||명사
+w5|관보 · 신문|gazette||명사
+w4|성별 · 젠더|gender||명사
+w5|집단 학살|genocide||명사
+w5|끔찍한 · 창백한|ghastly||형용사
+w4|매력 · 화려함|glamor||명사
+w4|매력적인 · 화려한|glamorous||형용사
+w5|고소해하다 · 득의양양해하다|gloat||동사
+w3|전 세계적인 · 포괄적인|global||형용사
+w4|어둠 · 우울함|gloom||명사
+w4|음울한 · 비관적인|gloomy||형용사
+w4|소문 · 뒷담화|gossip||명사
+w4|통치하다 · 지배하다 · 규제하다|govern||동사
+w4|정부의|governmental||형용사
+w4|주지사 · 총독 · 이사|governor||명사
+w4|그래피티 · 낙서|graffiti||명사
+w5|씨름하다 · 맞서다|grapple||동사
+w4|중대한 · 심각한 · 무덤|grave||형용사
+w4|탐욕 · 욕심|greed||명사
+w4|온실|greenhouse||명사
+w4|수류탄|grenade||명사
+w5|중대한 · 참혹한|grievous||형용사
+w4|엄숙한 · 암울한 · 가차 없는|grim||형용사
+w5|소름 돋는 · 참혹한|grisly||형용사
+w5|끔찍한 · 소름 끼치는|gruesome||형용사
+w3|경비원 · 보호 · 지키다|guard||명사
+w4|보호자 · 후견인|guardian||명사
+w5|게릴라|guerrilla||명사
+w4|죄책감 · 유죄|guilt||명사
+w4|유죄의 · 죄책감이 드는|guilty||형용사
+w5|외관 · 겉모습 · 변장|guise||명사
+w4|만 · 깊은 골짜기 · 큰 격차|gulf||명사
+w3|총|gun||명사
+w4|총격|gunfire||명사
+w4|해킹하다 · 난도질하다 · 베테랑|hack||동사
+w4|중단하다 · 멈추다 · 정지|halt||동사
+w5|불운한 · 불쌍한|hapless||형용사
+w4|사건 · 일|happening||명사
+w5|장황한 설교 · 연설하다|harangue||명사
+w5|괴롭히다 · 희롱하다|harass||동사
+w4|고난 · 역경|hardship||명사
+w4|해 · 손해 · 해치다|harm||명사
+w5|가슴 아픈 · 끔찍한|harrowing||형용사
+w4|증오 · 혐오|hatred||명사
+w5|피난처 · 안식처|haven||명사
+w5|대혼란 · 대파괴|havoc||명사
+w4|매 · 강경파 · 행상하다|hawk||명사
+w4|위험 · 위험 요소 · 감행하다|hazard||명사
+w5|위험한 · 유해한|hazardous||형용사
+w4|실안개 · 흐릿함|haze||명사
+w4|헤드라인 · 주요 기사|headline||명사
+w4|청력 · 청문회 · 심리|hearing||명사
+w5|소문 · 전문 증거|hearsay||명사
+w5|패권 · 헤게모니|hegemony||명사
+w4|상속인 · 후계자|heir||명사
+w5|극악무도한 · 흉악한|heinous||형용사
+w4|헬리콥터|helicopter||명사
+w5|알리다 · 예고하다 · 전령|herald||동사
+w4|유산 · 문화유산|heritage||명사
+w4|영웅적인 · 용감한|heroic||형용사
+w4|영웅적 행위 · 용맹|heroism||명사
+w4|납치하다 · 가로채다|hijack||동사
+w4|히피|hippie||명사
+w4|역사적으로 중요한|historic||형용사
+w5|거짓말 · 장난 · 속이다|hoax||명사
+w5|대참사 · 홀로코스트|holocaust||명사
+w4|조국 · 고국|homeland||명사
+w4|노숙자의 · 집이 없는|homeless||형용사
+w5|살인 · 살인죄|homicide||명사
+w4|명예로운 · 존경할 만한|honorable||형용사
+w5|속이다 · 눈속임하다|hoodwink||동사
+w5|난동꾼 · 불량배|hooligan||명사
+w5|떼 · 군중|horde||명사
+w4|인질|hostage||명사
+w4|적대적인 · 적의가 있는|hostile||형용사
+w5|적대감 · 적대 행위|hostility||명사
+w4|핫라인 · 비상 직통 전화|hotline||명사
+w5|소란 · 야단법석|hubbub||명사
+w5|인도적인 · 인정 있는|humane||형용사
+w4|인도적인 · 인도주의적인|humanitarian||형용사
+w5|굴욕감을 주다 · 창피를 주다|humiliate||동사
+w5|굴욕 · 모욕감|humiliation||명사
+w4|세차게 던지다 · 퍼붓다|hurl||동사
+w4|허리케인|hurricane||명사
+w4|수력 발전의|hydroelectric||형용사
+w5|위선 · 이중 잣대|hypocrisy||명사
+w5|위선자|hypocrite||명사
+w5|위선적인|hypocritical||형용사
+w5|히스테리 · 광란|hysteria||명사
+@study
+w5|가속하다 · 촉진하다|accelerate||동사
+w4|협약 · 합의 · 일치하다|accord||명사
+w4|채택하다 · 입양하다|adopt||동사
+w4|완화하다 · 경감하다|alleviate||동사
+w4|대안 · 대체의|alternative||명사
+w4|개정 · 수정안 · 개정안|amendment||명사
+w4|권위자 · 당국|authority||명사
+w4|중단하다 · 그치다|cease||동사
+w4|인정하다(마지못해) · 양보하다|concede||동사
+w4|소비 · 소모|consumption||명사
+w4|주장하다 · 경쟁하다|contend||동사
+w5|논쟁하다 · 토론 · 토론하다|debate||명사
+w4|결정적인 · 결단력 있는|decisive||형용사
+w4|거스르다 · 뒤엎다 · 저항하다 · 무시하다|defy||동사
+w4|부인하다 · 거부하다|deny||동사
+w5|결핍 · 박탈|deprivation||명사
+w4|악화되다 · 열화되다|deteriorate||동사
+w3|침식 · 부식 · 약화|erosion||명사
+w3|분출 · 폭발 · 발발|eruption||명사
+w3|극한의 · 극단적인 · 극심한|extreme||형용사
+w3|혹독한 · 가혹한 · 거친 · 귀에 거슬리는|harsh||형용사
+@tech
+w5|반독점 · 반독점의|antitrust||형용사
+w5|생체 인식의|biometric||형용사
+w4|게임기 · 위로하다 · 콘솔|console||동사
+w4|마비시키다 · 불구로 만들다|cripple||동사
+w5|배포 · 배치 · 전개|deployment||명사
+w4|시행하다 · 집행하다|enforce||동사
+w4|넘쳐나다 · 침수시키다 · 홍수 · 범람하다 · 쇄도하다|flood||명사
+w5|뜨거운 · 격렬한 · 열띤|heated||형용사
+@travel
+w4|혹독한 · 잔혹한 · 가혹한|brutal||형용사
+w3|해안 · 타력 주행하다|coast||명사
+@work
+w4|책임(결과에 대한) · 책임성 · 설명 책임|accountability||명사
+w4|수정하다(개정) · 개정하다|amend||동사
+w4|자율성 · 자치권|autonomy||명사
+w4|관료제 · 관료주의 · 관료 기구|bureaucracy||명사
+w5|솔직한 · 숨김없는|candid||형용사
+w4|정리하다 · 담아내다 · 포획하다 · 확보하다|capture||동사
+w5|안주하는 · 자만하는|complacent||형용사
+w3|우려 · 관심사 · 기업|concern||명사
+w4|보수적인 · 보수주의자|conservative||형용사
+w4|관행 · 관례 · 협약 · 총회|convention||명사
+w5|계약 · 맹약|covenant||명사
+w4|위임 · 대표단|delegation||명사
+w5|의도적인 · 고의적인 · 신중한 · 숙고하다|deliberate||형용사
+w4|도입하다 · 배치하다 · 투입하다 · 활용하다|deploy||동사
+w4|상부에 올리다 · 상부에 보고하다 · 고조되다 · 확대되다|escalate||동사
+w4|미리 알리다 · 깃발 · 쇠약해지다 · 표시하다|flag||명사
+w4|괴롭힘 · 희롱|harassment||명사
+w5|키우다 · 고조시키다 · 높이다|heighten||동사

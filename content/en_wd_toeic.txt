@@ -1,0 +1,604 @@
+# 영어 단어 확장 — 토익·비즈니스 단어 (첨부 어휘 목록의 단어·뜻 기반. 형식: 레벨|뜻|단어||품사)
+# 이미 있는 단어는 없던 뜻만 합쳐 보강했어요.
+@daily
+w3|연락하다 · 접촉 · 인맥|contact||명사
+w3|제대로 기능하다 · 행사 · 작동하다|function||명사
+w4|의류 · 옷|garment||명사
+w5|진심 어린 · 진짜의|genuine||형용사
+@econ
+w4|인수 · 습득|acquisition||명사
+w5|감사 · 회계 감사|audit||명사
+w4|파산한 · 파산시키다|bankrupt||형용사
+w5|예산의|budgetary||형용사
+w4|완충 장치 · 여유 · 완충하다|buffer||명사
+w5|지금 · 금괴 · 은괴|bullion||명사
+w5|담보 · 부수적인|collateral||명사
+w4|원자재 · 상품|commodity||명사
+w4|편리함 · 편의|convenience||명사
+w5|채권자|creditor||명사
+w4|통화 · 화폐 · 통용|currency||명사
+w4|관습 · 관세 · 맞춤 제작의|custom||명사
+w3|부채 · 빚|debt||명사
+w5|채무자|debtor||명사
+w5|공기를 빼다 · 위축시키다 · 디플레이션|deflate||동사
+w5|가치가 떨어지다 · 감가상각하다|depreciate||동사
+w5|감가상각 · 가치 하락|depreciation||명사
+w4|배당금 · 성과|dividend||명사
+w3|사업부 · 부서 · 분할 · 나눗셈|division||명사
+w5|이끌다 · 촉진하다 · 추진하다 · 운전하다 · 추진력|drive||동사
+w5|이익 · 실적 · 수익 · 소득|earnings||명사
+w5|경제적인 · 절약하는|economical||형용사
+w5|자본 · 자기자본 · 공정성|equity||명사
+w5|소비세 · 도려내다|excise||명사
+w5|기대 · 예상|expectation||명사
+w5|지출하다 · 소비하다|expend||동사
+w4|지출 · 비용|expenditure||명사
+w3|비용 · 지출|expense||명사
+w5|만기 · 만료|expiration||명사
+w4|수출국 · 수출업자|exporter||명사
+w3|선호하다 · 편들다 · 부탁 · 호의 · 찬성|favor||명사
+w4|자금을 대다 · 재무 · 금융|finance||명사
+w2|재무의 · 금융의|financial||형용사
+w5|재정의 · 회계의|fiscal||형용사
+w1|미래 · 장래의 · 선물(금융)|future||명사
+w4|보장하다 · 보증 · 보증서 · 보증하다|guarantee||명사
+w5|위험을 회피하다 · 울타리 · 헤지 · 양다리 걸치다|hedge||명사
+w4|인상 · 급등 · 하이킹 · 오르다|hike||명사
+w5|걸림돌 · 장애물 · 허들 · 극복하다|hurdle||명사
+@food
+w1|계산서 · 견제 · (짐을) 부치다 · 점검하다 · 저지하다|check||동사
+w4|관례적인 · 관습의|customary||형용사
+w4|맛 · 풍미 · 맛을 내다|flavor||명사
+w3|넉넉한 · 관대한|generous||형용사
+w4|식료품 · 식료품점|grocery||명사
+w3|손님 · 투숙객 · 초청의|guest||명사
+w2|감당하다 · 대응하다 · 처리하다 · 다루다 · 손잡이|handle||동사
+@greet
+w3|능력 있는 · 유능한 · ~할 수 있는|capable||형용사
+w3|불평하다 · 항의하다|complain||동사
+w4|연결하다 · 관련짓다|connect||동사
+w3|(화제를) 그만두다 · 떨어지다 · 하락하다 · 드롭|drop||동사
+w3|영광 · 명예 · 존경 · 영예로 여기다|honor||명사
+w2|주최자 · 진행자 · 숙주 · 다수|host||명사
+@health
+w2|감사하다 · 진가를 알아보다 · 상승하다|appreciate||동사
+w4|(병이) 생기다 · 개발하다 · 발전하다 · 발병하다|develop||동사
+w3|오류 · 실수|error||명사
+w3|피로 · 피곤하게 하다|fatigue||명사
+w2|잘못 · 결함 · 단층|fault||명사
+w3|고치다 · 처방 · 고정하다 · 수리하다 · 확정하다|fix||동사
+w3|바닥 · 층 · 하한선|floor||명사
+w4|안내 · 실적 전망 · 지도 · 지침|guidance||명사
+w1|도와주세요 · 돕다 · 도움|help||동사
+@hobby
+w4|모임 · 승무원 · 작업반|crew||명사
+w4|예절 · 에티켓|etiquette||명사
+w3|전시하다 · 보이다 · 전시품|exhibit||동사
+w2|선물 · 재능|gift||명사
+w4|공연 · 단기 일자리|gig||명사
+@home
+w3|수거하다 · 수집하다 · 징수하다|collect||동사
+w3|신선한 · 새로운 · 상쾌한|fresh||형용사
+w3|난방기 · 히터|heater||명사
+@movie
+w3|채널 · 경로를 통해 보내다|channel||동사
+w3|감독 · 이사 · 국장|director||명사
+w4|훌륭한 · 탁월한 · 우수한|excellent||형용사
+w3|강력히 · 매우 · 높이|highly||부사
+@opinion
+w5|평가 · 감정|appraisal||명사
+w4|협업 · 협력|collaboration||명사
+w3|결정 · 판결|decision||명사
+w3|단점 · 불리한 점|disadvantage||명사
+w4|단점 · 결점|drawback||명사
+w4|실행 · 집행 · 처형|execution||명사
+w3|확대하다 · 확충하다 · 확장하다 · 넓히다|expand||동사
+w3|경험 · 겪다|experience||명사
+w4|실패 · 고장 · 불이행|failure||명사
+w3|공정한 · 상당한 · 박람회|fair||형용사
+w3|완주하다 · 다 끝내다 · 마감 · 완료|finish||동사
+w3|목표 · 골|goal||명사
+w3|도움이 되는 · 친절한|helpful||형용사
+@saying
+w4|자선 · 자선 단체 · 자비|charity||명사
+w5|동반자 · 회사 · 일행|company||명사
+w4|창조하다 · 만들어 내다|create||동사
+w4|손님 · 고객|customer||명사
+w5|정확한 · 요구하다|exact||형용사
+w4|운 · 행운 · 거액의 재산|fortune||명사
+w3|얻음 · 얻다 · 획득하다 · 이득 · 증가|gain||동사
+w4|정직 · 정직함|honesty||명사
+@shop
+w5|자산 · 강점|asset||명사
+w5|상거래 · 상업 · 무역|commerce||명사
+w4|수수료 · 위원회 · 위임하다|commission||명사
+w4|적립하다 · 기여하다 · 기부하다|contribute||동사
+w4|괜찮은 · 품위 있는|decent||형용사
+w4|공제 · 추론|deduction||명사
+w4|기본값 · 채무 불이행 · 불이행하다|default||명사
+w3|결함 · 결점 · 변절하다|defect||명사
+w3|디자인 · 설계 · 고안하다|design||명사
+w2|할인 · 할인하다 · 경시하다|discount||명사
+w3|진열 · 전시하다 · 표시하다|display||동사
+w3|적립하다 · 벌다 · 얻다|earn||동사
+w2|교환하다 · 주고받다 · 환전 · 거래소|exchange||동사
+w3|수수료 · 요금|fee||명사
+w2|(사이즈가) 맞다 · 적합한 · 건강한 · 발작|fit||형용사
+w4|변동 · 등락|fluctuation||명사
+w4|거점 · 중심지 · 허브|hub||명사
+@society
+w5|행정의 · 관리상의|administrative||형용사
+w4|의지 · 헌신 · 약속 · 책무|commitment||명사
+w4|쿠폰 · 할인권|coupon||명사
+w5|하강 · 침체기 · 경기 하강|downturn||명사
+w4|격차 · 틈 · 공백|gap||명사
+w5|호감 · 영업권 · 호의|goodwill||명사
+@study
+w3|인수하다 · 습득하다 · 획득하다|acquire||동사
+w4|(회의를) 휴회 · 종료하다 · 휴회하다 · 연기하다|adjourn||동사
+w4|배분하다 · 할당하다|allocate||동사
+w4|예상하다 · 기대하다|anticipate||동사
+w3|결재 · 승인 · 찬성|approval||명사
+w4|평가하다 · 사정하다|assess||동사
+w4|평가 · 부과액|assessment||명사
+w4|진짜의 · 믿을 만한 · 진품인|authentic||형용사
+w4|승인하다 · 인가하다 · 권한을 부여하다|authorize||동사
+w3|안내 책자 · 브로셔 · 소책자|brochure||명사
+w4|능력 · 용량 · 수용력 · 자격|capacity||명사
+w3|음식을 공급하다 · 맞추다|cater||동사
+w4|수료증 · 증명서 · 자격증|certificate||명사
+w4|주장 · 주장하다 · 청구하다|claim||동사
+w4|조항 · 절|clause||명사
+w5|상업적인 · 광고|commercial||형용사
+w4|호환되는 · 양립할 수 있는|compatible||형용사
+w4|경쟁이 심한 · 경쟁력 있는 · 경쟁적인|competitive||형용사
+w3|경쟁사 · 경쟁자|competitor||명사
+w4|불만 · 민원 · 고소|complaint||명사
+w4|타협 · 타협하다|compromise||명사
+w4|기밀의 · 대외비의|confidential||형용사
+w3|제약 · 제한|constraint||명사
+w4|기여 · 기부금|contribution||명사
+w3|바꾸다 · 전환하다 · 개조하다|convert||동사
+w4|비용이 많이 드는 · 값비싼|costly||형용사
+w3|택배 기사 · 특사|courier||명사
+w3|크루즈 · 유람선 여행 · 순항하다|cruise||명사
+w3|거절하다 · 줄어들다 · 쇠퇴 · 감소하다|decline||동사
+w3|출발하다 · 떠나다|depart||동사
+w4|보내다 · 향하게 하다 · 직접적인 · 지시하다 · 감독하다|direct||형용사
+w4|분쟁 · 논쟁 · 이의를 제기하다|dispute||명사
+w4|기부하다 · 기증하다|donate||동사
+w3|내구성 있는 · 오래가는|durable||형용사
+w4|효과적인 · 유효한|effective||형용사
+w4|효과성 · 유효성|effectiveness||명사
+w3|전기 기사 · 전기 기술자|electrician||명사
+w4|자격이 있는 · 적격의|eligible||형용사
+w3|동봉하다 · 둘러싸다|enclose||동사
+w4|향상시키다 · 높이다|enhance||동사
+w4|등록 · 입학자 수|enrollment||명사
+w4|갖춰 주다 · 장비를 갖추다 · 준비시키다|equip||동사
+w3|장비 · 설비|equipment||명사
+w4|추정치 · 견적 · 추정하다 · 추산하다 · 견적 내다 · 추산|estimate||동사
+w3|넘어서다 · 초과하다 · 넘다|exceed||동사
+w4|탁월한 · 예외적인 · 뛰어난|exceptional||형용사
+w4|기존의 · 현존하는|existing||형용사
+w4|확장 · 팽창|expansion||명사
+w3|연장 · 내선 · 확장|extension||명사
+w4|결함 있는 · 결함이 있는|faulty||형용사
+w4|실현 가능한 · 실행할 수 있는|feasible||형용사
+w3|특징 · 선보이다 · 특집 기사 · 주연으로 하다|feature||명사
+w4|분야 · 들판 · 현장 · 응대하다|field||명사
+w4|수치 · 인물 · 도형 · 판단하다|figure||명사
+w3|회사 · 확고한 · 단단한 · 기업|firm||형용사
+w4|결함 · 흠|flaw||명사
+w3|유연한 · 융통성 있는|flexible||형용사
+w4|가맹점 · 프랜차이즈 · 참정권|franchise||명사
+w5|완전히 · 충분히|fully||부사
+w4|자금을 대다 · 기금|fund||명사
+w4|성적 · 등급 · 경사 · 등급을 매기다|grade||명사
+w3|보조금 · 부여하다 · 인정하다 · 허락하다 · 수여하다|grant||동사
+w5|획기적인 · 선구적인|groundbreaking||형용사
+w4|막대한 · 무거운 · 상당한|hefty||형용사
+@tech
+w4|광대역 통신|broadband||명사
+w3|규정 · 코드 · 암호화하다|code||명사
+w4|부족 사태 · 위기 · 바삭 소리 · 계산하다|crunch||명사
+w4|데이터베이스|database||명사
+w4|디지털의|digital||형용사
+w5|유통 · 배포망 · 분배 · 분포 · 배전 · 배분|distribution||명사
+w4|완화되다 · 쉬움 · 완화하다|ease||명사
+w5|우위 · 가장자리 · 근소한 차이|edge||명사
+w3|전자의|electronic||형용사
+w4|전자공학 · 전자기기|electronics||명사
+w5|없애다 · 제거하다|eliminate||동사
+w4|사기 · 사기꾼|fraud||명사
+w4|하드웨어 · 철물|hardware||명사
+@time
+w3|적절한 · 전용하다|appropriate||형용사
+w1|날짜 · 연대 · 연대를 측정하다|date||명사
+w4|정신없는 · 몹시 바쁜|hectic||형용사
+@travel
+w4|통근 · 출퇴근길 · 통근하다|commute||동사
+w4|보상 · 급여 · 수당|compensation||명사
+w3|무료의 · 칭찬하는|complimentary||형용사
+w3|공사 · 건설 · 해석 · 구성|construction||명사
+w3|좋은 거래 · 거래하다 · 다루다|deal||명사
+w3|출발 · 이탈|departure||명사
+w3|보증금 · 예금 · 퇴적물|deposit||명사
+w4|목적지|destination||명사
+w3|우회로 · 우회하다|detour||명사
+w4|하선하다 · 내리다|disembark||동사
+w4|착수하다 · 승선하다|embark||동사
+w4|초과의 · 과잉 · 과도한|excess||명사
+w4|소풍 · 단체 여행|excursion||명사
+w3|출구 · 퇴장 · 퇴출하다|exit||명사
+w2|연장하다 · 확대하다 · 제공하다|extend||동사
+w2|추가의 · 별도의|extra||형용사
+w4|요금 · 승객 · 지내다|fare||명사
+w4|벌금 · 과징금을 부과하다 · 훌륭한 · 미세한 · 벌금을 부과하다|fine||형용사
+w3|바람 빠진 · 평평한 · 정액의 · 아파트|flat||형용사
+w3|비행 · 항공편 · 도주|flight||명사
+w4|항구 · 품다 · 은신처 제공하다|harbor||명사
+w2|보관하다 · 유지하다 · 유효하다 · 잡다 · 개최하다 · 보유하다 · 보류|hold||동사
+@work
+w4|준수하다 · 견디다|abide||동사
+w4|접근 가능한 · 이해하기 쉬운|accessible||형용사
+w4|수용하다 · 편의를 제공하다|accommodate||동사
+w5|통찰력 · 식견|acumen||명사
+w5|부록 · 추가 사항|addendum||명사
+w4|고수하다 · 달라붙다|adhere||동사
+w5|상냥한 · 붙임성 있는|affable||형용사
+w4|계열사 · 제휴하다|affiliate||명사
+w2|안건 · 의제|agenda||명사
+w5|민첩한 · 기민한|agile||형용사
+w4|기민한 · 경계 경보|alert||형용사
+w4|정렬하다 · 맞추다|align||동사
+w5|분배하다 · 할당하다|allot||동사
+w4|수정 · 변경|alteration||명사
+w5|합병하다 · 융합하다|amalgamate||동사
+w5|편의 시설|amenity||명사
+w5|친절한 · 호감 가는|amiable||형용사
+w5|우호적인 · 원만한|amicable||형용사
+w5|첨부하다 · 덧붙이다|append||동사
+w4|적용 가능한 · 해당하는|applicable||형용사
+w4|견습생 · 도제|apprentice||명사
+w4|중재 판정하다 · 중재하다|arbitrate||동사
+w4|조립하다 · 모으다|assemble||동사
+w3|배정하다 · 할당하다|assign||동사
+w4|돕다 · 보조하다|assist||동사
+w2|연관 짓다 · 동료|associate||동사
+w4|보증 · 확신|assurance||명사
+w5|통찰력 있는 · 영리한|astute||형용사
+w5|유용성 · 소용|avail||명사
+w5|밀린 일 · 미처리 물량|backlog||명사
+w2|잔액 · 균형|balance||명사
+w5|물물교환하다|barter||동사
+w4|일괄 처리분 · 묶음|batch||명사
+w4|대신 · 이익|behalf||명사
+w5|뒤늦은|belated||형용사
+w5|수혜자|beneficiary||명사
+w4|입찰 · 시도|bid||명사
+w4|옥외 광고판|billboard||명사
+w5|부풀리다 · 비대해지다|bloat||동사
+w4|청사진 · 설계도|blueprint||명사
+w4|자랑하다 · 보유하다|boast||동사
+w5|위반 · 결렬 · 파고들다|breach||명사
+w4|고장 · 분석 · 붕괴|breakdown||명사
+w4|활발한 · 상쾌한|brisk||형용사
+w4|중개인 · 주선하다|broker||명사
+w5|활기찬 · 상승세의|buoyant||형용사
+w4|우회하다 · 무시하다|bypass||동사
+w4|화물|cargo||명사
+w4|신중한 · 조심스러운|cautious||형용사
+w5|중앙집권화하다|centralize||동사
+w4|증명하다 · 인가하다|certify||동사
+w4|자선의 · 관대한|charitable||형용사
+w5|헌장 · 전세 내다|charter||명사
+w4|원형의 · 순환 통지문|circular||형용사
+w4|유통시키다 · 순환하다|circulate||동사
+w5|신중한 · 조심스러운|circumspect||형용사
+w5|회피하다 · 우회하다|circumvent||동사
+w4|분명히 하다 · 명확히 하다 · 해명하다|clarify||동사
+w5|고객층|clientele||명사
+w4|폐쇄 · 종결|closure||명사
+w5|금고 · 자금|coffer||명사
+w4|협업하다 · 협력하다 · 공동 연구하다|collaborate||동사
+w3|편안함 · 위로하다|comfort||명사
+w5|시작하다 · 개시하다|commence||동사
+w5|칭찬하다 · 추천하다|commend||동사
+w5|칭찬할 만한 · 훌륭한|commendable||형용사
+w2|위원회|committee||명사
+w3|소통하다 · 전달하다|communicate||동사
+w4|소형의 · 간결한 · 협약|compact||형용사
+w4|비교할 만한 · 필적하는|comparable||형용사
+w5|역량 · 능력|competence||명사
+w4|유능한 · 적격의|competent||형용사
+w2|경쟁 · 대회|competition||명사
+w4|편집하다 · 취합하다|compile||동사
+w4|보완하다 · 보충물|complement||동사
+w2|완전한 · 완료하다|complete||형용사
+w4|준수하다 · 따르다|comply||동사
+w4|포괄적인 · 종합적인|comprehensive||형용사
+w5|양보 · 특권|concession||명사
+w4|간결한 · 요점을 담은|concise||형용사
+w4|실시하다 · 전도하다 · 수행하다 · 지휘하다 · 행실|conduct||동사
+w5|수여하다 · 협의하다|confer||동사
+w5|마음이 맞는 · 쾌적한|congenial||형용사
+w5|대기업 집단 · 복합체|conglomerate||명사
+w5|양심적인 · 성실한|conscientious||형용사
+w4|상당한 · 적지 않은|considerable||형용사
+w4|사려 깊은 · 배려하는|considerate||형용사
+w5|위탁하다 · 발송하다|consign||동사
+w5|탁송 화물 · 위탁 판매|consignment||명사
+w3|일관된 · 일치하는|consistent||형용사
+w5|통합하다 · 공고히 하다|consolidate||동사
+w5|컨소시엄 · 연합체|consortium||명사
+w4|상담하다 · 자문하다|consult||동사
+w4|컨설턴트 · 고문|consultant||명사
+w4|상담 · 협의|consultation||명사
+w4|소비하다 · 소모하다|consume||동사
+w3|소비자|consumer||명사
+w5|조건부의 · 파견대|contingent||형용사
+w2|계약 · 계약하다 · 수축하다|contract||명사
+w1|통제 · 제어 · 통제하다|control||명사
+w5|소집하다 · 모이다|convene||동사
+w4|전환 · 개종|conversion||명사
+w4|협력 · 협동|cooperation||명사
+w4|조율하다 · 조정하다 · 좌표|coordinate||동사
+w5|진심 어린 · 다정한|cordial||형용사
+w5|핵심의 · 중심부|core||명사
+w3|기업의 · 법인의|corporate||형용사
+w4|기업 · 주식회사 · 법인|corporation||명사
+w4|일치 · 서신 왕래|correspondence||명사
+w4|미용의 · 외형상의|cosmetic||형용사
+w4|공손한 · 예의 바른|courteous||형용사
+w4|정중함 · 예의|courtesy||명사
+w4|창의적인|creative||형용사
+w2|신용 · 학점 · 공로 · 입금하다|credit||명사
+w4|바삭바삭한 · 산뜻한 · 명쾌한|crisp||형용사
+w5|다루기 힘든 · 번거로운|cumbersome||형용사
+w4|삭감 · 감축|cutback||명사
+w4|판매상 · 딜러|dealer||명사
+w3|소중한 · 비싼|dear||형용사
+w1|결정하다 · 결심하다|decide||동사
+w4|갑판 · 층 · 꾸미다|deck||명사
+w4|장식하다 · 훈장을 수여하다|decorate||동사
+w4|헌신하다 · 바치다|dedicate||동사
+w4|공제하다 · 차감하다|deduct||동사
+w4|행위 · 증서|deed||명사
+w5|미루다 · 연기하다 · 따르다|defer||동사
+w4|명확한 · 확실한|definite||형용사
+w5|폐지된 · 더 이상 존재하지 않는|defunct||형용사
+w3|지연시키다 · 지연|delay||동사
+w4|위임하다 · 대표자|delegate||동사
+w4|삭제하다|delete||동사
+w4|내다 · 단행하다 · 배달하다 · 발표하다 · 이행하다|deliver||동사
+w4|납품 · 배송 · 배달 · 분만 · 연설 방식|delivery||명사
+w2|수요 · 요구 · 요구하다|demand||명사
+w5|인구 통계학적 특성|demographics||명사
+w5|강등시키다|demote||동사
+w4|움푹 들어간 곳 · 손상시키다|dent||명사
+w2|부서 · 학과|department||명사
+w4|믿음직한|dependable||형용사
+w5|지정하다 · 임명하다|designate||동사
+w5|발송하다 · 급파하다|despatch||동사 · 영국식 철자, 미국식은 dispatch
+w4|분리하다 · 떼어내다|detach||동사
+w1|세부 사항 · 상술하다|detail||명사
+w5|가치를 떨어뜨리다 · 평가절하하다|devalue||동사
+w4|성장 · 개발 · 발전 · 전개|development||명사
+w3|장치 · 기기 · 방책|device||명사
+w5|고안하다 · 창안하다|devise||동사
+w5|지연시키는 · 꾸물거리는|dilatory||형용사
+w5|근면 · 성실함|diligence||명사
+w4|근면한 · 성실한|diligent||형용사
+w2|방향 · 지시 · 연출|direction||명사
+w4|명부 · 디렉터리|directory||명사
+w4|작동 불능으로 만들다 · 장애를 입히다|disable||동사
+w5|허용하지 않다 · 기각하다|disallow||동사
+w4|버리다 · 폐기하다|discard||동사
+w4|방출하다 · 이행하다 · 해고하다 · 방전|discharge||동사
+w5|권리 포기를 선언하다 · 부인하다|disclaim||동사
+w4|공개하다 · 밝히다|disclose||동사
+w5|공시 · 공개|disclosure||명사
+w4|연결을 끊다|disconnect||동사
+w4|불일치 · 차이|discrepancy||명사
+w4|재량 · 신중함|discretion||명사
+w4|부정직한|dishonest||형용사
+w5|억제 요인 · 불리한 유인|disincentive||명사
+w5|해체하다 · 분해하다|dismantle||동사
+w4|해고하다 · 일축하다 · 해산시키다|dismiss||동사
+w4|해고 · 묵살|dismissal||명사
+w4|발송하다 · 파견하다 · 파견|dispatch||동사
+w5|분배하다 · ~없이 지내다|dispense||동사
+w4|일회용의 · 처분 가능한|disposable||형용사
+w4|처분 · 처리|disposal||명사
+w4|방해하다 · 혼란에 빠뜨리다|disrupt||동사
+w4|파괴적 변화 · 중단 · 차질 · 혼란|disruption||명사
+w5|파괴적인 · 파괴적 혁신의 · 방해가 되는|disruptive||형용사
+w4|불만 · 불만족|dissatisfaction||명사
+w3|배포하다 · 유통하다 · 분배하다|distribute||동사
+w4|유통업체 · 대리점|distributor||명사
+w4|돌리다 · 전환하다 · 즐겁게 하다|divert||동사
+w5|매각하다 · 박탈하다|divest||동사
+w4|부두 · 감액하다 · 접안하다|dock||명사
+w2|문서 · 입증하다|document||명사
+w4|기부 · 기증품|donation||명사
+w4|하향 조정하다 · 강등|downgrade||동사
+w4|규모를 축소하다 · 감원하다|downsize||동사
+w4|하향의 · 아래쪽으로|downward||형용사
+w3|초안을 쓰다 · 징병 · 작성하다|draft||명사
+w4|훈련 · 드릴 · 훈련하다|drill||명사
+w4|이중의 · 겸용의|dual||형용사
+w3|지급 기일이 된 · 만기의 · 마땅한|due||형용사
+w4|버리다 · 덤핑 판매하다|dump||동사
+w4|지속 기간|duration||명사
+w3|책임 · 의무 · 관세 · 직무|duty||명사
+w4|역동적인 · 동력학|dynamic||형용사
+w5|전용으로 할당하다 · 꼬리표|earmark||동사
+w5|계층 · 직급|echelon||명사
+w4|편집하다 · 수정하다|edit||동사
+w3|효율적인|efficient||형용사
+w2|노력|effort||명사
+w4|탄력 있는 · 신축성 있는|elastic||형용사
+w5|횡령하다|embezzle||동사
+w5|양각하다 · 엠보싱 처리하다|emboss||동사
+w3|고용하다 · 활용하다|employ||동사
+w2|직원 · 고용인|employee||명사
+w3|고용주|employer||명사
+w3|고용 · 취업|employment||명사
+w4|권한을 주다 · 권한을 부여하다 · 역량을 강화하다|empower||동사
+w3|가능하게 하다|enable||동사
+w4|동봉물 · 울타리|enclosure||명사
+w5|방해하다 · 부담을 지우다|encumber||동사
+w5|노력 · 시도 · 애쓰다|endeavor||명사
+w4|지지하다 · 보증하다 · 배서하다|endorse||동사
+w4|지지 · 추천 · 보증|endorsement||명사
+w4|관여하다 · 참여하다 · 고용하다 · 약혼하다|engage||동사
+w4|몰입 · 참여 · 약속 · 약혼|engagement||명사
+w3|기술자 · 설계하다 · 조작하다|engineer||명사
+w5|향상 · 개선|enhancement||명사
+w4|등록하다 · 입학하다|enroll||동사
+w3|보장하다 · 반드시 ~하게 하다|ensure||동사
+w2|들어가다 · 입력하다 · 참가하다|enter||동사
+w4|기업 · 사업 · 진취성|enterprise||명사
+w5|진취적인 · 사업 수완이 있는|enterprising||형용사
+w4|접대하다 · 즐겁게 하다|entertain||동사
+w4|자격을 주다 · 제목을 붙이다|entitle||동사
+w5|독립체 · 실체 · 기업체|entity||명사
+w4|입구 · 입장|entrance||명사
+w4|기업가 · 창업가|entrepreneur||명사
+w5|기업가 정신의|entrepreneurial||형용사
+w3|입장 · 기재 항목 · 출품작|entry||명사
+w4|봉투|envelope||명사
+w5|인체공학적인|ergonomic||형용사
+w4|심부름 · 용무|errand||명사
+w3|필수적인 · 본질적인|essential||형용사
+w2|설립하다 · 확립하다 · 입증하다|establish||동사
+w4|확립된 · 기성의|established||형용사
+w3|부동산 · 재산 · 사유지|estate||명사
+w4|윤리 · 도덕관|ethic||명사
+w4|윤리적인|ethical||형용사
+w4|윤리학 · 도덕률|ethics||명사
+w4|평가하다|evaluate||동사
+w1|사건 · 행사 · 종목|event||명사
+w5|엄격한 · 까다로운|exacting||형용사
+w4|뛰어나다 · 능가하다|excel||동사
+w4|탁월함 · 우수성|excellence||명사
+w3|예외|exception||명사
+w4|과도한 · 지나친|excessive||형용사
+w4|독점적인 · 고급의 · 배타적인|exclusive||형용사
+w4|독점적으로 · 오직|exclusively||부사
+w5|실행하다 · 처형하다|execute||동사
+w4|경영자 · 임원 · 경영진 · 집행의|executive||명사
+w5|모범적인 · 본보기가 되는|exemplary||형용사
+w5|면제된 · 면제하다|exempt||형용사
+w5|면제 · 공제|exemption||명사
+w5|신속히 처리하다 · 촉진하다|expedite||동사
+w4|경험이 풍부한|experienced||형용사
+w3|전문가 · 전문적인|expert||명사
+w4|전문성 · 전문 지식 · 전문 기술|expertise||명사
+w4|만료되다 · 끝나다|expire||동사
+w3|수출하다 · 수출품|export||동사
+w4|광범위한 · 넓은|extensive||형용사
+w4|외부의 · 대외적인|external||형용사
+w4|직물 · 구조 · 체제|fabric||명사
+w4|원활하게 하다 · 용이하게 하다 · 촉진하다|facilitate||동사
+w2|시설 · 설비 · 재능|facility||명사
+w5|복사본 · 팩스|facsimile||명사
+w3|공장|factory||명사
+w4|숙지시키다 · 익숙해지게 하다|familiarize||동사
+w4|고급스러운 · 공상 · 좋아하다|fancy||형용사
+w3|패션 · 방식 · 만들어 내다|fashion||명사
+w4|유행하는 · 세련된|fashionable||형용사
+w5|까다로운 · 꼼꼼한|fastidious||형용사
+w4|호의적인 · 유리한|favorable||형용사
+w2|파일 · 서류철 · 신청하다 · 줄지어 가다|file||명사
+w2|채우다 · 충원하다|fill||동사
+w4|필터 · 여과기 · 걸러내다|filter||명사
+w2|최종의 · 결승전|final||형용사
+w4|고정 설비 · 단골|fixture||명사
+w5|김이 빠지다 · 흐지부지되다|fizzle||동사
+w5|재능 · 센스|flair||명사
+w5|흠잡을 데 없는 · 완벽한|flawless||형용사
+w4|유연성 · 융통성|flexibility||명사
+w4|실패하다 · 털썩 주저앉다|flop||동사
+w5|허우적거리다 · 난항을 겪다|flounder||동사
+w4|변동하다 · 오르내리다|fluctuate||동사
+w2|초점 · 집중하다|focus||명사
+w4|~에 이어 · 다음의|following||전치사
+w4|전망 · 예측하다 · 예보|forecast||명사
+w5|저당권을 실행하다 · 배제하다|foreclose||동사
+w5|가장 중요한 · 선두의|foremost||형용사
+w4|선견지명 · 통찰 · 예측력|foresight||명사
+w4|위조하다 · 구축하다 · 단조하다|forge||동사
+w3|공식적인 · 격식을 차린|formal||형용사
+w4|형식 · 격식 절차|formality||명사
+w4|형식 · 포맷 · 구성하다|format||명사
+w5|다가오는 · 곧 있을 · 기꺼이 응하는|forthcoming||형용사
+w1|앞쪽의 · 진취적인 · 전달하다|forward||형용사
+w4|설립하다 · 기초를 두다|found||동사
+w4|기초 · 재단 · 설립|foundation||명사
+w4|창업자 · 창립자 · 좌초하다|founder||명사
+w3|틀 · 체제 · 구성하다 · 누명을 씌우다|frame||명사
+w5|사기의 · 부정한|fraudulent||형용사
+w4|화물 · 화물 운송|freight||명사
+w4|마찰 · 갈등|friction||명사
+w3|친근한 · 우호적인|friendly||형용사
+w5|검소한 · 알뜰한|frugal||형용사
+w4|유익한 · 결실이 많은|fruitful||형용사
+w4|좌절시키다 · 좌절감을 주다|frustrate||동사
+w4|좌절 · 불만|frustration||명사
+w4|이행하다 · 충족시키다 · 실현하다|fulfill||동사
+w4|성취 · 이행 · 충족|fulfillment||명사
+w4|기능적인 · 실용적인|functional||형용사
+w4|제공하다 · 가구를 비치하다|furnish||동사
+w4|소형 기기 · 장치|gadget||명사
+w4|차고 · 정비소|garage||명사
+w5|측정하다 · 판단하다 · 계기|gauge||동사
+w4|장비 · 기어 · 맞추다|gear||명사
+w1|일반적인 · 전반적인 · 장군|general||형용사
+w3|생성하다 · 발생시키다|generate||동사
+w4|발전기 · 생성기|generator||명사
+w5|상냥한 · 쾌활한|genial||형용사
+w5|눈속임 · 판촉용 장치|gimmick||명사
+w5|결함 · 일시적 오류|glitch||명사
+w5|과잉 공급 · 포화 상태|glut||명사
+w4|상품 · 물품|goods||명사
+w5|파내다 · 바가지를 씌우다|gouge||동사
+w5|상냥한 · 품위 있는|gracious||형용사
+w5|무료로 · 공짜로|gratis||부사
+w5|팁 · 사례금 · 퇴직금|gratuity||명사
+w4|인사하다 · 맞이하다|greet||동사
+w4|인사 · 환영|greeting||명사
+w5|불만 · 고충|grievance||명사
+w4|단장시키다 · 양성하다 · 신랑|groom||동사
+w4|총 ~의 · 역겨운 · 노골적인|gross||형용사
+w1|그룹 · 집단 · 분류하다|group||명사
+w2|성장 · 증가|growth||명사
+w5|고된 · 녹초가 되게 하는|grueling||형용사
+w3|안내서 · 가이드 · 안내하다|guide||명사
+w4|지침 · 가이드라인|guideline||명사
+w5|흥정하다 · 실랑이하다|haggle||동사
+w5|특징 · 상징 · 품질 보증 마크|hallmark||명사
+w4|반으로 줄이다|halve||동사
+w5|방해하다 · 지장을 주다|hamper||동사
+w4|핸드백|handbag||명사
+w4|수제의|handmade||형용사
+w4|편리한 · 가까운 곳에 있는|handy||형용사
+w4|귀찮은 일 · 실랑이 · 괴롭히다|hassle||명사
+w4|끌다 · 운반하다 · 수확량|haul||동사
+w1|머리 · 책임자 · 향하다|head||명사
+w4|제목 · 표제|heading||명사
+w3|본사 · 본부|headquarters||명사
+w4|위계 · 계층 구조 · 위계질서|hierarchy||명사
+w3|강조하다 · 하이라이트|highlight||동사
+w3|고용하다 · 대여하다 · 고용|hire||동사
+w4|차질 · 걸림돌 · 히치하이크하다|hitch||명사
+w4|보유자 · 거치대|holder||명사
+w2|휴일 · 휴가|holiday||명사
+w4|정직한 · 솔직한|honest||형용사
+w5|명예직의 · 명예의|honorary||형용사
+w5|환대하는 · 접대가 후한|hospitable||형용사
+w4|환대 · 접대업|hospitality||명사
+w2|호텔|hotel||명사
+w4|매시간의 · 시간당|hourly||형용사
+w4|서두르는 · 급한|hurried||형용사

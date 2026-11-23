@@ -1,0 +1,1465 @@
+# 영어 단어 확장 — 토플·아카데믹 단어 (첨부 어휘 목록의 단어·뜻 기반. 형식: 레벨|뜻|단어||품사)
+# 이미 있는 단어는 없던 뜻만 합쳐 보강했어요.
+@daily
+w3|~에 달려 있다 · 의존하다|depend||동사
+w2|꿈 · 꿈꾸다|dream||명사
+w4|팔꿈치 · 팔꿈치로 밀치다|elbow||명사
+w3|그 밖의 · 그 밖에 · 그렇지 않으면|else||부사
+w4|눈썹|eyebrow||명사
+w4|속눈썹|eyelash||명사
+w4|눈꺼풀|eyelid||명사
+w2|가족 · 가문 · 계열|family||명사
+w2|느끼다 · 만지다|feel||동사
+w1|친구|friend||명사
+w3|이해하다 · 얻다 · 되다 · 도착하다|get||동사
+w4|손자 · 손녀|grandchild||명사
+w4|손녀|granddaughter||명사
+w4|조부모|grandparent||명사
+w4|손자|grandson||명사
+w1|초록색 · 초록색의 · 친환경의 · 미숙한|green||형용사
+w3|머리카락 · 털|hair||명사
+w5|서두름 · 성급함|haste||명사
+w1|더운 · 뜨거운 · 매운 · 열띤|hot||형용사
+@econ
+w4|엇갈리다 · 갈라지다 · 분기하다 · 벗어나다|diverge||동사
+w3|걸림돌 · 느리게 가다 · 끌다 · 질질 끌다|drag||동사
+w4|떠오르다 · 부상하다 · 나타나다 · 드러나다|emerge||동사
+@food
+w4|곡물 · 시리얼|cereal||명사
+w5|식용의|comestible||형용사
+w3|포함하다 · 억제하다|contain||동사
+w5|아주 맛있는 · 즐거운|delectable||형용사
+w4|식용의 · 먹을 수 있는|edible||형용사
+w1|달걀 · 알 · 부추기다|egg||명사
+w3|즐기다 · 누리다|enjoy||동사
+w4|무화과|fig||명사
+w1|생선 · 물고기 · 낚시하다|fish||명사
+w1|음식 · 식량|food||명사
+w1|과일 · 결실 · 열매|fruit||명사
+w1|배부른 · 가득 찬 · 완전한 · 충분히|full||형용사
+w4|생강 · 붉은갈색|ginger||명사
+w4|포도당|glucose||명사
+w4|곡물 · 낟알 · 결|grain||명사
+w4|포도|grape||명사
+w4|식료품상|grocer||명사
+w4|햄버거|hamburger||명사
+w3|불 · 열 · 더위 · 가열하다|heat||명사
+w1|배고픈 · 갈망하는|hungry||형용사
+@greet
+w3|커플 · 둘 · 결합하다|couple||명사
+w5|모색하다 · 탐험하다 · 탐구하다|explore||동사
+w3|익숙한 · 친숙한|familiar||형용사
+w3|팬 · 선풍기 · 부채 · 부채질하다|fan||명사
+w3|축구 · 미식축구|football||명사
+w2|이전의 · 전자의|former||형용사
+w3|재미있는 · 웃기는 · 이상한|funny||형용사
+w3|모이다 · 모으다 · 추측하다|gather||동사
+w2|여자아이 · 소녀|girl||명사
+w3|기쁜 · 반가운|glad||형용사
+w3|이발 · 머리 모양|haircut||명사
+w3|아주 웃긴 · 아주 재미있는 · 폭소를 자아내는|hilarious||형용사
+@health
+w4|상황 · 사정 · 환경|circumstance||명사
+w5|구상하다 · 생각하다 · 임신하다|conceive||동사
+w5|비만한 · 살찐|corpulent||형용사
+w4|쥐 · 경련 · 제약하다|cramp||명사
+w4|탈수하다 · 건조시키다|dehydrate||동사
+w4|소화하다 · 이해하다 · 요약집|digest||동사
+w3|빈 · 공허한 · 비우다|empty||형용사
+w3|탈출하다 · 벗어나다 · 도피|escape||동사
+w4|고갈 · 극도의 피로|exhaustion||명사
+w2|눈 · 시선 · 주시하다|eye||명사
+w3|지방 · 뚱뚱한 · 지방이 많은|fat||형용사
+w2|열 · 열병 · 열광|fever||명사
+w4|건강 · 적합성|fitness||명사
+w3|발 · 피트 · 발치|foot||명사
+w5|깊게 벤 상처|gash||명사
+w4|유전학|genetics||명사
+w3|일어나다 · 발생하다|happen||동사
+w4|건강에 좋은|healthful||형용사
+w3|심장 · 마음 · 핵심|heart||명사
+w5|유전적인 · 세습적인|hereditary||형용사
+w2|아프다 · 서운한 · 상처받은 · 다치다 · 다치게 하다 · 상처를 주다 · 아픈|hurt||동사
+@hobby
+w4|조각하다 · 개척하다|carve||동사
+w3|전형적인 · 고전의 · 고전적인|classic||형용사
+w4|공예 · 기술 · 기교 · 공들여 만들다|craft||명사
+w1|그리다 · 끌다 · 추첨|draw||동사
+w4|드럼 · 북 · 북돋우다|drum||명사
+w3|어른 · 연상의 · 원로|elder||형용사
+w5|승마의|equestrian||형용사
+w3|신나는 · 흥미진진한|exciting||형용사
+w5|설명 · 해설 · 박람회|exposition||명사
+w3|신앙 · 믿음 · 신념|faith||명사
+w4|울타리 · 펜싱하다|fence||명사
+w4|축제의 · 흥겨운|festive||형용사
+w4|낚시 · 어업|fishing||명사
+w4|조각 · 플레이크 · 벗겨지다|flake||명사
+w4|플루트|flute||명사
+w4|조각 · 파편 · 산산조각 나다|fragment||명사
+w2|게임 · 경기 · 사냥감|game||명사
+w4|골프|golf||명사
+w3|굽다 · 석쇠에 굽다 · 캐묻다 · 그릴|grill||동사
+w2|헬스장 · 체육관|gym||명사
+w4|체조|gymnastics||명사
+w1|행복한 · 기쁜|happy||형용사
+w4|하키|hockey||명사
+w3|사냥하다 · 수색하다|hunt||동사
+w4|사냥꾼|hunter||명사
+w4|사냥|hunting||명사
+@home
+w4|농작물 · 수확 · 잘라내다|crop||명사
+w4|먼지 · 먼지를 털다|dust||명사
+w4|독수리|eagle||명사
+w3|지구 · 흙|earth||명사
+w4|코끼리|elephant||명사
+w4|요정 · 엘프|elf||명사
+w4|요정|fairy||명사
+w2|농장 · 농사짓다|farm||명사
+w4|농업 · 경작|farming||명사
+w4|벼룩|flea||명사
+w2|꽃 · 꽃피다|flower||명사
+w4|안개|fog||명사
+w3|개다 · 접다 · 접힌 부분 · 폐업하다|fold||동사
+w3|숲 · 삼림|forest||명사
+w4|여우 · 교활하게 속이다|fox||명사
+w4|개구리|frog||명사
+w4|서리 · 성에|frost||명사
+w2|정원 · 텃밭|garden||명사
+w4|요정 · 지니|genie||명사
+w4|유령 · 귀신|ghost||명사
+w4|기린|giraffe||명사
+w5|좁은 계곡 · 골짜기|glen||명사
+w4|염소|goat||명사
+w4|고릴라|gorilla||명사
+w4|돌풍 · 갑작스러운 분출|gust||명사
+w4|햄스터|hamster||명사
+w4|천국 · 하늘|heaven||명사
+w4|암탉|hen||명사
+w4|하마|hippopotamus||명사
+w1|집 · 가정 · 본거지|home||명사
+w4|말벌|hornet||명사
+w3|말|horse||명사
+w1|집 · 하원 · 수용하다|house||명사
+w3|습한 · 습기 찬 · 후덥지근한|humid||형용사
+w4|혹 · 언덕|hump||명사
+@movie
+w4|희극 · 코미디|comedy||명사
+w4|희극의 · 우스꽝스러운|comic||형용사
+w4|대비 · 대조 · 대비시키다|contrast||명사
+w3|묘사 · 설명|description||명사
+w3|드라마 · 극적 사건|drama||명사
+w3|결말 · 어미|ending||명사
+w4|서사시 · 서사적인 · 대작|epic||명사
+w5|에필로그 · 맺음말|epilogue||명사
+w3|회 · 편 · 에피소드 · 사건|episode||명사
+w4|허구 · 소설|fiction||명사
+w4|허구의 · 소설의|fictional||형용사
+w3|영화 · 막 · 촬영하다|film||명사
+w4|따라가다 · 따르다 · 뒤따르다|follow||동사
+w4|주인공 · 영웅|hero||명사
+w4|역사적인 · 역사학의|historical||형용사
+@opinion
+w5|양가감정의 · 상반된 감정의|ambivalent||형용사
+w4|주장하다 · 논쟁하다|argue||동사
+w4|거만한 · 오만한|arrogant||형용사
+w4|가정하다 · 추정하다 · 떠맡다|assume||동사
+w4|증강하다 · 보강하다 · 증대시키다 · 늘리다|augment||동사
+w4|구부러진 · 부정직한|crooked||형용사
+w3|문화 · 배양|culture||명사
+w3|기쁨 · 기쁘게 하다|delight||명사
+w5|태도 · 품행|demeanor||명사
+w4|다르다 · 의견을 달리하다|differ||동사
+w5|자신감 없는 · 수줍어하는|diffident||형용사
+w4|몹시 두려워하다 · 공포|dread||동사
+w5|감정을 지나치게 드러내는|effusive||형용사
+w3|둘 중 어느 하나 · 어느 한쪽의 · ~도 또한 아니다|either||접속사
+w3|감정 · 정서|emotion||명사
+w3|감정적인 · 정서적인|emotional||형용사
+w4|공감 · 감정이입|empathy||명사
+w4|엄청난 · 거대한 · 막대한|enormous||형용사
+w4|부러움을 살 만한|enviable||형용사
+w4|부러워하는 · 시기하는|envious||형용사
+w4|부러움 · 시기 · 부러워하다|envy||명사
+w4|평등한 · 동등한 · 필적하다|equal||형용사
+w4|결국 · 마침내|eventually||부사
+w4|느낌 · 감정 · 직감|feeling||명사
+w5|행복 · 적절한 표현|felicity||명사
+w5|열정 · 열의|fervor||명사
+w4|공포 · 깜짝 놀람|fright||명사
+w5|기쁨 · 환희|glee||명사
+w4|뿜어져 나오다 · 감정을 지나치게 드러내다|gush||동사
+w4|습관 · 버릇|habit||명사
+w3|절반 · 반의|half||명사
+w4|행복하게 · 기꺼이|happily||부사
+w4|행복|happiness||명사
+w4|성급한 · 경솔한|hasty||형용사
+w5|거만한 · 오만한|haughty||형용사
+w3|듣다 · 청문회를 열다|hear||동사
+w3|하지만 · 그러나 · 아무리 ~하더라도|however||부사
+w4|겸손한 · 보잘것없는 · 낮추다|humble||형용사
+@saying
+w4|신성한 · 훌륭한 · 예견하다|divine||형용사
+w5|열정 · 열의|enthusiasm||명사
+w4|실수하다 · 잘못 판단하다|err||동사
+w3|몰락 · 가을 · 떨어지다 · 하락하다|fall||동사
+w5|친숙함 · 익숙함|familiarity||명사
+w4|먹이다 · 먹이를 주다 · 공급하다|feed||동사
+w4|무리 짓다 · 떼 · 몰려들다|flock||명사
+w5|천재 · 천재성|genius||명사
+w5|거인 · 거대한|giant||명사
+w4|반짝이다 · 반짝거리다 · 반짝임|glitter||동사
+w4|기름 · 그리스 · 기름칠하다|grease||명사
+w4|부화하다 · 꾸미다 · 해치|hatch||동사
+@shop
+w4|차이 · 불화|difference||명사
+w5|지치게 하다 · 소진시키다 · 배기가스|exhaust||동사
+w3|금 · 금색의|gold||명사
+@society
+w5|귀족 정치 · 귀족 계급|aristocracy||명사
+w5|위축시키다 · 적시다 · 꺾다 · 약화시키다|dampen||동사
+w4|부패하다 · 쇠퇴하다|decay||동사
+w4|분해하다 · 부패하다|decompose||동사
+w4|심화되다 · 깊어지다|deepen||동사
+w3|입증하다 · 시위하다 · 시연하다|demonstrate||동사
+w5|구별하다 · 차별화하다|differentiate||동사
+w5|위축시키다 · 낙담시키다 · 단념시키다|discourage||동사
+w5|쪼개다 · 나누다 · 분할하다 · 분열|divide||동사
+w5|참여하는 · 바쁜 · 약혼한 · 몰입한|engaged||형용사
+w5|갉아먹다 · 침식되다 · 약화되다|erode||동사
+w5|발효하다 · 선동하다 · 격동|ferment||동사
+w1|찾다 · 발견하다 · 판결하다|find||동사
+w4|무력한 · 속수무책인|helpless||형용사
+@study
+w5|일탈 · 변칙 · 이상 현상|aberration||명사
+w4|갑작스러운 · 퉁명스러운|abrupt||형용사
+w4|추상적인 · 개요|abstract||형용사
+w4|축적하다|accumulate||동사
+w4|인정하다 · 감사를 표하다|acknowledge||동사
+w5|적응하다 · 개조하다|adapt||동사
+w4|인접한|adjacent||형용사
+w4|관리하다 · 집행하다|administer||동사
+w5|허용되는 · 타당한|admissible||형용사
+w4|청소년 · 사춘기의|adolescent||명사
+w5|미학적인 · 심미적인|aesthetic||형용사
+w5|친화력 · 유사성|affinity||명사
+w5|총계 · 집합체|aggregate||명사
+w5|농업의 · 토지 중심의|agrarian||형용사
+w5|유사한 · 동족의|akin||형용사
+w5|~이기는 하지만|albeit||접속사
+w5|암시하다 · 언급하다|allude||동사
+w5|암시 · 간접 언급|allusion||명사
+w5|냉담한 · 거리를 두는|aloof||형용사
+w4|변경하다 · 바꾸다|alter||동사
+w4|교대하다 · 번갈아 일어나는|alternate||동사
+w5|이타주의|altruism||명사
+w4|모호한 · 애매한|ambiguous||형용사
+w4|야망 · 포부|ambition||명사
+w5|증폭하다 · 확대하다|amplify||동사
+w5|유사한 · 비유적인|analogous||형용사
+w5|비유 · 유추|analogy||명사
+w4|분석하다|analyse||동사
+w4|일화 · 비화|anecdote||명사
+w5|변칙적인 · 이례적인|anomalous||형용사
+w5|적대자 · 반대자|antagonist||명사
+w5|선행사 · 전례|antecedent||명사
+w5|반감 · 혐오|antipathy||명사
+w5|구식의 · 낡은|antiquated||형용사
+w5|정점 · 꼭대기|apex||명사
+w4|장치 · 기구 · 조직|apparatus||명사
+w4|부록 · 충수|appendix||명사
+w4|대략적인 · 근접하다|approximate||형용사
+w4|적절한 · ~하기 쉬운|apt||형용사
+w4|임의적인 · 자의적인|arbitrary||형용사
+w5|고풍의 · 시대에 뒤떨어진|archaic||형용사
+w5|힘든 · 고된|arduous||형용사
+w5|건조한 · 메마른|arid||형용사
+w4|배열 · 광범위한 집합|array||명사
+w5|분명히 표현하다 · 발음하다|articulate||동사
+w4|유물 · 인공물|artifact||명사
+w4|오르다 · 상승하다|ascend||동사
+w5|확인하다 · 알아내다|ascertain||동사
+w5|귀속시키다 · ~의 탓으로 돌리다|ascribe||동사
+w4|열망하다 · 포부를 품다|aspire||동사
+w5|단언하다 · 주장하다|assert||동사
+w5|주장 · 단언|assertion||명사
+w5|동화하다 · 흡수하다|assimilate||동사
+w4|달성하다 · 얻다|attain||동사
+w5|증명하다 · 입증하다|attest||동사
+w4|~의 탓으로 보다 · 귀속시키다 · 속성|attribute||동사
+w5|탐욕|avarice||명사
+w5|열렬한 · 탐내는|avid||형용사
+w4|경외감 · 외경심|awe||명사
+w3|어색한 · 다루기 힘든|awkward||형용사
+w5|진부한 · 평범한|banal||형용사
+w5|화근 · 골칫거리|bane||명사
+w5|불모의 · 척박한|barren||형용사
+w1|기반 · 주둔지|base||명사
+w1|견디다 · 지니다 · 산출하다|bear||동사
+w5|보다 · 목격하다|behold||동사
+w5|거짓임을 입증하다 · 감추다|belie||동사
+w5|한탄하다 · 슬퍼하다|bemoan||동사
+w5|후원자 · 은인|benefactor||명사
+w4|유익한 · 이로운|beneficial||형용사
+w5|자애로운 · 자선적인|benevolent||형용사
+w5|양성의 · 온화한|benign||형용사
+w5|유증하다 · 남기다|bequeath||동사
+w5|~을 잃은 · 상실한|bereft||형용사
+w5|수여하다 · 부여하다|bestow||동사
+w5|2년마다의 · 2년생의|biennial||형용사
+w5|바이오매스 · 생물량|biomass||명사
+w4|혼합하다 · 조화되다|blend||동사
+w4|무뚝뚝한 · 둔한 · 무디게 하다|blunt||형용사
+w4|돌파구 · 획기적 발전|breakthrough||명사
+w5|급성장하다 · 싹트다|burgeon||동사
+w5|운율 · 리듬 · 억양|cadence||명사
+w3|계산하다 · 추산하다|calculate||동사
+w5|보정하다 · 눈금을 맞추다|calibrate||동사
+w5|임관 · 덮개|canopy||명사
+w4|캔버스 · 천막천|canvas||명사
+w5|변덕스러운 · 예측 불허의|capricious||형용사
+w5|매료시키다 · 사로잡다|captivate||동사
+w5|기본적인 · 중대한|cardinal||형용사
+w5|연쇄 반응 · 폭포처럼 쏟아지다|cascade||명사
+w5|촉매 · 기폭제|catalyst||명사
+w5|천체의 · 하늘의|celestial||형용사
+w4|도자기 · 세라믹|ceramic||명사
+w4|확실성 · 틀림없는 사실|certainty||명사
+w5|분함 · 실망감|chagrin||명사
+w3|장 · 지부|chapter||명사
+w4|특징짓다|characterize||동사
+w5|균열 · 깊은 골짜기 · 격차|chasm||명사
+w4|소중히 여기다|cherish||동사
+w5|꾸짖다 · 나무라다|chide||동사
+w5|기사도 정신 · 예의 바름|chivalry||명사
+w5|연대기 · 기록하다|chronicle||명사
+w4|연대순의|chronological||형용사
+w4|덩어리 · 상당한 양|chunk||명사
+w4|회로 · 순회|circuit||명사
+w5|우회하는 · 에둘러 가는|circuitous||형용사
+w4|둘레 · 원주|circumference||명사
+w5|완곡 어법 · 장황한 표현|circumlocution||명사
+w5|제한하다 · 경계를 정하다|circumscribe||동사
+w4|인용하다 · 거론하다|cite||동사
+w4|명확성 · 명료함|clarity||명사
+w4|꽉 쥐다 · 걸쇠|clasp||동사
+w4|분류하다|classify||동사
+w5|쪼개다 · 고수하다|cleave||동사
+w5|갈라진 틈|cleft||명사
+w4|진부한 표현 · 클리셰|cliché||명사
+w4|절정 · 정점|climax||명사
+w4|매달리다 · 집착하다|cling||동사
+w5|수도원 회랑 · 은둔하다|cloister||명사
+w4|복제 생물 · 복제하다|clone||명사
+w4|군집 · 무리|cluster||명사
+w5|응고되다|coagulate||동사
+w5|합체하다 · 연합하다|coalesce||동사
+w4|거친 · 조잡한|coarse||형용사
+w5|달래다 · 구슬리다|coax||동사
+w5|설득력 있는 · 타당한|cogent||형용사
+w5|동족의 · 동원어의|cognate||형용사
+w5|인식 · 인지|cognition||명사
+w4|일관성 있는 · 조리 있는|coherent||형용사
+w5|응집력 있는 · 결합력이 강한|cohesive||형용사
+w4|동시에 일어나다 · 일치하다|coincide||동사
+w4|우연의 일치|coincidence||명사
+w5|구어체의 · 일상적인|colloquial||형용사
+w4|식민지화하다|colonize||동사
+w5|거대한 · 엄청난|colossal||형용사
+w5|가연성의|combustible||형용사
+w5|매력적인 · 단정한|comely||형용사
+w5|비례하는 · 상응하는|commensurate||형용사
+w5|흔한 · 평범한|commonplace||형용사
+w5|공동의 · 공용의|communal||형용사
+w4|동반자 · 동료|companion||명사
+w4|비교의 · 상대적인|comparative||형용사
+w2|비교하다|compare||동사
+w4|나침반 · 범위|compass||명사
+w5|강요하다 · 억지로 시키다|compel||동사
+w4|설득력 있는 · 강렬한|compelling||형용사
+w2|복잡한 · 복합체|complex||형용사
+w4|복잡성|complexity||명사
+w3|복잡하게 만들다|complicate||동사
+w4|구성하다 · 작곡하다|compose||동사
+w4|구성 · 작문 · 작곡|composition||명사
+w5|화합물 · 복합체 · 악화시키다|compound||명사
+w4|이해하다 · 파악하다|comprehend||동사
+w4|압축하다|compress||동사
+w4|구성하다 · 포함하다|comprise||동사
+w4|계산하다 · 산출하다|compute||동사
+w4|집중하다 · 농축하다|concentrate||동사
+w5|개념 형성 · 구상|conception||명사
+w4|끝나다 · 결론짓다 · 체결하다|conclude||동사
+w2|결론 · 종결|conclusion||명사
+w4|결정적인 · 확실한|conclusive||형용사
+w5|동의하다 · 의견이 일치하다|concur||동사
+w4|동시의 · 동시에 발생하는 · 병행하는|concurrent||형용사
+w4|요약하다 · 압축하다 · 응축하다|condense||동사
+w5|거들먹거리다 · 생색내듯 하다|condescend||동사
+w4|도움이 되는 · 유리한 · 이로운|conducive||형용사
+w5|도관 · 매개체|conduit||명사
+w4|한정하다 · 제한하다 · 가두다|confine||동사
+w4|따르다 · 부합하다 · 순응하다|conform||동사
+w5|순응 · 일치|conformity||명사
+w3|혼란시키다 · 혼동하다|confuse||동사
+w5|응고되다 · 굳어지다|congeal||동사
+w5|선천적인|congenital||형용사
+w5|합치하는 · 일치하는|congruent||형용사
+w5|추측 · 추측하다|conjecture||명사
+w5|부부의 · 결혼 생활의|conjugal||형용사
+w4|결합 · 접속사|conjunction||명사
+w5|떠올리다 · 마술로 불러내다|conjure||동사
+w5|감식가 · 전문가|connoisseur||명사
+w5|함축 · 내포된 의미|connotation||명사
+w5|정복 · 전리품|conquest||명사
+w4|의식하고 있는 · 자각하는|conscious||형용사
+w5|결과 · 중요성|consequence||명사
+w5|결과로 일어나는|consequent||형용사
+w4|따라서 · 그 결과|consequently||부사
+w4|보존하다 · 아끼다|conserve||동사
+w5|눈에 띄는 · 뚜렷한|conspicuous||형용사
+w5|일정한 · 상수 · 불변의 · 끊임없는|constant||형용사
+w4|구성하다 · 차지하다 · 설립하다|constitute||동사
+w4|제약하다 · 강요하다|constrain||동사
+w3|건설하다 · 구성하다|construct||동사
+w5|해석하다 · 이해하다|construe||동사
+w4|고려하다 · 검토하다 · 숙고하다 · 응시하다|contemplate||동사
+w2|만족하는 · 내용물|content||형용사
+w2|맥락 · 문맥 · 배경|context||명사
+w5|접한 · 인접한|contiguous||형용사
+w4|계속되는 · 빈번한|continual||형용사
+w5|연속성|continuity||명사
+w4|모순되다 · 반박하다|contradict||동사
+w4|모순 · 반박|contradiction||명사
+w4|반대되는 · 정반대|contrary||형용사
+w5|궁리해 내다 · 고안하다|contrive||동사
+w4|전통적인 · 관습적인 · 기존의|conventional||형용사
+w5|수렴하다 · 한데 모이다|converge||동사
+w4|대화하다 · 역의 · 정반대|converse||동사
+w5|볼록한|convex||형용사
+w4|전달하다 · 수송하다|convey||동사
+w3|설득하다 · 확신시키다|convince||동사
+w5|사교적인 · 명랑한|convivial||형용사
+w5|풍부한 · 방대한|copious||형용사
+w5|말뭉치 · 전집 · 자료군|corpus||명사
+w5|상관관계가 있다|correlate||동사
+w4|일치하다 · 서신을 주고받다|correspond||동사
+w4|입증하다 · 뒷받침하다 · 확증하다|corroborate||동사
+w5|부식시키다 · 침식하다|corrode||동사
+w4|우주의 · 광대한|cosmic||형용사
+w4|상담사 · 고문|counselor||명사
+w5|표정 · 용모 · 지지하다|countenance||명사
+w5|방해하다 · 중화하다|counteract||동사
+w1|과정 · 진로 · 강좌|course||명사
+w5|탐내다 · 열망하다|covet||동사
+w4|요람 · 발상지 · 받치다|cradle||명사
+w5|교활한 · 영악한|crafty||형용사
+w5|신경질적인 · 괴팍한|cranky||형용사
+w4|갈망하다 · 간절히 바라다|crave||동사
+w4|갈망 · 열망|craving||명사
+w3|창조 · 창작물|creation||명사
+w4|생물 · 피조물|creature||명사
+w5|신용 · 믿음|credence||명사
+w5|잘 믿는 · 순진한|credulous||형용사
+w4|기어가다 · 서서히 다가오다|creep||동사
+w4|초승달 모양의|crescent||명사
+w4|정상 · 볏 · 문장|crest||명사
+w4|아기 침대 · 베끼다|crib||명사
+w4|진홍색의|crimson||형용사
+w3|기준 · 척도|criterion||명사
+w5|비평 · 평론 · 비평하다|critique||명사
+w4|가공하지 않은 · 조잡한 · 무례한|crude||형용사
+w4|부스러기|crumb||명사
+w4|구겨지다 · 주저앉다|crumple||동사
+w4|으깨다 · 제압하다|crush||동사
+w4|지각 · 껍질|crust||명사
+w5|핵심 · 관건|crux||명사
+w5|수수께끼 같은 · 난해한|cryptic||형용사
+w4|수정 · 결정체 · 투명한|crystal||명사
+w4|단서 · 신호|cue||명사
+w5|절정에 달하다 · 귀결되다|culminate||동사
+w5|절정 · 도달점|culmination||명사
+w4|경작하다 · 함양하다 · 키우다|cultivate||동사
+w4|누적된 · 누적되는 · 점증적인|cumulative||형용사
+w4|호기심이 많은 · 기이한|curious||형용사
+w4|교육 과정 · 커리큘럼|curriculum||명사
+w4|곡선 · 휘다|curve||명사
+w3|주기 · 순환|cycle||명사
+w5|손대다 · 건성으로 하다|dabble||동사
+w4|축축한 · 습기|damp||형용사
+w4|멋진 · 훌륭한|dandy||형용사
+w4|매달리다 · 흔들다|dangle||동사
+w4|달려가다 · 내던지다|dart||동사
+w5|기죽이다 · 위축시키다|daunt||동사
+w5|겁나게 하는 · 벅찬|daunting||형용사
+w4|새벽 · 시작 · 깨닫기 시작하다|dawn||명사
+w4|멍하게 만들다 · 멍한 상태|daze||동사
+w4|눈부시게 하다 · 매료시키다|dazzle||동사
+w4|귀가 먼 · 귀담아듣지 않는|deaf||형용사
+w4|학장 · 원로|dean||명사
+w5|부족 · 결핍|dearth||명사
+w5|품위를 떨어뜨리다 · 가치 하락시키다|debase||동사
+w5|약화시키다 · 쇠약하게 하다|debilitate||동사
+w5|퇴폐 · 타락|decadence||명사
+w4|속이다 · 기만하다|deceive||동사
+w5|해독하다 · 판독하다|decipher||동사
+w5|열변을 토하다 · 낭송하다|declaim||동사
+w5|예의 바름 · 품위|decorum||명사
+w5|노후한 · 쇠약한|decrepit||형용사
+w5|추론하다 · 연역하다|deduce||동사
+w4|~로 여기다 · 간주하다|deem||동사
+w5|존중 · 경의|deference||명사
+w5|결핍 · 부족 · 결함|deficiency||명사
+w5|부족한 · 결함이 있는|deficient||형용사
+w5|더럽히다 · 신성 모독하다|defile||동사
+w2|정의하다 · 규정하다|define||동사
+w5|결정적인 · 최종적인|definitive||형용사
+w5|빗나가게 하다 · 돌리다|deflect||동사
+w4|기형으로 만들다 · 일그러뜨리다|deform||동사
+w5|능숙한 · 재빠른|deft||형용사
+w5|퇴화하다 · 타락한|degenerate||동사
+w5|저하시키다 · 비하하다|degrade||동사
+w5|(체면을 굽혀) ~해 주다 · 황송하게도 ~하다|deign||동사
+w5|신 · 신격|deity||명사
+w5|낙담한 · 의기소침한|dejected||형용사
+w5|해로운 · 유해한|deleterious||형용사
+w4|섬세함 · 진미|delicacy||명사
+w4|섬세한 · 미묘한 · 연약한|delicate||형용사
+w5|윤곽을 그리다 · 상세히 기술하다|delineate||동사
+w5|섬망 상태의 · 열광적인|delirious||형용사
+w5|현혹하다 · 속이다|delude||동사
+w5|망상 · 착각|delusion||명사
+w5|품위를 떨어뜨리다|demean||동사
+w5|정신 착란의 · 제정신이 아닌|demented||형용사
+w4|악마 · 악령|demon||명사
+w5|이의 제기를 하다 · 주저하다|demur||동사
+w5|명쾌하게 설명하다 · 신비를 벗기다|demystify||동사
+w5|비방하다 · 깎아내리다|denigrate||동사
+w5|거주자 · 서식 동물|denizen||명사
+w5|나타내다 · 의미하다|denote||동사
+w5|밀도가 높은 · 밀집한 · 우둔한|dense||형용사
+w4|의존하는 · 부양가족|dependent||형용사
+w4|묘사하다 · 그리다|depict||동사
+w5|퇴적 · 증언 · 폐위|deposition||명사
+w5|타락시키다|deprave||동사
+w5|반대하다 · 경시하다|deprecate||동사
+w4|우울하게 하다 · 침체시키다|depress||동사
+w4|깊이 · 심도|depth||명사
+w5|조롱하다 · 비웃다|deride||동사
+w5|조롱 · 조소|derision||명사
+w4|도출하다 · 유래하다 · 이끌어내다|derive||동사
+w4|내려오다 · 물려주다|descend||동사
+w4|후손 · 자손|descendant||명사
+w4|하강 · 혈통 · 가계|descent||명사
+w1|묘사하다 · 설명하다|describe||동사
+w4|바람직한 · 매력적인|desirable||형용사
+w3|욕구 · 갈망 · 원하다|desire||명사
+w5|황량한 · 적막한 · 황폐화시키다|desolate||형용사
+w5|비열한 · 경멸할 만한|despicable||형용사
+w4|경멸하다 · 업신여기다|despise||동사
+w4|운명 짓다 · 예정하다|destine||동사
+w4|운명|destiny||명사
+w4|탐지하다 · 감지하다|detect||동사
+w4|탐지 · 적발|detection||명사
+w4|혐오하다 · 몹시 싫어하다|detest||동사
+w5|손상시키다 · 가치를 떨어뜨리다|detract||동사
+w5|손해 · 해악|detriment||명사
+w5|해로운 · 해를 끼치는|detrimental||형용사
+w5|벗어나다 · 일탈하다|deviate||동사
+w5|~이 전혀 없는|devoid||형용사
+w4|헌신하다 · 쏟다|devote||동사
+w4|헌신 · 전념|devotion||명사
+w4|게걸스럽게 먹다 · 탐독하다|devour||동사
+w4|도표 · 다이어그램|diagram||명사
+w4|방언 · 사투리|dialect||명사
+w4|지름 · 직경|diameter||명사
+w5|이분법 · 양분|dichotomy||명사
+w5|어법 · 표현 선택 · 발음|diction||명사
+w5|교훈적인 · 설교조의|didactic||형용사
+w1|다른 · 별개의|different||형용사
+w1|어려운|difficult||형용사
+w4|어려움 · 난관|difficulty||명사
+w5|확산시키다 · 퍼지다 · 산만한|diffuse||동사
+w4|파다 · 파헤치다|dig||동사
+w5|탈선하다 · 본론에서 벗어나다|digress||동사
+w5|확장되다 · 넓어지다|dilate||동사
+w5|희석하다 · 약화시키다|dilute||동사
+w4|어두운 · 희미한 · 흐리게 하다|dim||형용사
+w4|차원 · 측면 · 규모|dimension||명사
+w4|줄어들다 · 약화되다|diminish||동사
+w5|작은 · 애칭의|diminutive||형용사
+w5|시끄러운 소리 · 소란|din||명사
+w5|장송곡 · 애가|dirge||명사
+w4|동의하지 않다 · 의견이 다르다|disagree||동사
+w3|사라지다|disappear||동사
+w3|실망시키다|disappoint||동사
+w5|식별하다 · 간파하다|discern||동사
+w5|분간할 수 있는 · 뚜렷한|discernible||형용사
+w4|제자 · 신봉자|disciple||명사
+w3|규율 · 학문 분야 · 징계하다|discipline||명사
+w5|당황하게 하다 · 좌절시키다|discomfit||동사
+w5|당황하게 하다 · 혼란시키다|disconcert||동사
+w5|담론 · 담화 · 강연하다|discourse||명사
+w2|발견하다|discover||동사
+w5|분리된 · 별개의|discrete||형용사
+w5|경멸 · 멸시하다|disdain||명사
+w5|분리하다 · 손을 떼다|disengage||동사
+w4|혐오감 · 역겨움|disgust||명사
+w5|환멸을 느끼게 하다|disillusion||동사
+w5|상속권을 박탈하다|disinherit||동사
+w5|분해되다 · 와해되다|disintegrate||동사
+w5|사심이 없는 · 공정한|disinterested||형용사
+w5|지리멸렬한 · 연결이 안 되는|disjointed||형용사
+w4|불복종하다 · 어기다|disobey||동사
+w5|비방하다 · 깎아내리다|disparage||동사
+w5|이질적인 · 전혀 다른|disparate||형용사
+w5|냉정한 · 편견 없는|dispassionate||형용사
+w5|떨쳐 버리다 · 해소하다|dispel||동사
+w5|필수적이 아닌 · 없어도 되는|dispensable||형용사
+w4|배치하다 · ~할 경향이 있게 하다|dispose||동사
+w5|성향 · 기질 · 배치|disposition||명사
+w5|해부하다 · 면밀히 분석하다|dissect||동사
+w5|위장하다 · 감추다|dissemble||동사
+w5|전파하다 · 보급하다|disseminate||동사
+w5|학위 논문 · 논고|dissertation||명사
+w4|같지 않은 · 상이한|dissimilar||형용사
+w5|숨기다 · 위장하다|dissimulate||동사
+w5|소멸하다 · 흩어지다 · 낭비하다|dissipate||동사
+w5|분리하다 · 관련을 끊다|dissociate||동사
+w5|방탕한 · 문란한|dissolute||형용사
+w4|용해되다 · 해소하다 · 해산하다|dissolve||동사
+w5|부조화 · 불협화음|dissonance||명사
+w5|단념시키다 · 말리다|dissuade||동사
+w4|먼 · 소원한|distant||형용사
+w5|싫음 · 혐오감|distaste||명사
+w5|팽창하다 · 부풀다|distend||동사
+w5|증류하다 · 정수를 뽑아내다|distill||동사
+w5|뚜렷한 · 별개의|distinct||형용사
+w4|차이 · 탁월함 · 명성|distinction||명사
+w4|특징적인 · 독특한|distinctive||형용사
+w3|구별하다 · 두드러지게 하다|distinguish||동사
+w4|주의를 산만하게 하다|distract||동사
+w4|산만하게 하는 것 · 기분 전환|distraction||명사
+w4|방해하다 · 교란하다|disturb||동사
+w5|사용되지 않음 · 폐기|disuse||명사
+w5|우왕좌왕하다 · 망설이다|dither||동사
+w5|주행성의 · 낮 동안의|diurnal||형용사
+w5|분기 · 차이 · 발산|divergence||명사
+w4|다양한 · 다채로운|diverse||형용사
+w5|순종적인 · 다루기 쉬운|docile||형용사
+w5|교조 · 독단|dogma||명사
+w5|독단적인 · 교조적인|dogmatic||형용사
+w4|영역 · 분야 · 도메인|domain||명사
+w4|지배적인 · 우세한|dominant||형용사
+w5|지배하다 · 우세하다|dominate||동사
+w5|휴면 상태의 · 잠복한|dormant||형용사
+w4|점 · 점점이 찍다|dot||명사
+w4|의심스러운 · 불확실한|doubtful||형용사
+w5|음침한 · 엄격한|dour||형용사
+w5|끄다 · 흠뻑 적시다|douse||동사
+w4|선잠을 자다|doze||동사
+w5|단조로운 · 칙칙한|drab||형용사
+w4|끔찍한 · 지독한|dreadful||형용사
+w4|흠뻑 적시다|drench||동사
+w2|마시다|drink||동사
+w4|뚝뚝 떨어지다 · 점적|drip||동사
+w4|졸린 · 나른한|drowsy||형용사
+w5|고된 일 · 지루한 잡무|drudgery||명사
+w4|술 취한|drunk||형용사
+w3|마른 · 건조한 · 말리다|dry||형용사
+w4|숙이다 · 피하다|duck||동사
+w4|지루한 · 둔한 · 무디게 하다|dull||형용사
+w4|말을 못하는 · 어리석은|dumb||형용사
+w5|경악시키다 · 아연실색하게 하다|dumbfound||동사
+w1|~하는 동안|during||전치사
+w4|황혼 · 땅거미|dusk||명사
+w4|왜소하게 만들다 · 난쟁이|dwarf||동사
+w5|거주하다 · 곰곰이 생각하다|dwell||동사
+w5|역학 · 역학 관계|dynamics||명사
+w4|왕조 · 가문|dynasty||명사
+w4|열렬한 · 간절히 바라는|eager||형용사
+w5|진지한 · 성실한|earnest||형용사
+w4|지상의 · 세속적인|earthly||형용사
+w4|동부의|eastern||형용사
+w1|쉬운 · 편안한|easy||형용사
+w5|썰물이 되다 · 쇠퇴하다 · 썰물|ebb||동사
+w5|열광적인 · 넘쳐흐르는|ebullient||형용사
+w5|기이한 · 별난|eccentric||형용사
+w5|절충적인 · 다방면의|eclectic||형용사
+w4|생태학|ecology||명사
+w5|황홀해하는 · 열광적인|ecstatic||형용사
+w5|소용돌이 · 회오리|eddy||명사
+w5|대형 건물 · 거대한 구조물|edifice||명사
+w4|판 · 호|edition||명사
+w4|교육을 받은 · 교양 있는|educated||형용사
+w3|교육의 · 교육적인|educational||형용사
+w4|뱀장어|eel||명사
+w5|기묘한 · 으스스한|eerie||형용사
+w5|지우다 · 지워 없애다|efface||동사
+w1|효과 · 영향 · 초래하다|effect||명사
+w4|수월한 · 힘들이지 않는|effortless||형용사
+w4|자아 · 자존심|ego||명사
+w5|자기중심적인|egocentric||형용사
+w2|여덟|eight||수사
+w2|열여덟|eighteen||수사
+w2|여든|eighty||수사
+w5|정교화 · 상술|elaboration||명사
+w5|시간이 흐르다 · 경과하다|elapse||동사
+w5|기쁘게 하다 · 의기양양하게 하다|elate||동사
+w4|최연장의 · 맏이의|eldest||형용사
+w4|선택 과목의 · 선출직의|elective||형용사
+w4|전기의 · 전격적인|electric||형용사
+w4|전기와 관련된|electrical||형용사
+w4|전기 · 전력|electricity||명사
+w4|전기를 통하게 하다 · 전율시키다|electrify||동사
+w4|우아함 · 간결미|elegance||명사
+w4|우아한 · 세련된|elegant||형용사
+w5|만가 · 애가|elegy||명사
+w5|원소 · 요소|element||명사
+w4|초보적인 · 기초적인|elementary||형용사
+w2|열하나|eleven||수사
+w5|이끌어내다 · 유발하다|elicit||동사
+w5|만병통치약 · 영약|elixir||명사
+w5|타원형의 · 생략된|elliptical||형용사
+w5|웅변술 · 화법|elocution||명사
+w5|늘이다 · 길게 하다|elongate||동사
+w5|야반도주하다|elope||동사
+w5|웅변 · 유창함|eloquence||명사
+w5|웅변의 · 설득력 있는|eloquent||형용사
+w3|다른 곳에|elsewhere||부사
+w5|명쾌하게 설명하다 · 해명하다|elucidate||동사
+w5|포착하기 어려운 · 피해 가는|elusive||형용사
+w5|수척해진 · 여윈|emaciated||형용사
+w5|발산하다 · 유래하다|emanate||동사
+w4|당황하게 하다|embarrass||동사
+w4|당혹감 · 난처함|embarrassment||명사
+w4|끼워 넣다 · 내장하다 · 종군 기자|embed||동사
+w5|윤색하다 · 장식하다|embellish||동사
+w5|타다 남은 숯 · 불씨|ember||명사
+w5|격분시키다 · 쓰라리게 하다|embitter||동사
+w5|구현하다 · 체현하다|embody||동사
+w4|배아 · 태아 · 초기 단계|embryo||명사
+w5|교정하다 · 수정하다|emend||동사
+w4|에메랄드 · 녹옥|emerald||명사
+w5|신흥의 · 부상하는|emergent||형용사
+w5|금강사 · 연마포|emery||명사
+w5|탁월함 · 명성 · 고위 성직자|eminence||명사
+w5|저명한 · 탁월한|eminent||형용사
+w4|방출하다 · 내뿜다|emit||동사
+w4|황제|emperor||명사
+w4|강조 · 역점|emphasis||명사
+w3|강조하다|emphasize||동사
+w5|단호한 · 강조하는|emphatic||형용사
+w5|경험적인 · 실증적인|empirical||형용사
+w4|여제 · 황후|empress||명사
+w5|모방하다 · 본받다|emulate||동사
+w4|에나멜 · 법랑|enamel||명사
+w5|반하게 하다 · 매료시키다|enamor||동사
+w5|요약하다 · 캡슐에 넣다|encapsulate||동사
+w4|마법을 걸다 · 매혹하다|enchant||동사
+w4|둘러싸다 · 포위하다|encircle||동사
+w5|포함하다 · 아우르다|encompass||동사
+w4|앙코르|encore||명사
+w4|격려 · 장려|encouragement||명사
+w4|백과사전|encyclopedia||명사
+w2|끝나다 · 목적|end||명사
+w5|사랑받게 하다|endear||동사
+w4|끝없는|endless||형용사
+w5|기부하다 · 부여하다|endow||동사
+w5|기부금 · 기금 · 천부적 재능|endowment||명사
+w4|인내 · 지구력|endurance||명사
+w4|견디다 · 지속되다|endure||동사
+w4|활력 넘치는 · 정력적인|energetic||형용사
+w5|기력을 없애다 · 약화시키다|enervate||동사
+w4|매력적인 · 호감 가는|engaging||형용사
+w4|공학 · 엔지니어링|engineering||명사
+w5|수수께끼 · 불가사의|enigma||명사
+w5|수수께끼 같은 · 알 수 없는|enigmatic||형용사
+w4|즐거운|enjoyable||형용사
+w4|즐거움 · 향유|enjoyment||명사
+w4|확대하다 · 넓히다|enlarge||동사
+w4|계몽하다 · 깨우치다|enlighten||동사
+w5|계몽 · 깨달음|enlightenment||명사
+w5|활기를 띠게 하다|enliven||동사
+w5|품위를 높이다 · 작위를 주다|ennoble||동사
+w1|충분한 · 충분히|enough||한정사
+w4|풍요롭게 하다 · 농축하다|enrich||동사
+w4|앙상블 · 전체 조화|ensemble||명사
+w5|수반하다 · 초래하다|entail||동사
+w5|얽히게 하다 · 연루시키다|entangle||동사
+w4|열광적인 · 열성적인|enthusiastic||형용사
+w3|전체의 · 온전한|entire||형용사
+w4|전적으로 · 완전히|entirely||부사
+w5|간청하다 · 애원하다|entreat||동사
+w5|열거하다 · 하나하나 세다|enumerate||동사
+w5|분명히 발음하다 · 명확히 밝히다|enunciate||동사
+w5|감싸다 · 에워싸다|envelop||동사
+w5|영겁 · 오랜 세월|eon||명사
+w5|덧없는 · 수명이 짧은|ephemeral||형용사
+w5|시대 · 신기원|epoch||명사
+w4|균등하게 하다 · 평준화하다|equalize||동사
+w3|동등하게 · 마찬가지로|equally||부사
+w4|방정식 · 동일시|equation||명사
+w4|적도|equator||명사
+w5|균형 · 평형 상태|equilibrium||명사
+w4|동등한 · 상당하는 것|equivalent||형용사
+w5|시대 · 연대|era||명사
+w4|지우다 · 삭제하다|erase||동사
+w4|세우다 · 건립하다 · 똑바로 선|erect||동사
+w5|잘못된 · 틀린|erroneous||형용사
+w5|박식한 · 학식이 깊은|erudite||형용사
+w5|난해한 · 소수만 아는|esoteric||형용사
+w4|에세이 · 수필 · 논설|essay||명사
+w4|본질적으로 · 근본적으로|essentially||부사
+w5|존경 · 명성 · 존중하다|esteem||명사
+w4|추정 · 평가|estimation||명사
+w5|새기다 · 식각하다|etch||동사
+w4|영원한|eternal||형용사
+w5|정신 · 기풍 · 특질|ethos||명사
+w1|평탄한 · 고른 · 짝수의 · ~조차|even||형용사
+w4|궁극적인 · 최종적인|eventual||형용사
+w1|언제나 · 지금까지|ever||부사
+w4|상록의 · 영원히 신선한|evergreen||형용사
+w4|영원한|everlasting||형용사
+w1|모든 · 매|every||한정사
+w4|일상의 · 평범한|everyday||형용사
+w1|모두 · 누구나|everyone||대명사
+w1|모든 것|everything||대명사
+w4|명백한 · 분명한|evident||형용사
+w4|분명히 · 보아하니|evidently||부사
+w4|사악한 · 해로운 · 악|evil||형용사
+w5|분명히 나타내다 · 드러내다|evince||동사
+w5|불러일으키다 · 환기하다|evoke||동사
+w5|진화 · 발전|evolution||명사
+w5|진화론적인 · 점진적인|evolutionary||형용사
+w4|진화하다 · 발전하다|evolve||동사
+w3|시험 · 검사 · 심사|examination||명사
+w3|조사하다 · 검토하다 · 진찰하다|examine||동사
+w1|예시 · 본보기|example||명사
+w5|격분시키다 · 약 올리다|exasperate||동사
+w4|발굴하다|excavate||동사
+w4|발굴 · 유적지|excavation||명사
+w4|극도로 · 대단히|exceedingly||부사
+w2|~을 제외하고|except||전치사
+w5|발췌 · 인용문 · 발췌하다|excerpt||명사
+w3|흥분시키다 · 자극하다|excite||동사
+w4|흥분한 · 들뜬|excited||형용사
+w4|흥분 · 활기|excitement||명사
+w4|외치다 · 감탄하며 말하다|exclaim||동사
+w4|감탄 · 감탄사|exclamation||명사
+w5|파문하다|excommunicate||동사
+w5|배설하다 · 분비하다|excrete||동사
+w5|극심한 · 참기 힘든|excruciating||형용사
+w3|변명 · 핑계 · 용서하다|excuse||명사
+w5|전형 · 모범|exemplar||명사
+w5|예증하다 · 전형적으로 보여주다|exemplify||동사
+w2|운동 · 연습 · 행사하다|exercise||명사
+w5|가하다 · 발휘하다|exert||동사
+w5|노력 · 분발 · 발휘|exertion||명사
+w4|숨을 내쉬다|exhale||동사
+w5|철저한 · 빠짐없는|exhaustive||형용사
+w5|원기 왕성하게 하다 · 들뜨게 하다|exhilarate||동사
+w5|권고하다 · 역설하다|exhort||동사
+w2|존재하다|exist||동사
+w3|존재 · 생존|existence||명사
+w4|이국적인|exotic||형용사
+w5|광대한 · 개방적인|expansive||형용사
+w4|탐험 · 원정|expedition||명사
+w3|실험 · 실험하다|experiment||명사
+w4|실험적인|experimental||형용사
+w3|설명 · 해명|explanation||명사
+w5|명시적인 · 노골적인|explicit||형용사
+w4|탐사 · 탐구|exploration||명사
+w4|탐험가|explorer||명사
+w3|표현 · 표정|expression||명사
+w4|표현력이 풍부한|expressive||형용사
+w5|정교한 · 절묘한 · 극심한|exquisite||형용사
+w5|현존하는 · 살아남은|extant||형용사
+w5|즉흥적인 · 준비 없이 하는|extemporaneous||형용사
+w3|정도 · 범위 · 규모|extent||명사
+w4|외부의 · 외관|exterior||형용사
+w4|멸종된 · 사라진|extinct||형용사
+w4|끄다 · 소멸시키다|extinguish||동사
+w5|극찬하다 · 칭송하다|extol||동사
+w4|추출하다 · 발췌하다 · 발췌물|extract||동사
+w5|추출 · 혈통|extraction||명사
+w5|외부에서 온 · 무관한|extraneous||형용사
+w4|비범한 · 놀라운|extraordinary||형용사
+w5|추정하다 · 외삽하다|extrapolate||동사
+w5|사치 · 낭비 · 과도함|extravagance||명사
+w5|사치스러운 · 지나친|extravagant||형용사
+w3|극도로 · 매우|extremely||부사
+w5|구출하다 · 빼내다|extricate||동사
+w4|외향적인 사람|extrovert||명사
+w5|활기 넘치는 · 무성한|exuberant||형용사
+w5|발산하다 · 뿜어내다|exude||동사
+w4|시력|eyesight||명사
+w4|요인 · 인자|factor||명사
+w4|사실에 기반한|factual||형용사
+w4|교수진 · 학부 · 능력|faculty||명사
+w2|실패하다 · 낙제하다 · 고장 나다|fail||동사
+w4|희미한 · 기절하다 · 약한|faint||형용사
+w4|충실한 · 믿음직한|faithful||형용사
+w5|틀린 · 오류가 있는|fallacious||형용사
+w5|오류 · 그릇된 믿음|fallacy||명사
+w5|실수하기 쉬운 · 불완전한|fallible||형용사
+w4|거짓의 · 허위의|false||형용사
+w5|거짓 · 허위|falsehood||명사
+w4|명성|fame||명사
+w4|유명한 · 명성 있는|famed||형용사
+w4|환상적인 · 엄청난|fantastic||형용사
+w4|공상 · 환상|fantasy||명사
+w1|멀리 · 훨씬|far||부사
+w4|작별 · 작별의|farewell||명사
+w4|더 멀리|farther||부사
+w4|가장 먼|farthest||형용사
+w4|매료시키다 · 매혹하다|fascinate||동사
+w4|매혹 · 깊은 관심|fascination||명사
+w2|빠른 · 단식하다|fast||형용사
+w4|고정하다 · 매다|fasten||동사
+w4|운명|fate||명사
+w5|이해하다 · 헤아리다 · 패덤|fathom||동사
+w5|어리석은 · 맹한|fatuous||형용사
+w5|동물군|fauna||명사
+w4|두려워하는 · 무서운|fearful||형용사
+w4|잔치 · 향연 · 실컷 먹다|feast||명사
+w4|허약한 · 약한|feeble||형용사
+w5|가장하다 · ~인 척하다|feign||동사
+w4|쓰러뜨리다 · 벌목하다|fell||동사
+w3|동료 · 연구원 · 동료의|fellow||명사
+w5|펠로십 · 연구 장학금 · 교우 관계|fellowship||명사
+w2|여성의 · 암컷의|female||형용사
+w4|여성스러운 · 여성의|feminine||형용사
+w5|사나운 · 맹렬한|ferocious||형용사
+w5|흉포함 · 맹렬함|ferocity||명사
+w5|비옥한 · 다산의 · 풍부한|fertile||형용사
+w4|비료를 주다 · 수정시키다|fertilize||동사
+w5|열렬한 · 뜨거운|fervent||형용사
+w5|곪다 · 악화되다|fester||동사
+w4|가져오다 · 팔리다|fetch||동사
+w5|봉건의 · 봉건제의|feudal||형용사
+w1|거의 없는 · 몇몇의|few||한정사
+w4|작은 거짓말|fib||명사
+w4|섬유 · 기질|fiber||명사
+w5|변덕스러운 · 변하기 쉬운|fickle||형용사
+w5|가공의 · 허구의|fictitious||형용사
+w5|충실함 · 충성 · 정밀도|fidelity||명사
+w4|불타는 듯한 · 격렬한|fiery||형용사
+w2|열다섯|fifteen||수사
+w2|다섯째 · 5분의 1|fifth||수사
+w2|쉰|fifty||수사
+w5|비유적인|figurative||형용사
+w5|필라멘트 · 실 모양의 구조|filament||명사
+w5|자식의 · 효성스러운|filial||형용사
+w4|오물 · 음란물|filth||명사
+w4|더러운 · 지독한|filthy||형용사
+w4|지느러미|fin||명사
+w1|마침내 · 마지막으로|finally||부사
+w4|조사 결과 · 발견|finding||명사
+w5|유한한 · 한계가 있는|finite||형용사
+w1|첫째의 · 최초의|first||형용사
+w4|어부|fisherman||명사
+w4|주먹|fist||명사
+w2|다섯|five||수사
+w5|어리둥절하게 만들다|flabbergast||동사
+w4|불꽃 · 타오르다|flame||명사
+w4|펄럭이다 · 흔들다|flap||동사
+w4|번쩍이다 · 순간 · 플래시|flash||동사
+w4|손전등|flashlight||명사
+w4|아첨하다 · 돋보이게 하다|flatter||동사
+w5|아첨 · 칭찬|flattery||명사
+w4|결함 있는 · 결함이 있는 · 불완전한|flawed||형용사
+w4|양털 · 사취하다|fleece||명사
+w5|순식간의 · 덧없는|fleeting||형용사
+w4|살 · 과육 · 육체|flesh||명사
+w4|퉁기다 · 탁 치다|flick||동사
+w4|깜박이다 · 흔들리다|flicker||동사
+w5|부실한 · 설득력이 약한|flimsy||형용사
+w5|움찔하다 · 물러서다|flinch||동사
+w4|던지다 · 내던지다|fling||동사
+w4|부싯돌|flint||명사
+w4|뒤집다 · 튕기다|flip||동사
+w4|시시덕거리다 · 관심을 보이다|flirt||동사
+w4|뜨다 · 띄우다 · 부유물|float||동사
+w5|채찍질하다 · 혹평하다|flog||동사
+w5|식물군|flora||명사
+w5|화려한 · 붉그레한|florid||형용사
+w4|번성하다 · 번창하다 · 과시|flourish||동사
+w2|흐르다 · 흐름|flow||동사
+w4|유창한|fluent||형용사
+w4|푹신한 · 보송보송한|fluffy||형용사
+w4|유체 · 유동적인|fluid||명사
+w5|요행 · 뜻밖의 행운|fluke||명사
+w4|붉어지다 · 물을 내리다 · 홍조|flush||동사
+w5|당황하게 하다|fluster||동사
+w4|펄럭이다 · 푸드덕거리다|flutter||동사
+w5|끊임없는 변화 · 유동 상태|flux||명사
+w2|날다 · 비행하다 · 파리|fly||동사
+w4|망아지|foal||명사
+w4|거품 · 거품을 내다|foam||명사
+w4|안개 낀 · 희미한|foggy||형용사
+w5|나뭇잎 · 잎사귀|foliage||명사
+w5|민속의 · 사람들|folk||명사
+w4|민속 · 전설|folklore||명사
+w4|추종자 · 팔로워|follower||명사
+w5|어리석음 · 무모한 짓|folly||명사
+w4|좋아하는 · 다정한|fond||형용사
+w4|애정 · 좋아함|fondness||명사
+w4|바보 · 속이다|fool||명사
+w4|인도 · 오솔길|footpath||명사
+w5|선조 · 조상|forefather||명사
+w5|앞선 · 전술한|foregoing||형용사
+w4|전경 · 전면에 부각시키다|foreground||명사
+w4|예견하다 · 미리 알다|foresee||동사
+w4|산림관 · 임업가|forester||명사
+w4|임업 · 삼림학|forestry||명사
+w5|미리 맛봄 · 조짐|foretaste||명사
+w4|예언하다|foretell||동사
+w4|영원히|forever||부사
+w4|잘 잊어버리는|forgetful||형용사
+w4|용서|forgiveness||명사
+w4|포크 · 갈림길|fork||명사
+w5|고독한 · 처량한 · 희망 없는|forlorn||형용사
+w5|형성되다 · 형태 · 양식 · 형성하다|form||명사
+w4|형성 · 대형|formation||명사
+w5|형성기의 · 발달에 중요한|formative||형용사
+w4|이전에 · 과거에|formerly||부사
+w5|만만치 않은 · 경외감을 주는|formidable||형용사
+w4|공식 · 제조법 · 분유|formula||명사
+w4|수립하다 · 공식화하다|formulate||동사
+w5|정식화 · 수립|formulation||명사
+w5|버리다 · 포기하다|forsake||동사
+w3|앞으로 · 밖으로|forth||부사
+w5|불굴의 용기 · 인내심|fortitude||명사
+w4|2주일|fortnight||명사
+w4|운이 좋은 · 다행인|fortunate||형용사
+w4|다행히도|fortunately||부사
+w2|마흔|forty||수사
+w2|분수 · 샘|fountain||명사
+w2|넷|four||수사
+w2|열넷|fourteen||수사
+w2|넷째 · 4분의 1|fourth||수사
+w4|소량 · 분수 · 일부|fraction||명사
+w5|극히 일부의 · 분수의|fractional||형용사
+w4|깨지기 쉬운 · 허약한|fragile||형용사
+w4|향기 · 향수|fragrance||명사
+w4|향기로운|fragrant||형용사
+w4|프레임워크 · 골격 · 체계|framework||명사
+w4|솔직히 말해서|frankly||부사
+w5|형제 같은 · 우애의|fraternal||형용사
+w4|자유롭게 · 아낌없이|freely||부사
+w4|빈번한 · 자주 방문하다|frequent||형용사
+w4|상쾌하게 하다 · 신선해지다|freshen||동사
+w4|신입생|freshman||명사
+w5|안달하다 · 괴롭히다|fret||동사
+w4|우정|friendship||명사
+w4|겁주다 · 놀라게 하다|frighten||동사
+w4|무서운 · 섬뜩한|frightening||형용사
+w5|몹시 추운 · 냉담한|frigid||형용사
+w5|경박한 · 사소한|frivolous||형용사
+w1|~로부터 · ~에서|from||전치사
+w4|국경 · 개척 분야 · 최전선|frontier||명사
+w4|서리 내린 · 냉랭한|frosty||형용사
+w4|눈살을 찌푸리다 · 찡그림|frown||동사
+w4|더듬거리다 · 실수하다|fumble||동사
+w2|재미 · 즐거운|fun||명사
+w3|근본적인 · 필수적인 · 기본 원칙|fundamental||형용사
+w4|근본적으로|fundamentally||부사
+w5|장례식의 · 침울한|funereal||형용사
+w4|균류 · 곰팡이|fungus||명사
+w4|모피 · 털|fur||명사
+w4|용광로 · 화덕|furnace||명사
+w4|이랑 · 주름 · 고랑을 파다|furrow||명사
+w4|추가의 · 더 멀리 · 더 나아가 · 추가적인 · 증진하다|further||부사
+w3|게다가 · 더욱이|furthermore||부사
+w4|융합하다 · 퓨즈 · 도화선|fuse||동사
+w4|융합 · 핵융합|fusion||명사
+w4|야단법석 · 부산을 떨다|fuss||명사
+w5|헛된 · 소용없는|futile||형용사
+w5|무익함 · 헛됨|futility||명사
+w4|보풀이 인 · 흐릿한 · 모호한|fuzzy||형용사
+w5|지껄이다 · 재잘거리다|gabble||동사
+w5|쾌활함 · 흥겨움|gaiety||명사
+w5|걸음걸이|gait||명사
+w5|은하 · 화려한 모임|galaxy||명사
+w5|분개 · 뻔뻔함 · 괴롭히다|gall||명사
+w5|용감한 · 기사도적인|gallant||형용사
+w4|전속력으로 달리다 · 질주|gallop||동사
+w4|입을 딱 벌리다 · 쩍 벌어지다|gape||동사
+w2|쓰레기 · 쓰레기 같은|garbage||명사
+w4|정원사|gardener||명사
+w5|거대한 · 엄청난|gargantuan||형용사
+w5|화려하고 촌스러운 · 요란한|garish||형용사
+w4|화환 · 화환을 씌우다|garland||명사
+w5|모으다 · 얻다|garner||동사
+w4|장식하다 · 고명|garnish||동사
+w5|수다스러운|garrulous||형용사
+w4|헐떡거리다 · 숨이 턱 막히다|gasp||동사
+w5|화려하지만 촌스러운|gaudy||형용사
+w5|수척한 · 앙상한|gaunt||형용사
+w4|거즈 · 얇은 직물|gauze||명사
+w4|응시하다 · 응시|gaze||동사
+w4|굳어지다 · 구체화되다 · 젤|gel||동사
+w5|젤리 같은|gelatinous||형용사
+w4|보석 · 걸작|gem||명사
+w5|계보 · 족보|genealogy||명사
+w4|일반화하다|generalize||동사
+w2|일반적으로 · 대체로|generally||부사
+w5|세대 · 생성|generation||명사
+w4|관대함 · 너그러움|generosity||명사
+w5|기원 · 창세기|genesis||명사
+w5|유전의 · 유전적인|genetic||형용사
+w4|장르 · 유형|genre||명사
+w5|우아한 · 교양 있는|genteel||형용사
+w4|부드러운 · 온화한|gentle||형용사
+w4|부드럽게 · 살며시|gently||부사
+w4|진심으로 · 정말로|genuinely||부사
+w4|지리 · 지리학|geography||명사
+w4|지질학|geology||명사
+w4|기하학|geometry||명사
+w4|세균 · 싹 · 기원|germ||명사
+w5|적절한 · 관련이 있는|germane||형용사
+w5|발아하다 · 싹트다|germinate||동사
+w5|몸짓을 하다|gesticulate||동사
+w4|몸짓 · 제스처 · 의사 표시|gesture||명사
+w4|유령 같은 · 으스스한|ghostly||형용사
+w5|횡설수설 · 난해한 말|gibberish||명사
+w5|조롱하다 · 비웃다|gibe||동사
+w4|어지러운 · 들뜬|giddy||형용사
+w4|재능이 뛰어난|gifted||형용사
+w4|거대한 · 엄청난|gigantic||형용사
+w4|킥킥거리다|giggle||동사
+w4|아가미 · 질|gill||명사
+w5|조심스럽게 · 살금살금|gingerly||부사
+w5|두르다 · 대비하다|gird||동사
+w5|대들보 · 거더|girder||명사
+w1|주다 · 제공하다|give||동사
+w5|숲 속의 공터|glade||명사
+w4|검투사|gladiator||명사
+w4|흘끗 보다 · 흘끗 봄|glance||동사
+w4|선(샘)|gland||명사
+w4|노려보다 · 눈부신 빛|glare||동사
+w4|안경|glasses||명사
+w4|유약을 바르다 · 유리를 끼우다 · 유약|glaze||동사
+w4|어렴풋이 빛나다 · 반짝임|gleam||동사
+w4|미끄러지듯 나아가다 · 활공하다|glide||동사
+w4|흘끗 봄 · 언뜻 보임|glimpse||명사
+w5|반짝이다 · 섬광|glint||동사
+w4|반짝이다 · 빛나다|glisten||동사
+w4|지구 · 지구본|globe||명사
+w5|찬양하다 · 미화하다|glorify||동사
+w4|영광스러운 · 아주 멋진|glorious||형용사
+w4|영광 · 찬란함|glory||명사
+w4|광택 · 윤기 · 얼버무리다|gloss||명사
+w4|용어집 · 주해|glossary||명사
+w4|빛나다 · 달아오르다 · 빛|glow||동사
+w5|노려보다|glower||동사
+w4|접착제 · 붙이다|glue||명사
+w5|침울한 · 풀이 죽은|glum||형용사
+w5|대식가 · 탐닉자|glutton||명사
+w5|갉아먹다 · 괴롭히다|gnaw||동사
+w4|난쟁이 요정|gnome||명사
+w1|가다 · 진행되다|go||동사
+w5|부추기다 · 자극하다|goad||동사
+w4|게걸스럽게 먹다|gobble||동사
+w4|신|god||명사
+w4|여신|goddess||명사
+w4|금빛의 · 황금기의|golden||형용사
+w1|좋은 · 유능한|good||형용사
+w1|안녕히 가세요|goodbye||감탄사
+w4|선량함 · 친절|goodness||명사
+w4|협곡 · 폭식하다|gorge||명사
+w4|아주 멋진 · 화려한|gorgeous||형용사
+w4|박 · 조롱박|gourd||명사
+w5|통풍|gout||명사
+w4|가운 · 드레스|gown||명사
+w4|우아함 · 은총 · 유예|grace||명사
+w4|우아한|graceful||형용사
+w4|점진적인|gradual||형용사
+w4|점진적으로 · 점차 · 서서히|gradually||부사
+w4|졸업하다 · 졸업생|graduate||명사
+w4|졸업 · 졸업식|graduation||명사
+w4|그램|gram||명사
+w4|문법적인|grammatical||형용사
+w5|곡창|granary||명사
+w4|웅장한 · 거창한 · 훌륭한|grand||형용사
+w5|장엄함 · 웅장함|grandeur||명사
+w5|세밀한 · 알갱이 모양의|granular||형용사
+w4|그래프|graph||명사
+w4|그래픽의 · 생생한 · 도표|graphic||형용사
+w4|파악하다 · 이해하다 · 움켜쥐다|grasp||동사
+w4|잔디 · 풀|grass||명사
+w4|메뚜기|grasshopper||명사
+w5|만족 · 충족|gratification||명사
+w5|만족시키다 · 기쁘게 하다|gratify||동사
+w5|귀에 거슬리는 · 긁는 듯한|grating||형용사
+w4|감사|gratitude||명사
+w5|이유 없는 · 불필요한 · 무료의|gratuitous||형용사
+w4|자갈|gravel||명사
+w4|중력 · 심각성|gravity||명사
+w3|회색의|gray||형용사
+w4|풀을 뜯다 · 스치다|graze||동사
+w4|기름진|greasy||형용사
+w1|위대한 · 엄청난 · 훌륭한|great||형용사
+w4|대단히 · 크게|greatly||부사
+w4|위대함 · 탁월함|greatness||명사
+w4|탐욕스러운 · 욕심 많은|greedy||형용사
+w4|푸른 잎 · 초목|greenery||명사
+w5|사교적인 · 군거성의|gregarious||형용사
+w4|비탄에 잠기다 · 슬퍼하다|grieve||동사
+w5|찡그린 얼굴 · 찡그리다|grimace||명사
+w5|때 · 찌든 때|grime||명사
+w4|활짝 웃다 · 싱긋 웃음|grin||동사
+w4|갈다 · 으깨다 · 고된 일|grind||동사
+w4|꽉 쥐다 · 사로잡다 · 장악력|grip||동사
+w5|불굴의 의지 · 모래알|grit||명사
+w4|신음하다 · 신음 소리|groan||동사
+w4|홈 · 판에 박힌 일상|groove||명사
+w4|더듬어 찾다 · 모색하다|grope||동사
+w5|기괴한 · 우스꽝스러운|grotesque||형용사
+w2|땅 · 근거 · 좌초시키다|ground||명사
+w4|현실적인 · 근거 있는|grounded||형용사
+w5|근거 없는|groundless||형용사
+w5|토대 · 기초 작업|groundwork||명사
+w4|작은 숲 · 과수원|grove||명사
+w5|비굴하게 굴다 · 납작 엎드리다|grovel||동사
+w1|성장하다 · 재배하다|grow||동사
+w4|으르렁거리다 · 으르렁거림|growl||동사
+w4|다 자란 · 성인의|grown||형용사
+w4|더러운 · 지저분한|grubby||형용사
+w4|원한 · 앙심 · 아까워하다|grudge||명사
+w5|퉁명스러운 · 쉰|gruff||형용사
+w4|불평하다 · 투덜거리다|grumble||동사
+w4|성마른 · 투덜대는|grumpy||형용사
+w2|추측하다 · 추측|guess||동사
+w5|조합 · 길드|guild||명사
+w5|교활함 · 책략|guile||명사
+w5|잘 속는 · 순진한|gullible||형용사
+w4|꿀꺽 삼키다 · 헐떡이며 숨을 쉬다|gulp||동사
+w4|잇몸 · 껌 · 고무|gum||명사
+w4|화약|gunpowder||명사
+w4|내장 · 직감 · 담력 · 내부를 파괴하다|gut||명사
+w4|도랑 · 홈통|gutter||명사
+w4|체육관|gymnasium||명사
+w5|거주 · 주거지|habitation||명사
+w5|습관적인 · 상습적인|habitual||형용사
+w5|진부한 · 상투적인|hackneyed||형용사
+w5|마녀 · 노파|hag||명사
+w5|초췌한 · 야윈|haggard||형용사
+w4|미용사|hairdresser||명사
+w4|털이 많은 · 아슬아슬한|hairy||형용사
+w5|환각을 보다|hallucinate||동사
+w4|후광 · 달무리|halo||명사
+w4|햄|ham||명사
+w5|작은 마을|hamlet||명사
+w4|망치 · 망치질하다|hammer||명사
+w4|한 줌 · 소수|handful||명사
+w4|장애 · 불리한 조건 · 불리하게 하다|handicap||명사
+w4|손수건|handkerchief||명사
+w4|잘생긴 · 상당한|handsome||형용사
+w4|손글씨 · 필적|handwriting||명사
+w2|걸다 · 매달다 · 교수형에 처하다|hang||동사
+w4|옷걸이|hanger||명사
+w5|무계획적인 · 임의의|haphazard||형용사
+w5|전조 · 선구자|harbinger||명사
+w1|어려운 · 단단한 · 열심히|hard||형용사
+w4|굳어지다 · 강경해지다|harden||동사
+w4|단단함 · 어려움|hardness||명사
+w5|튼튼한 · 내한성의|hardy||형용사
+w4|산토끼|hare||명사
+w4|무해한|harmless||형용사
+w5|조화로운 · 화목한|harmonious||형용사
+w5|조화시키다 · 일치하다|harmonize||동사
+w4|조화 · 화목|harmony||명사
+w5|활용하다 · 마구 · 이용하다|harness||동사
+w4|하프 · 되풀이하다|harp||명사
+w4|수확 · 수확하다|harvest||명사
+w4|다진 고기 · 뒤죽박죽 · 해시|hash||명사
+w5|서두르다 · 앞당기다|hasten||동사
+w4|손도끼|hatchet||명사
+w3|증오하다 · 몹시 싫어하다|hate||동사
+w4|출몰하다 · 끊임없이 떠오르다|haunt||동사
+w4|개암나무 · 연갈색의|hazel||형용사
+w4|안개 낀 · 희미한 · 모호한|hazy||형용사
+w4|치유하다 · 회복되다|heal||동사
+w4|더미 · 많이 쌓다|heap||명사
+w4|상심 · 비통|heartache||명사
+w4|심장 박동|heartbeat||명사
+w4|상심한 · 비통해하는|heartbroken||형용사
+w5|화로 · 가정|hearth||명사
+w4|진심으로 · 왕성하게|heartily||부사
+w4|무정한 · 냉혹한|heartless||형용사
+w4|들어 올리다 · 내쉬다 · 울렁거리다|heave||동사
+w4|천상의 · 아주 멋진|heavenly||형용사
+w2|무거운 · 심한 · 많은|heavy||형용사
+w5|유의하다 · 귀 기울이다 · 주의|heed||동사
+w4|뒤꿈치 · 굽|heel||명사
+w4|높이 · 키 · 절정|height||명사
+w4|여성 상속인|heiress||명사
+w3|지옥|hell||명사
+w4|헬멧|helmet||명사
+w4|단 · 가장자리 · 둘러싸다|hem||명사
+w4|반구|hemisphere||명사
+w4|따라서 · 그로부터 · 앞으로|hence||부사
+w5|앞으로 · 이후로|henceforth||부사
+w4|약초 · 허브|herb||명사
+w5|제초제|herbicide||명사
+w5|초식 동물|herbivore||명사
+w4|떼 · 무리 · 몰다|herd||명사
+w1|여기에|here||부사
+w5|이후에 · 내세|hereafter||부사
+w5|이단 · 정설에 반하는 의견|heresy||명사
+w5|이단자|heretic||명사
+w5|밀폐된 · 외부와 단절된|hermetic||형용사
+w4|여주인공 · 여자 영웅|heroine||명사
+w4|주저하다 · 망설이다|hesitate||동사
+w5|이질적인 · 다양한 구성의|heterogeneous||형용사
+w5|자르다 · 깎다 · 따르다|hew||동사
+w5|공백 · 중단 기간|hiatus||명사
+w3|겨울잠을 자다 · 동면하다|hibernate||동사
+w4|동면|hibernation||명사
+w4|딸꾹질 · 경미한 차질|hiccup||명사
+w3|숨기다 · 숨다 · 가죽|hide||동사
+w5|끔찍한 · 추악한|hideous||형용사
+w1|높은 · 고도의 · 높이|high||형용사
+w4|고지 · 고원|highland||명사
+w4|전하 · 고귀함|highness||명사
+w4|언덕 비탈|hillside||명사
+w4|언덕 꼭대기|hilltop||명사
+w4|언덕이 많은|hilly||형용사
+w5|칼자루|hilt||명사
+w4|뒤쪽의|hind||형용사
+w4|방해하다 · 지장을 주다|hinder||동사
+w5|방해 · 장애물|hindrance||명사
+w4|달려 있다 · 좌우되다 · 경첩|hinge||동사
+w4|힌트 · 암시 · 암시하다|hint||명사
+w4|엉덩이 · 고관절|hip||명사
+w4|그의 · 그의 것|his||한정사
+w5|역사학자 · 역사가|historian||명사
+w5|지금까지 · 그때까지|hitherto||부사
+w4|벌집 · 분주한 곳|hive||명사
+w5|비축물 · 쌓아 두다|hoard||명사
+w4|쉰 · 걸걸한|hoarse||형용사
+w4|절뚝거리다 · 방해하다|hobble||동사
+w4|괭이 · 괭이로 김매다|hoe||명사
+w5|끌어올리다 · 게양하다|hoist||동사
+w4|신성함 · 성스러움|holiness||명사
+w4|속이 빈 · 공허한 · 우묵한 곳|hollow||형용사
+w4|호랑가시나무|holly||명사
+w4|홀로그램|hologram||명사
+w4|신성한 · 성스러운|holy||형용사
+w5|경의 · 존경의 표시|homage||명사
+w4|소박한 · 가정적인|homely||형용사
+w4|향수병이 난|homesick||형용사
+w5|설교 · 훈계|homily||명사
+w5|동질의 · 균질한|homogeneous||형용사
+w5|균질화하다|homogenize||동사
+w5|동음이의어|homonym||명사
+w4|정직하게 · 솔직히|honestly||부사
+w4|꿀|honey||명사
+w4|경적을 울리다|honk||동사
+w4|후드 · 보닛|hood||명사
+w4|발굽|hoof||명사
+w4|갈고리 · 걸다|hook||명사
+w4|테 · 후프|hoop||명사
+w4|부엉이 울음소리 · 야유하다|hoot||동사
+w4|깡충 뛰다|hop||동사
+w4|희망찬 · 유망한|hopeful||형용사
+w4|절망적인 · 가망 없는|hopeless||형용사
+w4|지평선 · 수평선 · 시야|horizon||명사
+w4|수평의|horizontal||형용사
+w4|호르몬|hormone||명사
+w4|뿔 · 경적 · 호른|horn||명사
+w4|끔찍한 · 지독한|horrible||형용사
+w4|소름 끼치는 · 불쾌한|horrid||형용사
+w4|말등|horseback||명사
+w5|원예 · 원예학|horticulture||명사
+w4|호스 · 양말류 · 물을 뿌리다|hose||명사
+w1|시간|hour||명사
+w4|주부|housewife||명사
+w4|가사 노동|housework||명사
+w4|맴돌다 · 공중에 떠 있다|hover||동사
+w1|어떻게 · 얼마나|how||부사
+w4|울부짖다 · 짖다|howl||동사
+w5|오만 · 교만|hubris||명사
+w4|웅크리다 · 모여 의논하다|huddle||동사
+w5|색조 · 빛깔|hue||명사
+w4|화냄 · 씩씩거리다|huff||명사
+w4|껴안다 · 포옹|hug||동사
+w2|거대한 · 엄청난|huge||형용사
+w5|거대한 물체 · 난파선|hulk||명사
+w4|선체 · 껍질|hull||명사
+w4|콧노래를 부르다 · 윙윙거리다|hum||동사
+w1|인간의 · 인간|human||형용사
+w4|인류 · 인간애|humanity||명사
+w5|허튼소리 · 속임수|humbug||명사
+w4|습도|humidity||명사
+w4|겸손 · 겸허|humility||명사
+w4|유머 · 해학 · 비위를 맞추다|humor||명사
+w4|유머러스한 · 우스운|humorous||형용사
+w4|직감 · 예감 · 구부리다|hunch||명사
+w2|백|hundred||수사
+w1|만세 · 환호|hurrah||감탄사
+w4|서두르다 · 서두름|hurry||동사
+w5|농축산업 · 절약 · 관리|husbandry||명사
+w4|조용히 시키다 · 잠잠해지다|hush||동사
+w4|껍질 · 껍질을 벗기다|husk||명사
+w4|목소리가 쉰 · 건장한|husky||형용사
+w4|오두막|hut||명사
+w4|혼합물 · 하이브리드 · 혼합의|hybrid||명사
+w5|히드라 · 다두 괴물|hydra||명사
+w4|찬송가|hymn||명사
+w5|과장법|hyperbole||명사
+w4|최면|hypnosis||명사
+w4|최면의 · 매혹적인|hypnotic||형용사
+w4|최면을 걸다|hypnotize||동사
+w5|피하 주사의|hypodermic||형용사
+w5|가설을 세우다|hypothesize||동사
+w5|가설의 · 가정의|hypothetical||형용사
+w4|히스테리컬한 · 너무 웃긴|hysterical||형용사
+@tech
+w5|이상 징후 · 변칙|anomaly||명사
+w5|편향(예측) · 편견 · 성향|bias||명사
+w5|낳다 · 번식시키다 · 야기하다 · 품종|breed||동사
+w5|은닉처 · 캐시 메모리|cache||명사
+w5|분류 · 등급|classification||명사
+w2|데이터 · 자료|data||명사
+w5|편차 · 벗어나다 · 일탈|deviation||명사
+w4|장려하다 · 격려하다|encourage||동사
+w5|저물다 · 바래다 · 점차 사라지다|fade||동사
+w3|유전자|gene||명사
+@time
+w3|(배터리가) 꺼지다 · 주사위 · 죽다 · 사라지다|die||동사
+w4|두 배가 되다 · 두 배의 · 이중의|double||형용사
+w2|한가한 · 자유로운 · 무료의 · 해방하다|free||형용사
+w4|멈추다 · 얼어붙다 · 동결하다 · 얼다|freeze||동사
+w3|~을 고려하면 · ~을 고려할 때 · 주어진|given||전치사
+w2|간단히 먹다 · 마시다 · 얼른 받다 · 집다 · 움켜잡다 · 붙잡다|grab||동사
+w1|여보세요 · 안녕하세요|hello||감탄사
+w2|바라다 · 희망 · 희망하다|hope||명사
+@travel
+w3|사막 · 버리다 · 탈영하다|desert||동사
+w3|급행 · 표현하다 · 급행의 · 명시적인|express||동사
+w3|꽤 · 공정하게|fairly||부사
+w3|탑승구 · 문 · 출입구|gate||명사
+w4|신혼여행|honeymoon||명사
+@work
+w5|가정 · 추정|assumption||명사
+w4|기준 · 기준선 · 기준치|baseline||명사
+w4|부서지기 쉬운 · 깨지기 쉬운|brittle||형용사
+w4|결속력 · 응집력|cohesion||명사
+w4|중대한 · 결정적인|crucial||형용사
+w4|무너지다 · 부서지다|crumble||동사
+w4|이견 · 불일치 · 의견 충돌|disagreement||명사
+w5|표류하다 · 드리프트 · 변화 · 서서히 흐르다|drift||동사
+w3|자세히 설명하다 · 정교한 · 상세히 설명하다|elaborate||형용사
+w4|높이다 · 승진시키다 · 고양하다|elevate||동사
+w4|고도 · 해발 · 승진|elevation||명사
+w4|엔진 · 기관|engine||명사
+w5|본질 · 정수|essence||명사
+w5|칭송하다 · 승진시키다|exalt||동사
+w4|허약한 · 부서지기 쉬운|frail||형용사
+w4|자주 · 빈번히|frequently||부사
+w3|홀 · 회관 · 복도|hall||명사
+w4|망설임 · 주저|hesitation||명사
+w4|달성하다 · 치다 · 타격하다 · 성공작|hit||동사
