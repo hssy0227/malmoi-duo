@@ -1,0 +1,79 @@
+# 일상 회화 확장 (직접 작성) — 가족·집·관계·스몰토크
+@daily
+3|애들이 벌써 이렇게 컸어요.|The kids have grown up so fast.|grow up=자라다
+3|요즘 부모님 건강은 어떠세요?|How are your parents doing these days?|
+3|주말엔 가족이랑 시간을 보내요.|I spend weekends with my family.|
+3|동생이랑 자주 싸웠어요.|My brother and I used to fight a lot.|used to=~하곤 했다
+3|엄마가 해 주는 음식이 그리워요.|I miss my mom's cooking.|miss=그리워하다
+3|명절에 고향에 내려가요.|I'm going back to my hometown for the holidays.|hometown=고향
+3|조카가 이번에 대학에 들어갔어요.|My nephew just started college.|nephew=남자 조카
+3|우리 집 강아지는 산책을 정말 좋아해요.|Our dog loves going for walks.|
+3|결혼한 지 얼마나 됐어요?|How long have you been married?|
+3|아이는 몇 살이에요?|How old is your kid?|
+4|아이들 키우느라 정신이 없어요.|Raising kids keeps me on my toes.|keep on one's toes=정신없이 바쁘게 하다
+4|부모님이 나이 드시는 걸 보면 마음이 짠해요.|It breaks my heart a little to see my parents getting older.|break one's heart=가슴 아프게 하다
+4|가족끼리 단톡방에서 매일 이야기해요.|We chat every day in our family group chat.|group chat=단체 대화방
+4|요즘 아이들은 휴대폰 없이는 못 살아요.|Kids these days can't live without their phones.|
+4|아빠를 닮아서 고집이 세요.|I'm stubborn, just like my dad.|stubborn=고집 센
+4|형이랑은 나이 들수록 더 친해졌어요.|My brother and I have gotten closer as we've gotten older.|
+4|명절마다 친척들이 결혼 언제 하냐고 물어봐요.|Every holiday, my relatives ask when I'm getting married.|relative=친척
+4|아이가 처음으로 혼자 학교에 갔어요.|My kid walked to school alone for the first time.|
+4|부모님께 용돈을 드리고 있어요.|I give my parents some money every month.|
+4|가족 여행 계획을 짜는 게 제일 어려워요.|Planning a family trip is the hardest part.|
+@home
+3|이사 온 지 한 달 됐어요.|It's been a month since I moved in.|move in=이사 오다
+3|집이 좁지만 아늑해요.|My place is small but cozy.|cozy=아늑한
+3|오늘은 대청소하는 날이에요.|Today's cleaning day.|
+3|빨래 좀 개 줄래요?|Could you fold the laundry?|fold=개다
+3|쓰레기 내다 버릴게요.|I'll take out the trash.|take out the trash=쓰레기를 버리다
+3|불 끄는 거 잊지 마세요.|Don't forget to turn off the lights.|
+3|보일러가 고장 났어요.|The heater's broken.|heater=난방기
+3|윗집이 너무 시끄러워요.|The neighbors upstairs are so loud.|
+3|화분에 물 주는 걸 깜빡했어요.|I forgot to water the plants.|water=물을 주다
+3|요즘 집밥을 자주 해 먹어요.|I've been cooking at home a lot lately.|
+4|관리비가 생각보다 많이 나와요.|The maintenance fees are higher than I expected.|maintenance fee=관리비
+4|집주인이 보증금을 안 돌려줘요.|My landlord won't give back my deposit.|landlord=집주인; deposit=보증금
+4|인테리어를 조금 바꿨더니 기분이 달라졌어요.|I changed up the decor a bit, and it totally changed the mood.|decor=인테리어
+4|미니멀하게 살려고 물건을 많이 정리했어요.|I got rid of a lot of stuff to live more simply.|get rid of=없애다
+4|재택근무 때문에 책상을 새로 샀어요.|I bought a new desk for working from home.|
+4|층간 소음 문제로 이웃과 이야기를 나눴어요.|I talked to my neighbor about the noise between floors.|
+4|여름엔 전기 요금이 두 배로 나와요.|My electric bill doubles in the summer.|
+4|택배가 문 앞에 쌓여 있어요.|Packages are piling up at my door.|pile up=쌓이다
+4|수리 기사님이 내일 오신대요.|The repair guy is coming tomorrow.|
+4|집 근처에 좋은 카페가 새로 생겼어요.|A nice new café opened up near my place.|
+@greet
+3|요즘 날씨가 정말 좋네요.|The weather's been lovely lately.|lovely=아주 좋은
+3|이 근처에 사세요?|Do you live around here?|
+3|여기 자주 오세요?|Do you come here often?|
+3|주말 잘 보냈어요?|Did you have a good weekend?|
+3|휴가 어디로 가요?|Where are you headed for vacation?|be headed=가다
+3|그 셔츠 잘 어울려요.|That shirt looks great on you.|
+3|머리 자르셨네요!|Did you get a haircut?|haircut=이발
+3|요즘 뭐 재밌는 거 봤어요?|Seen anything good lately?|
+3|어제 경기 봤어요?|Did you catch the game last night?|catch=보다
+3|벌써 연말이네요.|I can't believe it's already the end of the year.|
+4|요즘 다들 바쁘게 지내는 것 같아요.|Everyone seems so busy these days.|
+4|이 동네는 살기 좋은 것 같아요.|This seems like a nice neighborhood to live in.|
+4|취미가 뭔지 물어봐도 될까요?|Mind if I ask what you do for fun?|for fun=재미로
+4|그 얘기 들으니 저도 가 보고 싶네요.|Hearing that makes me want to go too.|
+4|우리 공통점이 많네요.|Looks like we have a lot in common.|in common=공통으로
+4|처음 만났는데 오래 안 사이 같아요.|We just met, but it feels like we've known each other for ages.|for ages=오랫동안
+4|다음에 커피 한잔해요.|Let's get coffee sometime.|
+4|번호 교환할까요?|Should we swap numbers?|swap=교환하다
+4|오늘 대화 정말 즐거웠어요.|I really enjoyed our chat today.|
+@daily
+4|친구가 결혼한대요.|My friend's getting married.|
+4|그 친구랑은 연락이 끊겼어요.|I've lost touch with that friend.|lose touch=연락이 끊기다
+4|요즘 새로운 사람 만나는 게 쉽지 않아요.|It's not easy to meet new people these days.|
+4|그 사람이랑 화해했어요.|I made up with him.|make up=화해하다
+4|그 친구는 항상 내 편이에요.|She's always got my back.|have one's back=편이 되어 주다
+4|친구 생일 선물로 뭐가 좋을까요?|What would make a good birthday gift for a friend?|
+4|그 사람은 첫인상과 많이 달라요.|He's very different from my first impression.|first impression=첫인상
+4|우리 사이에 그런 말은 안 해도 돼요.|You don't have to say that between us.|
+4|요즘 그 친구가 좀 서먹해요.|Things have been a little awkward with her lately.|awkward=어색한
+4|가까운 친구일수록 예의가 필요해요.|The closer the friend, the more manners matter.|manners=예의
+5|친구가 많지 않아도 진짜 친구 몇 명이면 충분해요.|You don't need a lot of friends; a few true ones are enough.|
+5|오랜 친구는 오랜만에 만나도 어색하지 않아요.|With old friends, it's never awkward even after a long time apart.|apart=떨어져 있는
+5|가족이라도 서로의 선택을 존중해야 해요.|Even within a family, we need to respect each other's choices.|
+5|나이가 들수록 부모님과 대화하는 시간이 소중해져요.|The older I get, the more I treasure time talking with my parents.|treasure=소중히 여기다
+5|관계에서 가장 중요한 건 서로에 대한 관심이에요.|What matters most in a relationship is genuine interest in each other.|genuine=진심 어린

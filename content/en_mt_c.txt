@@ -1,0 +1,66 @@
+# 비즈니스 미팅 (직접 작성) — 1:1 면담·면접·보고·이메일 표현
+@work
+3|오늘은 편하게 이야기해 봐요.|Let's keep today's chat casual.|casual=편안한
+3|요즘 일은 어때요?|How's work going for you?|
+3|도움이 필요한 부분이 있나요?|Is there anything you need help with?|
+3|이번 분기 목표에 대해 이야기해 보죠.|Let's talk about your goals for this quarter.|quarter=분기
+3|지금까지 잘하고 있어요.|You're doing a great job so far.|
+3|어떤 점이 가장 어려웠어요?|What's been the most challenging part?|challenging=어려운
+3|제가 어떻게 도와드리면 될까요?|How can I support you?|support=지원하다
+3|자기소개 부탁드립니다.|Could you tell us a little about yourself?|
+3|왜 이 직무에 지원하셨나요?|Why did you apply for this position?|apply for=지원하다
+3|본인의 강점은 무엇인가요?|What would you say are your strengths?|strength=강점
+3|5년 후 어떤 모습이고 싶으세요?|Where do you see yourself in five years?|
+3|저희에게 궁금한 점이 있으신가요?|Do you have any questions for us?|
+3|결과는 일주일 안에 알려 드리겠습니다.|We'll let you know the result within a week.|
+3|보고드릴 게 있습니다.|I have an update for you.|
+3|간단히 말씀드리면, 일정은 문제없습니다.|In short, we're on schedule.|on schedule=일정대로
+3|첨부한 파일을 확인해 주세요.|Please see the attached file.|attached=첨부된
+3|답장이 늦어 죄송합니다.|Sorry for the late reply.|
+3|아래 내용 참고 부탁드립니다.|Please refer to the information below.|refer to=참고하다
+3|확인 부탁드립니다.|Please take a look when you get a chance.|
+3|문의하신 내용에 답변드립니다.|I'm writing in response to your inquiry.|in response to=~에 답하여
+4|피드백을 드려도 될까요?|Would you be open to some feedback?|be open to=받아들일 의향이 있다
+4|이번 발표는 구조가 좋았어요. 다만 결론을 앞에 두면 더 좋겠어요.|The structure of your presentation was good, but leading with the conclusion would make it even better.|lead with=~으로 시작하다
+4|이 부분은 기대에 못 미쳤어요. 이유를 같이 찾아보죠.|This fell short of expectations. Let's figure out why together.|fall short=못 미치다
+4|당신의 성장 목표는 뭔가요?|What are your development goals?|development=성장·개발
+4|더 맡아 보고 싶은 일이 있어요?|Is there anything you'd like to take on?|take on=맡다
+4|업무량이 너무 많다고 느끼면 말해 주세요.|Let me know if your workload feels too heavy.|workload=업무량
+4|그 문제는 제가 위에 이야기해 볼게요.|I'll raise that with leadership.|raise=제기하다; leadership=경영진
+4|성과 평가는 다음 달에 진행됩니다.|Performance reviews will take place next month.|
+4|이번 성과는 팀 전체에 큰 도움이 됐어요.|Your work this quarter really helped the whole team.|
+4|역할과 책임을 다시 정리해 보죠.|Let's clarify roles and responsibilities.|clarify=명확히 하다
+4|이전 직장에서 가장 큰 성과는 무엇이었나요?|What was your biggest achievement at your previous job?|achievement=성과
+4|어려운 동료와 일했던 경험을 말씀해 주세요.|Tell me about a time you worked with a difficult colleague.|
+4|실패했던 경험과 거기서 배운 점은요?|Tell us about a failure and what you learned from it.|
+4|압박 속에서 어떻게 일하시나요?|How do you handle pressure?|handle=다루다
+4|희망 연봉은 어느 정도인가요?|What are your salary expectations?|salary expectations=희망 연봉
+4|언제부터 출근 가능하세요?|When would you be able to start?|
+4|레퍼런스 체크를 진행해도 될까요?|May we contact your references?|reference=추천인
+4|팀 문화에 대해 설명해 주실 수 있나요?|Could you tell me about the team culture?|
+4|이 직무에서 성공한다는 건 어떤 모습인가요?|What does success look like in this role?|
+4|지난주 대비 진행률이 20% 올랐습니다.|Progress is up twenty percent from last week.|
+4|예상치 못한 이슈가 하나 생겼습니다.|One unexpected issue has come up.|come up=생기다
+4|현재로서는 추가 예산이 필요해 보입니다.|At this point, it looks like we'll need additional budget.|
+4|해결 방안 두 가지를 준비했습니다.|I've prepared two possible solutions.|
+4|결정해 주셔야 할 사항이 하나 있습니다.|There's one thing we need you to decide on.|
+4|다음 보고 때까지 테스트를 마치겠습니다.|We'll finish testing before the next update.|
+4|이 메일은 참고용으로 공유드립니다.|I'm sharing this for your reference.|for your reference=참고용으로
+4|일정 변경이 있어 알려 드립니다.|I'm writing to let you know about a schedule change.|
+4|오해가 있었던 것 같아 정리해 드립니다.|There seems to have been a misunderstanding, so let me clarify.|misunderstanding=오해
+4|회신 기한은 이번 주 금요일입니다.|Please reply by this Friday.|
+4|추가 질문이 있으시면 편하게 연락 주세요.|Don't hesitate to reach out if you have further questions.|don't hesitate to=주저 말고 ~하다
+4|다음 주 중으로 미팅 가능하실까요?|Would you be available for a meeting sometime next week?|available=시간이 되는
+4|관련 부서를 참조로 넣었습니다.|I've cc'd the relevant departments.|cc=참조로 넣다
+4|이 건은 제가 이어서 담당하겠습니다.|I'll be taking over this matter from here.|take over=이어받다
+4|휴가 중에는 김 대리가 대신 연락드릴 겁니다.|While I'm away, Ms. Kim will be your point of contact.|point of contact=연락 담당자
+5|솔직하게 말해 줘서 고마워요. 그래야 더 잘 도울 수 있어요.|Thank you for being candid. It helps me support you better.|candid=솔직한
+5|이번 피드백은 비판이 아니라 다음 단계로 가기 위한 거예요.|This feedback isn't criticism; it's about getting you to the next level.|
+5|당신의 의견이 팀의 결정에 큰 영향을 줬어요.|Your input had a real impact on the team's decision.|input=의견
+5|스스로 정한 목표가 너무 낮은 건 아닌지 생각해 보세요.|Ask yourself whether the goals you've set are ambitious enough.|
+5|커리어에서 가장 중요하게 생각하는 가치는 무엇인가요?|What do you value most in your career?|value=중요하게 여기다
+5|저희 회사가 당신에게 줄 수 있는 것과 당신이 기여할 수 있는 것을 맞춰 보죠.|Let's see how what we offer matches what you can contribute.|contribute=기여하다
+5|이 문제의 원인과 영향, 대응 방안을 순서대로 보고드리겠습니다.|I'll walk you through the cause, the impact, and our response, in that order.|
+5|리스크를 미리 공유드리는 것이 나중에 수습하는 것보다 낫다고 판단했습니다.|I thought it was better to flag the risk now than to deal with it later.|flag=미리 알리다
+5|추가 인력 없이는 품질과 일정 중 하나를 포기해야 합니다.|Without more people, we'll have to sacrifice either quality or schedule.|sacrifice=희생하다
+5|이 메일로 지난 회의의 합의 사항을 다시 한번 정리합니다.|This email summarizes what we agreed on in our last meeting.|summarize=요약하다
