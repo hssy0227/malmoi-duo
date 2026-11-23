@@ -10,7 +10,7 @@
 3|자기소개 부탁드립니다.|Xin mời mọi người tự giới thiệu.|xin mời=~해 주세요; tự giới thiệu=자기소개하다
 3|저는 한국 본사에서 온 김민수입니다.|Tôi là Kim Min-su, đến từ trụ sở chính tại Hàn Quốc.|trụ sở chính=본사
 3|오늘 와 주셔서 감사합니다.|Cảm ơn anh chị đã đến hôm nay.|anh chị=여러분(존칭)
-3|질문 있으세요?|Anh chị có câu hỏi gì không?|câu hỏi=질문
+3|여러분, 질문 있으세요?|Anh chị có câu hỏi gì không?|câu hỏi=질문
 3|저는 생각이 조금 달라요.|Tôi có ý kiến hơi khác.|hơi=약간; khác=다른
 3|다시 한번 말씀해 주시겠어요?|Anh có thể nói lại được không ạ?|nói lại=다시 말하다; ạ=(존대 어미)
 3|천천히 말씀해 주세요.|Xin anh nói chậm một chút.|chậm=천천히

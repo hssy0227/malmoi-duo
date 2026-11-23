@@ -6,14 +6,14 @@
 3|다 잘될 거예요.|Mọi chuyện sẽ ổn thôi.|mọi chuyện=모든 일
 3|정말 고마워요.|Cảm ơn anh nhiều lắm.|
 3|도와줘서 고마워요.|Cảm ơn anh đã giúp tôi.|
-3|제 잘못이에요.|Đó là lỗi của tôi.|lỗi=잘못
+3|그건 제 잘못이에요.|Đó là lỗi của tôi.|lỗi=잘못
 3|정말 죄송합니다.|Tôi thành thật xin lỗi.|thành thật=진심으로
-3|일부러 그런 건 아니에요.|Tôi không cố ý.|cố ý=일부러
+3|일부러 그런 게 아니에요.|Tôi không cố ý.|cố ý=일부러
 3|신경 쓰지 마세요.|Anh đừng bận tâm.|bận tâm=신경 쓰다
 3|정말 잘했어요!|Anh làm tốt lắm!|
 3|대단해요!|Giỏi quá!|
 3|자랑스러워요.|Tôi rất tự hào về anh.|tự hào=자랑스럽다
-3|축하해요!|Chúc mừng anh!|
+3|축하드려요!|Chúc mừng anh!|
 3|부럽네요.|Tôi ghen tị quá.|ghen tị=부러워하다
 3|깜짝 놀랐어요.|Tôi giật cả mình.|giật mình=깜짝 놀라다
 3|화났어요?|Anh giận à?|giận=화나다
@@ -31,7 +31,7 @@
 4|이번 일로 많이 배웠어요.|Qua chuyện này tôi học được nhiều điều.|qua=~을 통해
 4|그 마음 충분히 이해해요.|Tôi hoàn toàn hiểu cảm giác của anh.|hoàn toàn=완전히; cảm giác=느낌
 4|기분 상하게 했다면 미안해요.|Nếu tôi làm anh phật lòng thì cho tôi xin lỗi.|phật lòng=기분 상하다
-4|오해가 풀려서 다행이에요.|May mà hiểu lầm đã được giải tỏa.|may mà=다행히; giải tỏa=풀다
+4|다행히 오해가 풀렸어요.|May mà hiểu lầm đã được giải tỏa.|may mà=다행히; giải tỏa=풀다
 4|당신 덕분에 해냈어요.|Nhờ có anh mà tôi làm được.|nhờ=덕분에
 4|칭찬해 주셔서 감사해요.|Cảm ơn anh đã khen.|khen=칭찬하다
 4|별말씀을요, 다 팀 덕분이에요.|Có gì đâu, tất cả là nhờ cả đội.|có gì đâu=별말씀을요; đội=팀

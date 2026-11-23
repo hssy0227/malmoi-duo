@@ -1,7 +1,7 @@
 # 일상 회화 베트남어 (직접 작성, 북부 표준) — 안부·잡담·약속·날씨
 @daily
 1|잘 지내요?|Dạo này khỏe không?|dạo này=요즘; khỏe=건강하다
-1|잘 지내요.|Tôi vẫn khỏe.|vẫn=여전히
+1|저는 잘 지내요.|Tôi vẫn khỏe.|vẫn=여전히
 2|요즘 어떻게 지내?|Dạo này cậu thế nào?|thế nào=어떻게
 2|그냥 그래요.|Cũng bình thường thôi.|bình thường=보통; thôi=~일 뿐
 2|요즘 좀 바빠요.|Dạo này hơi bận.|

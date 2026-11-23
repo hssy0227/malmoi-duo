@@ -1,0 +1,27 @@
+# 일상 회화 확장 (직접 작성) — 초대·부탁·거절·약속 변경
+@daily
+4|이번 토요일에 저녁 먹으러 오세요.|Why don't you come over for dinner this Saturday?|come over=들르다
+4|뭘 가져가면 될까요?|What can I bring?|
+4|그냥 몸만 오세요.|Just bring yourself.|
+4|아쉽지만 그날은 선약이 있어요.|I'd love to, but I already have plans that day.|
+4|다음엔 꼭 갈게요.|I'll definitely make it next time.|make it=참석하다
+4|혹시 내일로 미뤄도 될까요?|Would it be okay to push it to tomorrow?|push=미루다
+4|갑자기 일이 생겨서 못 갈 것 같아요.|Something came up, so I don't think I can make it.|come up=생기다
+4|미리 말 못 해서 미안해요.|Sorry for not letting you know sooner.|
+4|부탁 하나만 들어줄 수 있어요?|Could you do me a favor?|
+4|공항까지 태워 줄 수 있어요?|Could you give me a ride to the airport?|give a ride=태워 주다
+4|미안하지만 그건 어려울 것 같아요.|I'm afraid I can't do that.|I'm afraid=유감이지만
+4|도와주고 싶지만 지금은 여유가 없어요.|I'd like to help, but I'm stretched thin right now.|stretched thin=여유가 없는
+4|생각해 보고 연락할게요.|Let me think about it and get back to you.|
+4|마음만 받을게요.|I appreciate the thought.|
+4|사양하지 말고 드세요.|Please, help yourself.|help yourself=마음껏 드세요
+4|약속 시간을 30분 늦춰도 될까요?|Could we push our meeting back half an hour?|push back=늦추다
+4|도착하기 10분 전에 문자할게요.|I'll text you ten minutes before I get there.|
+4|집처럼 편하게 계세요.|Make yourself at home.|
+4|벌써 가시게요?|Leaving already?|
+4|오늘 정말 즐거웠어요.|I had a really great time today.|
+5|정중하게 거절하는 것도 기술이에요.|Saying no politely is a skill.|
+5|약속을 지키는 것이 신뢰의 기본이에요.|Keeping your word is the foundation of trust.|keep one's word=약속을 지키다
+5|초대받으면 작은 선물이라도 준비하는 게 예의예요.|When you're invited, it's good manners to bring a small gift.|good manners=예의
+5|부탁을 들어주는 것만큼 거절을 잘하는 것도 중요해요.|Knowing how to decline is as important as knowing how to help.|decline=거절하다
+5|선약이 있으면 솔직하게 말하는 게 서로 편해요.|If you have other plans, it's easier for everyone if you're upfront.|upfront=솔직한

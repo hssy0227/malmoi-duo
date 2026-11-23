@@ -1,7 +1,7 @@
 # 말모이 듀오 — 베트남어·영어 회화 연습 PWA
 
-혼자 쓰는 회화 연습 앱. 베트남어(북부 표준) 2,723문장·단어 3,388개, 영어 2,569문장·표현 2,969개.
-상황 15개(베트남어 14·영어 15) × 레벨 5단계(CEFR A1~C1), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
+혼자 쓰는 회화 연습 앱. 베트남어(북부 표준) 4,678문장·단어 4,649개, 영어 4,573문장·표현 4,092개.
+상황 16개 × 레벨 5단계(CEFR A1~C1), 카드(간격 반복)·퀴즈 4종·듣기·말하기·사전.
 이메일 + PIN 계정으로 기기 간 진도 동기화(Supabase), 항목마다 새것·읽음·학습 중·앎·스킵 상태 관리.
 
 ## 폴더 구조
@@ -12,6 +12,7 @@ sources/          생성용 원본
   biz_*            첨부 비즈니스 영어 600개 + 한국어 해석 → gen_biz.py → content/en_x_biz.txt
   ref/             기준 어휘 목록(NGSL·TSL·BSL, 베트남어 자막 빈도) — 교차검증용
 tools/check.py    교차검증 → reports/check.md
+tools/dedupe.py   새 파일에서 같은 언어 다른 파일과 겹치는 문장 자동 제거
 tools/items.py    content → Supabase items 행
 tools/sync_items.py · tools/keepalive.py   GitHub Actions에서 실행
 supabase/schema.sql  Supabase 테이블·권한 (SQL Editor에서 1회 실행)
@@ -23,6 +24,7 @@ config.json       Supabase 주소·공개 키 (공개돼도 되는 값만)
 ## 수정 → 배포
 ```
 python3 sources/gen_core.py   # core_parallel을 고쳤을 때
+python3 tools/dedupe.py content/새파일.txt   # 새 파일을 추가했을 때 기존 문장과 겹치는 줄 제거
 python3 tools/check.py        # 중복·누락 교차검증 → reports/check.md
 python3 build.py              # dist/ 갱신
 git add -A && git commit -m "변경 내용" && git push
@@ -52,6 +54,8 @@ Supabase `items_view`·`progress_view`에서 `level_label`이 `Lv3 · CEFR B1` �
 | Biz | 비즈니스 | 첨부 비즈니스 영어 DB (예문 원문 + 한국어 해석) | en_x_biz |
 | Mv | 영화 구어 | 베트남어 자막 빈도 대비 누락 구어로 작성 | vi_p |
 | Adv | 고급 | 베트남어 능력 기준 5등급(C1) 주제로 작성 | vi_q |
+| Jr | 저널·뉴스 | 경제·사회·외교·IT·에너지·커머스 기사 문체로 직접 작성 (실제 기사 문장 복제 없음) | en_jr_*, vi_jr_* |
+| Mt | 비즈니스 미팅 | 회의 진행·협상·보고·발표·메일·접대 상황으로 직접 작성 | en_mt_*, vi_mt_* |
 
 ## 문장 형식
 ```
@@ -59,7 +63,7 @@ Supabase `items_view`·`progress_view`에서 `level_label`이 `Lv3 · CEFR B1` �
 레벨|한국어|원어|단어=뜻; 단어=뜻|메모(선택)
 2|포장해 주세요.|Cho tôi mang về.|mang về=가지고 가다
 ```
-- 상황 15개 (content 파일의 옛 @키는 build.py의 CAT_MAP으로 묶임 — 파일은 그대로 둬도 됨)
+- 상황 16개 (content 파일의 옛 @키는 build.py의 CAT_MAP으로 묶임 — 파일은 그대로 둬도 됨)
 
 | 키 | 상황 | 묶인 옛 키 |
 |---|---|---|
@@ -77,6 +81,7 @@ Supabase `items_view`·`progress_view`에서 `level_label`이 `Lv3 · CEFR B1` �
 | study | 배움·시험 | study, toeic, acad |
 | work | 업무·경영 | work, biz, mgmt, org |
 | econ | 경제·금융·에너지 | econ, fin, energy |
+| society | 사회·정치·외교 | society |
 | tech | IT·AI | tech, ai |
 - 진도는 원어 문장 기준 ID로 저장 → 순서를 바꾸거나 추가해도 기존 진도 유지 (원어를 고친 문장만 새 카드)
 - 단어장은 단어 풀이에서 자동 생성
@@ -110,7 +115,7 @@ Supabase `items_view`·`progress_view`에서 `level_label`이 `Lv3 · CEFR B1` �
 - 말하기: 브라우저 음성 인식 — Chrome 권장, 마이크 허용 필요
 
 ## 출처·라이선스
-- 문장: 직접 작성(공식 시험·교육과정의 주제와 수준표를 참고). 영어 비즈니스 600개는 사용자 제공 목록에 한국어 해석을 붙인 것
+- 문장: 직접 작성(공식 시험·교육과정의 주제와 수준표를 참고). 저널·뉴스형(Jr)은 실제 기사 문장을 옮기지 않고 기사 문체로 새로 쓴 것. 영어 비즈니스 600개는 사용자 제공 목록에 한국어 해석을 붙인 것
 - NGSL 1.01 · TSL 1.1 · BSL 1.01 — Browne, C., Culligan, B. & Phillips, J., newgeneralservicelist.com, CC BY-SA 4.0
   (목록 파일은 antdurrant/word.lists 저장소 사본에서 추출)
 - 베트남어 빈도 — hermitdave/FrequencyWords (OpenSubtitles 2018), 내용 CC BY-SA 4.0

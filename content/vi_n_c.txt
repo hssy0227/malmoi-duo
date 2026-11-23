@@ -1,13 +1,13 @@
 # 일상 회화 베트남어 (직접 작성, 북부 표준) — 교통·여행·호텔·길 찾기
 @travel
 3|그랩 불러 줄래요?|Gọi giúp tôi một chiếc Grab nhé.|chiếc=(차량 단위)
-3|여기서 세워 주세요.|Cho tôi dừng ở đây.|dừng=멈추다
+3|여기서 내려 주세요.|Cho tôi dừng ở đây.|dừng=멈추다
 3|조금 더 가 주세요.|Đi thêm một chút nữa.|nữa=더
-3|천천히 가 주세요.|Anh đi chậm thôi.|
+3|기사님, 천천히 가 주세요.|Anh đi chậm thôi.|
 3|가장 가까운 역이 어디예요?|Ga gần nhất ở đâu?|ga=역
-3|왼쪽으로 가세요.|Đi sang trái.|trái=왼쪽
+3|왼쪽으로 가요.|Đi sang trái.|trái=왼쪽
 3|사거리에서 돌아요.|Đến ngã tư thì rẽ.|ngã tư=사거리
-3|예약했어요.|Tôi đã đặt phòng rồi.|đặt phòng=방을 예약하다
+3|방 예약해 뒀어요.|Tôi đã đặt phòng rồi.|đặt phòng=방을 예약하다
 3|체크아웃은 몇 시예요?|Mấy giờ phải trả phòng?|trả phòng=체크아웃하다
 3|짐 좀 맡겨도 될까요?|Tôi gửi hành lý được không?|gửi=맡기다; hành lý=짐
 3|조식은 몇 시부터예요?|Ăn sáng từ mấy giờ?|ăn sáng=아침 먹다
@@ -21,7 +21,7 @@
 4|비행기가 한 시간 지연됐어요.|Chuyến bay bị chậm một tiếng.|chuyến bay=항공편; tiếng=시간
 4|한국 대사관이 어디에 있어요?|Đại sứ quán Hàn Quốc ở đâu?|đại sứ quán=대사관
 4|방을 바꿔 주실 수 있어요?|Có thể đổi phòng cho tôi không?|
-4|하롱베이 투어를 예약하고 싶어요.|Tôi muốn đặt tour Hạ Long.|
+4|하롱 투어 하나 예약하려고요.|Tôi muốn đặt tour Hạ Long.|
 4|투어에 점심이 포함돼요?|Tour có bao gồm bữa trưa không?|bao gồm=포함하다; bữa trưa=점심
 4|사파는 계단식 논이 아름다워요.|Sa Pa có ruộng bậc thang rất đẹp.|ruộng bậc thang=계단식 논
 4|닌빈은 육지의 하롱베이라고 불려요.|Ninh Bình được gọi là Hạ Long trên cạn.|trên cạn=육지의

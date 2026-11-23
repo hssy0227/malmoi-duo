@@ -3,14 +3,13 @@
 3|두 명 자리 있어요?|Còn bàn cho hai người không?|bàn=테이블
 3|이 집에서 제일 잘하는 게 뭐예요?|Món ngon nhất ở đây là gì?|món=요리; ngon=맛있다
 3|이걸로 주세요.|Cho tôi món này.|
-3|고수는 빼 주세요.|Đừng cho rau mùi nhé.|đừng=~하지 마라; rau mùi=고수
+3|고수는 넣지 말아 주세요.|Đừng cho rau mùi nhé.|đừng=~하지 마라; rau mùi=고수
 3|너무 맵지 않게 해 주세요.|Làm ít cay thôi nhé.|ít=적게; cay=맵다
 3|얼음 넣지 마세요.|Không cho đá nhé.|đá=얼음
 3|맥주 두 병 더 주세요.|Cho thêm hai chai bia.|chai=병; bia=맥주
 3|계산서 주세요.|Cho tôi thanh toán.|
 3|제가 살게요.|Để tôi mời.|mời=대접하다
 3|아직 안 나왔어요.|Món của tôi chưa ra.|ra=나오다
-3|정말 맛있었어요.|Ngon lắm.|
 3|분짜 먹어 봤어요?|Anh ăn bún chả bao giờ chưa?|bún chả=분짜; bao giờ chưa=~해 본 적 있어요?
 3|하노이에서는 아침으로 쌀국수를 먹어요.|Ở Hà Nội người ta ăn phở vào bữa sáng.|người ta=사람들; bữa sáng=아침 식사
 3|에그 커피 마셔 보세요.|Anh thử uống cà phê trứng đi.|thử=시도하다; trứng=달걀
@@ -35,11 +34,11 @@
 5|북부 음식은 남부 음식보다 덜 달아요.|Món ăn miền Bắc ít ngọt hơn miền Nam.|miền Nam=남부
 5|하노이 사람들은 식재료의 신선함을 중요하게 생각해요.|Người Hà Nội rất coi trọng sự tươi ngon của nguyên liệu.|tươi ngon=신선한
 @shop
-3|좀 깎아 주세요.|Bớt cho tôi một chút.|bớt=깎다
+3|조금만 깎아 주세요.|Bớt cho tôi một chút.|bớt=깎다
 3|카드 돼요?|Có nhận thẻ không?|nhận=받다; thẻ=카드
 3|현금밖에 없어요.|Tôi chỉ có tiền mặt.|chỉ=오직
 3|거스름돈 주세요.|Trả lại tiền thừa cho tôi.|tiền thừa=거스름돈
-3|봉투 하나 주세요.|Cho tôi một cái túi.|túi=봉투
+3|봉투 한 장 주세요.|Cho tôi một cái túi.|túi=봉투
 3|다음에 올게요.|Lần sau tôi quay lại.|quay lại=다시 오다
 4|두 개 사면 더 싸게 해 주실 수 있어요?|Mua hai cái thì có bớt thêm không?|
 4|이 가격이 마지막이에요?|Giá này là giá cuối rồi à?|
@@ -47,7 +46,7 @@
 4|품질이 좋아 보이네요.|Trông chất lượng tốt đấy.|trông=보이다
 4|환불할 수 있어요?|Có hoàn tiền được không?|hoàn tiền=환불하다
 4|영수증 없으면 교환이 안 돼요.|Không có hóa đơn thì không đổi được.|
-4|온라인으로 주문했는데 아직 안 왔어요.|Tôi đặt hàng online mà chưa nhận được.|đặt hàng=주문하다
+4|온라인 주문한 게 아직 안 왔어요.|Tôi đặt hàng online mà chưa nhận được.|đặt hàng=주문하다
 4|배송이 며칠 걸려요?|Giao hàng mất mấy ngày?|mấy ngày=며칠
 4|무료 배송이에요?|Có miễn phí vận chuyển không?|
 4|세일 언제까지예요?|Khuyến mãi đến bao giờ?|đến bao giờ=언제까지

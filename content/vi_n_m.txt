@@ -4,7 +4,7 @@
 3|6개월 됐어요.|Được sáu tháng rồi.|
 3|일주일에 두 번 수업을 들어요.|Mỗi tuần tôi học hai buổi.|buổi=회(수업)
 3|선생님이 아주 친절해요.|Cô giáo rất nhiệt tình.|cô giáo=여선생님; nhiệt tình=열성적인
-3|숙제가 많아요.|Bài tập nhiều quá.|bài tập=숙제
+3|숙제가 너무 많아요.|Bài tập nhiều quá.|bài tập=숙제
 3|어떻게 발음해요?|Phát âm thế nào ạ?|
 3|한 번 더 읽어 주세요.|Đọc lại một lần nữa giúp tôi.|
 3|천천히 다시 말해 주세요.|Nói chậm lại giúp tôi.|

@@ -1,0 +1,49 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 스포츠 관람·반려동물·계절·돈 이야기
+@hobby
+4|오늘 밤 축구 경기 같이 볼래요?|Tối nay xem bóng đá cùng không?|
+4|베트남 대표팀 경기는 온 나라가 응원해요.|Trận của đội tuyển Việt Nam thì cả nước cổ vũ.|đội tuyển=대표팀; cổ vũ=응원하다
+4|이기면 사람들이 거리로 나와요.|Thắng là mọi người đổ ra đường.|đổ ra=쏟아져 나오다
+4|몇 대 몇이에요?|Tỷ số bao nhiêu rồi?|tỷ số=스코어
+4|전반전은 1대 0이에요.|Hiệp một đang 1-0.|hiệp một=전반전
+4|골! 정말 멋진 골이에요!|Vào! Bàn thắng đẹp quá!|bàn thắng=골
+4|심판 판정이 이상해요.|Trọng tài bắt lạ quá.|trọng tài=심판; bắt=판정하다
+4|연장전까지 갔어요.|Trận đấu phải đá hiệp phụ.|hiệp phụ=연장전
+4|승부차기에서 졌어요.|Thua trên chấm phạt đền.|chấm phạt đền=승부차기
+4|한국 야구 리그를 좋아해요.|Tôi thích giải bóng chày Hàn Quốc.|giải=리그
+4|어느 팀 팬이에요?|Anh là fan đội nào?|
+4|직관 가 본 적 있어요?|Anh đi xem trực tiếp ở sân bao giờ chưa?|sân=경기장
+4|경기장 분위기가 정말 뜨거웠어요.|Không khí trên sân cuồng nhiệt lắm.|cuồng nhiệt=열광적인
+4|요즘 마라톤 대회 준비 중이에요.|Dạo này tôi đang chuẩn bị chạy giải marathon.|
+4|하프 마라톤을 완주했어요.|Tôi đã chạy hết bán marathon.|bán=하프
+4|강아지 키우세요?|Anh có nuôi chó không?|chó=개
+4|고양이 두 마리를 키워요.|Tôi nuôi hai con mèo.|mèo=고양이
+4|아침저녁으로 산책시켜요.|Sáng tối tôi dắt nó đi dạo.|dắt=데리고 가다; đi dạo=산책하다
+4|동물 병원에 데려가야 해요.|Tôi phải đưa nó đi thú y.|thú y=동물 병원
+4|출장 가면 맡길 곳이 필요해요.|Đi công tác thì cần chỗ gửi nó.|
+@time
+4|하노이는 사계절이 뚜렷해요.|Hà Nội có bốn mùa rõ rệt.|bốn mùa=사계절
+4|여름에는 40도 가까이 올라가요.|Mùa hè có lúc lên gần 40 độ.|độ=도
+4|습도가 높아서 더 덥게 느껴져요.|Độ ẩm cao nên thấy nóng hơn.|độ ẩm=습도
+4|가을 날씨가 제일 선선해요.|Thời tiết mùa thu mát mẻ nhất.|mát mẻ=선선한
+4|겨울에는 난방이 없어서 집이 추워요.|Mùa đông không có sưởi nên trong nhà lạnh.|sưởi=난방
+4|오늘 미세먼지가 심하니까 창문 닫아요.|Hôm nay bụi mịn nhiều, đóng cửa sổ lại nhé.|
+4|일기 예보에서 내일 태풍이 온대요.|Dự báo thời tiết nói mai có bão.|dự báo thời tiết=일기 예보
+4|장마철이라 빨래가 안 말라요.|Mùa mưa nên quần áo không khô.|mùa mưa=우기
+4|날씨 때문에 계획을 바꿔야겠어요.|Vì thời tiết nên phải đổi kế hoạch.|
+5|날씨가 사람의 기분에 이렇게 큰 영향을 주는 줄 몰랐어요.|Tôi không ngờ thời tiết lại ảnh hưởng lớn đến tâm trạng như vậy.|ngờ=예상하다; tâm trạng=기분
+@econ
+4|요즘 금 사는 사람이 많아요.|Dạo này nhiều người mua vàng lắm.|
+4|베트남 사람들은 금을 안전 자산으로 생각해요.|Người Việt coi vàng là tài sản an toàn.|
+4|요즘 주식 시장이 좋아요.|Dạo này thị trường chứng khoán đang tốt.|
+4|저는 적금만 해요.|Tôi chỉ gửi tiết kiệm thôi.|gửi tiết kiệm=예금하다
+4|대출받아서 집을 샀어요.|Tôi vay tiền mua nhà.|vay=빌리다
+4|매달 할부로 갚고 있어요.|Tôi đang trả góp hằng tháng.|trả góp=할부로 갚다
+4|환율이 좋을 때 환전하려고요.|Tôi định đổi tiền khi tỷ giá tốt.|
+4|요즘 달러가 비싸요.|Dạo này đô la đắt.|
+4|월급의 30%는 저축해요.|Tôi để dành 30% lương.|để dành=모아 두다
+4|이번 달 지출이 너무 많아요.|Tháng này chi tiêu nhiều quá.|
+4|충동구매를 줄이려고 해요.|Tôi cố hạn chế mua sắm bốc đồng.|bốc đồng=충동적인
+5|투자는 남의 말보다 내 기준이 중요해요.|Trong đầu tư, nguyên tắc của bản thân quan trọng hơn lời người khác.|
+5|분산 투자가 위험을 줄이는 기본이에요.|Đa dạng hóa danh mục là nguyên tắc cơ bản để giảm rủi ro.|danh mục=포트폴리오
+5|급하게 번 돈은 급하게 나가요.|Tiền dễ đến thì cũng dễ đi.|
+5|돈보다 시간이 더 귀한 자원이에요.|Thời gian là nguồn lực quý hơn tiền bạc.|tiền bạc=돈

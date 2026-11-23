@@ -44,9 +44,9 @@
 4|이상한 링크는 누르지 마세요.|Đừng bấm vào đường link lạ.|bấm=누르다; lạ=낯선
 4|계정이 해킹당했어요.|Tài khoản của tôi bị hack.|
 4|2단계 인증을 설정하세요.|Anh nên cài xác thực hai lớp.|cài=설정하다; hai lớp=2단계
-4|요즘 AI로 번역을 많이 해요.|Dạo này tôi dịch bằng AI nhiều.|dịch=번역하다
+4|요즘은 번역을 AI로 많이 해요.|Dạo này tôi dịch bằng AI nhiều.|dịch=번역하다
 4|번역기가 가끔 이상하게 번역해요.|Máy dịch đôi khi dịch rất buồn cười.|máy dịch=번역기
-4|화상 회의 링크 보내 드릴게요.|Tôi sẽ gửi link họp trực tuyến.|
+4|온라인 회의 링크 보낼게요.|Tôi sẽ gửi link họp trực tuyến.|
 4|마이크가 꺼져 있어요.|Micro của anh đang tắt.|
 4|화면 공유해 주시겠어요?|Anh chia sẻ màn hình được không?|
 5|기술이 편리하지만 가끔은 디지털 디톡스가 필요해요.|Công nghệ thì tiện, nhưng đôi khi cần cai nghiện thiết bị số.|cai nghiện=끊다(중독); thiết bị số=디지털 기기

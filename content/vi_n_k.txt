@@ -39,7 +39,7 @@
 4|휴대폰 사용 시간을 줄이려고 해요.|Tôi đang cố giảm thời gian dùng điện thoại.|
 4|가끔은 혼자만의 시간이 필요해요.|Đôi khi tôi cần thời gian cho riêng mình.|cho riêng mình=나만의
 4|이번 달은 돈을 좀 아껴 써야 해요.|Tháng này tôi phải tiêu tiền tiết kiệm một chút.|tiêu tiền=돈을 쓰다
-4|가계부를 쓰기 시작했어요.|Tôi bắt đầu ghi chép chi tiêu.|ghi chép=기록하다
+4|지출 기록을 시작했어요.|Tôi bắt đầu ghi chép chi tiêu.|ghi chép=기록하다
 4|월급날까지 일주일 남았어요.|Còn một tuần nữa mới đến ngày lương.|ngày lương=월급날
 4|은행에 적금을 들었어요.|Tôi đã mở sổ tiết kiệm ở ngân hàng.|sổ tiết kiệm=적금 통장
 4|대출 이자가 부담돼요.|Lãi vay là một gánh nặng.|lãi vay=대출 이자

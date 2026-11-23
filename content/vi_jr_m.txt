@@ -1,0 +1,40 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 짧은 브리핑 문장 (경제·기술·에너지·사회)
+@econ
+4|정부는 휘발유 환경세를 인하했다.|Chính phủ giảm thuế bảo vệ môi trường đối với xăng dầu.|thuế bảo vệ môi trường=환경세
+4|하노이 아파트 가격이 1년 새 30% 올랐다.|Giá chung cư Hà Nội tăng 30% trong một năm.|
+4|분양 시장에 다시 활기가 돌고 있다.|Thị trường nhà ở mới mở bán đang sôi động trở lại.|mở bán=분양하다
+4|노동자 송금이 명절을 앞두고 늘었다.|Lượng kiều hối tăng trước dịp Tết.|
+4|무역 적자국으로 돌아섰다.|Cán cân thương mại chuyển sang nhập siêu.|cán cân thương mại=무역 수지; nhập siêu=무역 적자
+4|올해 수출 목표는 4,500억 달러다.|Mục tiêu xuất khẩu năm nay là 450 tỷ USD.|
+4|섬유 의류 수출이 회복세를 보이고 있다.|Xuất khẩu dệt may đang trên đà phục hồi.|dệt may=섬유 의류; trên đà=~추세에 있는
+4|목재 가구 수출이 미국 시장에 집중돼 있다.|Xuất khẩu đồ gỗ tập trung vào thị trường Mỹ.|đồ gỗ=목재 가구
+4|국경 무역 통관이 지연되고 있다.|Thông quan hàng hóa tại cửa khẩu đang bị ách tắc.|thông quan=통관; cửa khẩu=국경 검문소; ách tắc=정체
+4|베트남 동화가 주변국 통화보다 안정적이다.|Đồng Việt Nam ổn định hơn các đồng tiền trong khu vực.|đồng tiền=통화
+@tech
+4|국내 첫 반도체 칩 생산 공장이 착공됐다.|Nhà máy sản xuất chip bán dẫn đầu tiên trong nước đã khởi công.|
+4|베트남 우주 위성이 발사됐다.|Vệ tinh của Việt Nam đã được phóng lên quỹ đạo.|vệ tinh=위성; phóng=발사하다; quỹ đạo=궤도
+4|전자 의료 기록이 전국 병원에 도입된다.|Hồ sơ bệnh án điện tử được triển khai tại các bệnh viện trên cả nước.|hồ sơ bệnh án=의료 기록
+4|운전면허증을 앱으로 확인할 수 있게 됐다.|Có thể xuất trình giấy phép lái xe qua ứng dụng.|xuất trình=제시하다
+4|통신사들이 3G 서비스를 종료한다.|Các nhà mạng sẽ dừng cung cấp dịch vụ 3G.|dừng=중단하다
+4|스팸 전화 차단 조치가 강화됐다.|Biện pháp chặn cuộc gọi rác được siết chặt.|chặn=차단하다; cuộc gọi rác=스팸 전화
+4|온라인 게임 이용 시간 제한이 논의되고 있다.|Việc giới hạn thời gian chơi game trực tuyến đang được bàn thảo.|bàn thảo=논의하다
+4|위성 인터넷 서비스가 시범 허가를 받았다.|Dịch vụ Internet vệ tinh đã được cấp phép thử nghiệm.|
+@energy
+4|전력 공사가 여름철 전력 공급 계획을 발표했다.|Tập đoàn Điện lực công bố kế hoạch cung ứng điện mùa hè.|Tập đoàn Điện lực=전력 공사(EVN); cung ứng=공급하다
+4|북부 지역 저수지 수위가 낮다.|Mực nước các hồ thủy điện miền Bắc đang thấp.|hồ thủy điện=수력 저수지
+4|라오스에서 전력 수입을 늘린다.|Tăng nhập khẩu điện từ Lào.|Lào=라오스
+4|500kV 송전선 3회선이 준공됐다.|Đường dây 500kV mạch 3 đã hoàn thành.|đường dây=송전선; mạch=회선
+4|전기차 충전소가 전국에 확대되고 있다.|Trạm sạc xe điện đang được mở rộng trên toàn quốc.|trạm sạc=충전소
+4|가스 가격 인상으로 발전 원가가 올랐다.|Giá khí tăng khiến giá thành sản xuất điện tăng.|giá thành=원가
+4|정부는 소형 원자로 도입을 검토하고 있다.|Chính phủ đang nghiên cứu khả năng sử dụng lò phản ứng hạt nhân nhỏ.|lò phản ứng=원자로
+@society
+4|국경일 연휴 동안 관광지가 붐볐다.|Các điểm du lịch đông nghịt trong kỳ nghỉ lễ Quốc khánh.|đông nghịt=인산인해; Quốc khánh=국경일
+4|하노이 구시가지 재정비 계획이 발표됐다.|Kế hoạch chỉnh trang khu phố cổ Hà Nội đã được công bố.|chỉnh trang=재정비하다
+4|도로 위 불법 주차 단속이 강화된다.|Xử lý đỗ xe trái phép trên đường sẽ được tăng cường.|
+4|교통 위반 벌금이 크게 올랐다.|Mức phạt vi phạm giao thông tăng mạnh.|mức phạt=벌금
+4|헬멧 미착용 단속이 강화됐다.|Kiểm tra việc không đội mũ bảo hiểm được siết chặt.|mũ bảo hiểm=헬멧
+4|공립 학교 학비가 전면 면제됐다.|Học phí trường công lập được miễn hoàn toàn.|công lập=공립
+4|은퇴 연령이 점진적으로 높아진다.|Tuổi nghỉ hưu sẽ được nâng dần.|nghỉ hưu=은퇴하다
+4|한국 기업이 장학금을 전달했다.|Một doanh nghiệp Hàn Quốc đã trao học bổng.|trao=전달하다; học bổng=장학금
+5|교통 문화 개선 없이는 인프라 확충도 한계가 있다.|Nếu không cải thiện văn hóa giao thông thì mở rộng hạ tầng cũng có giới hạn.|
+5|규정은 있지만 집행이 엄격하지 않다는 지적이 많다.|Nhiều ý kiến cho rằng quy định thì có nhưng thực thi chưa nghiêm.|

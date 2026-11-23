@@ -13,7 +13,7 @@
 4|검사 결과는 언제 나와요?|Bao giờ có kết quả xét nghiệm?|xét nghiệm=검사
 4|처방전을 주세요.|Cho tôi đơn thuốc.|đơn thuốc=처방전
 4|응급실이 어디예요?|Phòng cấp cứu ở đâu?|cấp cứu=응급
-4|구급차를 불러 주세요!|Gọi xe cấp cứu giúp tôi!|
+4|구급차 좀 불러 주세요!|Gọi xe cấp cứu giúp tôi!|
 4|요즘 몸이 좀 무거워요.|Dạo này người tôi hơi uể oải.|uể oải=나른한
 4|운동을 꾸준히 해야겠어요.|Tôi phải tập thể dục đều đặn.|đều đặn=꾸준히
 4|물을 많이 드세요.|Anh nhớ uống nhiều nước.|

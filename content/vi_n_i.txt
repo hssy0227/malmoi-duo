@@ -13,7 +13,6 @@
 3|어쩔 수 없죠.|Biết làm sao được.|làm sao=어떻게
 3|별거 아니에요.|Chuyện nhỏ thôi mà.|chuyện nhỏ=사소한 일
 3|아이고!|Trời ơi!|trời ơi=세상에
-3|그만해요.|Thôi đi.|thôi=그만
 3|됐어요.|Thôi được rồi.|
 3|알았어요, 알았어.|Biết rồi, biết rồi.|
 3|어떡해!|Làm sao bây giờ!|bây giờ=지금
