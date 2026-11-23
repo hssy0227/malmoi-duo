@@ -1,0 +1,79 @@
+# 저널·뉴스형 (직접 작성) — IT·기술 2, 일·조직
+@tech
+4|새 스마트폰이 출시 첫 주에 품절됐다.|The new smartphone sold out in its first week.|sell out=매진되다
+4|대형 플랫폼이 서비스 장애로 몇 시간 동안 멈췄다.|A major platform went down for hours due to an outage.|outage=장애
+4|AI 챗봇이 고객 상담의 절반을 처리하고 있다.|AI chatbots are handling half of all customer inquiries.|inquiry=문의
+4|정부가 공공 서비스에 AI를 도입한다.|The government is bringing AI into public services.|public service=공공 서비스
+4|해커들이 기업 이메일을 노리고 있다.|Hackers are targeting corporate email accounts.|target=노리다
+4|웨어러블 기기가 건강 관리를 바꾸고 있다.|Wearable devices are changing how people manage their health.|wearable=착용형 기기
+4|게임 산업이 구조 조정에 들어갔다.|The gaming industry is going through a restructuring.|go through=겪다
+4|AI 번역의 정확도가 크게 높아졌다.|AI translation has become far more accurate.|accurate=정확한
+4|드론 배송이 일부 도시에서 시작됐다.|Drone deliveries have begun in some cities.|drone=드론
+4|소프트웨어 업데이트로 전기차 성능이 향상됐다.|A software update improved the EV's performance.|performance=성능
+4|기업들이 직원들의 AI 사용을 장려하고 있다.|Companies are encouraging employees to use AI.|encourage=장려하다
+4|스마트 공장이 인력 부족의 해법으로 떠오르고 있다.|Smart factories are emerging as a solution to labor shortages.|
+4|개인정보 보호법 위반으로 거액의 과징금이 부과됐다.|A huge fine was imposed for violating privacy laws.|impose=부과하다; violate=위반하다
+4|음성 비서가 다시 주목받고 있다.|Voice assistants are back in the spotlight.|in the spotlight=주목받는
+4|클라우드 게임이 콘솔 시장을 위협하고 있다.|Cloud gaming is challenging the console market.|console=게임기
+4|AI 기반 신약 개발이 속도를 내고 있다.|AI-driven drug discovery is picking up speed.|drug discovery=신약 개발
+4|가상 현실 기기 판매가 기대에 못 미쳤다.|Sales of VR headsets fell short of expectations.|fall short of=~에 못 미치다
+4|기업들이 사이버 보안 예산을 늘리고 있다.|Companies are boosting their cybersecurity budgets.|
+4|전자 상거래 사기가 늘어나고 있다.|E-commerce fraud is on the rise.|fraud=사기
+4|검색 시장의 판도가 흔들리고 있다.|The search market is being shaken up.|
+5|AI는 도구일 뿐, 목적을 정하는 건 사람이다.|AI is just a tool; it's people who set the goals.|
+5|기술이 편리해질수록 의존도도 높아진다.|The more convenient technology becomes, the more we depend on it.|
+5|데이터를 가진 자가 아니라 활용하는 자가 이긴다.|It's not those who have data who win, but those who use it.|
+5|알고리즘의 편향은 사회의 편향을 비춘다.|Algorithmic bias reflects society's own biases.|bias=편향
+5|기술 혁신의 혜택이 모두에게 돌아가는 것은 아니다.|Not everyone shares in the benefits of technological innovation.|share in=함께 누리다
+5|사이버 공격 한 번으로 기업 가치가 무너질 수 있다.|A single cyberattack can wipe out a company's value.|wipe out=없애 버리다
+5|AI의 결정 과정을 설명할 수 있어야 신뢰받는다.|AI earns trust only when its decisions can be explained.|earn trust=신뢰를 얻다
+5|플랫폼 노동자의 권리 보호가 새로운 과제로 떠올랐다.|Protecting the rights of platform workers has become a new challenge.|platform worker=플랫폼 노동자
+5|기술 기업에 대한 규제가 세계적으로 강화되고 있다.|Regulation of tech companies is tightening worldwide.|
+5|디지털 주권이 국가 전략의 핵심이 되었다.|Digital sovereignty has become central to national strategy.|sovereignty=주권
+5|기술 변화는 과대평가되기도, 과소평가되기도 한다.|Technological change tends to be overestimated in the short run and underestimated in the long run.|overestimate=과대평가하다
+5|사용자 경험이 기술력만큼 중요하다.|User experience matters as much as technical prowess.|prowess=기량
+5|AI가 만든 결과물의 저작권은 여전히 회색 지대다.|Copyright for AI-generated work remains a gray area.|gray area=회색 지대
+5|인터넷의 다음 10년은 신뢰를 둘러싼 싸움이 될 것이다.|The next decade of the internet will be a battle over trust.|
+5|기술 기업의 성장 신화가 끝나 가고 있다.|The myth of endless growth at tech companies is fading.|myth=신화
+@work
+4|직장인들이 부업으로 수입을 보충하고 있다.|Workers are supplementing their income with side hustles.|side hustle=부업; supplement=보충하다
+4|이직률이 최근 몇 년 사이 가장 낮다.|Job-hopping is at its lowest in years.|job-hopping=잦은 이직
+4|기업들이 사내 교육에 AI를 도입하고 있다.|Companies are bringing AI into in-house training.|in-house=사내의
+4|성과급 제도를 둘러싼 갈등이 커지고 있다.|Disputes over bonus systems are growing.|bonus=성과급
+4|청년들이 대기업보다 워라밸을 중시한다.|Young people value work-life balance over working at big firms.|
+4|원격 근무자의 비율이 다시 줄고 있다.|The share of remote workers is shrinking again.|share=비율
+4|직장 내 괴롭힘 신고가 늘었다.|Reports of workplace harassment have increased.|harassment=괴롭힘
+4|기업들이 다양성 정책을 재검토하고 있다.|Companies are rethinking their diversity policies.|diversity=다양성
+4|노조가 파업을 예고했다.|The union has threatened to strike.|union=노조; strike=파업하다
+4|정년 연장 논의가 본격화되고 있다.|Talks on raising the retirement age are heating up.|retirement age=정년; heat up=달아오르다
+5|좋은 인재는 연봉보다 성장 기회를 보고 움직인다.|Top talent moves for growth opportunities, not just salary.|
+5|관리자의 가장 중요한 역할은 장애물을 치워 주는 것이다.|A manager's most important job is clearing obstacles.|clear=치우다
+5|회의가 많은 조직일수록 실행이 느리다.|The more meetings an organization has, the slower it executes.|
+5|원격 근무 시대에는 글쓰기가 핵심 역량이다.|In the age of remote work, writing is a core skill.|core=핵심의
+5|성과는 개인이 아니라 시스템에서 나온다.|Performance comes from systems, not just individuals.|
+5|조직 개편은 문제를 해결하기보다 덮는 경우가 많다.|Reorganizations often cover up problems rather than solve them.|cover up=덮다
+5|직원 경험이 고객 경험을 결정한다.|Employee experience shapes customer experience.|
+5|신뢰가 없는 조직에서는 규칙이 늘어난다.|Organizations without trust end up with more rules.|end up=결국 ~하게 되다
+5|일의 의미를 느끼는 직원이 더 오래 머문다.|Employees who find meaning in their work stay longer.|
+5|세대 차이보다 개인 차이가 더 크다.|Individual differences matter more than generational ones.|
+5|리더십은 직책이 아니라 행동이다.|Leadership is about behavior, not titles.|title=직함
+5|좋은 피드백은 구체적이고 시의적절하다.|Good feedback is specific and timely.|timely=시의적절한
+5|인재 유출은 조직 문화의 경고등이다.|Losing talent is a warning light for company culture.|warning light=경고등
+5|협업 도구가 늘수록 집중할 시간은 줄어든다.|The more collaboration tools we have, the less time we have to focus.|
+5|변화 관리는 소통에서 시작해 소통으로 끝난다.|Change management begins and ends with communication.|change management=변화 관리
+@society
+4|주말 근무 제한 법안이 통과됐다.|A bill limiting weekend work has passed.|
+4|1인 가구가 전체 가구의 3분의 1을 넘었다.|Single-person households now make up over a third of all households.|single-person household=1인 가구; make up=차지하다
+4|반려동물 관련 산업이 빠르게 성장하고 있다.|The pet industry is growing rapidly.|pet=반려동물
+4|외로움이 공중 보건 문제로 떠올랐다.|Loneliness has emerged as a public health issue.|loneliness=외로움
+4|도시 공원 확충을 요구하는 목소리가 커지고 있다.|Calls for more urban parks are growing louder.|call for=요구
+4|노인 돌봄 인력이 부족하다.|There is a shortage of elderly care workers.|elderly care=노인 돌봄
+4|대중교통 요금 인상이 발표됐다.|A public transit fare increase was announced.|fare=요금
+4|문해력 저하에 대한 우려가 커지고 있다.|Concerns about declining literacy are mounting.|literacy=문해력
+4|자원봉사에 참여하는 청년이 늘었다.|More young people are volunteering.|volunteer=자원봉사하다
+4|폭우로 도심 곳곳이 침수됐다.|Heavy rain flooded parts of the city.|flood=침수시키다
+5|돌봄은 개인의 책임에서 사회의 책임으로 옮겨 가고 있다.|Care is shifting from an individual responsibility to a social one.|
+5|혼자 사는 사람이 늘수록 공동체의 역할이 중요해진다.|As more people live alone, community matters more.|
+5|기후 재난은 가장 취약한 계층에게 가장 큰 피해를 준다.|Climate disasters hit the most vulnerable hardest.|vulnerable=취약한
+5|교육과 주거 문제는 저출생 문제와 연결돼 있다.|Education and housing are tied to the low birth rate.|be tied to=~와 연결되다
+5|공정에 대한 감수성이 그 어느 때보다 높다.|Sensitivity to fairness is higher than ever.|sensitivity=감수성; fairness=공정
