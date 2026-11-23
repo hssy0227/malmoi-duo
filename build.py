@@ -9,7 +9,7 @@ CATS = [
     ("greet", "인사·스몰토크"), ("daily", "일상·가족"), ("home", "집·날씨"), ("food", "음식·요리"),
     ("shop", "쇼핑·돈"), ("travel", "여행·교통"), ("time", "시간·약속"), ("health", "건강·문제해결"),
     ("hobby", "취미·문화"), ("movie", "영화·책"), ("opinion", "의견·경험"), ("study", "배움·시험"),
-    ("work", "업무·경영"), ("econ", "경제·금융·에너지"), ("tech", "IT·AI"),
+    ("work", "업무·경영"), ("econ", "경제·금융·에너지"), ("society", "사회·정치·외교"), ("tech", "IT·AI"),
 ]
 CAT_MAP = {
     "social": "greet", "family": "daily", "nature": "home", "cook": "food", "money": "shop",
@@ -29,6 +29,8 @@ SOURCES = [
     ("TF", "토플", "토플 강의 주제(생물·지구과학·역사·문학 등)와 스피킹 의견·경험 답변 형식으로 직접 작성한 문장이에요."),
     ("Biz", "비즈니스", "첨부해 주신 비즈니스 영어 DB(경영·조직·경제·금융·IT·AI·에너지)예요. 영문 예문은 그대로 두고 한국어 해석과 단어 뜻을 붙였어요."),
     ("Mv", "영화 구어", "베트남어 자막 빈도 목록(OpenSubtitles, CC BY-SA)에서 빠져 있던 구어·반말·사극 표현을 영화 대사 형식으로 직접 작성한 문장이에요."),
+    ("Jr", "저널·뉴스", "경제·사회·정치·외교·IT·커머스 분야의 최근 1~2년 주요 이슈를 바탕으로, 저널 헤드라인과 기사 핵심 문장 형식으로 직접 새로 작성한 문장이에요. 실제 기사 문장을 옮기지 않았어요."),
+    ("Mt", "비즈니스 미팅", "회의 시작·안건·의견 조율·협상·후속 조치 등 실제 미팅 흐름에 맞춰 직접 작성한 문장이에요."),
     ("Adv", "고급", "베트남어 능력 기준 5등급(CEFR C1) 수준의 시사·속담·격식체·추상 토론 주제로 직접 작성한 문장이에요."),
 ]
 SRC_FILE = {"en_e.txt": "TE", "en_f.txt": "TE", "en_i.txt": "TE", "en_l.txt": "TE", "en_g.txt": "TF",
@@ -36,6 +38,10 @@ SRC_FILE = {"en_e.txt": "TE", "en_f.txt": "TE", "en_i.txt": "TE", "en_l.txt": "T
 
 
 def src_of(fname, cat):
+    if fname[3:6] == "jr_":
+        return "Jr"
+    if fname[3:6] == "mt_":
+        return "Mt"
     if fname == "en_x_biz.txt":
         return "TE" if cat == "toeic" else "Biz"
     if fname == "en_h.txt":

@@ -176,7 +176,7 @@ h3{font-size:14px;margin:20px 0 8px;color:var(--mut);font-weight:700}
 .it .side{display:flex;align-items:center;gap:4px;min-height:40px}
 .it .side .star{width:32px;height:36px}
 .sg{display:inline-flex;align-items:center;justify-content:center;min-width:24px;height:18px;padding:0 4px;border-radius:5px;border:1px solid currentColor;font-size:10.5px;font-weight:800;line-height:1;letter-spacing:.02em;white-space:nowrap;color:var(--sgc,var(--mut))}
-.sg[data-k=G]{--sgc:#7b8794}.sg[data-k=NG]{--sgc:#2f9e5b}.sg[data-k=TE]{--sgc:#3b7bd9}.sg[data-k=TF]{--sgc:#8a63d2}.sg[data-k=Biz]{--sgc:#0f9488}.sg[data-k=Mv]{--sgc:#d9486a}.sg[data-k=Adv]{--sgc:#c77a0c}
+.sg[data-k=G]{--sgc:#7b8794}.sg[data-k=NG]{--sgc:#2f9e5b}.sg[data-k=TE]{--sgc:#3b7bd9}.sg[data-k=TF]{--sgc:#8a63d2}.sg[data-k=Biz]{--sgc:#0f9488}.sg[data-k=Mv]{--sgc:#d9486a}.sg[data-k=Adv]{--sgc:#c77a0c}.sg[data-k=Jr]{--sgc:#5363d6}.sg[data-k=Mt]{--sgc:#8f7a12}
 .legend{display:flex;align-items:center;gap:6px;margin-top:6px}
 .legend .lgl{flex:none;font-size:12px;font-weight:700;color:var(--mut)}
 .legend .hscroll{flex:1;-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:18px}
@@ -525,17 +525,41 @@ function quizPool(){
   if(QS.type==="c")pl=pl.filter(it=>it.kind==="s"&&clozeOf(it));
   return pl;
 }
+/* 오답 보기: 같은 상황·비슷한 레벨·비슷한 길이·글자 겹침이 있는 것을 우선 (너무 같으면 제외) */
+const bigr=s=>{const t=s.toLowerCase().replace(/[\s.,!?'"~…·()\-:;]/g,"");const o=new Set();for(let i=0;i<t.length-1;i++)o.add(t.slice(i,i+2));return o};
+const jac=(a,b)=>{if(!a.size||!b.size)return 0;let n=0;for(const x of a)if(b.has(x))n++;return n/(a.size+b.size-n)};
 function distract(L,it,field){
-  const base=allOf(L,it.kind==="w"?"w":"s").filter(x=>x.id!==it.id&&x[field]!==it[field]);
-  const same=shuffle(base.filter(x=>x.c===it.c)), other=shuffle(base.filter(x=>x.c!==it.c));
-  const out=[],seen=new Set([it[field]]);
-  for(const x of same.slice(0,2).concat(other,same.slice(2))){if(out.length>=3)break;if(!seen.has(x[field])){seen.add(x[field]);out.push(x[field])}}
+  const base=allOf(L,it.kind==="w"?"w":"s"), v=it[field], bg=bigr(v), q=/\?$/.test(v), end=v.replace(/[.!?]+$/,"").slice(-1);
+  const cand=base.length>900?shuffle(base.slice()).slice(0,900):base, sc=[];
+  for(const x of cand){
+    const w=x[field];if(x.id===it.id||!w||w===v||w.includes(v)||v.includes(w))continue;
+    const r=w.length/v.length;if(r<.5||r>2)continue;
+    const j=jac(bg,bigr(w));if(j>.55)continue;
+    let s=0;if(x.c===it.c)s+=3;s+=Math.max(0,2-Math.abs(x.l-it.l));s+=2*(1-Math.min(1,Math.abs(1-r)));s+=5*j;
+    if(/\?$/.test(w)===q)s+=1.5;if(w.replace(/[.!?]+$/,"").slice(-1)===end)s+=1;if((x.s||"G")===(it.s||"G"))s+=1;
+    sc.push([s+Math.random()*1.2,w])}
+  sc.sort((a,b)=>b[0]-a[0]);
+  const out=[],seen=new Set([v]);for(const [,w] of sc){if(out.length>=3)break;if(!seen.has(w)){seen.add(w);out.push(w)}}
+  for(const x of shuffle(base.slice())){if(out.length>=3)break;const w=x[field];if(w&&!seen.has(w)){seen.add(w);out.push(w)}}
+  return out;
+}
+/* 빈칸 보기: 음절(단어) 수·길이·어미가 비슷한 단어 */
+function clozeOpts(L,it,term){
+  const tl=term.toLowerCase(),nw=t=>t.trim().split(/\s+/).length,tn=nw(term),cap=/^\p{Lu}/u.test(term);
+  const suf=L==="en"?((tl.match(/(ing|ed|ly|tion|sion|ment|ness|ity|er|est|al|ive|ous|s)$/)||[""])[0]):"";
+  const low=it.t.toLowerCase(),sc=[];
+  for(const w of shuffle(WORD[L].slice()).slice(0,1200)){
+    const x=w.t,xl=x.toLowerCase();if(xl===tl||/\.\.\.|~|\/|=/.test(x)||low.includes(xl))continue;
+    let s=0;if(nw(x)===tn)s+=3;s+=Math.max(0,2-Math.abs(x.length-term.length)/3);if(suf&&xl.endsWith(suf))s+=2;if(w.c===it.c)s+=1.5;s+=Math.max(0,1.5-Math.abs(w.l-it.l));
+    sc.push([s+Math.random(),x])}
+  sc.sort((a,b)=>b[0]-a[0]);
+  const out=[],seen=new Set([tl]);for(const [,x] of sc){if(out.length>=3)break;if(!seen.has(x.toLowerCase())){seen.add(x.toLowerCase());out.push(cap?x.charAt(0).toUpperCase()+x.slice(1):(x===x.toUpperCase()?x:x.charAt(0).toLowerCase()+x.slice(1)))}}
   return out;
 }
 const canListen=L=>hasTTS&&!(VOICES.length&&!voicesFor(L).length);
 function makeQ(L,it,t){
   if(t==="r"){const c=["m","e"];if(canListen(L))c.push("l");if(it.kind==="s"&&clozeOf(it))c.push("c");t=c[Math.floor(Math.random()*c.length)]}
-  if(t==="c"){const cz=clozeOf(it);if(!cz)return null;const terms=shuffle(WORD[L].map(w=>w.t).filter(x=>x.toLowerCase()!==cz.term.toLowerCase()&&!/\.\.\.|~|\//.test(x)&&!it.t.toLowerCase().includes(x.toLowerCase()))).slice(0,3);return {id:it.id,t,cz,ans:cz.term,opts:shuffle([cz.term,...terms])}}
+  if(t==="c"){const cz=clozeOf(it);if(!cz)return null;const terms=clozeOpts(L,it,cz.term);return {id:it.id,t,cz,ans:cz.term,opts:shuffle([cz.term,...terms])}}
   const f=t==="e"?"t":"k";return {id:it.id,t,ans:it[f],opts:shuffle([it[f],...distract(L,it,f)])};
 }
 function startQuiz(retry){
