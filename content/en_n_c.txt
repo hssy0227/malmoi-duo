@@ -1,0 +1,75 @@
+# 일상 회화 확장 (직접 작성) — 의견·토론·경험 이야기 (B1~B2)
+@opinion
+3|제 생각엔 그게 최선이에요.|If you ask me, that's the best option.|if you ask me=내 생각엔
+3|그건 좀 아닌 것 같아요.|I'm not so sure about that.|
+3|어느 쪽이든 괜찮아요.|Either way works for me.|either way=어느 쪽이든
+3|장단점이 있죠.|There are pros and cons.|pros and cons=장단점
+3|솔직히 잘 모르겠어요.|Honestly, I'm not sure.|
+3|저라면 다르게 했을 거예요.|I would have done it differently.|
+3|그건 좀 과장된 것 같아요.|I think that's a bit of an exaggeration.|exaggeration=과장
+3|그렇게 단정 짓기는 어려워요.|It's hard to say for sure.|for sure=확실히
+4|제 경험상 그건 잘 안 통해요.|In my experience, that doesn't really work.|
+4|반대로 생각해 보면 기회일 수도 있어요.|Looked at another way, it could be an opportunity.|
+4|그건 동전의 양면 같은 거예요.|It's two sides of the same coin.|
+4|결국 중요한 건 타이밍이에요.|At the end of the day, timing is everything.|at the end of the day=결국
+4|요즘 사람들은 경험에 더 돈을 쓰는 것 같아요.|People seem to spend more on experiences these days.|
+4|SNS가 사람들을 더 외롭게 만든다고 생각해요.|I think social media makes people lonelier.|lonely=외로운
+4|재택근무가 모두에게 맞는 건 아니에요.|Remote work isn't for everyone.|
+4|돈보다 시간이 더 소중하다고 느껴요.|I've come to feel that time is worth more than money.|come to=~하게 되다
+4|기술이 편리해질수록 사람들은 덜 기다리려고 해요.|The more convenient technology gets, the less patient people become.|patient=참을성 있는
+4|AI가 일자리를 뺏기보다는 일을 바꿀 거라고 봐요.|I think AI will change jobs rather than take them away.|take away=빼앗다
+4|아이들은 어릴 때 많이 놀아야 한다고 생각해요.|I believe kids should play a lot when they're young.|
+4|그 영화는 평이 엇갈리지만 저는 좋았어요.|The movie got mixed reviews, but I liked it.|mixed reviews=엇갈린 평
+4|물가가 너무 올라서 외식하기가 부담스러워요.|Prices have gone up so much that eating out feels like a splurge.|splurge=사치
+4|집값이 너무 올라서 젊은 사람들이 힘들어요.|Housing has gotten so expensive that young people are struggling.|
+4|요즘은 평생 직장이라는 개념이 거의 없죠.|The idea of a job for life has pretty much disappeared.|job for life=평생 직장
+4|외국어를 배우면 세상을 보는 눈이 넓어져요.|Learning a language opens up a whole new way of seeing the world.|open up=열어 주다
+4|저는 실패도 경험이라고 생각해요.|To me, failure is just another kind of experience.|
+4|무엇을 하든 건강이 먼저예요.|Whatever you do, your health comes first.|come first=가장 중요하다
+4|그 결정은 성급했던 것 같아요.|I think that decision was a bit hasty.|hasty=성급한
+4|좋은 질문이네요. 생각해 본 적이 없어요.|Good question. I've never really thought about it.|
+4|제가 틀렸을 수도 있지만, 제 생각은 이래요.|I could be wrong, but here's what I think.|
+4|그 의견도 존중해요.|I respect that point of view.|point of view=관점
+4|둘 다 맞는 말이에요.|You both have a point.|have a point=일리가 있다
+4|정답은 없는 문제 같아요.|I don't think there's a right answer to this.|
+4|일단 해 보고 판단하는 게 낫지 않을까요?|Wouldn't it be better to try it first and then decide?|
+4|그건 지나친 일반화예요.|That's an overgeneralization.|overgeneralization=지나친 일반화
+4|문제는 그게 아니라 소통 방식이에요.|That's not the problem; it's how we communicate.|
+4|전 의견이 좀 달라요. 왜냐하면요…|I see it a bit differently, because...|
+4|결론적으로 저는 찬성이에요.|All in all, I'm in favor.|all in all=결론적으로; in favor=찬성하는
+5|그 정책은 의도는 좋지만 부작용이 클 것 같아요.|The policy means well, but I think the side effects could be big.|mean well=의도가 좋다; side effect=부작용
+5|단기적으로는 손해지만 장기적으로는 이득이에요.|It's a loss in the short term but a gain in the long run.|
+5|기술 발전 속도를 사람들이 못 따라가고 있어요.|People can't keep up with how fast technology is moving.|keep up with=따라가다
+5|그건 개인의 문제가 아니라 구조적인 문제예요.|It's not an individual problem; it's a structural one.|structural=구조적인
+5|모두가 같은 출발선에 서 있지 않다는 걸 인정해야 해요.|We have to admit that not everyone starts from the same place.|admit=인정하다
+5|자유에는 책임이 따른다는 걸 잊으면 안 돼요.|We shouldn't forget that freedom comes with responsibility.|
+5|미디어가 보여 주는 것과 현실은 다를 때가 많아요.|What the media shows and what's real often differ.|
+5|변화는 불편하지만 피할 수 없어요.|Change is uncomfortable, but it's unavoidable.|unavoidable=피할 수 없는
+5|우리가 당연하게 여기는 것들이 사실은 특권일 수 있어요.|The things we take for granted might actually be privileges.|take for granted=당연하게 여기다; privilege=특권
+5|비판은 쉽지만 대안을 내놓는 건 어려워요.|Criticizing is easy; coming up with alternatives is hard.|come up with=내놓다
+@opinion
+3|어릴 때 꿈이 뭐였어요?|What did you want to be when you were a kid?|
+3|처음 해외여행 갔을 때 정말 신기했어요.|My first trip abroad was such an eye-opener.|eye-opener=놀라운 경험
+3|그때는 정말 아무것도 몰랐어요.|Back then, I had no idea what I was doing.|back then=그때는
+3|대학 때 동아리 활동을 열심히 했어요.|I was really involved in clubs in college.|involved=열심히 참여하는
+3|첫 직장에서 많이 배웠어요.|I learned a lot at my first job.|
+4|그 일 이후로 사람을 보는 눈이 달라졌어요.|After that, I started seeing people differently.|
+4|처음엔 반대했지만 지금은 잘했다고 생각해요.|I was against it at first, but now I think it was the right call.|right call=옳은 결정
+4|그때 그 선택을 하길 정말 잘했어요.|I'm so glad I made that choice back then.|
+4|그 경험이 제 진로를 바꿨어요.|That experience changed the direction of my career.|
+4|살면서 가장 힘들었던 순간이었어요.|It was one of the hardest moments of my life.|
+4|그 덕분에 더 단단해졌어요.|It made me stronger.|
+4|지금 생각하면 웃기지만 그땐 심각했어요.|It's funny looking back, but it was serious at the time.|looking back=돌이켜 보면
+4|그 여행은 평생 잊지 못할 거예요.|I'll never forget that trip.|
+4|처음 혼자 살았을 때 모든 게 낯설었어요.|When I first lived alone, everything felt unfamiliar.|unfamiliar=낯선
+4|그 선생님 덕분에 공부에 흥미가 생겼어요.|Thanks to that teacher, I got interested in studying.|
+4|인생은 계획대로 되지 않더라고요.|Life doesn't always go according to plan.|according to plan=계획대로
+4|가장 후회되는 건 더 도전하지 않은 거예요.|My biggest regret is not taking more chances.|take a chance=도전하다
+4|그때 거절당한 게 오히려 기회가 됐어요.|Getting rejected back then actually turned into an opportunity.|reject=거절하다
+4|그 경험 덕분에 남의 입장을 생각하게 됐어요.|That experience taught me to put myself in other people's shoes.|put oneself in one's shoes=입장 바꿔 생각하다
+4|요즘 들어 부모님 마음을 조금 알 것 같아요.|Lately I've started to understand how my parents feel.|
+5|돌이켜 보면 모든 실패가 다음 단계의 발판이었어요.|Looking back, every failure was a stepping stone to the next stage.|stepping stone=발판
+5|안정적인 직장을 그만두는 건 쉽지 않은 결정이었어요.|Leaving a stable job was not an easy decision.|stable=안정적인
+5|외국에서 살아 보니 제 나라를 더 객관적으로 보게 됐어요.|Living abroad helped me see my own country more objectively.|objectively=객관적으로
+5|그때의 저에게 조언한다면 조급해하지 말라고 하고 싶어요.|If I could give my younger self advice, I'd say don't be in such a hurry.|in a hurry=조급한
+5|좋은 사람들을 만난 게 제 인생의 가장 큰 행운이에요.|Meeting good people has been the greatest luck of my life.|

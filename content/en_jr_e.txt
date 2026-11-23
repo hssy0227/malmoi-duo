@@ -1,0 +1,90 @@
+# 저널·뉴스형 (직접 작성) — 경제·금융·에너지 2
+@econ
+4|금리 인하 기대감에 주식 시장이 반등했다.|Stocks rebounded on hopes of interest rate cuts.|rebound=반등하다
+4|경제 성장률이 시장 예상을 밑돌았다.|Economic growth came in below market expectations.|come in below=밑돌다
+4|수출이 석 달 연속 증가했다.|Exports rose for a third consecutive month.|consecutive=연속의
+4|무역 흑자가 크게 늘었다.|The trade surplus widened sharply.|trade surplus=무역 흑자
+4|제조업 경기가 바닥을 지나고 있다는 신호가 나온다.|There are signs that manufacturing has bottomed out.|bottom out=바닥을 치다
+4|정부가 내년 성장률 전망치를 하향 조정했다.|The government revised down next year's growth forecast.|revise down=하향 조정하다
+4|해외 직접 투자가 동남아로 몰리고 있다.|Foreign direct investment is flowing into Southeast Asia.|foreign direct investment=해외 직접 투자
+4|소상공인 지원 대책이 발표됐다.|A support package for small businesses was announced.|support package=지원 대책
+4|물가 안정이 최우선 과제로 꼽혔다.|Price stability was named the top priority.|price stability=물가 안정
+4|기업 파산 신청이 늘고 있다.|Corporate bankruptcy filings are on the rise.|bankruptcy filing=파산 신청
+4|실업률이 수십 년 만에 최저 수준을 기록했다.|Unemployment hit its lowest level in decades.|unemployment=실업률
+4|임대료 상승이 도심 상권을 위축시키고 있다.|Rising rents are hollowing out downtown shopping districts.|hollow out=공동화시키다
+4|원화 약세가 수입 물가를 끌어올리고 있다.|A weaker won is pushing up import prices.|import price=수입 물가
+4|주요 기업들이 투자 계획을 축소했다.|Major companies have scaled back their investment plans.|scale back=축소하다
+4|소비자 물가 상승률이 목표치에 근접했다.|Consumer inflation is nearing the target.|near=근접하다
+4|중국 경기 둔화가 아시아 수출국에 부담을 주고 있다.|China's slowdown is weighing on Asian exporters.|slowdown=둔화
+4|부동산 가격이 지역별로 엇갈리고 있다.|Property prices are diverging by region.|diverge=엇갈리다
+4|정부가 전기차 보조금을 축소한다.|The government is cutting EV subsidies.|subsidy=보조금
+4|여행 수지 적자가 커지고 있다.|The travel account deficit is growing.|deficit=적자
+4|가계 부채가 다시 늘어나기 시작했다.|Household debt has started rising again.|household debt=가계 부채
+5|경기 부양책이 물가를 다시 자극할 수 있다는 우려도 있다.|Some fear that stimulus could reignite inflation.|reignite=다시 불붙이다; stimulus=부양책
+5|성장률보다 성장의 질이 더 중요해지고 있다.|The quality of growth is becoming more important than the rate.|
+5|생산성 향상 없이는 임금 인상도 지속될 수 없다.|Without productivity gains, wage increases cannot last.|
+5|수출 의존형 경제는 세계 경기 변화에 취약하다.|Export-dependent economies are vulnerable to global swings.|vulnerable=취약한
+5|중산층이 얇아지면서 소비 기반이 약해지고 있다.|As the middle class thins, the consumer base is weakening.|thin=얇아지다
+5|금리 정책은 효과가 나타나기까지 시간이 걸린다.|Interest rate policy works with a lag.|lag=시차
+5|구조 개혁 없는 재정 투입은 효과가 오래가지 않는다.|Fiscal spending without structural reform has short-lived effects.|short-lived=오래가지 않는
+5|자유무역의 혜택은 고르게 나뉘지 않았다.|The benefits of free trade were not evenly shared.|evenly=고르게
+5|세계 경제는 분절화의 비용을 치르기 시작했다.|The global economy has started paying the price of fragmentation.|fragmentation=분절화
+5|경제 정책은 숫자만큼 신뢰에 의존한다.|Economic policy depends on credibility as much as numbers.|credibility=신뢰
+5|부의 대물림이 기회의 사다리를 무너뜨리고 있다.|Inherited wealth is knocking out the rungs of the ladder of opportunity.|rung=사다리 가로대
+5|고령화 사회에서는 이민 정책이 곧 경제 정책이다.|In an aging society, immigration policy is economic policy.|
+5|잠재 성장률을 높이는 것이 가장 시급한 과제다.|Raising potential growth is the most urgent task.|potential growth=잠재 성장률
+5|위기는 늘 가장 약한 부문에서 시작된다.|Crises always start in the weakest sector.|sector=부문
+5|공급 측 충격에는 통화 정책이 할 수 있는 일이 많지 않다.|Monetary policy can do little about supply shocks.|supply shock=공급 충격
+@fin
+4|증시가 사상 최고치를 경신했다.|The stock market set a new all-time high.|all-time high=사상 최고치
+4|기술주 매도세가 이어졌다.|The sell-off in tech stocks continued.|sell-off=매도세
+4|외국인 투자자들이 순매수로 돌아섰다.|Foreign investors turned net buyers.|net buyer=순매수자
+4|채권 금리가 급등하며 시장이 흔들렸다.|Markets were rattled as bond yields spiked.|rattle=흔들다; spike=급등하다
+4|은행들이 예금 금리를 내리고 있다.|Banks are lowering deposit rates.|deposit rate=예금 금리
+4|핀테크 기업들이 수익성 개선에 집중하고 있다.|Fintech firms are focusing on becoming profitable.|fintech=핀테크
+4|공모주 청약에 투자자들이 몰렸다.|Investors flocked to the IPO subscription.|flock to=몰려들다
+4|가상자산 거래량이 다시 증가했다.|Trading volume in crypto assets has picked up again.|crypto asset=가상자산
+4|연금 기금이 해외 투자 비중을 늘린다.|Pension funds are increasing their overseas allocations.|allocation=배분
+4|금융 당국이 대출 규제를 강화했다.|Financial regulators tightened lending rules.|regulator=당국
+5|시장의 공포는 종종 최고의 매수 기회가 된다.|Market fear often creates the best buying opportunities.|
+5|분산 투자는 공짜 점심에 가장 가까운 것이다.|Diversification is the closest thing to a free lunch.|free lunch=공짜 점심
+5|레버리지는 수익과 손실을 모두 키운다.|Leverage magnifies both gains and losses.|magnify=키우다
+5|기대가 높을수록 실망도 크다.|The higher the expectations, the bigger the disappointment.|
+5|유동성이 줄면 위험 자산부터 흔들린다.|When liquidity dries up, risky assets wobble first.|dry up=말라붙다; wobble=흔들리다
+5|과거 수익률이 미래를 보장하지 않는다.|Past performance is no guarantee of future results.|guarantee=보장
+5|금융 혁신은 늘 규제보다 한발 앞선다.|Financial innovation always stays one step ahead of regulation.|
+5|은행의 위기는 신뢰가 무너질 때 시작된다.|A bank crisis begins when confidence collapses.|confidence=신뢰
+5|시장은 단기적으로는 투표기, 장기적으로는 저울이다.|In the short run the market is a voting machine; in the long run, a weighing machine.|voting machine=투표기; weighing machine=저울
+5|금리 차이가 자본의 흐름을 바꾸고 있다.|Interest rate differentials are redirecting capital flows.|differential=차이; redirect=방향을 바꾸다
+@energy
+4|국제 유가가 급등하면서 항공 요금이 올랐다.|Airfares rose as global oil prices surged.|airfare=항공 요금
+4|정부가 원전 수명 연장을 결정했다.|The government decided to extend the life of nuclear plants.|extend=연장하다
+4|해상 풍력 단지 건설이 본격화되고 있다.|Construction of offshore wind farms is gaining momentum.|offshore wind=해상 풍력; gain momentum=탄력을 받다
+4|천연가스 가격이 겨울을 앞두고 오르고 있다.|Natural gas prices are climbing ahead of winter.|natural gas=천연가스
+4|전기 요금이 다음 달부터 인상된다.|Electricity rates will go up next month.|electricity rate=전기 요금
+4|수소 경제에 대한 기대가 다소 식었다.|Enthusiasm for the hydrogen economy has cooled somewhat.|hydrogen=수소
+4|정전 사태로 공장 가동이 멈췄다.|A blackout brought factories to a halt.|blackout=정전; bring to a halt=멈추게 하다
+4|태양광 설치가 사상 최대를 기록했다.|Solar installations hit a record high.|installation=설치
+4|탄소 배출권 가격이 하락했다.|The price of carbon credits fell.|carbon credit=탄소 배출권
+4|에너지 기업들이 재생에너지 투자를 늘리고 있다.|Energy companies are ramping up investment in renewables.|ramp up=늘리다
+5|에너지 전환의 속도는 기술보다 정치가 결정한다.|Politics, more than technology, sets the pace of the energy transition.|energy transition=에너지 전환
+5|값싼 에너지의 시대는 끝났을지도 모른다.|The era of cheap energy may be over.|
+5|전력망은 에너지 전환의 숨은 병목이다.|The power grid is the hidden bottleneck of the energy transition.|
+5|에너지 가격은 곧 물가이자 산업 경쟁력이다.|Energy prices are both inflation and industrial competitiveness.|
+5|탄소 국경세가 무역 질서를 바꿀 수 있다.|Carbon border taxes could reshape the trade order.|carbon border tax=탄소 국경세
+5|원자력을 둘러싼 논쟁은 이제 기후와 안보의 문제다.|The nuclear debate is now about climate and security.|
+5|재생에너지의 간헐성을 해결하는 것이 핵심 과제다.|Solving the intermittency of renewables is the key challenge.|intermittency=간헐성
+5|에너지 수입국은 지정학적 충격에 가장 먼저 노출된다.|Energy importers are the first to feel geopolitical shocks.|
+5|전력 수요 예측이 그 어느 때보다 어려워졌다.|Forecasting power demand has never been harder.|forecast=예측하다
+5|데이터센터와 전기차가 전력 수요 곡선을 다시 그리고 있다.|Data centers and EVs are redrawing the power demand curve.|demand curve=수요 곡선
+@study
+4|대학 등록금 인상을 두고 논란이 일고 있다.|A tuition hike has sparked controversy.|tuition hike=등록금 인상; spark=촉발하다
+4|코딩 교육이 초등학교 정규 과목이 됐다.|Coding has become a required subject in elementary schools.|required subject=필수 과목
+4|온라인 학위 과정의 인기가 높아지고 있다.|Online degree programs are growing in popularity.|degree program=학위 과정
+4|AI를 활용한 숙제 표절이 학교의 고민거리가 됐다.|AI-assisted cheating on homework has become a headache for schools.|cheating=부정행위; headache=골칫거리
+4|평생 교육 수요가 중장년층에서 크게 늘었다.|Demand for lifelong learning has surged among middle-aged adults.|middle-aged=중장년의
+5|교육의 목표는 정답이 아니라 질문하는 법을 가르치는 것이다.|The goal of education is to teach how to ask questions, not to provide answers.|
+5|학위보다 역량을 보는 채용이 늘고 있다.|More employers are hiring for skills rather than degrees.|hire for=~을 보고 채용하다
+5|AI 시대에도 읽고 쓰는 능력은 여전히 핵심이다.|Even in the AI era, reading and writing remain essential.|
+5|교육 격차는 디지털 격차로 이어진다.|The education gap leads to a digital divide.|digital divide=디지털 격차
+5|유학생 유치가 대학의 생존 전략이 되었다.|Attracting international students has become a survival strategy for universities.|international student=유학생
