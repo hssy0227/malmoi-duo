@@ -1,0 +1,39 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 문화·예절·명절·요리·여행 이야기
+@daily
+4|베트남에서는 어른께 두 손으로 물건을 드려요.|Ở Việt Nam, khi đưa đồ cho người lớn phải dùng hai tay.|đưa=건네다; người lớn=어른
+4|식사할 때 어른이 먼저 수저를 드세요.|Khi ăn cơm, người lớn cầm đũa trước.|cầm=잡다; đũa=젓가락
+4|밥 먹기 전에 "모이 어른들 식사하세요"라고 말해요.|Trước bữa ăn, người ta nói "mời cả nhà ăn cơm".|
+4|절에 갈 때는 짧은 옷을 입으면 안 돼요.|Khi đi chùa không nên mặc quần áo ngắn.|
+4|설날에는 아이들에게 세뱃돈을 줘요.|Ngày Tết người ta lì xì cho trẻ con.|lì xì=세뱃돈을 주다
+4|설날 첫 손님이 한 해 운을 결정한다고 믿어요.|Người ta tin rằng người xông nhà đầu năm quyết định vận may cả năm.|xông nhà=새해 첫 방문; vận may=운
+4|설에는 바잉쯩을 먹어요.|Ngày Tết người ta ăn bánh chưng.|bánh chưng=바잉쯩(설 떡)
+4|추석에는 아이들이 등불을 들고 다녀요.|Tết Trung thu trẻ em rước đèn.|Tết Trung thu=추석; rước đèn=등불 행렬하다
+4|월병을 선물로 주고받아요.|Mọi người tặng nhau bánh trung thu.|tặng=선물하다
+4|조상의 기일을 중요하게 챙겨요.|Người Việt rất coi trọng ngày giỗ tổ tiên.|ngày giỗ=기일; tổ tiên=조상
+4|집에 들어갈 때 신발을 벗어요.|Vào nhà thì phải bỏ giày dép.|bỏ=벗다; giày dép=신발
+4|베트남 사람들은 처음 만나면 나이를 물어봐요.|Người Việt hay hỏi tuổi khi mới gặp.|mới gặp=처음 만나다
+4|나이를 알아야 호칭을 정할 수 있거든요.|Vì phải biết tuổi mới xưng hô được.|
+4|선물로 시계는 피하는 게 좋아요.|Nên tránh tặng đồng hồ.|
+4|베트남 사람들은 손님 대접을 아주 중요하게 생각해요.|Người Việt rất hiếu khách.|hiếu khách=손님 대접을 잘하는
+4|분짜 만드는 법 알려 줄게요.|Để tôi chỉ cách làm bún chả.|chỉ=알려 주다; cách làm=만드는 법
+4|돼지고기를 숯불에 구워요.|Thịt lợn được nướng trên than hoa.|thịt lợn=돼지고기; nướng=굽다; than hoa=숯
+4|소스는 느억맘에 설탕과 식초를 넣어요.|Nước chấm làm từ nước mắm, đường và giấm.|nước chấm=찍어 먹는 소스; đường=설탕; giấm=식초
+4|채소를 듬뿍 곁들여 먹어요.|Ăn kèm với thật nhiều rau sống.|ăn kèm=곁들여 먹다; rau sống=생채소
+4|짜조는 튀긴 춘권이에요.|Nem rán là chả giò chiên.|nem rán=짜조(북부); chiên=튀기다|북부는 nem rán, 남부는 chả giò
+4|북부에서는 이걸 '넴 잔'이라고 불러요.|Ở miền Bắc người ta gọi là nem rán.|
+4|베트남 커피는 연유를 넣어 마셔요.|Cà phê Việt Nam thường uống với sữa đặc.|sữa đặc=연유
+4|하노이 사람들은 길가 낮은 의자에 앉아 차를 마셔요.|Người Hà Nội hay ngồi ghế nhựa vỉa hè uống trà đá.|ghế nhựa=플라스틱 의자; vỉa hè=인도; trà đá=냉차
+4|사파에 가면 소수 민족 마을을 방문할 수 있어요.|Lên Sa Pa có thể thăm các bản làng dân tộc thiểu số.|bản làng=마을; dân tộc thiểu số=소수 민족
+4|하롱베이에서 배를 타고 하룻밤 묵었어요.|Tôi đã ngủ một đêm trên du thuyền ở vịnh Hạ Long.|du thuyền=유람선; vịnh=만
+4|후에는 옛 왕조의 수도였어요.|Huế từng là kinh đô của triều đại cũ.|từng=~한 적 있다; kinh đô=수도; triều đại=왕조
+4|호이안 구시가지는 밤에 등불이 정말 예뻐요.|Phố cổ Hội An về đêm đèn lồng rất đẹp.|về đêm=밤에; đèn lồng=등불
+4|다낭 해변은 깨끗하고 넓어요.|Bãi biển Đà Nẵng sạch và rộng.|bãi biển=해변; sạch=깨끗한
+4|북부의 가을이 일 년 중 가장 아름다워요.|Mùa thu miền Bắc đẹp nhất trong năm.|mùa thu=가을
+4|가을이면 하노이 거리에 연꽃차 향이 나요.|Mùa thu phố Hà Nội thoảng hương cốm.|thoảng=은은히 풍기다; hương=향; cốm=꼼(어린 찹쌀)
+5|문화를 이해하면 언어도 더 빨리 늘어요.|Hiểu văn hóa thì học ngôn ngữ cũng nhanh hơn.|
+5|예절은 나라마다 다르지만 존중하는 마음은 같아요.|Phong tục mỗi nước mỗi khác, nhưng tấm lòng tôn trọng thì giống nhau.|phong tục=풍속; tấm lòng=마음; tôn trọng=존중하다
+5|베트남 사람들의 가족 중심 문화는 한국과 많이 닮았어요.|Văn hóa lấy gia đình làm trọng của người Việt rất giống Hàn Quốc.|làm trọng=중시하다
+5|음식에는 그 지역의 기후와 역사가 담겨 있어요.|Món ăn chứa đựng khí hậu và lịch sử của vùng đất đó.|chứa đựng=담다; khí hậu=기후; lịch sử=역사
+5|현지 언어로 인사만 해도 사람들의 태도가 달라져요.|Chỉ cần chào bằng tiếng địa phương, thái độ của mọi người đã khác hẳn.|chào=인사하다; thái độ=태도
+5|하노이의 매력은 느리게 흘러가는 일상에 있어요.|Sức hút của Hà Nội nằm ở nhịp sống chậm rãi.|sức hút=매력; nằm ở=~에 있다; nhịp sống=생활 리듬; chậm rãi=느긋한
+5|여행지에서 만난 사람들이 가장 오래 기억에 남아요.|Những người gặp trên đường đi là điều đọng lại lâu nhất.|đọng lại=남다

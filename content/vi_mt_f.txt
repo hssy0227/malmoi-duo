@@ -1,0 +1,50 @@
+# 비즈니스 미팅 베트남어 (직접 작성, 북부 표준) — 전략·에너지 사업·투자 논의
+@work
+4|오늘은 베트남 LNG 발전 사업에 대해 논의하겠습니다.|Hôm nay chúng ta sẽ thảo luận về dự án điện khí LNG tại Việt Nam.|
+4|사업 타당성 검토 결과를 공유드리겠습니다.|Tôi xin chia sẻ kết quả nghiên cứu khả thi của dự án.|nghiên cứu khả thi=타당성 조사
+4|부지 선정이 가장 시급한 과제입니다.|Lựa chọn địa điểm là nhiệm vụ cấp bách nhất.|địa điểm=부지; cấp bách=시급한
+4|전력 구매 계약 조건이 관건입니다.|Điều kiện hợp đồng mua bán điện là yếu tố then chốt.|hợp đồng mua bán điện=전력 구매 계약(PPA)
+4|가스 공급원은 아직 확정되지 않았습니다.|Nguồn cung khí vẫn chưa được xác định.|
+4|인허가에 1년 이상 걸릴 수 있습니다.|Thủ tục cấp phép có thể mất hơn một năm.|
+4|현지 파트너의 역할을 명확히 해야 합니다.|Cần làm rõ vai trò của đối tác địa phương.|vai trò=역할
+4|지분 구조는 어떻게 할 계획인가요?|Cơ cấu góp vốn dự kiến như thế nào?|góp vốn=출자하다
+4|저희는 지분 40%를 희망합니다.|Chúng tôi mong muốn nắm giữ 40% cổ phần.|nắm giữ=보유하다; cổ phần=지분
+4|총사업비는 약 15억 달러로 추정됩니다.|Tổng mức đầu tư ước tính khoảng 1,5 tỷ USD.|ước tính=추정하다
+4|금융 조달 방안을 검토하고 있습니다.|Chúng tôi đang xem xét phương án thu xếp vốn.|thu xếp vốn=자금 조달
+4|환율 리스크를 어떻게 관리할지 논의가 필요합니다.|Cần thảo luận cách quản lý rủi ro tỷ giá.|
+4|전력 가격이 달러에 연동되는지가 중요합니다.|Điều quan trọng là giá điện có gắn với USD hay không.|gắn với=연동되다
+4|수요 예측 자료를 보내 주실 수 있나요?|Anh có thể gửi số liệu dự báo nhu cầu được không?|
+4|북부 지역의 전력 수요는 빠르게 늘고 있습니다.|Nhu cầu điện ở miền Bắc đang tăng nhanh.|
+4|송전망 연결 일정이 확정돼야 합니다.|Cần chốt tiến độ đấu nối lưới điện.|đấu nối=연결하다
+4|환경 영향 평가는 이미 시작했습니다.|Đánh giá tác động môi trường đã được bắt đầu.|tác động=영향
+4|지역 주민과의 소통도 중요합니다.|Việc trao đổi với người dân địa phương cũng rất quan trọng.|
+4|정부 정책 방향을 계속 모니터링하겠습니다.|Chúng tôi sẽ tiếp tục theo dõi định hướng chính sách của nhà nước.|định hướng=방향
+4|다음 회의 전까지 쟁점을 정리해 주세요.|Xin tổng hợp các vấn đề còn vướng trước cuộc họp tới.|tổng hợp=종합하다; vướng=걸리다
+4|AI로 전력 수요 예측을 개선하고 있습니다.|Chúng tôi đang cải thiện dự báo phụ tải điện bằng AI.|phụ tải=부하
+4|기상 데이터가 예측 정확도에 큰 영향을 줍니다.|Dữ liệu thời tiết ảnh hưởng lớn đến độ chính xác dự báo.|
+4|발전소 운영 효율을 높이는 게 목표입니다.|Mục tiêu là nâng cao hiệu suất vận hành nhà máy điện.|hiệu suất=효율
+5|이 사업은 단순한 발전소가 아니라 에너지 가치 사슬 전체를 아우릅니다.|Dự án này không chỉ là một nhà máy điện mà bao trùm toàn bộ chuỗi giá trị năng lượng.|bao trùm=아우르다; chuỗi giá trị=가치 사슬
+5|장기 계약 없이는 금융 조달이 어렵습니다.|Không có hợp đồng dài hạn thì khó thu xếp vốn.|
+5|리스크 분담 구조가 명확해야 투자 결정을 내릴 수 있습니다.|Chỉ khi cơ chế phân chia rủi ro rõ ràng thì mới có thể ra quyết định đầu tư.|phân chia=분담하다; rõ ràng=명확한
+5|정책 변화에 대비한 시나리오를 준비해야 합니다.|Cần chuẩn bị các kịch bản để ứng phó với thay đổi chính sách.|kịch bản=시나리오
+5|에너지 전환 흐름 속에서 LNG의 역할은 당분간 커질 것입니다.|Trong xu thế chuyển dịch năng lượng, vai trò của LNG sẽ còn tăng trong thời gian tới.|xu thế=추세; thời gian tới=당분간
+5|양사의 강점을 결합하면 경쟁력이 높아질 것입니다.|Kết hợp thế mạnh của hai công ty sẽ nâng cao năng lực cạnh tranh.|kết hợp=결합하다
+5|가격 경쟁력과 공급 안정성을 동시에 확보해야 합니다.|Cần đồng thời bảo đảm giá cạnh tranh và nguồn cung ổn định.|đồng thời=동시에; bảo đảm=확보하다
+5|데이터 기반 의사 결정이 발전소 운영의 경쟁력이 될 것입니다.|Ra quyết định dựa trên dữ liệu sẽ trở thành lợi thế cạnh tranh trong vận hành nhà máy.|lợi thế=우위
+5|저희는 기술뿐 아니라 운영 노하우도 함께 제공할 수 있습니다.|Chúng tôi có thể cung cấp không chỉ công nghệ mà cả kinh nghiệm vận hành.|
+5|현지 인력을 양성하는 것도 이 사업의 중요한 목표입니다.|Đào tạo nhân lực địa phương cũng là mục tiêu quan trọng của dự án.|
+5|성공적인 첫 사업이 후속 투자의 문을 열 것입니다.|Một dự án đầu tiên thành công sẽ mở cửa cho các khoản đầu tư tiếp theo.|khoản=건·액수
+5|오늘 논의된 사항을 바탕으로 양해 각서 초안을 준비하겠습니다.|Dựa trên nội dung thảo luận hôm nay, chúng tôi sẽ chuẩn bị dự thảo biên bản ghi nhớ.|
+@econ
+4|시장 점유율을 높이는 것이 목표입니다.|Mục tiêu là tăng thị phần.|
+4|경쟁사가 가격을 크게 낮췄습니다.|Đối thủ đã giảm giá mạnh.|đối thủ=경쟁사
+4|신규 고객을 확보해야 합니다.|Chúng ta cần thu hút khách hàng mới.|
+4|베트남 시장 진출 전략을 세우고 있습니다.|Chúng tôi đang xây dựng chiến lược thâm nhập thị trường Việt Nam.|thâm nhập=진출·침투
+4|현지 소비자 조사부터 해야 합니다.|Cần bắt đầu từ khảo sát người tiêu dùng địa phương.|khảo sát=조사하다
+4|유통망을 어떻게 확보할 계획인가요?|Anh dự định xây dựng kênh phân phối như thế nào?|dự định=계획하다
+4|온라인 채널을 먼저 공략하죠.|Hãy tập trung vào kênh online trước.|tập trung=집중하다
+4|브랜드 인지도가 아직 낮습니다.|Mức độ nhận biết thương hiệu còn thấp.|nhận biết=인지
+5|가격보다 가치를 팔아야 합니다.|Chúng ta cần bán giá trị chứ không phải giá cả.|
+5|빠른 확장보다 수익성 있는 성장이 중요합니다.|Tăng trưởng có lãi quan trọng hơn mở rộng nhanh.|có lãi=수익이 나는
+5|현지화 수준이 성패를 가를 것입니다.|Mức độ bản địa hóa sẽ quyết định thành bại.|
+5|경쟁사를 따라 하기보다 우리만의 차별점을 만들어야 합니다.|Thay vì bắt chước đối thủ, chúng ta cần tạo ra điểm khác biệt riêng.|bắt chước=모방하다; điểm khác biệt=차별점
