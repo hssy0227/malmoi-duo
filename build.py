@@ -10,6 +10,7 @@ CATS = [
     ("shop", "쇼핑·돈"), ("travel", "여행·교통"), ("time", "시간·약속"), ("health", "건강·문제해결"),
     ("hobby", "취미·문화"), ("movie", "영화·책"), ("opinion", "의견·경험"), ("study", "배움·시험"),
     ("work", "업무·경영"), ("econ", "경제·금융·에너지"), ("society", "사회·정치·외교"), ("tech", "IT·AI"),
+    ("saying", "명언·속담"),
 ]
 CAT_MAP = {
     "social": "greet", "family": "daily", "nature": "home", "cook": "food", "money": "shop",
@@ -31,6 +32,7 @@ SOURCES = [
     ("Mv", "영화 구어", "베트남어 자막 빈도 목록(OpenSubtitles, CC BY-SA)에서 빠져 있던 구어·반말·사극 표현을 영화 대사 형식으로 직접 작성한 문장이에요."),
     ("Jr", "저널·뉴스", "경제·사회·정치·외교·IT·커머스 분야의 최근 1~2년 주요 이슈를 바탕으로, 저널 헤드라인과 기사 핵심 문장 형식으로 직접 새로 작성한 문장이에요. 실제 기사 문장을 옮기지 않았어요."),
     ("Mt", "비즈니스 미팅", "회의 시작·안건·의견 조율·협상·후속 조치 등 실제 미팅 흐름에 맞춰 직접 작성한 문장이에요."),
+    ("Pv", "속담·명언", "두 언어의 전래 속담·관용구·민요(ca dao)와, 출처가 분명한 고전 인물·옛 공문서(1929년 이전)의 짧은 명언이에요. 한국어 칸에는 비슷한 우리 속담이나 뜻을, 메모에는 직역과 유래를 적었어요."),
     ("Adv", "고급", "베트남어 능력 기준 5등급(CEFR C1) 수준의 시사·속담·격식체·추상 토론 주제로 직접 작성한 문장이에요."),
 ]
 SRC_FILE = {"en_e.txt": "TE", "en_f.txt": "TE", "en_i.txt": "TE", "en_l.txt": "TE", "en_g.txt": "TF",
@@ -42,6 +44,8 @@ def src_of(fname, cat):
         return "Jr"
     if fname[3:6] == "mt_":
         return "Mt"
+    if fname[3:6] == "pv_":
+        return "Pv"
     if fname == "en_x_biz.txt":
         return "TE" if cat == "toeic" else "Biz"
     if fname == "en_h.txt":

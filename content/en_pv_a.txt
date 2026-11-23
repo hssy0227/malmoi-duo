@@ -1,0 +1,150 @@
+# 영어 속담·명언 — 전래 속담(공유 저작물)과 1929년 이전 저작·미국 정부 공문서의 짧은 명언. 한국어 칸 = 비슷한 우리 속담·뜻, 메모 = 직역·출처
+@saying
+3|연습이 완벽을 만든다.|Practice makes perfect.|practice=연습; perfect=완벽한|
+3|늦더라도 안 하는 것보다 낫다.|Better late than never.|
+4|어떤 불행에도 좋은 면은 있다.|Every cloud has a silver lining.|silver lining=희망의 빛|직역: 모든 구름에는 은빛 테두리가 있다
+4|겉모습만 보고 판단하지 마라.|Don't judge a book by its cover.|judge=판단하다; cover=표지|직역: 표지로 책을 판단하지 마라
+3|일찍 일어나는 새가 벌레를 잡는다.|The early bird catches the worm.|worm=벌레|
+3|뜻이 있는 곳에 길이 있다.|Where there's a will, there's a way.|will=의지|
+4|백지장도 맞들면 낫다.|Two heads are better than one.||직역: 머리 둘이 하나보다 낫다
+4|사공이 많으면 배가 산으로 간다.|Too many cooks spoil the broth.|spoil=망치다; broth=국물|직역: 요리사가 너무 많으면 국을 망친다
+4|유유상종.|Birds of a feather flock together.|feather=깃털; flock=무리 짓다|직역: 같은 깃털의 새끼리 모인다
+4|눈에서 멀어지면 마음도 멀어진다.|Out of sight, out of mind.|sight=시야|
+4|필요는 발명의 어머니.|Necessity is the mother of invention.|necessity=필요; invention=발명|
+4|어려울 때 친구가 진짜 친구다.|A friend in need is a friend indeed.|in need=어려운 처지의; indeed=정말로|
+4|정직이 최선의 방책이다.|Honesty is the best policy.|honesty=정직; policy=방책|
+4|돌다리도 두들겨 보고 건너라.|Look before you leap.|leap=뛰다|직역: 뛰기 전에 살펴라
+4|쇠뿔도 단김에 빼라.|Strike while the iron is hot.|strike=치다; iron=쇠|직역: 쇠는 달았을 때 두드려라
+4|달걀을 한 바구니에 담지 마라.|Don't put all your eggs in one basket.|basket=바구니|위험을 나누라는 뜻(분산 투자)
+4|김칫국부터 마시지 마라.|Don't count your chickens before they hatch.|count=세다; hatch=부화하다|직역: 병아리가 깨기 전에 세지 마라
+4|남의 떡이 커 보인다.|The grass is always greener on the other side.|greener=더 푸른|직역: 담 너머 잔디가 늘 더 푸르다
+4|로마에 가면 로마법을 따르라.|When in Rome, do as the Romans do.|
+4|떨어져 있으면 정이 더 깊어진다.|Absence makes the heart grow fonder.|absence=부재; fonder=더 애틋한|
+4|끝이 좋으면 다 좋다.|All's well that ends well.||셰익스피어 희곡 제목으로도 쓰인 속담
+4|짖는 개는 잘 물지 않는다.|Barking dogs seldom bite.|bark=짖다; seldom=좀처럼 ~않다|
+4|아쉬운 사람이 가릴 처지가 아니다.|Beggars can't be choosers.|beggar=거지; chooser=고르는 사람|
+4|피는 물보다 진하다.|Blood is thicker than water.|thicker=더 진한|
+4|지나친 호기심은 화를 부른다.|Curiosity killed the cat.|curiosity=호기심|직역: 호기심이 고양이를 죽였다
+3|쉽게 얻은 것은 쉽게 잃는다.|Easy come, easy go.|
+4|쥐구멍에도 볕 들 날 있다.|Every dog has its day.||직역: 어떤 개에게도 좋은 날이 온다
+5|너무 가까우면 함부로 대하게 된다.|Familiarity breeds contempt.|familiarity=친숙함; breed=낳다; contempt=경멸|
+3|먼저 온 사람이 먼저 받는다.|First come, first served.|serve=응대하다|선착순
+4|행운은 용감한 사람 편이다.|Fortune favors the bold.|fortune=운; favor=편들다; bold=대담한|로마 시인 베르길리우스의 시구에서 유래
+4|훌륭한 사람들은 생각이 같다.|Great minds think alike.|alike=비슷하게|생각이 통했을 때 농담처럼 쓰는 말
+4|모르는 게 약이다.|Ignorance is bliss.|ignorance=무지; bliss=더없는 행복|
+4|손뼉도 마주쳐야 소리가 난다.|It takes two to tango.|tango=탱고|직역: 탱고는 둘이 있어야 춘다
+3|웃음이 최고의 약이다.|Laughter is the best medicine.|laughter=웃음|
+4|긁어 부스럼 만들지 마라.|Let sleeping dogs lie.|lie=누워 있다|직역: 자는 개는 그냥 자게 둬라
+4|일손이 많으면 일이 가볍다.|Many hands make light work.|
+3|돈은 쉽게 생기지 않는다.|Money doesn't grow on trees.||직역: 돈은 나무에서 열리지 않는다
+3|고생 없이는 얻는 것도 없다.|No pain, no gain.|gain=얻음|
+3|무소식이 희소식.|No news is good news.|
+4|오랜 습관은 쉽게 버리기 어렵다.|Old habits die hard.|
+4|누군가의 쓰레기가 누군가에겐 보물이다.|One man's trash is another man's treasure.|trash=쓰레기; treasure=보물|
+4|기회는 두 번 오지 않는다.|Opportunity seldom knocks twice.|knock=두드리다|
+4|예방이 치료보다 낫다.|Prevention is better than cure.|prevention=예방; cure=치료|
+3|보는 것이 믿는 것이다.|Seeing is believing.|
+4|느려도 꾸준하면 이긴다.|Slow and steady wins the race.|steady=꾸준한|이솝 우화 '토끼와 거북'에서 나온 말
+4|펜은 칼보다 강하다.|The pen is mightier than the sword.|mightier=더 강한; sword=칼|출처: 에드워드 불워리턴 희곡 '리슐리외'(1839)
+3|집만 한 곳은 없다.|There's no place like home.|
+4|세상에 공짜 점심은 없다.|There's no such thing as a free lunch.||경제학에서도 자주 인용되는 말
+4|세월은 사람을 기다려 주지 않는다.|Time and tide wait for no man.|tide=조수|
+4|뭉치면 살고 흩어지면 죽는다.|United we stand, divided we fall.|united=뭉친; divided=흩어진|
+4|한 대로 돌아온다.|What goes around comes around.|
+4|콩 심은 데 콩 나고 팥 심은 데 팥 난다.|You reap what you sow.|reap=거두다; sow=씨를 뿌리다|
+5|기회를 줄 수는 있어도 억지로 하게 할 수는 없다.|You can lead a horse to water, but you can't make it drink.|lead=이끌다|직역: 말을 물가로 데려갈 순 있어도 억지로 마시게 할 순 없다
+4|둘 다 가질 수는 없다.|You can't have your cake and eat it too.||직역: 케이크를 먹으면서 그대로 가지고 있을 수는 없다
+4|늙은 개에게 새 재주를 가르칠 수는 없다.|You can't teach an old dog new tricks.|trick=재주|
+5|손 안의 작은 이익이 불확실한 큰 이익보다 낫다.|A bird in the hand is worth two in the bush.|bush=덤불|직역: 손 안의 새 한 마리가 덤불 속 두 마리만큼 값지다
+5|사슬은 가장 약한 고리만큼만 강하다.|A chain is only as strong as its weakest link.|chain=사슬; link=고리|조직·시스템의 약점을 말할 때 자주 쓰는 말
+4|그림 한 장이 천 마디 말보다 낫다.|A picture is worth a thousand words.|
+4|구르는 돌에는 이끼가 끼지 않는다.|A rolling stone gathers no moss.|moss=이끼|
+4|기다리는 냄비는 더디 끓는다.|A watched pot never boils.|watched=지켜보는; boil=끓다|조바심 내면 시간이 더 길게 느껴진다는 뜻
+4|제 눈에 안경.|Beauty is in the eye of the beholder.|beholder=보는 사람|
+3|나중에 후회하는 것보다 조심하는 게 낫다.|Better safe than sorry.|
+4|은혜를 원수로 갚지 마라.|Don't bite the hand that feeds you.|feed=먹이다|직역: 먹여 주는 손을 물지 마라
+4|이미 엎질러진 물이다.|Don't cry over spilled milk.|spill=엎지르다|직역: 엎지른 우유를 두고 울지 마라
+5|빈대 잡으려다 초가삼간 태운다.|Don't throw the baby out with the bathwater.|bathwater=목욕물|직역: 목욕물을 버리다 아기까지 버리지 마라
+4|좋은 것에도 대가는 따른다.|Every rose has its thorn.|thorn=가시|직역: 모든 장미에는 가시가 있다
+4|기다리는 사람에게 좋은 일이 온다.|Good things come to those who wait.|
+4|조금이라도 없는 것보다 낫다.|Half a loaf is better than none.|loaf=빵 한 덩이|
+4|문제없이 잘 돌아가면 손대지 마라.|If it ain't broke, don't fix it.|ain't=isn't(구어); broke=고장 난(구어)|
+4|일석이조.|Kill two birds with one stone.||직역: 돌 하나로 새 두 마리를 잡다
+4|지난 일은 지난 일로 덮자.|Let bygones be bygones.|bygones=지난 일|
+5|불행한 사람은 함께 불행할 사람을 찾는다.|Misery loves company.|misery=불행; company=동반자|
+4|모험하지 않으면 얻는 것도 없다.|Nothing ventured, nothing gained.|venture=모험하다|
+3|인내는 미덕이다.|Patience is a virtue.|patience=인내; virtue=미덕|
+4|부전자전.|The apple doesn't fall far from the tree.||직역: 사과는 나무에서 멀리 떨어지지 않는다
+4|인생에서 가장 좋은 것은 공짜다.|The best things in life are free.|
+4|손님은 언제나 옳다.|The customer is always right.|customer=손님|
+4|악마는 디테일에 있다.|The devil is in the details.|devil=악마; details=세부|작은 부분에서 문제가 생긴다는 뜻
+4|우는 아이 젖 준다.|The squeaky wheel gets the grease.|squeaky=삐걱거리는; grease=기름|직역: 삐걱대는 바퀴가 기름을 얻는다
+4|아니 땐 굴뚝에 연기 날까.|Where there's smoke, there's fire.|smoke=연기|
+4|다양함은 인생의 양념이다.|Variety is the spice of life.|variety=다양함; spice=양념|
+4|엎친 데 덮친 격.|When it rains, it pours.|pour=퍼붓다|직역: 비가 오면 퍼붓는다
+5|희생 없이는 얻을 수 없다.|You can't make an omelet without breaking eggs.|omelet=오믈렛|
+4|반짝인다고 다 금은 아니다.|All that glitters is not gold.|glitter=반짝이다|셰익스피어 '베니스의 상인'의 구절에서 널리 퍼진 말
+4|자선은 가까운 곳에서 시작된다.|Charity begins at home.|charity=자선|
+4|감당할 수 있는 만큼만 하라.|Don't bite off more than you can chew.|bite off=베어 물다; chew=씹다|
+4|최선을 바라되 최악에 대비하라.|Hope for the best, prepare for the worst.|
+5|칼을 뽑았으면 무라도 썰어라.|In for a penny, in for a pound.|penny=1페니; pound=1파운드|직역: 1페니를 걸었으면 1파운드까지 건다
+5|소탐대실.|Penny wise, pound foolish.|foolish=어리석은|직역: 푼돈엔 현명하고 큰돈엔 어리석다
+4|한 푼 아낀 것은 한 푼 번 것이다.|A penny saved is a penny earned.|earn=벌다|
+5|좋은 의도만으로는 좋은 결과가 나오지 않는다.|The road to hell is paved with good intentions.|pave=포장하다; intention=의도|직역: 지옥으로 가는 길은 선의로 포장되어 있다
+4|남이 잘못했다고 나도 잘못하면 안 된다.|Two wrongs don't make a right.||직역: 잘못 둘이 모여도 옳은 것이 되지는 않는다
+4|말 없는 사람이 생각이 깊다.|Still waters run deep.|still=고요한|직역: 고요한 물이 깊다
+4|빈 수레가 요란하다.|Empty vessels make the most noise.|vessel=그릇|
+4|갈수록 태산.|Out of the frying pan into the fire.|frying pan=프라이팬|직역: 프라이팬에서 나와 불 속으로
+4|호랑이도 제 말 하면 온다.|Speak of the devil.|
+4|큰일도 작은 데서 시작된다.|Great oaks from little acorns grow.|oak=참나무; acorn=도토리|
+4|지렁이도 밟으면 꿈틀한다.|Even a worm will turn.|worm=지렁이; turn=돌아서다|
+4|낮말은 새가 듣고 밤말은 쥐가 듣는다.|Walls have ears.||직역: 벽에도 귀가 있다
+4|교만은 몰락의 시작이다.|Pride comes before a fall.|pride=교만; fall=몰락|
+4|시장이 반찬이다.|Hunger is the best sauce.|hunger=배고픔|
+5|타고난 본성은 바뀌지 않는다.|A leopard can't change its spots.|leopard=표범; spot=점|직역: 표범은 점무늬를 바꿀 수 없다
+5|직접 해 봐야 안다.|The proof of the pudding is in the eating.|proof=증명|직역: 푸딩의 맛은 먹어 봐야 증명된다
+4|기회가 있을 때 잡아라.|Make hay while the sun shines.|hay=건초|직역: 해가 날 때 건초를 말려라
+5|받은 선물에 트집 잡지 마라.|Don't look a gift horse in the mouth.|gift horse=선물로 받은 말|직역: 선물 받은 말의 입(이빨)을 들여다보지 마라
+4|잘한 행동이 잘한 말보다 낫다.|Well done is better than well said.||출처: 벤저민 프랭클린 '가난한 리처드의 달력'(1737)
+4|일찍 자고 일찍 일어나면 건강하고 부유하고 현명해진다.|Early to bed and early to rise makes a man healthy, wealthy, and wise.|wealthy=부유한; wise=현명한|출처: 벤저민 프랭클린 '가난한 리처드의 달력'(1735)
+3|시간은 돈이다.|Time is money.||출처: 벤저민 프랭클린 '젊은 상인에게 주는 조언'(1748)
+4|잃어버린 시간은 다시 찾을 수 없다.|Lost time is never found again.||출처: 벤저민 프랭클린 '가난한 리처드의 달력'(1748)
+5|이 세상에서 죽음과 세금 말고는 확실한 것이 없다.|In this world nothing can be said to be certain, except death and taxes.|certain=확실한; taxes=세금|출처: 벤저민 프랭클린의 편지(1789)
+3|아는 것이 힘이다.|Knowledge is power.|knowledge=지식|출처: 프랜시스 베이컨(1597, 라틴어 원문을 옮긴 말)
+4|나는 생각한다, 고로 존재한다.|I think, therefore I am.|therefore=그러므로|출처: 데카르트 '방법서설'(1637)
+3|천 리 길도 한 걸음부터.|A journey of a thousand miles begins with a single step.|journey=여정; single=단 하나의|출처: 노자 '도덕경'
+5|배우기만 하고 생각하지 않으면 헛되고, 생각만 하고 배우지 않으면 위태롭다.|Learning without thought is labor lost; thought without learning is perilous.|labor=수고; perilous=위험한|출처: 공자 '논어' 위정편(제임스 레그 1861년 영역)
+5|성찰하지 않는 삶은 살 가치가 없다.|The unexamined life is not worth living.|unexamined=성찰하지 않은|출처: 소크라테스(플라톤 '변론')
+5|같은 강물에 두 번 발을 담글 수는 없다.|No man ever steps in the same river twice.|step=발을 딛다|출처: 헤라클레이토스(모든 것은 변한다는 뜻)
+4|인생은 짧고 예술은 길다.|Life is short, art is long.||출처: 히포크라테스(원래 '배워야 할 기술은 많고 삶은 짧다'는 뜻)
+3|왔노라, 보았노라, 이겼노라.|I came, I saw, I conquered.|conquer=정복하다|출처: 율리우스 카이사르(기원전 47년)
+4|주사위는 던져졌다.|The die is cast.|die=주사위; cast=던지다|출처: 율리우스 카이사르(기원전 49년, 루비콘강을 건너며)
+5|내가 더 멀리 보았다면 거인들의 어깨 위에 서 있었기 때문이다.|If I have seen further, it is by standing on the shoulders of giants.|further=더 멀리; shoulder=어깨; giant=거인|출처: 아이작 뉴턴의 편지(1675)
+4|사느냐 죽느냐, 그것이 문제로다.|To be, or not to be: that is the question.||출처: 셰익스피어 '햄릿'
+4|온 세상은 하나의 무대다.|All the world's a stage.|stage=무대|출처: 셰익스피어 '뜻대로 하세요'
+5|간결함은 지혜의 핵심이다.|Brevity is the soul of wit.|brevity=간결함; soul=핵심; wit=재치|출처: 셰익스피어 '햄릿'
+5|돈을 빌리지도 빌려주지도 마라.|Neither a borrower nor a lender be.|borrower=빌리는 사람; lender=빌려주는 사람|출처: 셰익스피어 '햄릿'
+4|이미 끝난 일은 끝난 일이다.|What's done is done.||출처: 셰익스피어 '맥베스'
+5|겁쟁이는 죽기 전에 여러 번 죽는다.|Cowards die many times before their deaths.|coward=겁쟁이|출처: 셰익스피어 '줄리어스 시저'
+5|스스로 분열된 집은 설 수 없다.|A house divided against itself cannot stand.|divided=분열된|출처: 에이브러햄 링컨 연설(1858)
+5|국민의, 국민에 의한, 국민을 위한 정부.|Government of the people, by the people, for the people.|government=정부|출처: 에이브러햄 링컨 게티즈버그 연설(1863)
+4|모든 사람은 평등하게 태어났다.|All men are created equal.|create=창조하다; equal=평등한|출처: 미국 독립선언서(1776)
+5|열정 없이 이뤄진 위대한 일은 없다.|Nothing great was ever achieved without enthusiasm.|achieve=이루다; enthusiasm=열정|출처: 랠프 월도 에머슨 '원(Circles)'(1841)
+5|자기 자신을 고집하라, 결코 흉내 내지 마라.|Insist on yourself; never imitate.|insist on=고집하다; imitate=흉내 내다|출처: 랠프 월도 에머슨 '자기 신뢰'(1841)
+4|단순하게, 단순하게.|Simplify, simplify.|simplify=단순화하다|출처: 헨리 데이비드 소로 '월든'(1854)
+5|천재는 1%의 영감과 99%의 땀으로 이루어진다.|Genius is one percent inspiration and ninety-nine percent perspiration.|genius=천재; inspiration=영감; perspiration=땀|출처: 토머스 에디슨(1900년대 초 인터뷰)
+5|장기적으로 보면 우리는 모두 죽는다.|In the long run, we are all dead.|in the long run=장기적으로|출처: 존 메이너드 케인스 '화폐개혁론'(1923). 장기 균형만 기다리는 경제학을 비판한 말
+4|말은 부드럽게, 몽둥이는 크게.|Speak softly and carry a big stick.|carry=들고 다니다; stick=몽둥이|출처: 시어도어 루스벨트(1901). 외교 원칙을 표현한 말
+5|우리가 두려워할 것은 두려움 그 자체뿐이다.|The only thing we have to fear is fear itself.|fear=두려워하다·두려움|출처: 프랭클린 루스벨트 대통령 취임 연설(1933, 미국 정부 공문서)
+5|국가가 나를 위해 무엇을 할지 묻지 말고, 내가 국가를 위해 무엇을 할지 물어라.|Ask not what your country can do for you; ask what you can do for your country.||출처: 존 F. 케네디 대통령 취임 연설(1961, 미국 정부 공문서)
+5|경험이란 누구나 자기 실수에 붙이는 이름이다.|Experience is the name everyone gives to their mistakes.|experience=경험; mistake=실수|출처: 오스카 와일드 '윈더미어 부인의 부채'(1892)
+5|나는 유혹 말고는 무엇이든 견딜 수 있다.|I can resist everything except temptation.|resist=견디다; temptation=유혹|출처: 오스카 와일드 '윈더미어 부인의 부채'(1892)
+4|최고의 시절이었고 최악의 시절이었다.|It was the best of times, it was the worst of times.||출처: 찰스 디킨스 '두 도시 이야기'(1859)
+4|가르치면서 배운다.|While we teach, we learn.||출처: 세네카(라틴어 docendo discimus)
+5|전체는 부분의 합보다 크다.|The whole is greater than the sum of its parts.|whole=전체; sum=합|아리스토텔레스 '형이상학'의 생각을 줄여 전하는 말
+5|독서는 사람을 풍부하게, 토론은 민첩하게, 글쓰기는 정확하게 만든다.|Reading maketh a full man; conference a ready man; and writing an exact man.|maketh=makes(고어); conference=토론; exact=정확한|출처: 프랜시스 베이컨 '학문에 대하여'(1625)
+4|실수는 인간의 일이고 용서는 신의 일이다.|To err is human, to forgive divine.|err=실수하다; forgive=용서하다; divine=신성한|출처: 알렉산더 포프 '비평론'(1711)
+5|어설픈 지식은 위험하다.|A little learning is a dangerous thing.||출처: 알렉산더 포프 '비평론'(1711)
+5|권력은 부패하기 쉽고, 절대 권력은 절대적으로 부패한다.|Power tends to corrupt, and absolute power corrupts absolutely.|tend to=~하는 경향이 있다; corrupt=부패하다; absolute=절대적인|출처: 액턴 경의 편지(1887)
+5|과거를 기억하지 못하는 사람은 그것을 되풀이할 수밖에 없다.|Those who cannot remember the past are condemned to repeat it.|condemned=운명 지어진; repeat=되풀이하다|출처: 조지 산타야나 '이성의 삶'(1905)
+5|용기란 두려움이 없는 것이 아니라 두려움을 이겨 내는 것이다.|Courage is resistance to fear, mastery of fear, not absence of fear.|courage=용기; resistance=저항; mastery=통제|출처: 마크 트웨인 '얼간이 윌슨'(1894)

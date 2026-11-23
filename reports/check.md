@@ -6,13 +6,13 @@
 
 | 항목 | 베트남어 | 영어 |
 |---|---:|---:|
-| 문장 | 4,678 | 4,573 |
-| 풀이 단어(고유) | 4,649 | 4,092 |
+| 문장 | 4,815 | 4,721 |
+| 풀이 단어(고유) | 4,844 | 4,216 |
 | Lv1 · CEFR A1 (기초) | 163 | 111 |
 | Lv2 · CEFR A2 (초급) | 325 | 275 |
-| Lv3 · CEFR B1 (중급) | 1,482 | 1,241 |
-| Lv4 · CEFR B2 (중상급) | 2,194 | 1,838 |
-| Lv5 · CEFR C1 (고급) | 514 | 1,108 |
+| Lv3 · CEFR B1 (중급) | 1,490 | 1,259 |
+| Lv4 · CEFR B2 (중상급) | 2,312 | 1,931 |
+| Lv5 · CEFR C1 (고급) | 525 | 1,145 |
 
 ## 2. 중복
 
@@ -48,7 +48,7 @@
 
 ## 3. 풀이·표기
 
-**[vi] 풀이 없는 문장 404건 · 문장에 없는 풀이어 0건**
+**[vi] 풀이 없는 문장 406건 · 문장에 없는 풀이어 0건**
 - 풀이 없음: `Việc sử dụng dịch vụ công trực tuyến tăng.` (vi_jr_c.txt)
 - 풀이 없음: `Lừa đảo bằng deepfake đang gia tăng.` (vi_jr_c.txt)
 - 풀이 없음: `Nhu cầu điện đạt mức cao kỷ lục.` (vi_jr_c.txt)
@@ -71,7 +71,7 @@
 - 풀이 없음: `Người dân tập thể dục bên hồ.` (vi_jr_e.txt)
 - 베트남어 문자 외 글자: 0건 — 없음
 
-**[en] 풀이 없는 문장 554건 · 문장에 없는 풀이어 25건**
+**[en] 풀이 없는 문장 589건 · 문장에 없는 풀이어 25건**
 - 풀이 없음: `Changing people is harder than changing technology.` (en_jr_a.txt)
 - 풀이 없음: `A leader's most important job is setting priorities.` (en_jr_a.txt)
 - 풀이 없음: `The biggest risk may be not using AI at all.` (en_jr_b.txt)
@@ -114,7 +114,7 @@
 | 상황 | 베트남어 | 영어 | 메모 |
 |---|---:|---:|---|
 | 인사·스몰토크 | 199 | 203 |  |
-| 일상·가족 | 602 | 371 |  |
+| 일상·가족 | 582 | 371 |  |
 | 집·날씨 | 225 | 114 |  |
 | 음식·요리 | 252 | 127 |  |
 | 쇼핑·돈 | 272 | 221 |  |
@@ -129,30 +129,31 @@
 | 경제·금융·에너지 | 289 | 542 |  |
 | 사회·정치·외교 | 257 | 196 |  |
 | IT·AI | 215 | 320 |  |
+| 명언·속담 | 157 | 148 |  |
 
 ## 5. 기준 어휘 목록 대비 누락
 
-**NGSL 1.01 (일반 영어 핵심 2,801): 포함 80.4% · 누락 550개**
+**NGSL 1.01 (일반 영어 핵심 2,801): 포함 81.2% · 누락 527개**
 - 순위 1~500: 1개 — himself
-- 순위 501~1000: 12개 — inside, press, television, bar, except, associate, male, possibility, female, agency, yeah, pound
-- 순위 1001~2000: 125개 — rich, aware, administration, remove, chair, sex, inform, appeal, slightly, federal, horse, feed, presence, ball, refuse, apparently, desire, length, possibly, cancer, convince, tape, murder, hate, dear, onto, fashion, bomb, council, anybody, basically, violence, mainly, gun, troop, tear, proper, afford, frame, abuse, principal, session, appearance, elect, association, sexual, musical, declare, native, specifically, fat, fellow, surely, guard, bore, somehow, latter, command, column, criminal, properly, ill, via, legislation, county, hell, reward, meanwhile, furthermore, accuse, absence, construct, remark, northern, estate, equally, victory, permanent, urge, enemy …
-- 순위 2001~2801: 412개 — prize, typically, assistance, roof, respectively, variation, tooth, representation, preparation, emphasis, edition, silver, entertainment, undertake, wire, gay, publication, slight, unknown, inch, equivalent, solid, owe, governor, port, arrival, contemporary, beer, specialist, assure, numerous, virtually, coverage, cable, isolate, prisoner, wet, secondary, recruit, exclude, string, persuade, inspire, hence, pupil, formula, perceive, sink, stare, anymore, meter, truck, sail, devote, terrorist, justify, fascinate, depression, guilty, underlie, distinction, incorporate, obligation, sir, anger, pub, perception, naturally, height, western, constantly, muscle, scare, boundary, essay, scream, withdraw, pollution, disorder, symbol …
+- 순위 501~1000: 10개 — inside, press, television, bar, associate, male, possibility, female, agency, yeah
+- 순위 1001~2000: 118개 — rich, aware, administration, remove, chair, sex, inform, appeal, slightly, federal, presence, ball, refuse, apparently, desire, length, possibly, cancer, convince, tape, murder, hate, dear, onto, fashion, bomb, council, anybody, basically, violence, mainly, gun, troop, tear, proper, afford, frame, abuse, principal, session, appearance, elect, association, sexual, musical, declare, native, specifically, fat, fellow, surely, guard, bore, somehow, latter, command, column, criminal, properly, ill, via, legislation, county, reward, meanwhile, furthermore, accuse, construct, remark, northern, estate, equally, victory, permanent, urge, enemy, vast, producer, accompany, seed …
+- 순위 2001~2801: 398개 — prize, typically, assistance, roof, respectively, variation, tooth, representation, preparation, emphasis, edition, entertainment, undertake, wire, gay, publication, slight, unknown, inch, equivalent, solid, owe, governor, port, arrival, contemporary, beer, specialist, assure, numerous, virtually, coverage, cable, isolate, prisoner, wet, secondary, recruit, exclude, string, persuade, inspire, hence, pupil, formula, perceive, sink, stare, anymore, meter, truck, sail, devote, terrorist, justify, fascinate, depression, guilty, underlie, distinction, incorporate, obligation, sir, anger, pub, perception, naturally, height, western, constantly, muscle, scare, boundary, essay, scream, withdraw, pollution, disorder, symbol, demonstration …
 
-**TSL 1.1 (토익): 포함 45.0% · 누락 692개**
-- 순위 1~500: 158개 — mister, e-book, logical, goods, résumé, traveler, caller, preview, garage, oval, occupation, cellphone, compact, merchandise, dentist, tactic, replacement, underline, electrical, airplane, café, comprehension, mini, fitness, closet, unreal, distractor, donation, provider, inspection, recipient, indoor, dial, container, respondent, skim, briefcase, inquire, advisor, announcer, aspect, audit, contractor, stadium, weekday, waitress, cleaner, alike, commonly, captain, trainer, midnight, rainy, unhappy, automobile, incomplete, dock, seldom, carrier, designate, dental, duration, painter, patron, salad, delegate, salesperson, omit, spite, correspondence, sculpture, ice cream, basketball, delete, illogical, textbook, accurately, cabin, conductor, inspector …
-- 순위 501~1000: 341개 — considerably, informal, microscope, newsstand, rack, remodel, tunnel, unlimited, vitamin, zoo, auditorium, celebrity, deduct, enthusiastic, graduation, icy, irregular, login, mineral, motorcycle, planner, programmer, recruiter, remainder, statue, accessory, basket, closure, dislike, downstairs, nail, pedestrian, sleeve, suburb, takeover, unsure, verbal, wildlife, absent, accumulate, apprentice, businessman, colorful, costume, editorial, firefighter, gasoline, inappropriate, layout, lunchtime, pharmaceutical, plausible, safely, specialty, unspecified, adhere, bankrupt, caution, clip, diner, eager, embassy, fasten, informative, institute, kit, mentor, nominate, opt, parade, physician, polish, postage, recreational, rehearse, removal, satisfactory, accordingly, applicable, balcony …
-- 순위 1001~1259: 193개 — loudly, microwave, misidentify, neat, outfit, pastry, poorly, prestigious, purser, reassure, reunion, revolutionize, seafood, signify, slot, sue, superb, traditionally, unpleasant, violin, ward, worthwhile, advisable, archive, artistic, assurance, athletic, attire, butter, centimeter, circulate, comb, comfortably, cookbook, cushion, dose, drum, embed, expedite, extinguisher, familiarity, fluent, hurricane, hygiene, integral, interactive, interfere, lightweight, needy, overpay, pamphlet, partial, penalize, pollute, prescribe, prominent, relocation, residence, retrieve, rider, salespeople, someday, spectator, stereo, storeroom, subsidize, suspicious, tasty, terrific, underground, unpaid, volleyball, wheelchair, wool, wrinkle, anyhow, appetizer, arc, audition, backpack …
+**TSL 1.1 (토익): 포함 45.4% · 누락 687개**
+- 순위 1~500: 156개 — mister, e-book, logical, goods, résumé, traveler, caller, preview, garage, oval, occupation, cellphone, compact, merchandise, dentist, tactic, replacement, underline, electrical, airplane, café, comprehension, mini, fitness, closet, unreal, distractor, donation, provider, inspection, recipient, indoor, dial, container, respondent, skim, briefcase, inquire, advisor, announcer, aspect, audit, contractor, stadium, weekday, waitress, cleaner, commonly, captain, trainer, midnight, rainy, unhappy, automobile, incomplete, dock, carrier, designate, dental, duration, painter, patron, salad, delegate, salesperson, omit, spite, correspondence, sculpture, ice cream, basketball, delete, illogical, textbook, accurately, cabin, conductor, inspector, graph, taker …
+- 순위 501~1000: 339개 — considerably, informal, microscope, newsstand, rack, remodel, tunnel, unlimited, vitamin, zoo, auditorium, celebrity, deduct, enthusiastic, graduation, icy, irregular, login, mineral, motorcycle, planner, programmer, recruiter, remainder, statue, accessory, closure, dislike, downstairs, nail, pedestrian, sleeve, suburb, takeover, unsure, verbal, wildlife, absent, accumulate, apprentice, businessman, colorful, costume, editorial, firefighter, gasoline, inappropriate, layout, lunchtime, pharmaceutical, plausible, safely, specialty, unspecified, adhere, bankrupt, caution, clip, diner, eager, embassy, fasten, informative, institute, kit, mentor, nominate, opt, parade, physician, polish, postage, recreational, rehearse, removal, satisfactory, accordingly, applicable, balcony, basement …
+- 순위 1001~1259: 192개 — loudly, microwave, misidentify, neat, outfit, pastry, poorly, prestigious, purser, reassure, reunion, revolutionize, seafood, signify, slot, sue, superb, traditionally, unpleasant, violin, ward, worthwhile, advisable, archive, artistic, assurance, athletic, attire, butter, centimeter, circulate, comb, comfortably, cookbook, cushion, dose, drum, embed, expedite, extinguisher, fluent, hurricane, hygiene, integral, interactive, interfere, lightweight, needy, overpay, pamphlet, partial, penalize, pollute, prescribe, prominent, relocation, residence, retrieve, rider, salespeople, someday, spectator, stereo, storeroom, subsidize, suspicious, tasty, terrific, underground, unpaid, volleyball, wheelchair, wool, wrinkle, anyhow, appetizer, arc, audition, backpack, biography …
 
-**BSL 1.01 (비즈니스): 포함 40.5% · 누락 1,043개**
-- 순위 1~500: 208개 — mister, goods, sponsorship, audit, e-book, anti, entity, euro, aggregate, payable, aspect, calculation, receivable, creditor, sub, annuity, broker, coalition, maximize, beta, lender, par, provider, constitution, trader, monopoly, stockmarket, ex, corruption, issuer, borrower, patent, debit, duration, terrorism, respondent, takeover, coefficient, classify, offset, merchandise, bound, taxpayer, debtor, liable, scandal, defer, carrier, payoff, ethical, contractor, marketer, rebel, statute, acceptance, defendant, matrix, graph, replacement, telecom, accumulate, exploit, diagram, referendum, indirect, sophisticate, businessman, commonly, superior, taxation, multinational, plaintiff, withdrawal, consolidate, taxable, subordinate, pledge, modest, convertible, thereby …
-- 순위 501~1000: 305개 — willingness, tempt, broadly, prominent, conglomerate, contrary, simulation, senator, standardize, opt, sensible, exemption, concession, occupation, privately, guerrilla, pharmaceutical, administer, repurchase, denote, nonetheless, overview, horizontal, array, ballot, treasury, intermediary, reproduce, boast, militant, fate, qualitative, gang, oblige, curb, robust, brokerage, accurately, devise, inspector, incremental, fighter, subsidize, grip, mathematical, assert, underwrite, differentiate, correlate, agriculture, multiplier, adverse, suspicion, virtue, flee, threshold, legitimate, behavioral, dump, documentation, poorly, unemployed, discharge, explicit, breakdown, span, bail, incumbent, albeit, spokesman, contingency, recipient, subtract, surrender, judicial, certainty, administrator, logical, rebuild, corrupt …
-- 순위 1001~1754: 530개 — rocket, debenture, collar, outperform, irrelevant, diamond, promotional, broadband, traveler, equality, entail, compile, circulation, petition, attributable, revolutionary, carmaker, discretionary, reconciliation, mutually, subprime, refusal, outfit, consortium, speculative, policeman, resemble, amortize, exploration, mill, subjective, mainland, retreat, peaceful, importantly, backward, overwhelm, unprecedented, declaration, rebate, covariance, jointly, resignation, removal, exclusion, bomber, occurrence, viewer, spur, hazard, packet, omit, prospectus, conscious, placement, desktop, telecommunication, infect, socialist, browser, cyclical, likewise, cartel, triumph, processor, divert, arguably, ordinate, casualty, verdict, dot, distinctive, inflationary, salesperson, tort, positively, unlimited, inflate, constituency, mineral …
+**BSL 1.01 (비즈니스): 포함 41.2% · 누락 1,032개**
+- 순위 1~500: 206개 — mister, goods, sponsorship, audit, e-book, anti, entity, euro, aggregate, payable, aspect, calculation, receivable, creditor, sub, annuity, broker, coalition, maximize, beta, par, provider, constitution, trader, monopoly, stockmarket, ex, corruption, issuer, patent, debit, duration, terrorism, respondent, takeover, coefficient, classify, offset, merchandise, bound, taxpayer, debtor, liable, scandal, defer, carrier, payoff, ethical, contractor, marketer, rebel, statute, acceptance, defendant, matrix, graph, replacement, telecom, accumulate, exploit, diagram, referendum, indirect, sophisticate, businessman, commonly, superior, taxation, multinational, plaintiff, withdrawal, consolidate, taxable, subordinate, pledge, modest, convertible, thereby, ledger, linear …
+- 순위 501~1000: 299개 — willingness, tempt, broadly, prominent, conglomerate, contrary, simulation, senator, standardize, opt, sensible, exemption, concession, occupation, privately, guerrilla, pharmaceutical, administer, repurchase, denote, nonetheless, overview, horizontal, array, ballot, treasury, intermediary, reproduce, boast, militant, fate, qualitative, gang, oblige, curb, robust, brokerage, accurately, devise, inspector, incremental, fighter, subsidize, grip, mathematical, assert, underwrite, differentiate, correlate, agriculture, multiplier, adverse, suspicion, flee, threshold, legitimate, behavioral, dump, documentation, poorly, unemployed, discharge, explicit, breakdown, span, bail, incumbent, albeit, spokesman, contingency, recipient, subtract, surrender, judicial, certainty, administrator, logical, rebuild, litigation, generic …
+- 순위 1001~1754: 527개 — rocket, debenture, collar, outperform, irrelevant, diamond, promotional, broadband, traveler, equality, entail, compile, circulation, petition, attributable, revolutionary, carmaker, discretionary, reconciliation, mutually, subprime, refusal, outfit, consortium, speculative, policeman, resemble, amortize, exploration, mill, subjective, mainland, retreat, peaceful, importantly, backward, overwhelm, unprecedented, declaration, rebate, covariance, jointly, resignation, removal, exclusion, bomber, occurrence, viewer, spur, hazard, packet, omit, prospectus, conscious, placement, desktop, telecommunication, infect, socialist, browser, cyclical, likewise, cartel, triumph, processor, divert, arguably, ordinate, casualty, verdict, dot, distinctive, inflationary, salesperson, tort, positively, unlimited, inflate, constituency, mineral …
 
-**베트남어 자막 빈도 상위 3,000 음절: 포함 59.8% · 누락 1,207개**
+**베트남어 자막 빈도 상위 3,000 음절: 포함 61.2% · 누락 1,164개**
 - 순위 1~500: 19개 — giết, ngươi, chúa, thằng, i, ko, oh, bắn, t, c, n, quái, yeah, ng, khốn, gã, the, m, ư
-- 순위 501~1000: 51개 — ổng, you, s, tiệt, okay, l, hey, vời, ngu, đức, tụi, nè, kiếp, uh, thậm, lão, ngựa, binh, v, đạn, kì, ok, th, hi, john, quỷ, ch, b, săn, thánh, giây, and, cơn, jack, ah, bom, nh, huynh, dĩ, lí, khỉ, frank, não, new, ngừng, diệt, chà, can, xinh, trấn, h
-- 순위 1001~2000: 405개 — tàn, kh, of, úy, dàng, ngàn, hổ, ngục, sam, whoa, me, ám, my, lạy, vinh, đệ, o, york, mông, bội, ống, ha, dặm, hỏa, well, peter, james, lôi, giam, on, địch, cắp, đâm, wow, that, phu, michael, thảm, rồng, um, kẹt, ngực, ben, rồ, đế, bả, g, hư, khứ, harry, cóc, câm, cổng, ngọn, bám, thai, mẽ, đụng, mike, jim, hung, claire, tống, ép, charlie, tước, rachel, đc, mồm, don, david, vẩn, joey, đậu, tom, mưu, nát, ngang, gan, ross, man, kí, thèm, alex, chôn, liều, đéo, all, đương, đếm, george, what, we, fbi, sỹ, nô, hmm, hoại, huấn, gác …
-- 순위 2001~3000: 732개 — yo, bobby, city, xài, xí, dàn, sờ, chóc, rick, cạo, andy, doug, francis, wilson, dãy, finch, there, hank, ow, lật, độn, dại, hắc, marty, côn, ted, hiển, đệch, đô-la, now, nốt, quấy, hoá, queen, hello, ryan, maria, was, amy, bruce, đãi, dược, if, khoái, radio, đếch, nọ, texas, lăn, cừu, xíu, mm, bầy, toà, té, chuộc, viêm, dỗ, katie, cò, jones, they, ơ, tể, good, victor, gordon, bẻ, roy, lạp, simon, xà, here, lincoln, hố, sherlock, annie, eric, wayne, hạm, xưởng, nhấc, tẩy, vặt, edward, carter, trích, jesse, king, cưỡi, sean, vịt, trộn, giùm, tát, tiềm, ối, time, giảng, let …
+- 순위 501~1000: 46개 — ổng, you, s, tiệt, okay, l, hey, vời, ngu, đức, tụi, nè, kiếp, uh, thậm, binh, v, đạn, kì, ok, th, hi, john, quỷ, ch, b, giây, and, cơn, jack, ah, bom, nh, huynh, lí, khỉ, frank, não, new, ngừng, diệt, chà, can, xinh, trấn, h
+- 순위 1001~2000: 387개 — tàn, kh, of, úy, dàng, ngàn, hổ, ngục, sam, whoa, me, ám, my, lạy, đệ, o, york, mông, bội, ống, ha, hỏa, well, peter, james, lôi, giam, on, địch, cắp, đâm, wow, that, phu, michael, thảm, rồng, um, kẹt, ngực, ben, rồ, đế, bả, g, hư, khứ, harry, cóc, câm, cổng, ngọn, bám, thai, mẽ, đụng, mike, jim, hung, claire, tống, ép, charlie, tước, rachel, đc, mồm, don, david, vẩn, joey, đậu, tom, nát, ngang, gan, ross, man, kí, thèm, alex, chôn, liều, đéo, all, đương, đếm, george, what, we, fbi, sỹ, nô, hmm, hoại, huấn, gác, joe, túy, chớ …
+- 순위 2001~3000: 712개 — yo, bobby, city, xài, xí, dàn, sờ, chóc, rick, cạo, andy, doug, francis, wilson, dãy, finch, there, hank, ow, lật, độn, dại, hắc, marty, côn, ted, hiển, đệch, đô-la, now, nốt, quấy, hoá, queen, hello, ryan, maria, was, amy, bruce, đãi, dược, if, khoái, radio, đếch, texas, lăn, cừu, xíu, mm, bầy, toà, té, chuộc, viêm, dỗ, katie, cò, jones, they, ơ, tể, good, victor, gordon, bẻ, roy, lạp, simon, xà, here, lincoln, hố, sherlock, annie, eric, wayne, hạm, xưởng, nhấc, tẩy, vặt, edward, carter, trích, jesse, king, sean, trộn, giùm, tiềm, ối, time, giảng, let, al, uhm, nhện, j …
 
 (자막 음절에는 인명·외래어 표기가 섞여 있어 전부가 학습 대상은 아님)
 
