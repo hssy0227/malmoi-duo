@@ -1,0 +1,37 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 보도문 상투 표현·인용·전망
+@society
+4|관계 당국에 따르면 피해 규모는 아직 집계 중이다.|Theo cơ quan chức năng, mức độ thiệt hại vẫn đang được thống kê.|theo=~에 따르면; cơ quan chức năng=관계 당국; thống kê=집계하다
+4|현지 언론 보도에 따르면 사고 원인은 과속이다.|Theo báo chí địa phương, nguyên nhân vụ tai nạn là do chạy quá tốc độ.|báo chí=언론; chạy quá tốc độ=과속하다
+4|목격자들은 큰 폭발음을 들었다고 말했다.|Các nhân chứng cho biết đã nghe thấy tiếng nổ lớn.|nhân chứng=목격자; tiếng nổ=폭발음
+4|사건은 현재 조사 중이다.|Vụ việc hiện đang được điều tra.|vụ việc=사건; điều tra=조사하다
+4|당국은 시민들에게 침착할 것을 당부했다.|Chính quyền kêu gọi người dân bình tĩnh.|chính quyền=당국
+4|이번 조치는 다음 달 1일부터 시행된다.|Biện pháp này được áp dụng từ ngày 1 tháng tới.|
+4|구체적인 내용은 추후 발표될 예정이다.|Thông tin chi tiết sẽ được công bố sau.|chi tiết=상세한
+4|전문가들은 신중한 접근이 필요하다고 지적했다.|Các chuyên gia lưu ý cần có cách tiếp cận thận trọng.|lưu ý=유의하다
+4|이번 발표는 시장의 예상과 일치했다.|Thông báo này phù hợp với dự đoán của thị trường.|dự đoán=예상
+4|회사 측은 이 같은 보도를 부인했다.|Phía công ty đã bác bỏ thông tin này.|phía=측; bác bỏ=부인하다
+4|정부는 아직 공식 입장을 내놓지 않았다.|Chính phủ vẫn chưa đưa ra quan điểm chính thức.|
+4|이 문제는 국회에서 뜨거운 논쟁을 불러일으켰다.|Vấn đề này đã gây tranh luận sôi nổi tại Quốc hội.|sôi nổi=뜨거운
+4|여론 조사에서 응답자의 70%가 찬성했다.|Trong khảo sát, 70% người được hỏi tán thành.|người được hỏi=응답자; tán thành=찬성하다
+4|통계에 따르면 1인당 소득은 4,700달러다.|Theo thống kê, thu nhập bình quân đầu người là 4.700 USD.|bình quân đầu người=1인당
+4|전년 같은 기간보다 두 배 늘었다.|Tăng gấp đôi so với cùng kỳ năm trước.|
+4|이는 지난 10년 중 가장 높은 수준이다.|Đây là mức cao nhất trong vòng 10 năm qua.|
+4|이 수치는 목표치에 크게 못 미친다.|Con số này còn thấp xa so với mục tiêu.|thấp xa=크게 못 미치는
+4|올해 들어 처음으로 하락세를 보였다.|Lần đầu tiên kể từ đầu năm ghi nhận xu hướng giảm.|kể từ=~이래로; ghi nhận=기록하다
+4|이 같은 추세는 당분간 이어질 전망이다.|Xu hướng này được dự báo sẽ tiếp diễn trong thời gian tới.|tiếp diễn=계속되다
+4|업계에서는 회의적인 반응이 나오고 있다.|Giới doanh nghiệp tỏ ra hoài nghi.|giới=업계; tỏ ra=보이다; hoài nghi=회의적인
+5|일각에서는 정책의 실효성에 의문을 제기하고 있다.|Một số ý kiến đặt câu hỏi về tính hiệu quả thực tế của chính sách.|
+5|이번 사태는 관리 감독의 허점을 드러냈다.|Sự việc lần này đã bộc lộ lỗ hổng trong công tác quản lý, giám sát.|lỗ hổng=허점
+5|전문가들은 근본적인 해결책 없이는 문제가 반복될 것이라고 경고했다.|Giới chuyên gia cảnh báo nếu không có giải pháp căn cơ, vấn đề sẽ lặp lại.|
+5|당국은 책임자를 엄중히 처벌하겠다고 밝혔다.|Cơ quan chức năng khẳng định sẽ xử lý nghiêm người chịu trách nhiệm.|khẳng định=단언하다; xử lý nghiêm=엄중 처벌하다
+5|이번 결정이 시장에 미칠 파장이 주목된다.|Tác động của quyết định này tới thị trường đang được dư luận quan tâm.|
+5|양측은 협상 결과에 대해 말을 아꼈다.|Hai bên đều kiệm lời về kết quả đàm phán.|kiệm lời=말을 아끼다
+5|낙관하기는 이르지만 긍정적인 신호임은 분명하다.|Còn quá sớm để lạc quan, nhưng rõ ràng đây là tín hiệu tích cực.|tín hiệu=신호
+5|정책 발표와 현장 실행 사이에 간극이 존재한다.|Vẫn còn khoảng cách giữa việc ban hành chính sách và thực thi trên thực tế.|
+5|이번 사건은 사회 전반에 경종을 울렸다.|Vụ việc đã gióng lên hồi chuông cảnh tỉnh cho toàn xã hội.|gióng lên hồi chuông cảnh tỉnh=경종을 울리다
+5|결과는 아직 미지수다.|Kết quả vẫn còn là một ẩn số.|ẩn số=미지수
+5|이번 개혁은 '말보다 행동'을 보여 줄 시험대가 될 것이다.|Cuộc cải cách này sẽ là phép thử cho tinh thần "nói đi đôi với làm".|phép thử=시험대; nói đi đôi với làm=언행일치
+5|각계각층의 의견을 폭넓게 수렴할 필요가 있다.|Cần lắng nghe rộng rãi ý kiến của các tầng lớp nhân dân.|tầng lớp=계층
+5|이는 단순한 경제 문제가 아니라 사회적 신뢰의 문제다.|Đây không đơn thuần là vấn đề kinh tế mà là vấn đề niềm tin xã hội.|đơn thuần=단순히
+5|정부의 대응 속도가 위기의 크기를 결정할 것이다.|Tốc độ phản ứng của chính phủ sẽ quyết định mức độ của cuộc khủng hoảng.|
+5|변화의 방향은 맞지만 속도 조절이 필요하다는 지적이 많다.|Nhiều ý kiến cho rằng hướng đi đúng nhưng cần điều chỉnh tốc độ.|

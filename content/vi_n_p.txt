@@ -1,0 +1,40 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 이웃·택시 기사·가게 주인과의 스몰토크
+@daily
+4|한국 사람이에요. 서울에서 왔어요.|Tôi là người Hàn, đến từ Seoul.|
+4|베트남에 출장 오셨어요?|Anh sang Việt Nam công tác à?|
+4|네, 일 때문에 자주 와요.|Vâng, tôi hay sang vì công việc.|vâng=네(북부)
+4|베트남어 어디서 배웠어요?|Anh học tiếng Việt ở đâu thế?|thế=(의문 어미, 북부 구어)
+4|혼자 앱으로 공부하고 있어요.|Tôi tự học qua ứng dụng.|tự học=독학하다
+4|한국 드라마 정말 좋아해요.|Tôi rất mê phim Hàn.|
+4|박항서 감독 덕분에 한국을 좋아하게 됐어요.|Nhờ thầy Park Hang-seo mà tôi thích Hàn Quốc.|thầy=선생님·감독(존칭)
+4|한국에 가 보고 싶어요.|Tôi rất muốn sang Hàn Quốc chơi.|
+4|한국 겨울은 정말 추워요.|Mùa đông Hàn Quốc lạnh lắm.|
+4|눈 본 적 있어요?|Anh đã bao giờ thấy tuyết chưa?|tuyết=눈
+4|요즘 장사는 잘되세요?|Dạo này buôn bán có tốt không?|buôn bán=장사
+4|요즘 손님이 좀 줄었어요.|Dạo này khách hơi ít.|
+4|이 가게는 몇 년 됐어요?|Quán này mở được mấy năm rồi?|
+4|어머니 때부터 하던 가게예요.|Quán này có từ thời mẹ tôi.|thời=시절
+4|매일 몇 시에 문 열어요?|Hằng ngày mấy giờ quán mở cửa?|
+4|단골이 되면 할인해 드릴게요.|Thành khách quen thì tôi bớt cho.|khách quen=단골손님
+4|기사님, 이 길이 제일 빨라요?|Anh ơi, đường này nhanh nhất à?|anh ơi=(호칭) 저기요
+4|이 시간엔 저쪽이 막혀요.|Giờ này đường kia tắc lắm.|
+4|하노이에서 운전한 지 얼마나 되셨어요?|Anh chạy xe ở Hà Nội lâu chưa?|chạy xe=운전하다
+4|하루에 몇 시간 일하세요?|Mỗi ngày anh làm mấy tiếng?|
+4|요즘 기름값이 올라서 힘들어요.|Dạo này giá xăng tăng nên vất vả.|
+4|좋은 하루 보내세요, 기사님.|Chúc anh một ngày tốt lành nhé.|
+4|이웃집 아이가 정말 예의 발라요.|Con nhà hàng xóm rất lễ phép.|lễ phép=예의 바른
+4|요즘 아파트 앞에서 공사를 해서 시끄러워요.|Dạo này trước chung cư đang thi công nên ồn lắm.|thi công=공사하다
+4|이 동네는 살기 좋아요.|Khu này sống dễ chịu lắm.|khu=동네; dễ chịu=쾌적한
+4|근처에 맛있는 쌀국수 집 있어요?|Gần đây có hàng phở nào ngon không?|hàng=가게
+4|저 골목 안에 있는 집이 진짜예요.|Quán trong ngõ kia mới là chuẩn.|
+4|아침 일찍 가야 해요. 금방 다 팔려요.|Phải đi sớm, bán hết nhanh lắm.|
+4|오늘 시장에 사람이 많네요.|Hôm nay chợ đông thế.|đông=붐비다
+4|요즘 비가 자주 오네요.|Dạo này hay mưa nhỉ.|
+4|이번 주말엔 날이 갠대요.|Nghe nói cuối tuần này trời tạnh.|tạnh=(비가) 그치다
+4|하노이 사람들은 정말 부지런해요.|Người Hà Nội chăm chỉ thật.|chăm chỉ=부지런한
+5|처음엔 낯설었는데 이제는 여기가 두 번째 고향 같아요.|Lúc đầu thấy lạ lẫm, giờ ở đây như quê hương thứ hai.|lạ lẫm=낯선; quê hương=고향
+5|작은 가게 주인들과 인사하는 게 하루의 즐거움이에요.|Chào hỏi các chủ quán nhỏ là niềm vui mỗi ngày của tôi.|chào hỏi=인사하다; chủ quán=가게 주인; niềm vui=즐거움
+5|말이 서툴러도 웃으면서 이야기하면 다 통해요.|Dù nói chưa giỏi, cứ cười và nói chuyện là hiểu nhau hết.|
+5|여기 사람들은 정이 많아서 외로울 틈이 없어요.|Người ở đây tình cảm nên chẳng có lúc nào thấy cô đơn.|tình cảm=정이 많은
+5|베트남어로 농담을 알아듣게 되면 진짜 실력이 는 거예요.|Khi hiểu được câu đùa bằng tiếng Việt là trình độ đã tiến bộ thật sự.|câu đùa=농담; trình độ=실력
+5|언어는 결국 사람과 사람을 잇는 다리예요.|Ngôn ngữ rốt cuộc là cây cầu nối con người với con người.|cây cầu=다리; nối=잇다
