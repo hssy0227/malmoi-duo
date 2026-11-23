@@ -182,7 +182,7 @@
 4|정부는 숲 보호에 힘쓰고 있어요.|The government is working on forest conservation.|conservation=보호|
 5|경찰은 큰 음모의 증거를 찾아냈어요.|The police found evidence of a major conspiracy.|conspiracy=음모|
 5|의원은 선거구 주민들의 목소리를 전했어요.|The lawmaker conveyed the voices of his constituency.|constituency=선거구|
-5|물은 수소와 산소로 이루어진 구성 요소예요.|Hydrogen is a constituent of water.|constituent=구성 요소|
+5|수소는 물을 이루는 구성 성분이에요.|Hydrogen is a constituent of water.|constituent=구성 요소|
 4|헌법은 국민의 기본권을 보장해요.|The constitution guarantees the basic rights of citizens.|constitution=헌법|
 4|공장 폐수가 강을 오염시켰어요.|Factory wastewater contaminated the river.|contaminate=오염시키다|
 5|두 정당 사이의 논쟁은 몇 달째 계속됐어요.|The contention between the two parties went on for months.|contention=논쟁|
@@ -257,7 +257,7 @@
 5|이 과정에서 산소가 거의 고갈돼요.|Oxygen is almost depleted in this process.|deplete=고갈시키다|
 5|자원의 고갈은 심각한 문제예요.|The depletion of resources is a serious problem.|depletion=고갈|
 5|불법 체류자는 본국으로 추방될 수 있어요.|Illegal residents may be deported to their home country.|deport=추방하다|
-5|그는 국외 추방 명령에 불복하고 소송을 냈어요.|He sued against the deportation order.|deportation=국외 추방|
+5|그는 국외 추방 명령에 불복해 소송을 냈어요.|He filed a lawsuit to challenge the deportation order.|deportation=국외 추방|
 5|혁명가들은 왕을 폐위시켰어요.|The revolutionaries deposed the king.|depose=폐위하다|
 4|그 사건은 그에게서 평온을 빼앗았어요.|The incident deprived him of peace.|deprive=빼앗다|
 4|부시장이 시장을 대신해 회의에 참석했어요.|The deputy mayor attended the meeting for the mayor.|deputy=대리인|
@@ -266,9 +266,9 @@
 5|공공장소에서 모욕적인 말을 하면 안 돼요.|You must not make derogatory remarks in public places.|derogatory=모욕적인|
 5|묘지를 훼손하는 행위는 처벌받아요.|Desecrating a cemetery is punishable.|desecrate=훼손하다|
 4|실패 후 그는 깊은 절망에 빠졌어요.|After the failure, he fell into deep despair.|despair=절망|
-4|그는 필사적으로 일자리를 찾았어요.|He looked for a job in desperate need.|desperate=필사적인|
+4|그는 일자리를 구하려고 필사적이었어요.|He was desperate to find a job.|desperate=필사적인|
 5|그 폭군은 백성을 두려움으로 다스렸어요.|The despot ruled his people through fear.|despot=폭군|
-5|전쟁 후 많은 가정이 극빈 상태에 빠졌어요.|After the war many families fell into destitute conditions.|destitute=극빈의|
+5|전쟁 후 많은 가정이 극빈 상태가 되었어요.|After the war many families were left destitute.|destitute=극빈의|
 4|지진은 도시에 큰 파괴를 가져왔어요.|The earthquake brought great destruction to the city.|destruction=파괴|
 4|태풍은 파괴적인 힘으로 해안을 휩쓸었어요.|The typhoon swept the coast with destructive force.|destructive=파괴적인|
 5|경찰은 용의자를 이틀간 구금했어요.|Police detained the suspect for two days.|detain=구금하다|
@@ -454,9 +454,9 @@
 5|두 가문은 오랫동안 불화를 이어 왔어요.|The two families have kept up a long feud.|feud=불화|
 5|시장은 열광적인 분위기였어요.|The market had a feverish atmosphere.|feverish=열광적인|
 5|그 행사는 준비 부족으로 대실패로 끝났어요.|The event ended in a fiasco because of poor preparation.|fiasco=대실패|
-5|그는 사람들에게 악마처럼 보이는 사람이었어요.|To many people he seemed a fiend.|fiend=악마|
+5|그는 적들에게 악마 같은 존재였어요.|To his enemies he was a fiend.|fiend=악마|
 4|두 팀은 우승을 놓고 치열한 경쟁을 벌였어요.|The two teams had a fierce contest for the championship.|fierce=치열한|
-2|그들은 자유를 위해 끝까지 싸우며 맞섰어요.|They continued to fight for freedom to the end.|fight=싸우다|
+2|그들은 자유를 위해 끝까지 싸울 거예요.|They will fight for freedom to the end.|fight=싸우다|
 4|전투기가 하늘 높이 날아갔어요.|Fighter jets flew high into the sky.|fighter=전투기|
 4|경찰은 총기를 압수했어요.|The police seized the firearm.|firearm=총기|
 5|그 기업의 노골적인 불법 행위가 드러났어요.|The company's flagrant illegal acts came to light.|flagrant=노골적인|
@@ -542,7 +542,7 @@
 3|경찰은 총을 든 남자를 체포했어요.|The police arrested a man with a gun.|gun=총|
 4|한밤중에 총격 소리가 들렸어요.|Gunfire was heard in the middle of the night.|gunfire=총격|
 4|그 회사는 해커가 시스템을 해킹했다고 발표했어요.|The company announced that a hacker had hacked its system.|hack=해킹하다|
-4|경찰은 차를 세우고 운전을 중단시켰어요.|The police stopped the car and halted the driving.|halt=멈추다|
+4|경찰은 트럭에 멈추라고 명령했어요.|The police ordered the truck to halt.|halt=멈추다|
 5|그 불운한 여행자는 길을 잃었어요.|The hapless traveler got lost.|hapless=불운한|
 4|어제 마을에서 이상한 일이 일어났어요.|A strange happening occurred in the village yesterday.|happening=일|
 5|그는 직원들에게 장황한 설교를 늘어놓았어요.|He gave the staff a long harangue.|harangue=장황한 설교|

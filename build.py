@@ -37,7 +37,7 @@ SOURCES = [
 ]
 SRC_FILE = {"en_e.txt": "TE", "en_f.txt": "TE", "en_i.txt": "TE", "en_l.txt": "TE", "en_g.txt": "TF",
             "en_j.txt": "NG", "en_k.txt": "NG",
-            "en_wd_toefl.txt": "TF", "en_wd_toeic.txt": "TE", "en_wd_news.txt": "Jr", "en_wx_toefl.txt": "TF", "en_wx_toeic.txt": "TE", "en_wx_news.txt": "Jr", "vi_p.txt": "Mv", "vi_q.txt": "Adv"}
+            "en_wd_toefl.txt": "TF", "en_wd_toeic.txt": "TE", "en_wd_news.txt": "Jr", "en_wx_toefl.txt": "TF", "en_wx_toeic.txt": "TE", "en_wx_news.txt": "Jr", "en_wm_toefl.txt": "TF", "en_wm_toeic.txt": "TE", "en_wm_news.txt": "Jr", "vi_p.txt": "Mv", "vi_q.txt": "Adv"}
 
 
 def src_of(fname, cat):
