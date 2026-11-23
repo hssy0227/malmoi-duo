@@ -1,0 +1,66 @@
+# 저널·뉴스형 (직접 작성) — 칼럼·분석 문장 (원인·전망·반론 표현)
+@econ
+5|이번 반등이 추세 전환인지 일시적 현상인지는 아직 판단하기 이르다.|It's too early to tell whether this rebound marks a turning point or a blip.|blip=일시적 현상; turning point=전환점
+5|숫자만 보면 좋아 보이지만 속을 들여다보면 이야기가 다르다.|The headline numbers look good, but a closer look tells a different story.|closer look=자세히 봄
+5|시장이 과잉 반응하고 있다는 분석이 지배적이다.|Most analysts believe the market is overreacting.|overreact=과잉 반응하다
+5|낙관론과 비관론이 팽팽하게 맞서고 있다.|Optimists and pessimists are evenly matched.|evenly matched=팽팽한
+5|문제는 속도가 아니라 방향이다.|The issue is not the speed but the direction.|
+5|이 수치에는 몇 가지 단서가 붙는다.|These figures come with a few caveats.|caveat=단서
+5|역사적으로 보면 이런 국면은 오래가지 않았다.|Historically, phases like this haven't lasted long.|historically=역사적으로
+5|결국 관건은 소비자들이 지갑을 열지 여부다.|Ultimately, it comes down to whether consumers open their wallets.|come down to=결국 ~에 달려 있다
+5|단기 처방이 장기 문제를 키울 수 있다.|Short-term fixes can make long-term problems worse.|fix=처방
+5|모두가 같은 방향에 베팅할 때가 가장 위험하다.|It's most dangerous when everyone is betting the same way.|
+5|이 정책의 승자와 패자는 분명하다.|There are clear winners and losers from this policy.|
+5|위기가 기회라는 말은 준비된 사람에게만 해당한다.|The idea that crisis means opportunity only applies to those who are prepared.|apply to=해당하다
+5|비용은 즉각적이지만 효과는 시간이 걸린다.|The costs are immediate, but the benefits take time.|immediate=즉각적인
+5|기대 인플레이션을 잡지 못하면 금리 인하는 어렵다.|Rate cuts will be hard unless inflation expectations are brought under control.|bring under control=통제하다
+5|성장의 과실이 고르게 나뉘지 않으면 사회적 갈등이 커진다.|When the fruits of growth aren't shared, social tensions rise.|fruits=성과
+@tech
+5|기술이 문제를 해결한다는 믿음은 종종 과장된다.|The belief that technology will solve the problem is often exaggerated.|
+5|혁신의 속도만큼 중요한 것은 사회가 그것을 흡수하는 속도다.|What matters as much as the speed of innovation is how fast society can absorb it.|absorb=흡수하다
+5|AI를 둘러싼 과장과 공포 사이에서 균형 잡힌 시각이 필요하다.|We need a balanced view between AI hype and AI fear.|hype=과장 선전
+5|기술이 중립적이라는 생각은 순진하다.|It's naïve to think technology is neutral.|naïve=순진한
+5|결국 신뢰를 얻는 기업이 데이터를 얻는다.|In the end, companies that earn trust earn data.|
+5|규제의 공백은 혁신이 아니라 혼란을 낳을 수도 있다.|A regulatory vacuum can breed chaos rather than innovation.|vacuum=공백; breed=낳다
+5|기술의 혜택이 소수에게 집중되면 반발이 커질 수밖에 없다.|If tech's benefits are concentrated among a few, a backlash is inevitable.|backlash=반발
+5|자동화는 일을 없애는 동시에 새로운 일을 만든다.|Automation destroys some jobs while creating new ones.|
+5|중요한 것은 AI가 무엇을 할 수 있느냐가 아니라 무엇을 해야 하느냐다.|The question isn't what AI can do, but what it should do.|
+5|모두가 같은 AI를 쓰면 차별화는 어디서 오는가?|If everyone uses the same AI, where does differentiation come from?|differentiation=차별화
+@society
+5|이 문제는 세대 갈등이 아니라 분배의 문제다.|This isn't a generational conflict; it's a question of distribution.|distribution=분배
+5|여론 조사 결과만으로 민심을 읽기는 어렵다.|It's hard to read the public mood from polls alone.|public mood=민심
+5|정치적 해법 없이는 경제적 해법도 지속되기 어렵다.|Without a political solution, economic solutions rarely last.|
+5|외교적 수사 뒤에 숨은 이해관계를 봐야 한다.|We need to look at the interests behind the diplomatic rhetoric.|rhetoric=수사
+5|개혁은 늘 반대에 부딪히지만, 하지 않는 비용이 더 크다.|Reform always meets resistance, but the cost of inaction is greater.|inaction=무대응
+5|이번 결정은 상징적 의미가 실질적 효과보다 크다.|The decision is more symbolic than substantive.|symbolic=상징적인; substantive=실질적인
+5|모두를 만족시키려는 정책은 아무도 만족시키지 못한다.|A policy that tries to please everyone ends up pleasing no one.|please=만족시키다
+5|사회적 신뢰는 가장 저평가된 국가 자산이다.|Social trust is a nation's most underrated asset.|underrated=과소평가된
+5|장기적인 안목 없이 표만 의식한 정책이 늘고 있다.|There are more and more policies driven by votes rather than long-term vision.|vision=안목
+5|위기 때 드러나는 것은 제도의 강도가 아니라 유연성이다.|What a crisis reveals is not how strong institutions are, but how flexible.|institution=제도
+5|지역 갈등이 세계 질서의 균형을 흔들고 있다.|Regional conflicts are upsetting the global balance.|upset=흔들다
+5|국제 협력은 이상이 아니라 현실적 필요다.|International cooperation is not an ideal but a practical necessity.|necessity=필요
+5|인구 감소는 피할 수 없지만, 대응 방식은 선택할 수 있다.|Population decline can't be avoided, but how we respond is a choice.|
+5|공정한 경쟁의 규칙이 무너지면 시장도 무너진다.|When the rules of fair competition break down, markets do too.|break down=무너지다
+5|진짜 문제는 정보의 부족이 아니라 신뢰의 부족이다.|The real problem isn't a lack of information but a lack of trust.|
+@shop
+5|가격 인상에 대한 소비자 저항이 커지고 있다.|Consumer resistance to price hikes is growing.|resistance=저항
+5|할인 경쟁은 결국 모두를 지치게 만든다.|Discount wars eventually exhaust everyone.|exhaust=지치게 하다
+5|구독 모델의 성공 여부는 해지율이 결정한다.|Churn determines whether a subscription model succeeds.|churn=해지율
+5|유통의 미래는 온라인과 오프라인의 경계를 지우는 데 있다.|The future of retail lies in blurring the line between online and offline.|blur=흐리게 하다
+5|가격 경쟁력만으로는 충성 고객을 만들 수 없다.|Price competitiveness alone can't create loyal customers.|loyal=충성스러운
+5|빠른 배송은 더 이상 차별화 요소가 아니라 기본 조건이다.|Fast delivery is no longer a differentiator but a basic requirement.|differentiator=차별화 요소
+5|플랫폼의 성장은 판매자의 희생 위에 서 있다는 비판이 있다.|Critics say platform growth is built on the backs of sellers.|on the backs of=~의 희생 위에
+5|소비자는 지속 가능성을 원하지만, 그 비용을 내려 하지는 않는다.|Consumers want sustainability but aren't always willing to pay for it.|willing to=기꺼이 ~하는
+5|좋은 상품보다 좋은 이야기가 더 잘 팔린다.|A good story sells better than a good product.|
+5|소비 패턴의 변화는 일시적 유행인가, 구조적 변화인가?|Is this shift in spending a passing trend or a structural change?|passing trend=일시적 유행
+@work
+5|조직 개편 발표가 직원들의 불안을 키웠다.|The restructuring announcement has heightened anxiety among staff.|heighten=키우다; anxiety=불안
+5|원격 근무를 둘러싼 논쟁의 본질은 통제와 신뢰다.|At its core, the remote work debate is about control and trust.|at its core=본질적으로
+5|AI는 일자리를 위협하기보다 일의 정의를 바꾸고 있다.|AI is redefining work more than threatening jobs.|redefine=재정의하다
+5|채용이 줄어든 것은 비용 문제가 아니라 불확실성 때문이다.|The hiring slowdown is about uncertainty, not cost.|
+5|리더의 메시지가 일관되지 않으면 조직은 멈춘다.|When a leader's message is inconsistent, the organization stalls.|stall=멈추다
+5|성과주의가 협업을 해친다는 비판도 있다.|Some argue that pay-for-performance undermines collaboration.|pay-for-performance=성과주의
+5|인재를 붙잡는 가장 확실한 방법은 성장의 기회다.|The surest way to keep talent is to offer chances to grow.|
+5|조직의 건강성은 나쁜 소식이 얼마나 빨리 위로 올라가는지로 알 수 있다.|You can measure an organization's health by how quickly bad news travels upward.|
+5|많은 기업이 데이터는 쌓지만 의사 결정은 감으로 한다.|Many companies collect data but still make decisions by gut feeling.|gut feeling=직감
+5|변화의 피로가 쌓이면 좋은 전략도 실패한다.|When change fatigue sets in, even good strategies fail.|change fatigue=변화 피로; set in=시작되다

@@ -1,0 +1,73 @@
+# 일상 회화 확장 (직접 작성) — 감정·위로·칭찬·부탁·사과·네트워킹
+@daily
+3|정말 수고 많았어요.|You did a great job.|
+3|덕분에 많이 배웠어요.|I learned a lot thanks to you.|
+3|많이 속상했겠어요.|That must have been really upsetting.|upsetting=속상한
+3|무슨 일 있어요? 표정이 안 좋아요.|Is something wrong? You look a little down.|down=우울한
+3|제가 도울 일 있으면 말해 줘요.|Let me know if there's anything I can do.|
+3|그 마음 충분히 이해해요.|I totally get how you feel.|get=이해하다
+3|너무 자책하지 마세요.|Don't be too hard on yourself.|be hard on=가혹하게 대하다
+3|다 잘될 거예요.|Everything's going to be okay.|
+3|정말 자랑스러워요.|I'm so proud of you.|
+3|축하해요! 그럴 자격 충분해요.|Congratulations! You totally deserve it.|deserve=자격이 있다
+3|부탁 하나 해도 될까요?|Can I ask you a favor?|favor=부탁
+3|번거롭게 해서 미안해요.|Sorry to bother you.|bother=귀찮게 하다
+3|다음부터 조심할게요.|I'll be more careful next time.|
+3|사과받아 줄래요?|Will you accept my apology?|apology=사과
+3|괜찮아요. 신경 쓰지 마세요.|It's fine. Don't worry about it.|
+3|고마워서 어떡하죠.|I can't thank you enough.|
+3|별말씀을요.|Don't mention it.|
+3|천만에요, 언제든지요.|Anytime.|
+3|오늘 정말 멋져 보여요.|You look great today.|
+4|그런 말 해 줘서 정말 힘이 나요.|It means a lot to hear you say that.|mean a lot=큰 의미가 있다
+4|그때 도와준 거 아직도 고맙게 생각해요.|I'm still grateful for how you helped me back then.|grateful=고마워하는
+4|기분 상하게 했다면 미안해요.|I'm sorry if I upset you.|upset=기분 상하게 하다
+4|일부러 그런 건 아니었어요.|I didn't mean to.|mean to=의도하다
+4|제 입장도 좀 이해해 줬으면 해요.|I'd appreciate it if you could see it from my side, too.|
+4|그 얘기를 들으니 마음이 아파요.|I'm so sorry to hear that.|
+4|지금은 혼자 있고 싶어요.|I need some time to myself right now.|
+4|이야기 들어 줘서 고마워요.|Thanks for listening.|
+4|당신 없었으면 못 했을 거예요.|I couldn't have done it without you.|
+4|그 일은 정말 잘 해결했어요.|You handled that really well.|handle=처리하다
+4|칭찬해 주셔서 감사합니다. 팀 덕분이에요.|Thanks for the compliment. It was a team effort.|compliment=칭찬; team effort=팀의 노력
+4|제가 너무 예민했던 것 같아요.|I think I was being too sensitive.|sensitive=예민한
+4|오해가 풀려서 다행이에요.|I'm glad we cleared up the misunderstanding.|clear up=풀다
+4|요즘 마음의 여유가 없었어요.|I haven't had much headspace lately.|headspace=마음의 여유
+4|가끔은 아무것도 안 하는 것도 필요해요.|Sometimes you need to do nothing at all.|
+4|너무 걱정하지 마. 내가 있잖아.|Don't worry so much. I've got you.|I've got you=내가 있잖아
+4|그 사람한테 고맙다고 꼭 전해 주세요.|Please be sure to thank her for me.|
+4|부담 갖지 말고 편하게 생각해요.|No pressure. Take it easy.|take it easy=편하게 생각하다
+4|거절해도 괜찮아요.|It's totally okay to say no.|
+4|기대 이상이었어요.|It exceeded my expectations.|exceed=넘어서다
+@greet
+3|어떤 일 하시는지 여쭤봐도 될까요?|May I ask what you do?|
+3|명함 드릴게요.|Here's my card.|card=명함
+3|오늘 행사에 어떻게 오시게 됐어요?|What brings you to the event today?|what brings you=무슨 일로 오셨어요
+3|연락처 교환할까요?|Shall we exchange contact info?|contact info=연락처
+4|발표 정말 인상 깊었어요.|Your talk was really impressive.|talk=발표; impressive=인상 깊은
+4|저도 같은 업계에 있어요.|I'm in the same industry.|industry=업계
+4|요즘 그쪽 업계 분위기는 어때요?|How are things in your industry these days?|
+4|링크드인으로 연결해요.|Let's connect on LinkedIn.|connect=연결하다
+4|나중에 커피 한잔하면서 더 얘기 나눠요.|Let's grab coffee sometime and talk more.|
+4|소개해 주실 분이 있으면 좋겠어요.|I'd love it if you could introduce me to someone.|
+4|좋은 대화 나눠서 즐거웠어요.|It was a pleasure talking with you.|pleasure=기쁨
+4|다음 행사에서 또 뵙길 바라요.|Hope to see you at the next event.|
+4|그분이 당신 얘기를 많이 하셨어요.|She speaks very highly of you.|speak highly of=칭찬하다
+4|혹시 이 분야에서 조언해 주실 수 있을까요?|Would you mind giving me some advice on this field?|
+5|오늘 나눈 이야기를 바탕으로 협업할 수 있는 부분을 찾아보고 싶어요.|I'd like to explore where we could collaborate, based on what we talked about today.|explore=모색하다
+5|같은 고민을 하는 분을 만나서 정말 반가웠어요.|It was great to meet someone dealing with the same challenges.|deal with=다루다
+5|다음 주에 후속 미팅을 잡아도 될까요?|Could we set up a follow-up meeting next week?|follow-up=후속
+5|네트워킹은 받는 것보다 주는 것에서 시작된다고 생각해요.|I believe networking starts with giving rather than taking.|
+5|이번 인연이 좋은 기회로 이어지면 좋겠어요.|I hope this connection leads to great opportunities.|lead to=이어지다
+@social
+4|요즘 무슨 운동 해요?|What do you do to stay in shape?|stay in shape=건강을 유지하다
+4|그 사람 요즘 승진해서 바쁘대요.|I heard she got promoted and has been busy.|
+4|새해 계획 세웠어요?|Have you made any New Year's resolutions?|resolution=결심
+4|올해는 꼭 외국어 하나 마스터하고 싶어요.|This year I really want to master a foreign language.|master=통달하다
+4|우리 모임 날짜 정해야 해요.|We need to pick a date for our get-together.|get-together=모임
+4|단체 대화방에서 투표해요.|Let's take a vote in the group chat.|take a vote=투표하다
+4|다들 시간 맞추기 어렵네요.|It's hard to find a time that works for everyone.|
+4|오늘은 제가 분위기 띄울게요.|I'll get the party started tonight.|
+4|그 농담 진짜 빵 터졌어요.|That joke totally cracked me up.|crack up=웃게 하다
+5|오랜 친구들과 만나면 시간 가는 줄 몰라요.|When I'm with old friends, I lose track of time.|lose track of=놓치다
+5|각자 사는 게 바빠도 가끔 이렇게 모이니 좋네요.|We're all busy with our own lives, but it's nice to get together like this.|
