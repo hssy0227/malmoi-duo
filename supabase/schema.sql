@@ -18,6 +18,13 @@ create table if not exists public.categories (
   sort    smallint not null default 0
 );
 
+create table if not exists public.sources (      -- 출처: 사전 범례 (G 일반, TE 토익, TF 토플, Biz 비즈니스 …)
+  key     text primary key,
+  name_ko text not null,
+  how     text,                                   -- 어떻게 가져왔는지
+  sort    smallint not null default 0
+);
+
 -- ───────── 학습 항목 (문장·단어) — GitHub Actions가 content/에서 자동 동기화 ─────────
 create table if not exists public.items (
   lang      text not null check (lang in ('vi', 'en')),
@@ -30,10 +37,12 @@ create table if not exists public.items (
   gloss     text,
   note      text,
   source    text,                                             -- content 파일명
+  src       text,                                             -- 출처 키 (단어는 쉼표로 여러 개)
   active    boolean not null default true,                    -- 원본에서 빠지면 false
   synced_at timestamptz not null default now(),
   primary key (lang, item_id)
 );
+alter table public.items add column if not exists src text;
 create index if not exists items_lv_idx on public.items (lang, lv);
 
 -- ───────── 사용자별 학습 상태 ─────────
@@ -91,14 +100,16 @@ revoke all on function public.keepalive() from public;
 grant execute on function public.keepalive() to anon, authenticated;
 
 -- ───────── 조회용 뷰 (대시보드에서 'CEFR B1 / Lv3' 형태로 보기) ─────────
-create or replace view public.items_view with (security_invoker = true) as
+drop view if exists public.items_view;
+create view public.items_view with (security_invoker = true) as
 select i.lang, i.item_id, i.kind, i.lv, l.cefr, l.label as level_label,
-       i.cat, c.name_ko as cat_name, i.ko, i.target, i.gloss, i.note, i.source, i.active
+       i.cat, c.name_ko as cat_name, i.src, i.ko, i.target, i.gloss, i.note, i.source, i.active
 from public.items i
 left join public.levels l on l.lv = i.lv
 left join public.categories c on c.key = i.cat;
 
-create or replace view public.progress_view with (security_invoker = true) as
+drop view if exists public.progress_view;
+create view public.progress_view with (security_invoker = true) as
 select p.*, i.kind, i.lv, l.cefr, l.label as level_label, i.cat, c.name_ko as cat_name, i.ko, i.target
 from public.progress p
 left join public.items i on i.lang = p.lang and i.item_id = p.item_id
@@ -108,6 +119,7 @@ left join public.categories c on c.key = i.cat;
 -- ───────── 접근 권한 (RLS) ─────────
 alter table public.levels     enable row level security;
 alter table public.categories enable row level security;
+alter table public.sources    enable row level security;
 alter table public.items      enable row level security;
 alter table public.progress   enable row level security;
 alter table public.user_state enable row level security;
@@ -117,6 +129,8 @@ drop policy if exists "read levels" on public.levels;
 create policy "read levels" on public.levels for select to anon, authenticated using (true);
 drop policy if exists "read categories" on public.categories;
 create policy "read categories" on public.categories for select to anon, authenticated using (true);
+drop policy if exists "read sources" on public.sources;
+create policy "read sources" on public.sources for select to anon, authenticated using (true);
 drop policy if exists "read items" on public.items;
 create policy "read items" on public.items for select to anon, authenticated using (true);
 
@@ -129,7 +143,7 @@ create policy "own state" on public.user_state for all to authenticated
 
 -- Data API 노출 권한 (2026-05-30 이후 생성된 프로젝트는 명시적 grant 필요)
 grant usage on schema public to anon, authenticated, service_role;
-grant select on public.levels, public.categories, public.items, public.items_view to anon, authenticated;
+grant select on public.levels, public.categories, public.sources, public.items, public.items_view to anon, authenticated;
 grant select, insert, update, delete on public.progress, public.user_state to authenticated;
 grant select on public.progress_view to authenticated;
-grant all on public.levels, public.categories, public.items to service_role;
+grant all on public.levels, public.categories, public.sources, public.items to service_role;

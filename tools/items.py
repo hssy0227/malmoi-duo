@@ -34,19 +34,21 @@ def rows():
         for s in items:
             out.append({"lang": lang, "item_id": s["id"], "kind": "s", "lv": s["l"], "cat": s["c"], "ko": s["k"],
                         "target": s["t"], "gloss": "; ".join(f"{a}={b}" for a, b in s["w"]) or None,
-                        "note": s["n"] or None, "source": s["f"]})
+                        "note": s["n"] or None, "source": s["f"], "src": s["s"]})
             for term, mean in s["w"]:
                 key = term.lower()
                 w = words.get(key)
                 if not w:
-                    w = words[key] = {"t": term, "means": [], "c": s["c"], "l": s["l"], "f": s["f"]}
+                    w = words[key] = {"t": term, "means": [], "c": s["c"], "l": s["l"], "f": s["f"], "ss": []}
                 if mean not in w["means"]:
                     w["means"].append(mean)
                 w["l"] = min(w["l"], s["l"])
+                if s["s"] not in w["ss"]:
+                    w["ss"].append(s["s"])
         for key, w in words.items():
             m = [a for a in w["means"] if not any(b != a and a in b for b in w["means"])]
             out.append({"lang": lang, "item_id": "w" + djb2(lang + key), "kind": "w", "lv": w["l"], "cat": w["c"],
-                        "ko": " · ".join(m[:4]), "target": w["t"], "gloss": None, "note": None, "source": w["f"]})
+                        "ko": " · ".join(m[:4]), "target": w["t"], "gloss": None, "note": None, "source": w["f"], "src": ",".join(w["ss"])})
     return out
 
 

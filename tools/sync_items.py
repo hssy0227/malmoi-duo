@@ -31,6 +31,7 @@ now = datetime.datetime.now(datetime.timezone.utc).isoformat()
 merge = "resolution=merge-duplicates,return=minimal"
 req("POST", "levels?on_conflict=lv", [{"lv": l, "cefr": c, "name_ko": n} for l, c, n in build.LEVELS], merge)
 req("POST", "categories?on_conflict=key", [{"key": k, "name_ko": n, "sort": i} for i, (k, n) in enumerate(build.CATS)], merge)
+req("POST", "sources?on_conflict=key", [{"key": k, "name_ko": n, "how": h, "sort": i} for i, (k, n, h) in enumerate(build.SOURCES)], merge)
 rs = items.rows()
 for r in rs:
     r["active"] = True

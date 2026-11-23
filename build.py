@@ -20,6 +20,26 @@ CAT_KEYS = {k for k, _ in CATS}
 # 두 언어 공통 5단계 — CEFR 매핑 (Supabase levels 테이블과 동일)
 LEVELS = [(1, "A1", "기초"), (2, "A2", "초급"), (3, "B1", "중급"), (4, "B2", "중상급"), (5, "C1", "고급")]
 LV_KEYS = {str(l) for l, _, _ in LEVELS}
+# 출처(어떻게 가져왔는지) — 사전 범례·필터, Supabase sources 테이블과 동일
+SOURCES = [
+    ("G", "일반", "일상 회화 기본 세트, 여행·영화·책 회화, 두 언어 공통 핵심 문장(CEFR A1~B1 주제). 특정 시험이나 단어 목록이 아니라 일반 회화 상황을 기준으로 직접 작성했어요."),
+    ("NG", "핵심어휘", "영어 핵심 단어 목록 NGSL(2,801개, CC BY-SA)과 비교해 빠져 있던 고빈도 단어를 넣어 직접 작성한 문장이에요."),
+    ("TE", "토익", "토익 Part 1~7에 자주 나오는 사진·업무·생활 장면과 토익 단어 목록 TSL(CC BY-SA)의 누락 어휘로 직접 작성한 문장, 그리고 첨부 DB의 '토익·토플 고급 어휘' 50개예요."),
+    ("TF", "토플", "토플 강의 주제(생물·지구과학·역사·문학 등)와 스피킹 의견·경험 답변 형식으로 직접 작성한 문장이에요."),
+    ("Biz", "비즈니스", "첨부해 주신 비즈니스 영어 DB(경영·조직·경제·금융·IT·AI·에너지)예요. 영문 예문은 그대로 두고 한국어 해석과 단어 뜻을 붙였어요."),
+    ("Mv", "영화 구어", "베트남어 자막 빈도 목록(OpenSubtitles, CC BY-SA)에서 빠져 있던 구어·반말·사극 표현을 영화 대사 형식으로 직접 작성한 문장이에요."),
+    ("Adv", "고급", "베트남어 능력 기준 5등급(CEFR C1) 수준의 시사·속담·격식체·추상 토론 주제로 직접 작성한 문장이에요."),
+]
+SRC_FILE = {"en_e.txt": "TE", "en_f.txt": "TE", "en_i.txt": "TE", "en_l.txt": "TE", "en_g.txt": "TF",
+            "en_j.txt": "NG", "en_k.txt": "NG", "vi_p.txt": "Mv", "vi_q.txt": "Adv"}
+
+
+def src_of(fname, cat):
+    if fname == "en_x_biz.txt":
+        return "TE" if cat == "toeic" else "Biz"
+    if fname == "en_h.txt":
+        return "TF" if cat in ("opinion", "life") else "TE"
+    return SRC_FILE.get(fname, "G")
 
 
 def hid(s):
@@ -61,7 +81,7 @@ def parse(lang):
                 errors.append(f"{f.name}:{n} duplicate of {seen[key]}: {t}")
                 continue
             seen[key] = f"{f.name}:{n}"
-            items.append({"id": hid(lang + ":" + t), "c": cat, "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name})
+            items.append({"id": hid(lang + ":" + t), "c": cat, "l": int(lv), "k": ko, "t": t, "w": words, "n": note, "f": f.name, "s": src_of(f.name, cat)})
     ids = [i["id"] for i in items]
     if len(ids) != len(set(ids)):
         errors.append("id collision")
@@ -76,7 +96,7 @@ def main():
     import os
     sb_url = os.environ.get("MALMOI_SB_URL", cfg.get("supabaseUrl", ""))  # 테스트용 덮어쓰기
     sb_key = os.environ.get("MALMOI_SB_KEY", cfg.get("supabaseAnonKey", ""))
-    data = {"cats": CATS, "levels": LEVELS, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
+    data = {"cats": CATS, "levels": LEVELS, "srcs": SOURCES, "langs": {}, "sb": {"url": sb_url, "key": sb_key}}
     all_err = []
     for lang in ("vi", "en"):
         items, errs = parse(lang)
