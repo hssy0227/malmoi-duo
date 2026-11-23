@@ -1,6 +1,6 @@
 # 비즈니스 미팅 (직접 작성) — 시작·진행·의견·조율
 @work
-3|시작할까요?|Shall we get started?|get started=시작하다
+3|다들 오셨으면 시작하겠습니다.|If everyone's here, let's kick things off.|kick off=시작하다
 3|바쁘신데 시간 내 주셔서 감사합니다.|Thank you for taking the time to meet with us.|take the time=시간을 내다
 3|오늘 회의 목적부터 간단히 말씀드릴게요.|Let me briefly go over the purpose of today's meeting.|go over=검토하다·설명하다; purpose=목적
 3|안건은 세 가지입니다.|We have three items on the agenda.|agenda=안건
@@ -18,7 +18,7 @@
 3|제가 제대로 이해했는지 확인하고 싶어요.|I just want to make sure I understood correctly.|make sure=확인하다
 3|다시 말해, 일정이 2주 늦어진다는 거죠?|In other words, the schedule will slip by two weeks?|slip=늦어지다
 3|그 부분은 제가 확인하고 알려 드릴게요.|Let me check on that and get back to you.|get back to=다시 연락하다
-3|좋은 지적이에요.|That's a fair point.|fair point=타당한 지적
+3|맞는 말씀이에요. 그 점은 인정합니다.|You make a good point. I'll grant you that.|grant=인정하다
 3|전적으로 동의합니다.|I completely agree.|
 3|일부는 동의하지만 우려되는 점이 있어요.|I agree to some extent, but I have a few concerns.|to some extent=어느 정도; concern=우려
 3|다른 관점에서 보면 어떨까요?|What if we looked at it from a different angle?|angle=관점
@@ -56,7 +56,7 @@
 4|이 수치는 보수적으로 잡은 거예요.|These figures are on the conservative side.|conservative=보수적인
 4|최악의 시나리오도 대비해야 해요.|We should prepare for the worst-case scenario as well.|worst-case=최악의
 4|이해관계자들의 동의부터 받아야 해요.|We need to get buy-in from the stakeholders first.|buy-in=동의·지지; stakeholder=이해관계자
-4|이건 빠르게 성과를 낼 수 있는 부분이에요.|This is a quick win.|quick win=빠른 성과
+4|이건 바로 성과를 보여 줄 수 있는 과제예요.|This is a quick win we can show right away.|quick win=빠른 성과
 4|장기적으로 보면 이게 더 나은 투자예요.|In the long run, this is the better investment.|in the long run=장기적으로
 4|그 문제는 근본 원인부터 파악해야 해요.|We need to get to the root cause of that problem.|root cause=근본 원인
 4|지금은 인력이 병목이에요.|Right now, staffing is the bottleneck.|staffing=인력 배치
