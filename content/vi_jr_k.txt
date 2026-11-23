@@ -1,0 +1,53 @@
+# 저널·뉴스형 베트남어 (직접 작성, 북부 표준) — 실적·증시·금융 브리핑
+@econ
+4|이 은행은 9개월 누적 세전 이익이 20% 증가했다.|Lợi nhuận trước thuế lũy kế 9 tháng của ngân hàng tăng 20%.|trước thuế=세전; lũy kế=누적
+4|영업이익이 시장 기대치를 웃돌았다.|Lợi nhuận hoạt động vượt kỳ vọng của thị trường.|
+4|일회성 비용으로 순이익이 줄었다.|Lợi nhuận ròng giảm do chi phí bất thường.|lợi nhuận ròng=순이익; bất thường=일회성의
+4|회사는 연간 실적 목표를 낮췄다.|Công ty hạ mục tiêu kinh doanh cả năm.|
+4|주가가 실적 발표 후 상한가를 기록했다.|Cổ phiếu tăng trần sau khi công bố kết quả kinh doanh.|tăng trần=상한가
+4|일부 종목은 하한가로 떨어졌다.|Một số mã giảm sàn.|mã=종목; giảm sàn=하한가
+4|VN지수가 1,300포인트를 넘었다.|Chỉ số VN-Index vượt mốc 1.300 điểm.|điểm=포인트
+4|거래 대금이 20조 동을 넘었다.|Giá trị giao dịch vượt 20.000 tỷ đồng.|giá trị giao dịch=거래 대금
+4|증권사들이 신용 대출 한도를 줄였다.|Các công ty chứng khoán hạ hạn mức cho vay ký quỹ.|hạn mức=한도; ký quỹ=신용(증거금)
+4|개인 투자자 계좌 수가 천만 개를 넘었다.|Số tài khoản nhà đầu tư cá nhân vượt 10 triệu.|
+4|회사는 자사주 매입 계획을 발표했다.|Công ty công bố kế hoạch mua lại cổ phiếu quỹ.|cổ phiếu quỹ=자사주
+4|배당 기준일이 다음 주다.|Ngày chốt quyền nhận cổ tức là tuần sau.|ngày chốt quyền=배당 기준일
+4|회사채 발행이 다시 늘고 있다.|Phát hành trái phiếu doanh nghiệp tăng trở lại.|phát hành=발행하다; trái phiếu=채권
+4|부동산 기업들의 채권 만기 압박이 크다.|Áp lực đáo hạn trái phiếu của các doanh nghiệp bất động sản rất lớn.|đáo hạn=만기
+4|은행 간 금리가 급등했다.|Lãi suất liên ngân hàng tăng vọt.|liên ngân hàng=은행 간
+4|중앙은행이 유동성을 공급했다.|Ngân hàng Nhà nước bơm thanh khoản.|bơm=공급하다
+4|신용 성장률 목표는 15%다.|Mục tiêu tăng trưởng tín dụng là 15%.|
+4|보험사들의 신규 계약이 줄었다.|Hợp đồng bảo hiểm mới của các công ty bảo hiểm giảm.|
+4|이 회사는 비핵심 자회사를 매각했다.|Công ty đã thoái vốn khỏi công ty con không cốt lõi.|thoái vốn=지분을 매각하다; công ty con=자회사
+4|외국인 지분 한도가 해제됐다.|Giới hạn sở hữu nước ngoài đã được nới.|giới hạn=한도; sở hữu=소유; nới=완화하다
+4|한 한국 금융 그룹이 베트남 증권사 지분을 인수했다.|Một tập đoàn tài chính Hàn Quốc mua lại cổ phần một công ty chứng khoán Việt Nam.|mua lại=인수하다
+4|인수 합병 시장이 활기를 되찾고 있다.|Thị trường mua bán sáp nhập đang sôi động trở lại.|mua bán sáp nhập=인수 합병(M&A)
+4|재고가 늘면서 실적이 악화됐다.|Hàng tồn kho tăng khiến kết quả kinh doanh xấu đi.|hàng tồn kho=재고; xấu đi=나빠지다
+4|원자재 가격 상승이 이익률을 압박했다.|Giá nguyên liệu tăng gây áp lực lên biên lợi nhuận.|
+4|철강 기업들이 반덤핑 관세에 직면했다.|Doanh nghiệp thép đối mặt với thuế chống bán phá giá.|thép=철강; đối mặt=직면하다; chống bán phá giá=반덤핑
+5|매출 증가에도 불구하고 투자자들은 수익성 악화를 우려한다.|Dù doanh thu tăng, nhà đầu tư vẫn lo ngại biên lợi nhuận suy giảm.|suy giảm=감소하다
+5|이번 실적은 업황 회복이 아직 멀었다는 신호다.|Kết quả này cho thấy sự phục hồi của ngành vẫn còn xa.|
+5|시장은 숫자보다 경영진의 전망에 더 민감하게 반응했다.|Thị trường phản ứng với triển vọng của ban lãnh đạo nhạy hơn với con số.|nhạy=민감하게
+5|개인 투자자 비중이 높아 시장 변동성이 크다.|Tỷ trọng nhà đầu tư cá nhân cao khiến thị trường biến động mạnh.|
+5|부실 채권 처리가 은행권의 가장 큰 과제다.|Xử lý nợ xấu là thách thức lớn nhất của ngành ngân hàng.|
+5|채권 시장의 신뢰 회복 없이는 기업 자금 조달이 어렵다.|Không khôi phục được niềm tin vào thị trường trái phiếu thì doanh nghiệp khó huy động vốn.|khôi phục=회복하다
+5|애널리스트들은 목표 주가를 잇달아 상향했다.|Các chuyên gia phân tích liên tục nâng giá mục tiêu.|chuyên gia phân tích=애널리스트; giá mục tiêu=목표 주가
+5|이번 인수가 시너지를 낼지는 통합 과정에 달려 있다.|Thương vụ này có tạo ra hiệu ứng cộng hưởng hay không phụ thuộc vào quá trình hợp nhất.|thương vụ=거래; hiệu ứng cộng hưởng=시너지; hợp nhất=통합
+5|회사는 단기 실적보다 장기 성장을 위한 투자를 택했다.|Công ty chọn đầu tư cho tăng trưởng dài hạn thay vì lợi nhuận trước mắt.|trước mắt=눈앞의
+5|부채 비율을 낮추는 것이 회사의 최우선 과제다.|Giảm tỷ lệ nợ là ưu tiên hàng đầu của công ty.|tỷ lệ nợ=부채 비율
+5|투명한 정보 공개가 투자자 신뢰의 출발점이다.|Công bố thông tin minh bạch là điểm khởi đầu của niềm tin nhà đầu tư.|công bố thông tin=공시
+5|지배 구조 리스크가 할인 요인으로 작용하고 있다.|Rủi ro quản trị đang là yếu tố khiến cổ phiếu bị định giá thấp.|định giá thấp=저평가하다
+5|금리 인하 기대가 이미 주가에 반영됐다는 분석이 나온다.|Có ý kiến cho rằng kỳ vọng giảm lãi suất đã được phản ánh vào giá cổ phiếu.|
+5|시장 과열 신호에 당국이 경고를 보냈다.|Cơ quan quản lý đã phát cảnh báo trước dấu hiệu thị trường quá nóng.|cơ quan quản lý=당국; quá nóng=과열
+5|단기 투기보다 장기 투자 문화가 정착돼야 한다.|Cần xây dựng văn hóa đầu tư dài hạn thay vì đầu cơ ngắn hạn.|đầu cơ=투기
+@shop
+4|추석 특수에 월병 매출이 늘었다.|Doanh số bánh trung thu tăng mạnh mùa lễ.|mùa lễ=명절 시즌
+4|소매 판매가 예상보다 부진했다.|Doanh số bán lẻ kém hơn dự kiến.|kém=부진한
+4|유통 기업들이 매장 수를 줄이고 있다.|Các doanh nghiệp bán lẻ đang thu hẹp số cửa hàng.|
+4|오프라인 매장의 체험형 공간이 늘고 있다.|Không gian trải nghiệm ở cửa hàng truyền thống ngày càng nhiều.|
+4|외국 브랜드가 베트남 시장에서 철수했다.|Một thương hiệu nước ngoài đã rút khỏi thị trường Việt Nam.|rút=철수하다
+4|가격 인상에 대한 소비자 반발이 커지고 있다.|Phản ứng của người tiêu dùng trước việc tăng giá ngày càng gay gắt.|
+5|할인 경쟁은 결국 모두를 지치게 만든다.|Cuộc đua giảm giá rốt cuộc làm tất cả kiệt sức.|kiệt sức=지치다
+5|구독 모델의 성공 여부는 해지율이 결정한다.|Tỷ lệ hủy đăng ký quyết định sự thành bại của mô hình thuê bao.|hủy đăng ký=해지
+5|빠른 배송은 더 이상 차별화 요소가 아니라 기본 조건이다.|Giao hàng nhanh không còn là điểm khác biệt mà là điều kiện cơ bản.|
+5|가격만으로는 충성 고객을 만들 수 없다.|Chỉ dựa vào giá thì không thể tạo ra khách hàng trung thành.|trung thành=충성스러운

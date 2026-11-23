@@ -1,0 +1,55 @@
+# 일상 회화 베트남어 (직접 작성, 북부 표준) — 카페·요리·장보기·배달·디지털 생활
+@food
+4|이 카페는 분위기가 정말 좋아요.|Quán cà phê này không gian đẹp thật.|không gian=공간·분위기
+4|여기서 일하기 좋아요.|Ở đây ngồi làm việc rất hợp.|
+4|콘센트 있는 자리 있어요?|Có chỗ nào gần ổ cắm không?|ổ cắm=콘센트
+4|코코넛 커피 한 잔 주세요.|Cho tôi một cốc cà phê cốt dừa.|cốt dừa=코코넛 밀크
+4|아이스로 드릴까요, 따뜻하게 드릴까요?|Anh uống đá hay nóng?|
+4|여기는 소금 커피가 유명해요.|Quán này nổi tiếng với cà phê muối.|nổi tiếng=유명한; muối=소금
+4|오늘은 제가 요리할게요.|Hôm nay để tôi nấu.|
+4|쌀국수 국물은 오래 끓여야 해요.|Nước dùng phở phải ninh lâu.|ninh=고다
+4|소뼈를 여덟 시간 넘게 고아요.|Xương bò được ninh hơn tám tiếng.|xương=뼈; bò=소
+4|팔각과 계피를 넣어요.|Cho thêm hoa hồi và quế.|hoa hồi=팔각; quế=계피
+4|라임을 짜서 넣으면 맛이 살아요.|Vắt thêm chanh thì vị sẽ dậy hơn.|vắt=짜다; chanh=라임; dậy=살아나다
+4|불을 약하게 줄이세요.|Vặn nhỏ lửa lại.|vặn=돌리다; lửa=불
+4|간을 좀 보세요.|Anh nếm thử xem vừa chưa.|nếm=맛보다; vừa=알맞은
+4|조금 더 짜게 해도 돼요.|Có thể cho mặn thêm một chút.|mặn=짠
+4|남은 음식은 냉장고에 넣어 두세요.|Đồ ăn thừa để vào tủ lạnh nhé.|đồ ăn thừa=남은 음식; tủ lạnh=냉장고
+4|이 생선은 신선해요?|Cá này có tươi không?|cá=생선; tươi=신선한
+4|1킬로에 얼마예요?|Bao nhiêu một cân?|cân=킬로그램(구어)
+4|반 킬로만 주세요.|Cho tôi nửa cân thôi.|nửa=반
+4|요즘 채소값이 많이 올랐어요.|Dạo này giá rau tăng nhiều.|
+4|마트보다 시장이 더 싸고 신선해요.|Chợ rẻ và tươi hơn siêu thị.|
+4|오늘 배달비가 비싸네요.|Hôm nay phí giao hàng đắt quá.|
+4|비 오는 날은 배달이 오래 걸려요.|Trời mưa thì giao đồ ăn lâu lắm.|
+4|기사님께 팁을 조금 드렸어요.|Tôi gửi thêm ít tiền boa cho anh shipper.|tiền boa=팁
+4|주문이 잘못 왔어요.|Giao nhầm món rồi.|nhầm=잘못
+4|앱에서 쿠폰을 쓰면 더 싸요.|Dùng mã giảm giá trên app thì rẻ hơn.|mã giảm giá=할인 코드
+5|요리는 레시피보다 손맛이에요.|Nấu ăn quan trọng là tay nghề chứ không phải công thức.|công thức=레시피
+5|한 그릇의 쌀국수에 하노이의 아침이 담겨 있어요.|Một bát phở chứa đựng cả buổi sáng Hà Nội.|
+5|배달 앱 덕분에 편해졌지만 쓰레기는 늘었어요.|Nhờ ứng dụng giao đồ ăn mà tiện hơn, nhưng rác thải cũng nhiều hơn.|
+5|제철 재료로 만든 음식이 가장 맛있어요.|Món ăn làm từ nguyên liệu đúng mùa là ngon nhất.|đúng mùa=제철의
+@tech
+3|휴대폰 배터리가 다 됐어요.|Điện thoại tôi hết pin rồi.|hết pin=배터리가 다 되다
+3|와이파이가 끊겼어요.|Mất wifi rồi.|
+3|앱이 계속 꺼져요.|Ứng dụng cứ bị thoát ra.|thoát ra=종료되다
+3|업데이트해야 해요.|Phải cập nhật rồi.|
+4|비밀번호를 잊어버려서 재설정했어요.|Tôi quên mật khẩu nên phải đặt lại.|đặt lại=재설정하다
+4|사진을 클라우드에 백업해요.|Tôi sao lưu ảnh lên đám mây.|sao lưu=백업하다
+4|저장 공간이 부족해요.|Bộ nhớ sắp đầy rồi.|bộ nhớ=저장 공간; đầy=가득 찬
+4|이 앱은 광고가 너무 많아요.|Ứng dụng này nhiều quảng cáo quá.|
+4|잘로로 연락해요.|Liên lạc qua Zalo nhé.|Zalo=베트남 메신저
+4|단체 대화방에 초대해 줄게요.|Để tôi thêm anh vào nhóm chat.|thêm=추가하다; nhóm=그룹
+4|알림을 꺼 두었어요.|Tôi đã tắt thông báo.|tắt=끄다
+4|이상한 링크는 누르지 마세요.|Đừng bấm vào đường link lạ.|bấm=누르다; lạ=낯선
+4|계정이 해킹당했어요.|Tài khoản của tôi bị hack.|
+4|2단계 인증을 설정하세요.|Anh nên cài xác thực hai lớp.|cài=설정하다; hai lớp=2단계
+4|요즘 AI로 번역을 많이 해요.|Dạo này tôi dịch bằng AI nhiều.|dịch=번역하다
+4|번역기가 가끔 이상하게 번역해요.|Máy dịch đôi khi dịch rất buồn cười.|máy dịch=번역기
+4|화상 회의 링크 보내 드릴게요.|Tôi sẽ gửi link họp trực tuyến.|
+4|마이크가 꺼져 있어요.|Micro của anh đang tắt.|
+4|화면 공유해 주시겠어요?|Anh chia sẻ màn hình được không?|
+5|기술이 편리하지만 가끔은 디지털 디톡스가 필요해요.|Công nghệ thì tiện, nhưng đôi khi cần cai nghiện thiết bị số.|cai nghiện=끊다(중독); thiết bị số=디지털 기기
+5|AI 답변은 빠르지만 검증은 내 몫이에요.|AI trả lời nhanh, nhưng kiểm chứng là việc của mình.|
+5|편리함과 개인정보 보호 사이에서 선택해야 할 때가 많아요.|Nhiều khi phải chọn giữa sự tiện lợi và quyền riêng tư.|quyền riêng tư=사생활 보호
+5|온라인에서 본 정보는 출처부터 확인하는 습관이 필요해요.|Cần có thói quen kiểm tra nguồn trước với thông tin trên mạng.|
