@@ -1193,7 +1193,7 @@ function gBomb(box,D,L){
   const topH=gQ(".top").offsetHeight,nvH=gQ("#tabs").offsetHeight;
   const H=Math.round(Math.max(340,Math.min(820,innerHeight-topH-nvH-26-74-8)));f.style.height=H+"px";
   /* 게임 화면이 모드·탭 영역까지 덮도록 스크롤을 게임 카드 위치로 */
-  const goTop=()=>{const c=gQ("#gbox");if(c)window.scrollTo({top:Math.max(0,c.getBoundingClientRect().top+scrollY-topH-8)})};goTop();
+  const goTop=()=>{const c=gQ("#gbox");if(c)window.scrollTo({top:Math.max(0,c.getBoundingClientRect().top+scrollY-topH-8)})};
   const S2={combo:0,maxc:0,lives:MAXL,solved:0,t:0,run:false};
   let bombs=[],active=[],missed=[],recent=[],nextQ=0,nextD=.8,raf=0,last=0,fbT=0;
   const want=()=>S2.solved>=6?2:1;
@@ -1239,7 +1239,7 @@ function gBomb(box,D,L){
   const loop=ts=>{if(!S2.run)return;const dt=Math.min(.05,(ts-last)/1000||0);last=ts;S2.t+=dt;gQ("#gbt",box).textContent=Math.floor(S2.t);
     active.forEach(q=>{if(q.pending&&spawn(q.t))q.pending=false});
     nextQ-=dt;if(active.length<want()&&nextQ<=0){newQ();nextQ=.7}
-    nextD-=dt;if(nextD<=0){if(bombs.length<7)spawnDecoy();nextD=Math.max(.55,1.5-S2.t/90-S2.solved*.02)}
+    nextD-=dt;if(nextD<=0){if(bombs.length<5)spawnDecoy();nextD=Math.max(.55,1.5-S2.t/90-S2.solved*.02)/.7}
     const DD=H-WALL-BH+4;
     for(const b of bombs.slice()){if(b.dead)continue;b.y+=b.v*dt;b.e.style.transform=`translateY(${b.y}px)`;
       const m=Math.max(0,Math.min(1,b.y/DD)),isAns=active.some(q=>q.t===b.w);
@@ -1333,7 +1333,7 @@ function gCross(box,D,L){
     "보기는 철자가 비슷해요. 이미 맞힌 단어와 <b>겹치는 칸의 글자</b>는 정해져 있어서, 보기도 그 글자에 맞춰 나와요 (뜻 없는 단어도 섞여 있어요)."+(L==="vi"?" 베트남어는 띄어쓰기 없이 한 칸에 한 글자(성조 포함)씩 들어가요.":""),
     "문제 번호는 앞 문제와 <b>이어진 칸</b> 순서예요. 맞히면 다음 문제로 자동 이동해요.",
     "시작 버튼을 누르면 타이머가 돌아요. <b>다 푸는 데 걸린 시간</b>이 짧을수록 좋아요. 최단 기록만 날짜와 함께 저장돼요."]});
-  gQ("#gcgo",box).onclick=()=>gCrossRun(box,D,L);gFocus();
+  gQ("#gcgo",box).onclick=()=>gCrossRun(box,D,L);
 }
 function gCrossRun(box,D,L){gmStop();
   let lay=null;for(let t=0;t<6;t++){const l=gGenCross(D.cross.a,10);if(!lay||l.placed.length>lay.placed.length)lay=l;if(l.placed.length>=9)break}
