@@ -9,6 +9,8 @@ create table if not exists public.admins (
 );
 alter table public.admins enable row level security;          -- 정책 없음: 앱에서 직접 못 읽음
 
+alter table public.admins add column if not exists otp_required boolean not null default false;  -- true면 서버가 이메일 OTP로 로그인한 세션만 관리자 함수를 허용
+
 create or replace function public.is_admin() returns boolean
 language sql stable security definer set search_path = public as $$
   select exists (select 1 from public.admins where user_id = auth.uid())
@@ -16,14 +18,66 @@ $$;
 revoke all on function public.is_admin() from public;
 grant execute on function public.is_admin() to authenticated;
 
+-- 이 세션이 이메일 OTP(코드)로 인증됐는지: 로그인 토큰의 amr 기록에서 확인
+create or replace function public.session_otp() returns boolean
+language sql stable set search_path = public as $$
+  select exists (select 1 from jsonb_array_elements(coalesce(auth.jwt() -> 'amr', '[]'::jsonb)) a where a ->> 'method' = 'otp')
+$$;
+grant execute on function public.session_otp() to authenticated;
+
 create or replace function public.admin_check() returns void
 language plpgsql stable security definer set search_path = public as $$
+declare a public.admins;
 begin
-  if not exists (select 1 from public.admins where user_id = auth.uid()) then
+  select * into a from public.admins where user_id = auth.uid();
+  if not found then
     raise exception 'admin only' using errcode = '42501';
+  end if;
+  if a.otp_required and not public.session_otp() then
+    raise exception 'otp required' using errcode = '42501';
   end if;
 end $$;
 revoke all on function public.admin_check() from public;
+
+-- 앱이 로그인 직후 묻는 함수: 관리자인지, 이 세션이 OTP 인증됐는지, 서버가 OTP를 강제하는지
+create or replace function public.admin_status() returns jsonb
+language sql stable security definer set search_path = public as $$
+  select coalesce(
+    (select jsonb_build_object('admin', true, 'otp', public.session_otp(), 'enforced', a.otp_required)
+       from public.admins a where a.user_id = auth.uid()),
+    jsonb_build_object('admin', false, 'otp', false, 'enforced', false))
+$$;
+revoke all on function public.admin_status() from public;
+grant execute on function public.admin_status() to authenticated;
+
+-- 회원 탈퇴: 본인 계정과 모든 기록(진도·설정·알림·사용 로그·일별 요약)을 삭제. 되돌릴 수 없음.
+-- 관리자 계정은 탈퇴할 수 없음(마지막 관리자를 잃지 않도록): 먼저 admins에서 제거해야 함.
+create or replace function public.delete_my_account() returns void
+language plpgsql security definer set search_path = public, auth as $$
+begin
+  if auth.uid() is null then raise exception 'login required' using errcode = '42501'; end if;
+  if exists (select 1 from public.admins where user_id = auth.uid()) then
+    raise exception 'admin cannot leave' using errcode = '42501';
+  end if;
+  delete from auth.users where id = auth.uid();   -- 나머지 테이블은 on delete cascade 로 함께 삭제
+end $$;
+revoke all on function public.delete_my_account() from public;
+grant execute on function public.delete_my_account() to authenticated;
+
+-- 관리자 강제 탈퇴: 본인·다른 관리자 계정은 대상이 될 수 없음
+create or replace function public.admin_delete_user(p_uid uuid) returns void
+language plpgsql security definer set search_path = public, auth as $$
+begin
+  perform public.admin_check();
+  if p_uid = auth.uid() then raise exception 'cannot delete self' using errcode = '42501'; end if;
+  if exists (select 1 from public.admins where user_id = p_uid) then
+    raise exception 'cannot delete admin' using errcode = '42501';
+  end if;
+  delete from auth.users where id = p_uid;
+  if not found then raise exception 'no such user' using errcode = 'P0002'; end if;
+end $$;
+revoke all on function public.admin_delete_user(uuid) from public;
+grant execute on function public.admin_delete_user(uuid) to authenticated;
 
 -- ───────── 사용 로그 (원본, 90일 보관) ─────────
 create table if not exists public.events (

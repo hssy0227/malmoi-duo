@@ -356,7 +356,9 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 .adsort{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
 .adlist{display:flex;flex-direction:column;gap:6px}
 .adu{display:block;width:100%;text-align:left;background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:10px 12px}
-.adu.idle{opacity:.55}
+.adu.idle{opacity:.55}.adu{cursor:pointer}.adu1 .adx{font-size:11.5px;padding:2px 9px;border-radius:99px;border:1px solid var(--ln);background:transparent;color:var(--bad,#c0392b);font-weight:600}
+.dng{border:1px solid var(--bad,#c0392b);color:var(--bad,#c0392b);background:transparent}.leave{margin-top:12px;text-align:center}.leave button{background:none;border:0;color:var(--mut);font-size:12.5px;text-decoration:underline;padding:4px}
+.otp{width:100%;font-size:22px;letter-spacing:.35em;text-align:center;padding:10px}
 .adu1{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.adu1 b{font-size:14.5px}
 .adu2{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:4px;font-size:12.5px;color:var(--mut)}.adu2 b{color:var(--ink)}
 .adtag{font-size:11px;font-weight:700;padding:1px 7px;border-radius:99px;background:var(--amb);color:var(--am)}.adtag.ok{background:var(--okb);color:var(--ok)}
@@ -941,7 +943,7 @@ function vPrefs(){
     <div>베트남어 문장 ${SENT.vi.length} · 단어 ${WORD.vi.length} / 영어 문장 ${SENT.en.length} · 표현 ${WORD.en.length}</div>
     <div class="mut">레벨 ${LEVELS.map(([l,c])=>`Lv${l}=${c}`).join(" · ")} (CEFR)</div>
     <div class="mut">버전 ${VER} · 베트남어는 북부(하노이) 표준, 메모에 남부 차이 표기</div>
-    <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>${isAdm()?`<div class="row" style="justify-content:center;margin-top:18px"><button class="btn sm" data-act="go" data-v="admin">admin</button></div>`:""}`;
+    <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>${isAdm()?`<div class="row" style="justify-content:center;margin-top:18px"><button class="btn sm" data-act="go" data-v="admin">admin</button></div>`:adNeedOtp()?`<div class="row" style="justify-content:center;margin-top:18px"><button class="btn sm" data-act="adotp">관리자 인증 (이메일 코드)</button></div>`:""}`;
 }
 function exportJSON(){return JSON.stringify({app:"dumal",v:1,at:new Date().toISOString(),data:S})}
 function importJSON(txt){
@@ -1105,7 +1107,8 @@ function accHTML(){
     return `<div class="who"><b>${esc(AUTH.email||"로그인됨")}</b><span class="sm mut nw">로그인 중</span></div>
     <p class="sm mut" style="margin:6px 0 10px">${SYNC.busy?"동기화 중…":`마지막 동기화 ${fmtAgo(S.sync.at)}`}${n?` · 올릴 변경 ${n}개`:""}</p>
     ${SYNC.err?`<div class="warn" style="margin:0 0 10px">${esc(SYNC.err)}</div>`:""}
-    <div class="row"><button class="btn sm pri" data-act="accsync" ${SYNC.busy?"disabled":""}>지금 동기화</button><button class="btn sm" data-act="accpin">PIN 변경</button><span class="sp"></span><button class="btn sm" data-act="acclogout">로그아웃</button></div>`}
+    <div class="row"><button class="btn sm pri" data-act="accsync" ${SYNC.busy?"disabled":""}>지금 동기화</button><button class="btn sm" data-act="accpin">PIN 변경</button><span class="sp"></span><button class="btn sm" data-act="acclogout">로그아웃</button></div>
+    <div class="leave"><button data-act="accleave">회원 탈퇴</button></div>`}
   return `<p class="sm mut" style="margin:0">이메일과 숫자 PIN 6자리로 로그인하면 휴대폰·PC 어디서든 진도가 이어져요. 이 기기의 진도는 처음 로그인할 때 계정에 합쳐져요.</p>
   <p class="sm mut" style="margin:6px 0 0">로그인 이메일 외의 개인정보는 수집하지 않아요. 앱 개선을 위해 오류·학습 진도 같은 이용 기록만 모아요.</p>
   <div class="two"><input type="email" id="accEmail" placeholder="이메일" autocomplete="email" value="${esc(S.sync.email||"")}"><input type="password" id="accPin" placeholder="PIN 6자리" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="current-password"></div>
@@ -1122,14 +1125,14 @@ function accInput(){const email=(($("#accEmail")||{}).value||"").trim().toLowerC
   S.sync.email=email;return {email,pin}}
 async function accRun(fn){SYNC.busy=true;SYNC.err="";SYNC.msg="";updAcc();try{await fn()}catch(e){SYNC.err=e.message}finally{SYNC.busy=false;updAcc()}}
 const ACC_ACT={
-  acclogin:()=>{const v=accInput();if(!v)return;accRun(async()=>{await signIn(v.email,v.pin);toast("로그인했어요");linkAccount()}).then(()=>{if(AUTH)syncNow()})},
+  acclogin:()=>{const v=accInput();if(!v)return;accRun(async()=>{await signIn(v.email,v.pin);toast("로그인했어요");linkAccount()}).then(async()=>{if(AUTH){syncNow();await checkAdmin(true);if(adNeedOtp())otpStart()}})},
   accsignup:()=>{const v=accInput();if(!v)return;accRun(async()=>{const inNow=await signUp(v.email,v.pin);if(inNow){toast("계정을 만들었어요");linkAccount()}else SYNC.msg="인증 메일을 보냈어요. 메일의 링크를 누르면 이 앱으로 돌아와 로그인돼요."}).then(()=>{if(AUTH)syncNow()})},
   accforgot:()=>{const email=(($("#accEmail")||{}).value||"").trim().toLowerCase();if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){SYNC.err="PIN을 재설정할 이메일을 위 칸에 입력해 주세요";updAcc();return}
     accRun(async()=>{await sbFetch("/auth/v1/recover?redirect_to="+backTo(),{method:"POST",body:{email},auth:false});SYNC.msg="PIN 재설정 메일을 보냈어요. 링크를 누르면 새 PIN을 정할 수 있어요."})},
   accsync:()=>syncNow(),
   accpin:()=>pinSheet(),
   acclogout:()=>openSheet(`<h3>로그아웃</h3><p>이 기기의 진도는 그대로 남고, 계정과의 동기화만 멈춰요.${dirtyCount()?` <b>아직 올리지 못한 변경 ${dirtyCount()}개</b>가 있어요.`:""}</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="dologout">로그아웃</button></div>`),
-  dologout:async()=>{closeSheet();await signOut();S.sync.admin=false;AD.cache={};SYNC.err="";toast("로그아웃했어요");render()},
+  dologout:async()=>{closeSheet();await signOut();S.sync.admin=false;S.sync.adOtp=false;S.sync.adminAt=0;AD.cache={};SYNC.err="";toast("로그아웃했어요");render()},
   dopin:()=>{const a=(($("#pin1")||{}).value||"").trim(),b=(($("#pin2")||{}).value||"").trim();
     if(!PIN_RE.test(a)){toast("PIN은 숫자 6자리예요");return}if(a!==b){toast("두 PIN이 달라요");return}
     sbFetch("/auth/v1/user",{method:"PUT",body:{password:a}}).then(()=>{closeSheet();toast("PIN을 바꿨어요")},e=>toast(e.message))}
@@ -1488,7 +1491,8 @@ function gmMount(){document.querySelectorAll(".gtab").forEach(b=>b.onclick=()=>{
   document.querySelectorAll(".gtab").forEach(x=>{const on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-selected",String(on))});gmShow()});gmShow()}
 
 /* ---------- 관리자 화면 (#admin) — admins에 등록된 계정만, 읽기 전용 ---------- */
-const isAdm=()=>!!(AUTH&&S.sync&&S.sync.admin);
+const isAdm=()=>!!(AUTH&&S.sync&&S.sync.admin&&S.sync.adOtp);
+const adNeedOtp=()=>!!(AUTH&&S.sync&&S.sync.admin&&!S.sync.adOtp);
 const AD={tab:"ov",days:30,self:true,lang:"all",sort:"last",cache:{},busy:"",err:"",uid:null};
 const ADT=[["ov","개요"],["us","사용자"],["ct","콘텐츠"],["gm","게임"],["op","운영"]];
 const EVKO={open:"접속",view:"화면",card:"카드",quiz:"퀴즈",speak:"말하기",game:"게임",mark:"표시",err:"오류"};
@@ -1570,9 +1574,9 @@ function adUsers(us){
   const by={last:(a,b)=>b.last-a.last,w7:(a,b)=>b.w7-a.w7,created:(a,b)=>Date.parse(b.u.created)-Date.parse(a.u.created)}[AD.sort];rows.sort(by);
   return `<div class="adsort"><span class="sm mut">${rows.length}명 · 정렬</span><div class="seg adseg">${[["last","마지막 활동"],["w7","7일 학습량"],["created","가입일"]].map(([k,n])=>`<button data-act="adsort" data-k="${k}" class="${AD.sort===k?"on":""}">${n}</button>`).join("")}</div></div>
   <div class="adlist">${rows.map(({u,w7,st,last,p})=>{const idle=!last||Date.now()-last>14*864e5;
-    return `<button class="adu${idle?" idle":""}" data-act="aduser" data-id="${esc(u.id)}">
-      <div class="adu1"><b>${esc(maskEmail(u.email))}</b>${u.me?`<span class="adtag">나</span>`:""}${u.admin?`<span class="adtag">admin</span>`:""}${u.notif?`<span class="adtag ok">알림</span>`:""}<span class="sp"></span><span class="sm mut nw">${agoIso(u.last)}</span></div>
-      <div class="adu2"><span>가입 ${dateOnly(u.created)}</span><span>7일 <b>${nf(w7)}</b></span><span>연속 <b>${st}</b>일</span><span>${mainLang(u)}</span><span>앎 ${nf(p.known)} · 학습 중 ${nf(p.learn)}</span></div></button>`}).join("")||`<div class="box mut sm">계정이 없어요</div>`}</div>
+    return `<div class="adu${idle?" idle":""}" role="button" tabindex="0" data-act="aduser" data-id="${esc(u.id)}">
+      <div class="adu1"><b>${esc(maskEmail(u.email))}</b>${u.me?`<span class="adtag">나</span>`:""}${u.admin?`<span class="adtag">admin</span>`:""}${u.notif?`<span class="adtag ok">알림</span>`:""}<span class="sp"></span><span class="sm mut nw">${agoIso(u.last)}</span>${u.me||u.admin?"":`<button class="adx" data-act="adkick" data-id="${esc(u.id)}" data-em="${esc(maskEmail(u.email))}">탈퇴</button>`}</div>
+      <div class="adu2"><span>가입 ${dateOnly(u.created)}</span><span>7일 <b>${nf(w7)}</b></span><span>연속 <b>${st}</b>일</span><span>${mainLang(u)}</span><span>앎 ${nf(p.known)} · 학습 중 ${nf(p.learn)}</span></div></div>`}).join("")||`<div class="box mut sm">계정이 없어요</div>`}</div>
   <p class="sm mut adnote">14일 넘게 활동이 없는 계정은 흐리게 보여요. 목록의 이메일은 가운데 3글자를 가렸고, 누르면 상세에서 전체가 보여요.</p>`}
 
 function itemTxt(L,id){const it=ITEM[L]&&ITEM[L][id];return it?{t:it.t,k:it.k||"",l:it.l,c:it.kind==="w"?[...it.cs][0]:it.c,kind:it.kind}:null}
@@ -1600,7 +1604,7 @@ function adUser(d){
     ${prow("앎",p=>nf(p.known))}${prow("학습 중",p=>nf(p.learn))}${prow("본 항목",p=>nf(p.seen))}${prow("스킵",p=>nf(p.skip))}${prow("밀린 복습",p=>nf(p.due))}${prow("퀴즈 정답률",p=>pct(+p.qok||0,(+p.qok||0)+(+p.qng||0))+` <small>(${nf((+p.qok||0)+(+p.qng||0))})</small>`)}${prow("말하기 평균",p=>p.sp!=null?p.sp+"점":"-")}</tbody></table></div>
   <h3>자주 틀린 항목</h3><div class="box">${(d.wrong||[]).length?`<ol class="adol">${d.wrong.map(w=>{const it=itemTxt(w.lang,w.id);return `<li><button data-act="aditem" data-l="${w.lang}" data-id="${esc(w.id)}"><span>${esc(it?it.t:w.id)}</span><small>${esc(it?it.k:"")} · 오답 ${w.ng} / ${w.ok+w.ng}</small></button></li>`}).join("")}</ol>`:`<p class="sm mut" style="margin:0">아직 틀린 퀴즈가 없어요</p>`}</div>
   <h3>게임 최고 기록</h3><div class="box adtbl">${grow.length?`<table><tbody>${grow.map(r=>`<tr><td>${r[1]}</td><td>${r[0]}</td><td class="n"><b>${r[2]}</b></td><td class="n mut">${esc(r[3]||"")}</td></tr>`).join("")}</tbody></table>`:`<p class="sm mut" style="margin:0">기록 없음</p>`}</div>
-  <h3>최근 활동 <span class="sm mut">${(d.recent||[]).length}건</span></h3><div class="box adtbl">${(d.recent||[]).length?`<table class="adlog"><tbody>${d.recent.map(e=>`<tr><td class="nw">${hm(e.at)}</td><td class="nw">${EVKO[e.kind]||esc(e.kind)}${e.lang?` <small>${e.lang}</small>`:""}</td><td>${evTxt(e)}</td></tr>`).join("")}</tbody></table>`:nolog}</div>`}
+  <h3>최근 활동 <span class="sm mut">${(d.recent||[]).length}건</span></h3><div class="box adtbl">${(d.recent||[]).length?`<table class="adlog"><tbody>${d.recent.map(e=>`<tr><td class="nw">${hm(e.at)}</td><td class="nw">${EVKO[e.kind]||esc(e.kind)}${e.lang?` <small>${e.lang}</small>`:""}</td><td>${evTxt(e)}</td></tr>`).join("")}</tbody></table>`:nolog}</div>${d.id===(AUTH&&AUTH.uid)||(d.admin)?"":`<div class="leave"><button class="dng btn sm" data-act="adkick" data-id="${esc(d.id)}" data-em="${esc(d.email||"")}">이 회원 탈퇴시키기</button></div>`}`}
 
 function adContent(rows){
   const Ls=LKEYS(),R=rows.filter(r=>Ls.includes(r[0])).map(([L,id,users,ok,ng,skip,known])=>({L,id,users:+users,ok:+ok,ng:+ng,skip:+skip,known:+known,it:itemTxt(L,id)})).filter(r=>r.it);
@@ -1656,8 +1660,59 @@ const AD_ACT={
   adback:()=>{AD.uid=null;render();adLoad()},
   aditem:b=>adItemSheet(b.dataset.l,b.dataset.id),
 };
-async function checkAdmin(){if(!SB_ON||!AUTH)return;const now=Date.now();if(S.sync.adminAt&&now-S.sync.adminAt<(S.sync.admin?10*6e4:15e3))return;
-  try{const r=await sbFetch("/rest/v1/rpc/is_admin",{method:"POST",body:{}}),was=!!S.sync.admin;S.sync.admin=r===true;S.sync.adminAt=now;save();if(was!==S.sync.admin&&view==="prefs")setTimeout(render,0)}catch(e){if(e.status===404){S.sync.admin=false;S.sync.adminAt=now}}}
+async function checkAdmin(force){if(!SB_ON||!AUTH)return;const now=Date.now();if(!force&&S.sync.adminAt&&now-S.sync.adminAt<(S.sync.admin?10*6e4:15e3))return;
+  try{let st;
+    try{st=await sbFetch("/rest/v1/rpc/admin_status",{method:"POST",body:{}})}
+    catch(e){if(e.status!==404)throw e;st={admin:(await sbFetch("/rest/v1/rpc/is_admin",{method:"POST",body:{}}))===true,otp:true}}   // 옛 SQL: OTP 정보 없음
+    const was=isAdm()+"|"+adNeedOtp();S.sync.admin=!!(st&&st.admin);S.sync.adOtp=!!(st&&st.otp);S.sync.adminAt=now;save();
+    if(was!==isAdm()+"|"+adNeedOtp()&&view==="prefs")setTimeout(render,0)}
+  catch(e){if(e.status===404){S.sync.admin=false;S.sync.adOtp=false;S.sync.adminAt=now}}}
+
+/* ---------- 관리자 이메일 OTP (로그인 뒤 한 번, 메일로 온 코드 입력) ---------- */
+let OTP={sentAt:0,busy:false,err:""};
+async function otpSend(){
+  if(Date.now()-OTP.sentAt<60e3)return;
+  await sbFetch("/auth/v1/otp",{method:"POST",body:{email:AUTH.email,create_user:false},auth:false});OTP.sentAt=Date.now()}
+function otpSheet(msg){
+  openSheet(`<h3>관리자 인증</h3><p class="sm">${esc(maskEmail(AUTH.email))} 로 보낸 인증 코드를 입력해 주세요.</p>
+  <input class="otp" id="otpCode" inputmode="numeric" autocomplete="one-time-code" maxlength="10" placeholder="••••••">
+  <p class="sm mut" id="otpMsg" style="margin:8px 0">${esc(msg||"메일이 안 보이면 스팸함도 확인해 주세요.")}</p>
+  <div class="row"><button class="btn sm" data-act="otpresend">코드 다시 받기</button><span class="sp"></span><button class="btn" data-act="closesheet">나중에</button><button class="btn pri" data-act="otpverify">확인</button></div>`);
+  setTimeout(()=>{const i=$("#otpCode");if(i)i.focus()},50)}
+async function otpStart(){
+  try{await otpSend();otpSheet("인증 코드를 메일로 보냈어요.")}catch(e){otpSheet(e.message||"코드를 보내지 못했어요")}}
+const OTP_ACT={
+  adotp:()=>otpStart(),
+  otpresend:async()=>{const m=$("#otpMsg");if(Date.now()-OTP.sentAt<60e3){if(m)m.textContent="1분 뒤에 다시 받을 수 있어요.";return}
+    try{await otpSend();if(m)m.textContent="인증 코드를 다시 보냈어요."}catch(e){if(m)m.textContent=e.message}},
+  otpverify:async()=>{const m=$("#otpMsg"),t=(($("#otpCode")||{}).value||"").replace(/\D/g,"");
+    if(t.length<6){if(m)m.textContent="메일의 숫자 코드를 입력해 주세요.";return}
+    if(OTP.busy)return;OTP.busy=true;
+    try{setSession(await sbFetch("/auth/v1/verify",{method:"POST",body:{type:"email",email:AUTH.email,token:t},auth:false}));
+      await checkAdmin(true);closeSheet();
+      if(isAdm()){toast("관리자 인증 완료");render()}else{toast("관리자 계정이 아니에요");render()}}
+    catch(e){if(m)m.textContent=/expired|invalid/i.test(e.raw||"")?"코드가 맞지 않거나 만료됐어요.":e.message}
+    finally{OTP.busy=false}}};
+
+/* ---------- 회원 탈퇴 (본인 / 관리자 강제) ---------- */
+const LEAVE_WARN="탈퇴하면 계정과 서버에 저장된 모든 정보(학습 진도, 설정, 알림 설정, 사용 기록)가 완전히 삭제되고 복구할 수 없어요.";
+function leaveErr(e){const r=e.raw||e.message||"";
+  return /admin cannot leave/.test(r)?"관리자 계정은 탈퇴할 수 없어요. 관리자 권한을 먼저 해제해야 해요.":/cannot delete admin/.test(r)?"관리자 계정은 삭제할 수 없어요.":/cannot delete self/.test(r)?"내 계정은 설정에서 탈퇴해 주세요.":/otp required/.test(r)?"관리자 인증(OTP)이 필요해요.":(e.message||"처리하지 못했어요")}
+const LEAVE_ACT={
+  accleave:()=>openSheet(`<h3>회원 탈퇴</h3><p class="sm"><b>${esc(AUTH.email||"")}</b></p><p class="sm">${LEAVE_WARN}</p><p class="sm mut">이 기기에 남아 있는 학습 기록은 지워지지 않고, 로그인 없이 계속 쓸 수 있어요.</p>
+    <p class="sm" style="margin:10px 0 4px">계속하려면 아래에 <b>탈퇴</b>라고 입력해 주세요.</p><input id="leaveTxt" placeholder="탈퇴" autocomplete="off" style="width:100%">
+    <p class="sm" id="leaveMsg" style="margin:8px 0;color:var(--bad,#c0392b)"></p>
+    <div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn dng" data-act="doleave">탈퇴하기</button></div>`),
+  doleave:async()=>{const m=$("#leaveMsg");if((($("#leaveTxt")||{}).value||"").trim()!=="탈퇴"){if(m)m.textContent="'탈퇴'를 정확히 입력해 주세요.";return}
+    if(!confirm(LEAVE_WARN+"\n\n정말 탈퇴할까요?"))return;
+    try{await adRpc("delete_my_account");closeSheet();AUTH=null;saveAuth();
+      Object.assign(S.sync,{admin:false,adOtp:false,adminAt:0,blob:"",stateAt:0,at:0,email:""});AD.cache={};EVQ.length=0;try{localStorage.removeItem("malmoi.ev")}catch(e){}save();
+      SYNC.err="";SYNC.msg="";toast("탈퇴했어요. 그동안 이용해 주셔서 고마워요");render()}
+    catch(e){if(m)m.textContent=leaveErr(e)}},
+  adkick:async b=>{const id=b.dataset.id,em=b.dataset.em||"";
+    if(!confirm(`회원 ${em} 을(를) 탈퇴시킬까요?\n\n⚠ 이 회원의 모든 정보와 이력(학습 진도, 설정, 알림 설정, 사용 기록)이 완전히 삭제되고 복구할 수 없습니다.`))return;
+    try{await adRpc("admin_delete_user",{p_uid:id});toast("탈퇴 처리했어요");AD.cache={};AD.uid=null;render();adLoad(true)}
+    catch(e){toast(leaveErr(e))}}};
 
 /* ---------- 렌더 & 이벤트 ---------- */
 const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,game:vGame,dict:vDict,prefs:vPrefs,admin:vAdmin};
@@ -1740,7 +1795,7 @@ const ACT={
   help:()=>toggleHelp(),
   closesheet:()=>closeSheet()
 };
-Object.assign(ACT,ACC_ACT);
+Object.assign(ACT,ACC_ACT,OTP_ACT,LEAVE_ACT);
 /* ---------- 학습 알림 (웹 푸시) ---------- */
 const NT={sub:false,busy:false,msg:""},NT_OK=SB_ON&&!!SB.vapid&&"serviceWorker" in navigator&&"PushManager" in window&&"Notification" in window;
 const NT_DAYS="일월화수목금토";
