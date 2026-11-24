@@ -136,3 +136,15 @@ w4|용두사미.|Đầu voi đuôi chuột.|đầu=머리; chuột=쥐|직역: �
 3. Edge Functions → Secrets 에 `VAPID_PUBLIC_KEY`, `VAPID_PRIVATE_KEY`, `VAPID_SUBJECT`, `CRON_SECRET` 추가
 4. `supabase/cron.sql` 의 `<PROJECT_URL>`·`<CRON_SECRET>` 을 채워 SQL Editor에서 실행 (매시 정각 호출)
 5. 앱 `config.json` 의 `vapidPublicKey` 는 공개 키(앱에 들어가도 안전). 비공개 키는 Secrets 에만 둡니다.
+
+## 관리자 화면 (사용 통계)
+
+계정별·기능별 사용량, 학습 성과, 콘텐츠 오답률, 게임 기록, 오류·DB 용량을 앱 안에서 봅니다. `admins`에 등록된 계정만 설정 화면 맨 아래에 **admin** 버튼이 보입니다.
+
+1. Supabase → SQL Editor에 `supabase/admin.sql`을 통째로 붙여 넣고 Run (사용 로그·일별 요약 테이블, 관리자 함수, 매일 00:10 KST 집계 스케줄)
+2. 파일 맨 아래 `여기에_본인_이메일`을 본인 로그인 이메일로 바꾼 3줄만 다시 Run → 관리자 지정
+3. 앱에서 로그인 상태로 설정 화면을 열면 몇 초 뒤 **admin** 버튼이 나타남
+
+- 앱은 이메일 외 개인정보 없이 기능·결과(카드 등급, 퀴즈 정답 여부, 말하기 점수, 게임 기록, 오류 메시지, 앱 버전·기기 종류)만 `events`에 남깁니다. 원본은 90일 뒤 지우고 `daily_stats`에 일별 요약으로 남깁니다.
+- 관리자 함수는 SECURITY DEFINER로, 호출한 계정이 `admins`에 없으면 거부합니다. 화면은 읽기 전용입니다.
+- 관리자를 빼려면: `delete from public.admins where user_id = (select id from auth.users where email = '…');`

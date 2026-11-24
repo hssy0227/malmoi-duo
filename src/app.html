@@ -330,6 +330,49 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 .gcc.ok{background:var(--okb);border-color:var(--ok);color:var(--ok)}
 .gcc i{position:absolute;top:0;left:2px;font-size:7.5px;font-style:normal;font-weight:700;color:var(--mut)}
 .gtip{font-size:11.5px;color:var(--mut);text-align:center;margin-top:8px}
+/* 관리자 */
+.adh{display:flex;align-items:center;gap:8px}.adh h2{margin:0}
+.adf{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:10px 0}
+.seg.adseg{margin-left:0}.seg.adseg button{padding:5px 10px;min-height:32px;font-size:12.5px}
+.adtabs{margin-top:2px}.adtabs .gtab{font-size:13px;height:36px}
+.adload{text-align:center;color:var(--mut)}
+.adks{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+@media (min-width:560px){.adks{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.adk{background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:10px 12px;display:flex;flex-direction:column;gap:1px}
+.adk b{font-size:22px;font-variant-numeric:tabular-nums}.adk span{font-size:12.5px;color:var(--mut)}.adk small{font-size:11.5px;color:var(--mut)}
+.adbars{display:flex;align-items:flex-end;gap:3px;overflow-x:auto;padding-bottom:2px;scrollbar-width:thin}
+.adbc{flex:1 0 26px;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:10px;color:var(--mut)}
+.adbc span{font-size:10px;color:var(--ink);font-variant-numeric:tabular-nums;min-height:13px}
+.adbc i{display:block;width:70%;max-width:22px;background:var(--am);border-radius:4px 4px 0 0}.adbc i.z{background:var(--ln)}
+.adbc em{font-style:normal;white-space:nowrap;font-size:9.5px}.adbc b{font-size:10px;font-weight:600;color:var(--mut);min-height:13px}
+.adbc.t em{color:var(--am);font-weight:700}
+.adh2{display:grid;grid-template-columns:minmax(56px,max-content) 1fr auto;align-items:center;gap:7px 10px;font-size:13px}
+.adh2 .adhr{display:contents}
+.adhr{display:grid;grid-template-columns:56px 1fr auto;align-items:center;gap:8px;font-size:13px}
+.adhn{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:46vw}
+.adht{height:10px;background:var(--sf2);border-radius:99px;overflow:hidden}.adht i{display:block;height:100%;background:var(--am);border-radius:99px}
+.adhv{font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right;min-width:72px}.adhv small{color:var(--mut)}
+.adnote{margin:8px 2px 0}
+.adsort{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.adlist{display:flex;flex-direction:column;gap:6px}
+.adu{display:block;width:100%;text-align:left;background:var(--sf);border:1px solid var(--ln);border-radius:12px;padding:10px 12px}
+.adu.idle{opacity:.55}
+.adu1{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.adu1 b{font-size:14.5px}
+.adu2{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:4px;font-size:12.5px;color:var(--mut)}.adu2 b{color:var(--ink)}
+.adtag{font-size:11px;font-weight:700;padding:1px 7px;border-radius:99px;background:var(--amb);color:var(--am)}.adtag.ok{background:var(--okb);color:var(--ok)}
+.adkv{display:grid;grid-template-columns:auto 1fr;gap:5px 14px;font-size:13px;margin-top:6px}.adkv span{color:var(--mut);white-space:nowrap}.adkv small{color:var(--mut);font-weight:500}
+.adtbl{overflow-x:auto}.adtbl table{width:100%;border-collapse:collapse;font-size:13px}
+.adtbl th,.adtbl td{padding:6px 8px;border-bottom:1px solid var(--ln);text-align:left;font-variant-numeric:tabular-nums}
+.adtbl .n{text-align:right;white-space:nowrap}.adtbl thead th{color:var(--mut);font-weight:600;font-size:12px}
+.adtbl tbody th{font-weight:600;white-space:nowrap}.adtbl small{color:var(--mut)}
+.adtbl.adgrid td{text-align:center}.adtbl.adgrid th{text-align:center}.adtbl.adgrid th:first-child{text-align:left}
+.adlog td{text-align:left;vertical-align:top}.adlog td:last-child{word-break:break-word}
+.adol{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:2px}
+.adol li{font-size:13px}.adol button{display:flex;flex-direction:column;align-items:flex-start;width:100%;text-align:left;padding:5px 2px;border-bottom:1px dashed var(--ln)}
+.adol button span{font-weight:650}.adol button small{color:var(--mut);font-size:12px}
+.adkinds{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12.5px;color:var(--mut);margin-top:8px}.adkinds b{color:var(--ink)}
+.adgr+.adgr{margin-top:12px}.adgr>b{display:block;font-size:13.5px;margin-bottom:4px}
+.admiss{display:flex;flex-wrap:wrap;gap:6px}.admiss span{font-size:13px;padding:3px 9px;border-radius:99px;background:var(--sf2);border:1px solid var(--ln)}.admiss b{color:var(--am)}
 </style>
 </head>
 <body>
@@ -420,7 +463,7 @@ const STN={new:"새것",seen:"읽음",learning:"학습 중",known:"앎",skip:"�
 function stOf(L,id){const v=S.st[L][id];if(v==="k")return "known";if(v==="x")return "skip";if(S.p[L][id])return "learning";if(S.seen[L][id])return "seen";return "new"}
 function touch(L,id){S.mod[L][id]=Date.now();S.dirty[L][id]=1;schedSync()}
 function markSeen(L,id){if(!S.seen[L][id]){S.seen[L][id]=Date.now();touch(L,id);save()}}
-function setSt(L,id,v){if(v)S.st[L][id]=v;else delete S.st[L][id];touch(L,id);save()}
+function setSt(L,id,v){if(v)S.st[L][id]=v;else delete S.st[L][id];touch(L,id);save();ev("mark",L,id,{s:v||"none"})}
 
 /* ---------- 데이터 준비: 문장 + 단어장(풀이에서 자동 생성) ---------- */
 const SRC=Object.fromEntries((DATA.srcs||[]).map(([k,n,h])=>[k,{n,h}])), SRCKEYS=(DATA.srcs||[]).map(x=>x[0]);
@@ -616,7 +659,7 @@ function vCards(){
 function grade(g){
   const L=CS.L,id=CS.q[CS.i],old=S.p[L][id];
   if(!old)S.day.n[L]++;
-  S.p[L][id]=nextState(old,g); bump(); touch(L,id);
+  S.p[L][id]=nextState(old,g); bump(); touch(L,id);ev("card",L,id,{g,new:!old,ok:g>0});
   if(g===0)CS.q.splice(Math.min(CS.q.length,CS.i+5),0,id);
   CS.i++;CS.done++;CS.flip=false;CS.dir=null;save();render();
 }
@@ -737,7 +780,7 @@ function qpick(i){
   QS.pick=i;const first=QS.miss==null;
   QS.res=ok?(first?"ok1":"ok2"):"ng";
   if(!(q.id in QS.undo))QS.undo[q.id]={q:S.q[L][q.id]?S.q[L][q.id].slice():null,p:S.p[L][q.id]?{...S.p[L][q.id]}:null,seen:S.seen[L][q.id]||null};
-  const st=S.q[L][q.id]||[0,0];st[QS.res==="ok1"?0:1]++;S.q[L][q.id]=st;bump();QS.hd++;
+  const st=S.q[L][q.id]||[0,0];st[QS.res==="ok1"?0:1]++;S.q[L][q.id]=st;bump();QS.hd++;ev("quiz",L,q.id,{t:q.t,ok:QS.res==="ok1",r:QS.res});
   if(QS.res==="ok1")QS.ok++;else{if(QS.res==="ok2")QS.ok2=(QS.ok2||0)+1;QS.wrong.push(q.id);const p=S.p[L][q.id];if(p)p.d=Math.min(p.d,Date.now())}
   S.seen[L][q.id]=S.seen[L][q.id]||Date.now();touch(L,q.id);
   save();render();
@@ -830,7 +873,7 @@ function mic(){
   rec.onresult=e=>{inter="";for(const r of e.results){inter+=r[0].transcript;if(r.isFinal)finals=[...r].map(a=>a.transcript)}SP.tx=inter;const p=document.getElementById("live");if(p&&SP.state==="live")p.textContent="듣는 중… "+inter};
   rec.onerror=e=>{SP.err={"not-allowed":"마이크 권한이 막혀 있어요. 브라우저 설정에서 마이크를 허용해 주세요.","no-speech":"소리가 들리지 않았어요. 다시 눌러 말해 보세요.","language-not-supported":"이 기기에서 "+LANGS[L].name+" 음성 인식을 지원하지 않아요.","network":"음성 인식 서버에 연결하지 못했어요(인터넷 필요)."}[e.error]||("음성 인식 오류: "+e.error)};
   rec.onend=()=>{SP.state="idle";const alts=finals||(inter?[inter]:null);
-    if(alts){SP.res=scoreSpeech(it.t,alts,L);const pct=Math.round(SP.res.sc*100);S.sp[L][id]=Math.max(S.sp[L][id]||0,pct);bump();touch(L,id);save();SP.err=""}
+    if(alts){SP.res=scoreSpeech(it.t,alts,L);const pct=Math.round(SP.res.sc*100);S.sp[L][id]=Math.max(S.sp[L][id]||0,pct);bump();touch(L,id);save();SP.err="";ev("speak",L,id,{score:pct})}
     if(SP.L===S.lang&&view==="speak")render()};
   try{rec.start()}catch(e){SP.state="idle";SP.err="음성 인식을 시작할 수 없어요.";render()}
 }
@@ -897,7 +940,7 @@ function vPrefs(){
     <div>베트남어 문장 ${SENT.vi.length} · 단어 ${WORD.vi.length} / 영어 문장 ${SENT.en.length} · 표현 ${WORD.en.length}</div>
     <div class="mut">레벨 ${LEVELS.map(([l,c])=>`Lv${l}=${c}`).join(" · ")} (CEFR)</div>
     <div class="mut">버전 ${VER} · 베트남어는 북부(하노이) 표준, 메모에 남부 차이 표기</div>
-    <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>`;
+    <div class="mut" style="margin-top:6px">홈 화면에 설치 — iPhone: Safari 공유 버튼 → 홈 화면에 추가 / Android: Chrome 메뉴 → 앱 설치</div></div>${isAdm()?`<div class="row" style="justify-content:center;margin-top:18px"><button class="btn sm" data-act="go" data-v="admin">admin</button></div>`:""}`;
 }
 function exportJSON(){return JSON.stringify({app:"dumal",v:1,at:new Date().toISOString(),data:S})}
 function importJSON(txt){
@@ -965,6 +1008,28 @@ async function signIn(email,pin){setSession(await sbFetch("/auth/v1/token?grant_
 async function signUp(email,pin){const j=await sbFetch("/auth/v1/signup?redirect_to="+backTo(),{method:"POST",body:{email,password:pin},auth:false});if(j&&j.access_token){setSession(j);return true}return false}
 async function signOut(){try{await sbFetch("/auth/v1/logout",{method:"POST"})}catch(e){}AUTH=null;saveAuth()}
 
+/* ---------- 사용 기록 (관리자 통계용) — 이메일 외 개인정보 없이 기능·결과만 ---------- */
+const EVK="malmoi.ev",EVMAX=3000;
+let EVQ=[];try{EVQ=JSON.parse(localStorage.getItem(EVK)||"[]")||[]}catch(e){EVQ=[]}
+let evT=0,evF=0,EV_OFF=false,EV_ERR=0,evHidden=0,evView="";
+const evSave=()=>{clearTimeout(evT);evT=setTimeout(()=>{try{localStorage.setItem(EVK,JSON.stringify(EVQ))}catch(e){}},300)};
+function ev(kind,lang,id,v){
+  EVQ.push({at:new Date().toISOString(),lang:lang||null,kind,item_id:id||null,v:v||null,ver:VER});
+  if(EVQ.length>EVMAX)EVQ=EVQ.slice(-EVMAX);evSave();
+  if(AUTH&&SB_ON&&!EV_OFF){clearTimeout(evF);evF=setTimeout(()=>{if(!SYNC.busy)evFlush()},15000)}}
+async function evFlush(){
+  if(!SB_ON||!AUTH||EV_OFF||!EVQ.length)return;
+  const batch=EVQ.slice(0,500);
+  try{await sbFetch("/rest/v1/events",{method:"POST",headers:{Prefer:"return=minimal"},body:batch});
+    EVQ=EVQ.slice(batch.length);evSave();if(EVQ.length)await evFlush()}
+  catch(e){if(e.status===404||/events|PGRST205|does not exist|schema cache/i.test(e.raw||""))EV_OFF=true}}
+const evDev=()=>{const u=navigator.userAgent||"";return /iPad/.test(u)?"iPad":/iPhone|iPod/.test(u)?"iPhone":/Android/.test(u)?"Android":/Macintosh/.test(u)?"Mac":/Windows/.test(u)?"Windows":"기타"};
+const evPWA=()=>{try{return matchMedia("(display-mode: standalone)").matches||navigator.standalone===true}catch(e){return false}};
+function evOpen(src){ev("open",S.lang,null,{dev:evDev(),pwa:evPWA(),...(src?{src}:{})})}
+function evErr(m){if(EV_ERR++<20)ev("err",null,null,{m:String(m||"").slice(0,240)})}
+window.addEventListener("error",e=>evErr((e.message||"error")+(e.filename?` @${(e.filename||"").split("/").pop()}:${e.lineno||0}`:"")));
+window.addEventListener("unhandledrejection",e=>{const r=e.reason;evErr("promise: "+((r&&r.message)||r))});
+
 /* 로컬 ↔ 서버 행 변환 */
 function rowOf(L,id){const p=S.p[L][id],q=S.q[L][id]||[0,0],sp=S.sp[L][id];
   return {user_id:AUTH.uid,lang:L,item_id:id,status:stOf(L,id),star:!!S.star[L][id],
@@ -1024,10 +1089,11 @@ async function syncNow(){
       await sbFetch("/rest/v1/user_state?on_conflict=user_id",{method:"POST",headers:{Prefer:"resolution=merge-duplicates,return=minimal"},body:[{user_id:AUTH.uid,data:JSON.parse(blob),updated_at:t}]});
       S.sync.blob=blob;S.sync.stateAt=t}
     S.sync.at=Date.now();
-  }catch(e){SYNC.err=e.message||"동기화하지 못했어요"}
+    await evFlush();await checkAdmin();
+  }catch(e){SYNC.err=e.message||"동기화하지 못했어요";if(!e.net)evErr("sync: "+(e.raw||e.message))}
   finally{
     SYNC.busy=false;save();
-    if(changed&&view!=="cards"&&view!=="prefs"&&view!=="game"){CS=null;SP=null;render()}else updAcc();
+    if(changed&&view!=="cards"&&view!=="prefs"&&view!=="game"&&view!=="admin"){CS=null;SP=null;render()}else updAcc();
     if(SYNC.again){SYNC.again=false;setTimeout(syncNow,500)}
   }
 }
@@ -1040,6 +1106,7 @@ function accHTML(){
     ${SYNC.err?`<div class="warn" style="margin:0 0 10px">${esc(SYNC.err)}</div>`:""}
     <div class="row"><button class="btn sm pri" data-act="accsync" ${SYNC.busy?"disabled":""}>지금 동기화</button><button class="btn sm" data-act="accpin">PIN 변경</button><span class="sp"></span><button class="btn sm" data-act="acclogout">로그아웃</button></div>`}
   return `<p class="sm mut" style="margin:0">이메일과 숫자 PIN 6자리로 로그인하면 휴대폰·PC 어디서든 진도가 이어져요. 이 기기의 진도는 처음 로그인할 때 계정에 합쳐져요.</p>
+  <p class="sm mut" style="margin:6px 0 0">로그인 이메일 외의 개인정보는 수집하지 않아요. 앱 개선을 위해 오류·학습 진도 같은 이용 기록만 모아요.</p>
   <div class="two"><input type="email" id="accEmail" placeholder="이메일" autocomplete="email" value="${esc(S.sync.email||"")}"><input type="password" id="accPin" placeholder="PIN 6자리" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="current-password"></div>
   ${SYNC.err?`<div class="warn" style="margin:0 0 10px">${esc(SYNC.err)}</div>`:""}${SYNC.msg?`<p class="sm" style="margin:0 0 10px">${esc(SYNC.msg)}</p>`:""}
   <div class="row"><button class="btn sm pri" data-act="acclogin" ${SYNC.busy?"disabled":""}>로그인</button><button class="btn sm" data-act="accsignup" ${SYNC.busy?"disabled":""}>계정 만들기</button><span class="sp"></span><button class="btn sm" data-act="accforgot">PIN을 잊었어요</button></div>`;
@@ -1061,7 +1128,7 @@ const ACC_ACT={
   accsync:()=>syncNow(),
   accpin:()=>pinSheet(),
   acclogout:()=>openSheet(`<h3>로그아웃</h3><p>이 기기의 진도는 그대로 남고, 계정과의 동기화만 멈춰요.${dirtyCount()?` <b>아직 올리지 못한 변경 ${dirtyCount()}개</b>가 있어요.`:""}</p><div class="row"><span class="sp"></span><button class="btn" data-act="closesheet">취소</button><button class="btn pri" data-act="dologout">로그아웃</button></div>`),
-  dologout:async()=>{closeSheet();await signOut();SYNC.err="";toast("로그아웃했어요");render()},
+  dologout:async()=>{closeSheet();await signOut();S.sync.admin=false;AD.cache={};SYNC.err="";toast("로그아웃했어요");render()},
   dopin:()=>{const a=(($("#pin1")||{}).value||"").trim(),b=(($("#pin2")||{}).value||"").trim();
     if(!PIN_RE.test(a)){toast("PIN은 숫자 6자리예요");return}if(a!==b){toast("두 PIN이 달라요");return}
     sbFetch("/auth/v1/user",{method:"PUT",body:{password:a}}).then(()=>{closeSheet();toast("PIN을 바꿨어요")},e=>toast(e.message))}
@@ -1230,7 +1297,7 @@ function gBomb(box,D,L){
     if(S2.lives<=0)end()};
   const exOf=q=>{const s=(q.ex||[]).map(id=>ITEM[L][id]).find(Boolean);return s?`<span class="gsm">${esc(s.t)} — ${esc(s.k)}</span>`:""};
   const end=()=>{S2.run=false;cancelAnimationFrame(raf);
-    const sec=Math.round(S2.t*10)/10,prev=gRec(L,"bomb"),nb=!prev||sec>prev.sec;if(nb)gSetRec(L,"bomb",{sec,date:gDate()});const best=nb?{sec,date:gDate()}:prev;
+    const sec=Math.round(S2.t*10)/10;ev("game",L,null,{g:"bomb",score:sec,n:S2.solved,missed:missed.map(q=>q.t)});const prev=gRec(L,"bomb"),nb=!prev||sec>prev.sec;if(nb)gSetRec(L,"bomb",{sec,date:gDate()});const best=nb?{sec,date:gDate()}:prev;
     const ov=gEl(`<div class="gov"><div class="gres"><div class="gc gmut">성벽이 무너졌어요</div><div class="gbignum">${sec}초</div>
     <div class="gc">${nb?'<span class="gchipx on">🎉 최고 기록 갱신!</span>':`<span class="gchipx">🏆 최고 ${best.sec}초 (${best.date})</span>`}<span class="gchipx">맞힌 문제 ${S2.solved}</span><span class="gchipx">최대 콤보 ${S2.maxc}</span></div>
     <h4>놓친 문제 ${missed.length}개 · 다시 보기</h4><ul class="glst">${missed.map(q=>`<li><div class="gli"><span><b>${esc(q.ko)}</b> → <span class="gans">${esc(q.t)}</span></span>${gSay(L,q.t)}</div>${exOf(q)}</li>`).join("")}</ul>
@@ -1284,7 +1351,7 @@ function gCraft(box,D,L){
     gQ("#garst",box).onclick=()=>{if(done)return;placed=[];draw()};
     draw();window.__a={ans,toks,limit,lv,place:i=>{placed.push(i);draw();if(placed.length===toks.length)finish(false)},ord};
   };
-  const over=(lv,f)=>{gmStop();
+  const over=(lv,f)=>{gmStop();ev("game",L,null,{g:"craft",score:lv});
     const prev=gRec(L,"craft"),nb=lv>0&&(!prev||lv>prev.n);if(nb)gSetRec(L,"craft",{n:lv,date:gDate()});const best=nb?{n:lv,date:gDate()}:prev;
     box.innerHTML=`<div class="gres"><div class="gc gmut">게임 종료</div><div class="gbignum">${lv}문제</div>
     <div class="gc">${nb?'<span class="gchipx on">🎉 최고 기록 갱신!</span>':`<span class="gchipx">🏆 최고 ${best?best.n+"문제 ("+best.date+")":"-"}</span>`}<span class="gchipx">마지막 제한 ${limitOf(lv)}초</span></div>
@@ -1378,7 +1445,7 @@ function gCrossRun(box,D,L){gmStop();
     if(live)e.onclick=()=>{const ks=slotAt(r,c);const nk=ks.length>1&&ks[0]===sel?ks[1]:(ks.includes(sel)&&ks.length===1?sel:ks[0]);select(nk)};
     g.appendChild(e);cells.push(e)}
   const tk=setInterval(()=>{if(fin)return;elapsed=Date.now()-t0;const e=gQ("#gtk",box);if(e)e.textContent=gMMSS(elapsed)},500);gOn(()=>clearInterval(tk));
-  const finish=()=>{fin=true;elapsed=Date.now()-t0;gQ("#gtk",box).textContent=gMMSS(elapsed);const prev=gRec(L,"cross");newRec=!prev||elapsed<prev.ms;if(newRec)gSetRec(L,"cross",{ms:elapsed,date:gDate()})};
+  const finish=()=>{fin=true;elapsed=Date.now()-t0;ev("game",L,null,{g:"cross",score:Math.round(elapsed/1000),n:mistakes});gQ("#gtk",box).textContent=gMMSS(elapsed);const prev=gRec(L,"cross");newRec=!prev||elapsed<prev.ms;if(newRec)gSetRec(L,"cross",{ms:elapsed,date:gDate()})};
   const hint=s=>{if(mode==="ko")return esc(s.x.ko);const e=gExample(L,s.x);return e?`<span class="gexs">${esc(e.t)}</span><small>${esc(e.k)}</small>`:`${esc(s.x.ko)}<small>예문이 없어 뜻으로 보여줘요</small>`};
   const doneCount=()=>st.filter(x=>x.done).length;
   function select(k){sel=k;msg={t:"",c:""};draw()}
@@ -1419,13 +1486,188 @@ function gmShow(){gmStop();const box=gQ("#gbox");if(!box)return;box.innerHTML=""
 function gmMount(){document.querySelectorAll(".gtab").forEach(b=>b.onclick=()=>{b.blur();S.gmTab=+b.dataset.gt;save();
   document.querySelectorAll(".gtab").forEach(x=>{const on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-selected",String(on))});gmShow()});gmShow()}
 
+/* ---------- 관리자 화면 (#admin) — admins에 등록된 계정만, 읽기 전용 ---------- */
+const isAdm=()=>!!(AUTH&&S.sync&&S.sync.admin);
+const AD={tab:"ov",days:30,self:true,lang:"all",sort:"last",cache:{},busy:"",err:"",uid:null};
+const ADT=[["ov","개요"],["us","사용자"],["ct","콘텐츠"],["gm","게임"],["op","운영"]];
+const EVKO={open:"접속",view:"화면",card:"카드",quiz:"퀴즈",speak:"말하기",game:"게임",mark:"표시",err:"오류"};
+const GMKO={bomb:"Word Bomb",craft:"Word Craft",cross:"CrossWord"};
+const VWKO={home:"Home",cards:"카드",speak:"말하기",quiz:"퀴즈",game:"게임",dict:"사전",prefs:"설정",admin:"관리자"};
+/* 이메일 가리기: 아이디 가운데 3글자를 * 로 (rhs8494@naver.com → rh***94@naver.com) */
+function maskEmail(e){if(!e)return "(이메일 없음)";const i=e.indexOf("@");const id=i<0?e:e.slice(0,i),dom=i<0?"":e.slice(i);
+  const n=id.length;if(n<=3)return "*".repeat(n)+dom;const a=Math.floor((n-3)/2);return id.slice(0,a)+"***"+id.slice(a+3)+dom}
+const kday=d=>{const t=new Date(d);return t.getFullYear()+"-"+String(t.getMonth()+1).padStart(2,"0")+"-"+String(t.getDate()).padStart(2,"0")};
+const mdw=k=>{const [y,m,d]=k.split("-").map(Number);return m+"/"+d};
+const hm=iso=>{const t=new Date(iso);return (t.getMonth()+1)+"/"+t.getDate()+" "+String(t.getHours()).padStart(2,"0")+":"+String(t.getMinutes()).padStart(2,"0")};
+const dateOnly=iso=>{if(!iso)return "-";const t=new Date(iso);return t.getFullYear()+"."+(t.getMonth()+1)+"."+t.getDate()};
+const agoIso=iso=>iso?fmtAgo(Date.parse(iso)):"없음";
+const pct=(a,b)=>b?Math.round(a/b*100)+"%":"-";
+const nf=n=>(+n||0).toLocaleString();
+function histSum(h,days){let s=0;const d=new Date();for(let i=0;i<days;i++){s+=+(h[kday(d)]||0);d.setDate(d.getDate()-1)}return s}
+function histStreak(h){let n=0;const d=new Date();if(!h[kday(d)])d.setDate(d.getDate()-1);while(h[kday(d)]){n++;d.setDate(d.getDate()-1)}return n}
+const LKEYS=()=>AD.lang==="all"?["vi","en"]:[AD.lang];
+function progSum(prog){const o={known:0,skip:0,learn:0,due:0,qok:0,qng:0};for(const L of LKEYS()){const p=(prog||{})[L];if(p)for(const k in o)o[k]+=+p[k]||0}return o}
+function mainLang(u){const a=u.langs||{},b=u.prog||{};const sv=(a.vi||0)+((b.vi&&b.vi.learn)||0),se=(a.en||0)+((b.en&&b.en.learn)||0);return !sv&&!se?"-":sv>=se?"베트남어":"영어"}
+
+async function adRpc(fn,body){return sbFetch("/rest/v1/rpc/"+fn,{method:"POST",body:body||{}})}
+async function adLoad(force){
+  const t=AD.uid?"user:"+AD.uid:AD.tab,key=t+"|"+AD.days+"|"+AD.self;
+  if(!force&&AD.cache[key])return;
+  AD.busy=key;AD.err="";renderAdmin();
+  try{let d;
+    if(AD.uid)d=await adRpc("admin_user",{p_uid:AD.uid});
+    else if(AD.tab==="ov"){const [u,dl]=await Promise.all([adRpc("admin_users",{p_days:AD.days,p_self:AD.self}),adRpc("admin_daily",{p_days:AD.days,p_self:AD.self})]);d={u,dl}}
+    else if(AD.tab==="us")d=await adRpc("admin_users",{p_days:AD.days,p_self:AD.self});
+    else if(AD.tab==="ct")d=await adRpc("admin_content",{p_self:AD.self});
+    else if(AD.tab==="gm")d=await adRpc("admin_games",{p_days:AD.days,p_self:AD.self});
+    else d=await adRpc("admin_ops",{p_days:AD.days,p_self:AD.self});
+    AD.cache[key]=d;
+  }catch(e){AD.err=e.status===403||/admin only/.test(e.raw||"")?"관리자 계정이 아니에요.":e.status===404?"관리자 함수가 없어요. supabase/admin.sql을 먼저 실행해 주세요.":(e.message||"불러오지 못했어요")}
+  AD.busy="";renderAdmin()}
+const adData=()=>{const t=AD.uid?"user:"+AD.uid:AD.tab;return AD.cache[t+"|"+AD.days+"|"+AD.self]};
+function adScroll(){document.querySelectorAll(".adbars").forEach(x=>{x.scrollLeft=x.scrollWidth})}
+function renderAdmin(){if(view!=="admin")return;const b=$("#adbody");if(b){b.innerHTML=adBody();adScroll()}else render()}
+
+function vAdmin(){
+  const seg=(act,cur,opts)=>`<div class="seg adseg">${opts.map(([k,n])=>`<button data-act="${act}" data-k="${k}" class="${String(cur)===String(k)?"on":""}">${n}</button>`).join("")}</div>`;
+  return `<div class="adh"><h2>관리자</h2><span class="sp"></span><button class="btn sm" data-act="adre" ${AD.busy?"disabled":""}>새로고침</button></div>
+  <div class="adf">${seg("addays",AD.days,[[7,"7일"],[30,"30일"],[90,"90일"]])}${seg("adlang",AD.lang,[["all","전체"],["vi","베트남어"],["en","영어"]])}
+    <button class="chip ${AD.self?"on":""}" data-act="adself" aria-pressed="${AD.self}">${AD.self?"내 기록 포함":"내 기록 뺌"}</button></div>
+  ${AD.uid?"":`<div class="gtabs adtabs">${ADT.map(([k,n])=>`<button class="gtab ${AD.tab===k?"on":""}" data-act="adtab" data-k="${k}">${n}</button>`).join("")}</div>`}
+  <div id="adbody">${adBody()}</div>`}
+function adBody(){
+  if(AD.err)return `<div class="warn">${esc(AD.err)}</div>`;
+  const d=adData();if(!d)return `<div class="box adload">불러오는 중…</div>`;
+  if(AD.uid)return adUser(d);
+  return ({ov:adOv,us:adUsers,ct:adContent,gm:adGames,op:adOps})[AD.tab](d);
+}
+/* 세로 막대 (날짜별) */
+function adBars(rows,fmt){const mx=Math.max(1,...rows.map(r=>r.v));
+  return `<div class="adbars" id="adbars">${rows.map(r=>`<div class="adbc${r.t?" t":""}" title="${esc(r.tip||"")}"><span>${r.v?fmt(r.v):""}</span><i style="height:${r.v?Math.max(4,r.v/mx*80):2}px" class="${r.v?"":"z"}"></i><em>${r.lab}</em>${r.sub!=null?`<b>${r.sub||""}</b>`:""}</div>`).join("")}</div>`}
+/* 가로 막대 (비중) */
+function adHBars(items){const tot=items.reduce((s,x)=>s+x[1],0),mx=Math.max(1,...items.map(x=>x[1]));
+  return `<div class="adh2">${items.map(([n,v])=>`<div class="adhr"><span class="adhn">${esc(n)}</span><span class="adht"><i style="width:${v/mx*100}%"></i></span><span class="adhv">${nf(v)} <small>${pct(v,tot)}</small></span></div>`).join("")}</div>`}
+const kpi=(n,v,s)=>`<div class="adk"><b>${v}</b><span>${n}</span>${s?`<small>${s}</small>`:""}</div>`;
+const nolog=`<p class="sm mut adnote">기능·언어별 건수는 사용 기록을 모으기 시작한 뒤부터 쌓여요.</p>`;
+
+function adOv(d){
+  const us=d.u||[],dl=d.dl||[],today=kday(new Date());
+  const act7=us.filter(u=>histSum(u.hist||{},7)>0||(u.last&&Date.now()-Date.parse(u.last)<7*864e5)).length;
+  const td=dl.find(x=>x.d===today)||{};let qok=0,qng=0;us.forEach(u=>{const p=progSum(u.prog);qok+=p.qok;qng+=p.qng});
+  const kinds={},langs={};dl.forEach(x=>{for(const k in x.kinds||{})kinds[k]=(kinds[k]||0)+x.kinds[k];for(const k in x.langs||{})langs[k]=(langs[k]||0)+x.langs[k]});
+  const feat=[["카드",kinds.card||0],["퀴즈",kinds.quiz||0],["말하기",kinds.speak||0],["게임",kinds.game||0]];
+  const anyLog=Object.keys(kinds).length>0;
+  return `<div class="adks">${kpi("전체 가입자",nf(us.length))}${kpi("7일 활성",nf(act7),pct(act7,us.length))}${kpi("오늘 학습량",nf(td.study||0),`활성 ${td.users||0}명`)}${kpi("퀴즈 정답률",pct(qok,qok+qng),`${AD.lang==="all"?"전체":LANGS[AD.lang].name} 누적 ${nf(qok+qng)}문제`)}</div>
+  <h3>일별 학습량 <span class="sm mut">막대 아래 숫자는 활동한 계정 수</span></h3>
+  <div class="box">${adBars(dl.map(x=>({v:+x.study||0,lab:mdw(x.d),sub:x.users||0,t:x.d===today})),nf)}</div>
+  <h3>기능별 사용 <span class="sm mut">최근 ${AD.days}일</span></h3><div class="box">${anyLog?adHBars(feat):nolog}</div>
+  <h3>언어별 사용 <span class="sm mut">카드·퀴즈·말하기·게임 건수</span></h3><div class="box">${anyLog?adHBars([["베트남어",langs.vi||0],["영어",langs.en||0]]):nolog}</div>
+  <p class="sm mut adnote">학습량은 카드·퀴즈·말하기 기록 수(홈 화면 막대와 같은 기준)예요. 정답률 언어 필터는 위 언어 선택을 따라요.</p>`}
+
+function adUsers(us){
+  const rows=us.map(u=>{const h=u.hist||{},p=progSum(u.prog);return {u,w7:histSum(h,7),st:histStreak(h),last:u.last?Date.parse(u.last):0,p}});
+  const by={last:(a,b)=>b.last-a.last,w7:(a,b)=>b.w7-a.w7,created:(a,b)=>Date.parse(b.u.created)-Date.parse(a.u.created)}[AD.sort];rows.sort(by);
+  return `<div class="adsort"><span class="sm mut">${rows.length}명 · 정렬</span><div class="seg adseg">${[["last","마지막 활동"],["w7","7일 학습량"],["created","가입일"]].map(([k,n])=>`<button data-act="adsort" data-k="${k}" class="${AD.sort===k?"on":""}">${n}</button>`).join("")}</div></div>
+  <div class="adlist">${rows.map(({u,w7,st,last,p})=>{const idle=!last||Date.now()-last>14*864e5;
+    return `<button class="adu${idle?" idle":""}" data-act="aduser" data-id="${esc(u.id)}">
+      <div class="adu1"><b>${esc(maskEmail(u.email))}</b>${u.me?`<span class="adtag">나</span>`:""}${u.admin?`<span class="adtag">admin</span>`:""}${u.notif?`<span class="adtag ok">알림</span>`:""}<span class="sp"></span><span class="sm mut nw">${agoIso(u.last)}</span></div>
+      <div class="adu2"><span>가입 ${dateOnly(u.created)}</span><span>7일 <b>${nf(w7)}</b></span><span>연속 <b>${st}</b>일</span><span>${mainLang(u)}</span><span>앎 ${nf(p.known)} · 학습 중 ${nf(p.learn)}</span></div></button>`}).join("")||`<div class="box mut sm">계정이 없어요</div>`}</div>
+  <p class="sm mut adnote">14일 넘게 활동이 없는 계정은 흐리게 보여요. 목록의 이메일은 가운데 3글자를 가렸고, 누르면 상세에서 전체가 보여요.</p>`}
+
+function itemTxt(L,id){const it=ITEM[L]&&ITEM[L][id];return it?{t:it.t,k:it.k||"",l:it.l,c:it.kind==="w"?[...it.cs][0]:it.c,kind:it.kind}:null}
+function adUser(d){
+  if(!d||!d.id)return `<div class="grow" style="justify-content:flex-start"><button class="btn sm" data-act="adback">← 목록</button></div><div class="box mut sm">계정을 찾지 못했어요</div>`;
+  const st=d.state||{},h=st.hist||{},dev=d.device||{},today=new Date(),days=[];
+  for(let i=29;i>=0;i--){const t=new Date(today);t.setDate(t.getDate()-i);days.push(kday(t))}
+  const kd={};(d.kinds||[]).forEach(x=>{kd[x.kind]=(kd[x.kind]||0)+x.n});
+  const P=d.prog||{},pr=L=>P[L]||{};
+  const prow=(n,f)=>`<tr><th>${n}</th>${["vi","en"].map(L=>`<td class="n">${f(pr(L))}</td>`).join("")}</tr>`;
+  const games=st.game||{},grow=[];for(const L of ["vi","en"]){const g=games[L]||{};if(g.bomb)grow.push([LANGS[L].name,"Word Bomb",g.bomb.sec+"초",g.bomb.date]);if(g.craft)grow.push([LANGS[L].name,"Word Craft",g.craft.n+"문제",g.craft.date]);if(g.cross)grow.push([LANGS[L].name,"CrossWord",gMMSS(g.cross.ms),g.cross.date])}
+  const evTxt=e=>{const v=e.v||{};let s="";
+    if(e.kind==="view")s=VWKO[v.v]||v.v||"";else if(e.kind==="open")s=[v.dev,v.pwa?"홈 화면 앱":"브라우저",v.src==="push"?"알림에서":""].filter(Boolean).join(" · ");
+    else if(e.kind==="game")s=(GMKO[v.g]||v.g||"")+" · "+(v.g==="bomb"?v.score+"초":v.g==="cross"?gMMSS((+v.score||0)*1000):v.score+"문제");
+    else if(e.kind==="err")s=v.m||"";else if(e.kind==="mark")s=v.star!=null?(v.star?"★ 추가":"★ 해제"):({k:"앎",x:"스킵",none:"되돌림"}[v.s]||v.s);
+    else{const it=e.id&&itemTxt(e.lang,e.id);s=(it?it.t:"")+(e.kind==="quiz"?(v.ok?" ✔":" ✘"):e.kind==="speak"?" · "+v.score+"점":e.kind==="card"?" · "+(["다시","어려움","알맞음","쉬움"][v.g]||v.g)+(v.new?" (새 카드)":""):"")}
+    return esc(s)};
+  return `<div class="grow" style="justify-content:flex-start;margin:0 0 10px"><button class="btn sm" data-act="adback">← 목록</button></div>
+  <div class="box"><div class="adu1"><b>${esc(d.email||"")}</b></div>
+    <div class="adkv"><span>가입</span><b>${dateOnly(d.created)}</b><span>마지막 로그인</span><b>${agoIso(d.signin)}</b><span>기기</span><b>${esc(dev.dev||"-")}${dev.dev?(dev.pwa?" · 홈 화면 앱":" · 브라우저"):""}</b><span>앱 버전</span><b>${esc(d.ver||"-")}</b>
+    <span>알림</span><b>${(d.push||[]).filter(p=>p.enabled).map(p=>({daily:"매일",alt:"격일",week:"매주 "+(p.days||[]).map(x=>"일월화수목금토"[x]).join("")})[p.mode]+" "+p.hour+"시").join(", ")||"꺼짐"}</b><span>연속 학습</span><b>${histStreak(h)}일</b></div></div>
+  <h3>최근 30일 학습량</h3><div class="box">${adBars(days.map(k=>({v:+h[k]||0,lab:mdw(k),t:k===kday(today)})),nf)}
+    ${Object.keys(kd).length?`<div class="adkinds">${["card","quiz","speak","game"].map(k=>`<span>${EVKO[k]} <b>${nf(kd[k]||0)}</b></span>`).join("")}</div>`:nolog}</div>
+  <h3>언어별 진도</h3><div class="box adtbl"><table><thead><tr><th></th><th class="n">베트남어</th><th class="n">영어</th></tr></thead><tbody>
+    ${prow("앎",p=>nf(p.known))}${prow("학습 중",p=>nf(p.learn))}${prow("본 항목",p=>nf(p.seen))}${prow("스킵",p=>nf(p.skip))}${prow("밀린 복습",p=>nf(p.due))}${prow("퀴즈 정답률",p=>pct(+p.qok||0,(+p.qok||0)+(+p.qng||0))+` <small>(${nf((+p.qok||0)+(+p.qng||0))})</small>`)}${prow("말하기 평균",p=>p.sp!=null?p.sp+"점":"-")}</tbody></table></div>
+  <h3>자주 틀린 항목</h3><div class="box">${(d.wrong||[]).length?`<ol class="adol">${d.wrong.map(w=>{const it=itemTxt(w.lang,w.id);return `<li><button data-act="aditem" data-l="${w.lang}" data-id="${esc(w.id)}"><span>${esc(it?it.t:w.id)}</span><small>${esc(it?it.k:"")} · 오답 ${w.ng} / ${w.ok+w.ng}</small></button></li>`}).join("")}</ol>`:`<p class="sm mut" style="margin:0">아직 틀린 퀴즈가 없어요</p>`}</div>
+  <h3>게임 최고 기록</h3><div class="box adtbl">${grow.length?`<table><tbody>${grow.map(r=>`<tr><td>${r[1]}</td><td>${r[0]}</td><td class="n"><b>${r[2]}</b></td><td class="n mut">${esc(r[3]||"")}</td></tr>`).join("")}</tbody></table>`:`<p class="sm mut" style="margin:0">기록 없음</p>`}</div>
+  <h3>최근 활동 <span class="sm mut">${(d.recent||[]).length}건</span></h3><div class="box adtbl">${(d.recent||[]).length?`<table class="adlog"><tbody>${d.recent.map(e=>`<tr><td class="nw">${hm(e.at)}</td><td class="nw">${EVKO[e.kind]||esc(e.kind)}${e.lang?` <small>${e.lang}</small>`:""}</td><td>${evTxt(e)}</td></tr>`).join("")}</tbody></table>`:nolog}</div>`}
+
+function adContent(rows){
+  const Ls=LKEYS(),R=rows.filter(r=>Ls.includes(r[0])).map(([L,id,users,ok,ng,skip,known])=>({L,id,users:+users,ok:+ok,ng:+ng,skip:+skip,known:+known,it:itemTxt(L,id)})).filter(r=>r.it);
+  const wrong=R.filter(r=>r.ok+r.ng>=5).sort((a,b)=>b.ng/(b.ok+b.ng)-a.ng/(a.ok+a.ng)||b.ng-a.ng).slice(0,20);
+  const skip=R.filter(r=>r.skip>0).sort((a,b)=>b.skip-a.skip||b.users-a.users).slice(0,20);
+  const li=(r,s)=>`<li><button data-act="aditem" data-l="${r.L}" data-id="${esc(r.id)}"><span>${esc(r.it.t)}</span><small>${esc(r.it.k)} · ${s}</small></button></li>`;
+  const touched={vi:new Set(),en:new Set()};R.forEach(r=>{if(r.users>0)touched[r.L].add(r.id)});
+  const cov=Ls.map(L=>{const tot=SENT[L].length+WORD[L].length;return [LANGS[L].name,touched[L].size,tot]});
+  const grid={};R.forEach(r=>{if(!r.users)return;const c=r.it.c||"?";grid[c]=grid[c]||{};grid[c][r.it.l]=(grid[c][r.it.l]||0)+r.users});
+  const cats=CATKEYS.filter(c=>grid[c]);
+  return `<h3>오답률 높은 항목 <span class="sm mut">5회 이상 푼 것</span></h3><div class="box">${wrong.length?`<ol class="adol">${wrong.map(r=>li(r,`오답 ${pct(r.ng,r.ok+r.ng)} (${r.ng}/${r.ok+r.ng})`)).join("")}</ol>`:`<p class="sm mut" style="margin:0">아직 5회 이상 푼 항목이 없어요</p>`}</div>
+  <h3>많이 스킵된 항목</h3><div class="box">${skip.length?`<ol class="adol">${skip.map(r=>li(r,`스킵 ${r.skip}명 · 학습 ${r.users}명`)).join("")}</ol>`:`<p class="sm mut" style="margin:0">스킵된 항목이 없어요</p>`}</div>
+  <h3>한 번이라도 나온 항목</h3><div class="box">${adHBars(cov.map(([n,a])=>[n,a]))}<p class="sm mut adnote" style="margin-top:8px">${cov.map(([n,a,t])=>`${n} ${nf(a)} / ${nf(t)}개 (${pct(a,t)})`).join(" · ")}</p></div>
+  <h3>상황 × 레벨 <span class="sm mut">학습한 계정·항목 수</span></h3><div class="box adtbl adgrid">${cats.length?`<table><thead><tr><th></th>${LEVELS.map(([l])=>`<th>Lv${l}</th>`).join("")}</tr></thead><tbody>${cats.map(c=>`<tr><th>${esc(CAT[c]||c)}</th>${LEVELS.map(([l])=>{const v=grid[c][l]||0;return `<td class="${v?"":"mut"}">${v?nf(v):"·"}</td>`}).join("")}</tr>`).join("")}</tbody></table>`:`<p class="sm mut" style="margin:0">아직 기록이 없어요</p>`}</div>`}
+
+function adGames(d){
+  const Ls=LKEYS(),best=d.best||[],out=[];
+  for(const g of ["bomb","craft","cross"])for(const L of Ls){const rs=best.map(b=>({e:b.email,id:b.id,r:((b.game||{})[L]||{})[g]})).filter(x=>x.r);
+    if(!rs.length)continue;rs.sort((a,b)=>g==="cross"?a.r.ms-b.r.ms:g==="bomb"?b.r.sec-a.r.sec:b.r.n-a.r.n);
+    out.push(`<div class="adgr"><b>${GMKO[g]} · ${LANGS[L].name}</b><ol class="adol">${rs.slice(0,10).map(x=>`<li><button data-act="aduser" data-id="${esc(x.id)}"><span>${esc(maskEmail(x.e))}</span><small>${g==="bomb"?x.r.sec+"초":g==="craft"?x.r.n+"문제":gMMSS(x.r.ms)} · ${esc(x.r.date||"")}</small></button></li>`).join("")}</ol></div>`)}
+  const plays=(d.plays||[]).filter(p=>Ls.includes(p.lang));
+  const missed=(d.missed||[]).filter(m=>Ls.includes(m.lang));
+  return `<h3>플레이 <span class="sm mut">최근 ${AD.days}일</span></h3><div class="box adtbl">${plays.length?`<table><thead><tr><th>게임</th><th>언어</th><th class="n">판</th><th class="n">계정</th><th class="n">평균 기록</th></tr></thead><tbody>${plays.sort((a,b)=>(a.game>b.game)-(a.game<b.game)||(a.lang>b.lang)-(a.lang<b.lang)).map(p=>`<tr><td>${GMKO[p.game]||esc(p.game||"")}</td><td>${LANGS[p.lang]?LANGS[p.lang].name:"-"}</td><td class="n">${nf(p.n)}</td><td class="n">${p.users}</td><td class="n">${p.game==="bomb"?p.avg+"초":p.game==="cross"?gMMSS((+p.avg||0)*1000):p.avg+"문제"}</td></tr>`).join("")}</tbody></table>`:nolog}</div>
+  <h3>최고 기록 순위</h3><div class="box">${out.join("")||`<p class="sm mut" style="margin:0">기록 없음</p>`}</div>
+  <h3>Word Bomb에서 자주 놓친 단어</h3><div class="box">${missed.length?`<div class="admiss">${missed.map(m=>`<span>${esc(m.t)}${AD.lang==="all"?` <small class="mut">${m.lang}</small>`:""} <b>${m.n}</b></span>`).join("")}</div>`:`<p class="sm mut" style="margin:0">아직 없어요</p>`}</div>`}
+
+function adOps(d){
+  const db=d.db||{},mb=b=>(b/1048576).toFixed(1)+"MB",size=+db.size||0,tb=db.tables||{};
+  const tlist=Object.entries(tb).sort((a,b)=>b[1].bytes-a[1].bytes);
+  const p=d.push||{};
+  return `<h3>최근 오류 <span class="sm mut">${(d.errors||[]).length}건</span></h3><div class="box adtbl">${(d.errors||[]).length?`<table class="adlog"><tbody>${d.errors.map(e=>`<tr><td class="nw">${hm(e.at)}</td><td>${esc(maskEmail(e.email))}<br><small>${esc((e.v||{}).m||"")}</small></td><td class="n mut">${esc(e.ver||"")}</td></tr>`).join("")}</tbody></table>`:`<p class="sm mut" style="margin:0">오류 없음</p>`}</div>
+  <h3>앱 버전 <span class="sm mut">계정별 최근</span></h3><div class="box">${Object.keys(d.vers||{}).length?adHBars(Object.entries(d.vers).sort((a,b)=>b[1]-a[1])):nolog}<p class="sm mut adnote" style="margin-top:6px">지금 이 기기: ${VER}</p></div>
+  <h3>기기</h3><div class="box">${Object.keys(d.devices||{}).length?adHBars(Object.entries(d.devices).sort((a,b)=>b[1]-a[1])):nolog}</div>
+  <h3>알림</h3><div class="box"><div class="adkv"><span>구독 기기</span><b>${nf(p.subs)} <small>(켜짐 ${nf(p.enabled)})</small></b><span>알림 켠 계정</span><b>${nf(p.users)}</b><span>최근 7일 발송</span><b>${nf(p.sent7)}기기</b><span>알림 눌러 접속</span><b>${nf(p.opens)}회 <small>/ 전체 접속 ${nf(d.opens)}회 (${pct(+p.opens||0,+d.opens||0)})</small></b></div></div>
+  <h3>DB 용량 <span class="sm mut">무료 한도 500MB</span></h3><div class="box"><div class="adhr"><span class="adhn">전체</span><span class="adht"><i style="width:${Math.min(100,size/524288000*100)}%"></i></span><span class="adhv">${mb(size)} <small>${pct(size,524288000)}</small></span></div>
+    <div class="adtbl" style="margin-top:8px"><table><thead><tr><th>테이블</th><th class="n">행(추정)</th><th class="n">용량</th></tr></thead><tbody>${tlist.map(([n,x])=>`<tr><td>${esc(n)}</td><td class="n">${x.rows<0?"-":nf(x.rows)}</td><td class="n">${mb(x.bytes)}</td></tr>`).join("")}</tbody></table></div></div>
+  <h3>로그 보관</h3><div class="box"><div class="adkv"><span>원본 로그</span><b>${nf((d.events||{}).n)}건 <small>가장 오래된 것 ${(d.events||{}).oldest?dateOnly(d.events.oldest):"-"}</small></b><span>일별 요약</span><b>${nf((d.stats||{}).n)}행 <small>마지막 ${(d.stats||{}).last||"-"}</small></b><span>keepalive</span><b>${d.heartbeat?agoIso(d.heartbeat.at)+` <small>(누적 ${nf(d.heartbeat.n)}회)</small>`:"-"}</b></div>
+    <p class="sm mut adnote">원본은 90일 보관 후 지우고, 매일 00:10에 일별 요약으로 남겨요.</p></div>`}
+
+function adItemSheet(L,id){const it=itemTxt(L,id);if(!it)return toast("앱 데이터에 없는 항목이에요");
+  const rows=AD.cache["ct|"+AD.days+"|"+AD.self]||AD.cache[Object.keys(AD.cache).find(k=>k.startsWith("ct|"))]||[];const r=rows.find(x=>x[0]===L&&x[1]===id);
+  openSheet(`<h3>${esc(it.t)}</h3><p style="margin:4px 0 10px">${esc(it.k)}</p><p class="sm mut">${LANGS[L].name} · ${it.kind==="w"?"단어":"문장"} · Lv${it.l} · ${esc(CAT[it.c]||it.c||"")} · <span class="nw">${esc(id)}</span></p>
+  ${r?`<div class="adkv"><span>학습한 계정</span><b>${r[2]}</b><span>퀴즈</span><b>정답 ${r[3]} · 오답 ${r[4]} (${pct(+r[4],+r[3]+ +r[4])})</b><span>스킵</span><b>${r[5]}명</b><span>앎</span><b>${r[6]}명</b></div>`:""}
+  <div class="row" style="margin-top:14px"><button class="btn sm" data-act="sayt" data-l="${L}" data-t="${enc(it.t)}">${IC.spk}듣기</button><span class="sp"></span><button class="btn sm" data-act="closesheet">닫기</button></div>`)}
+const AD_ACT={
+  adtab:b=>{AD.tab=b.dataset.k;AD.uid=null;render();adLoad()},
+  addays:b=>{AD.days=+b.dataset.k;render();adLoad()},
+  adlang:b=>{AD.lang=b.dataset.k;render();adLoad()},
+  adself:()=>{AD.self=!AD.self;render();adLoad()},
+  adre:()=>{adLoad(true);if(AUTH)syncNow()},
+  adsort:b=>{AD.sort=b.dataset.k;renderAdmin()},
+  aduser:b=>{AD.uid=b.dataset.id;render();window.scrollTo(0,0);adLoad()},
+  adback:()=>{AD.uid=null;render();adLoad()},
+  aditem:b=>adItemSheet(b.dataset.l,b.dataset.id),
+};
+async function checkAdmin(){if(!SB_ON||!AUTH)return;const now=Date.now();if(S.sync.adminAt&&now-S.sync.adminAt<10*6e4)return;
+  try{const r=await sbFetch("/rest/v1/rpc/is_admin",{method:"POST",body:{}}),was=!!S.sync.admin;S.sync.admin=r===true;S.sync.adminAt=now;save();if(was!==S.sync.admin&&view==="prefs")setTimeout(render,0)}catch(e){if(e.status===404){S.sync.admin=false;S.sync.adminAt=now}}}
+
 /* ---------- 렌더 & 이벤트 ---------- */
-const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,game:vGame,dict:vDict,prefs:vPrefs};
+const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,game:vGame,dict:vDict,prefs:vPrefs,admin:vAdmin};
 function render(){
   document.querySelectorAll("#langSeg button").forEach(b=>b.classList.toggle("on",b.dataset.l===S.lang));
   document.querySelectorAll("#tabs a").forEach(a=>a.classList.toggle("on",a.dataset.v===view));
   gmStop();
+  if(view==="admin"&&!isAdm()){view="home";try{history.replaceState(null,"","#home")}catch(e){}}
+  if(view!==evView){evView=view;ev("view",S.lang,null,{v:view})}
   $("#view").innerHTML=VIEWS[view]();
+  if(view==="admin"){adScroll();if(!adData()&&!AD.busy&&!AD.err)adLoad()}
   if(view==="game")gmMount();
   if(view==="home"){const wk=$("#wk");if(wk){wk.scrollLeft=WKX==null?wk.scrollWidth:WKX;wk.addEventListener("scroll",()=>{WKX=wk.scrollLeft>=wk.scrollWidth-wk.clientWidth-2?null:wk.scrollLeft},{passive:true})}}
   if(view==="dict"){const on=document.querySelector("#dcats .chip.on");if(on&&!DS.wrap)try{on.scrollIntoView({inline:"center",block:"nearest"})}catch(e){}const so=document.querySelector("#dsrcs .chip.on");if(so)try{so.scrollIntoView({inline:"center",block:"nearest"})}catch(e){}renderDictList();const q=$("#dq");let t=0;q.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{DS.q=q.value;DS.open=null;DS.lim=200;renderDictList()},150)})}
@@ -1443,11 +1685,12 @@ window.addEventListener("hashchange",()=>{const v=location.hash.slice(1)||"home"
 document.getElementById("tabs").addEventListener("click",e=>{const a=e.target.closest("a");if(!a)return;e.preventDefault();go(a.dataset.v)});
 
 const ACT={
+  ...AD_ACT,
   go:b=>go(b.dataset.v),
   lang:b=>{if(S.lang===b.dataset.l)return;S.lang=b.dataset.l;save();try{if(hasTTS)speechSynthesis.cancel()}catch(e){}DS.open=null;if(DS.cat&&!CATS_OF[S.lang].includes(DS.cat))DS.cat="";if(DS.src&&!SRCS_OF[S.lang].includes(DS.src))DS.src="";render()},
   say:b=>{const it=ITEM[S.lang][b.dataset.id];if(it)speak(it.t)},
   sayt:b=>speak(decodeURIComponent(b.dataset.t),b.dataset.l||S.lang,!!b.dataset.slow),
-  star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;touch(L,id);save();b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
+  star:b=>{const L=S.lang,id=b.dataset.id;if(S.star[L][id])delete S.star[L][id];else S.star[L][id]=1;touch(L,id);save();ev("mark",L,id,{star:!!S.star[L][id]});b.classList.toggle("on",!!S.star[L][id]);b.innerHTML=S.star[L][id]?IC.star:IC.starO},
   catgo:b=>{const L=S.lang;S.scope[L]={...S.scope[L],cats:[b.dataset.c],type:"s",star:false};save();CS=null;go("cards")},
   scope:()=>{draft=null;scopeSheet()},
   sc:b=>{const c=b.dataset.c;if(!c)draft.cats=[];else{const i=draft.cats.indexOf(c);i<0?draft.cats.push(c):draft.cats.splice(i,1)}scopeSheet()},
@@ -1476,7 +1719,7 @@ const ACT={
   sphide:()=>{SP.hide=!SP.hide;render()},
   sphide1:b=>{b.outerHTML=`<div class="tg">${esc(ITEM[S.lang][SP.order[SP.i%SP.order.length]].t)}</div>`},
   spmove:b=>{try{rec&&rec.abort()}catch(e){}SP.i=(SP.i+(+b.dataset.d)+SP.order.length)%SP.order.length;SP.res=null;SP.err="";SP.state="idle";render();window.scrollTo(0,0)},
-  spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();touch(L,id);save();ACT.spmove({dataset:{d:1}})},
+  spself:b=>{const L=S.lang,id=SP.order[SP.i%SP.order.length];S.sp[L][id]=Math.max(S.sp[L][id]||0,+b.dataset.v);bump();ev("speak",L,id,{score:+b.dataset.v,self:true});touch(L,id);save();ACT.spmove({dataset:{d:1}})},
   dtype:b=>{DS.type=b.dataset.k;DS.open=null;DS.lim=200;render()},
   dcat:b=>{DS.cat=b.dataset.c;DS.open=null;DS.lim=200;render()},
   dstar:()=>{DS.star=!DS.star;render()},
@@ -1569,11 +1812,12 @@ document.addEventListener("keydown",e=>{
   if(view==="cards"&&CS&&CS.i<CS.q.length){if(e.key===" "||e.key==="Enter"){e.preventDefault();CS.flip?null:ACT.flip()}else if(CS.flip&&"1234".includes(e.key))grade(+e.key-1)}
   if(view==="quiz"&&QS.ph==="q"){if(QS.pick===null&&"1234".includes(e.key))qpick(+e.key-1);else if(QS.pick!==null&&(e.key==="Enter"||e.key===" ")){e.preventDefault();ACT.qnext()}}
 });
-document.addEventListener("visibilitychange",()=>{if(!document.hidden){const d=S.day.d;rollDay();if(d!==S.day.d){CS=null;render()}syncNow()}else if(AUTH&&dirtyCount())syncNow()});
+document.addEventListener("visibilitychange",()=>{if(document.hidden)evHidden=Date.now();else if(evHidden&&Date.now()-evHidden>30*6e4)evOpen("");if(!document.hidden){const d=S.day.d;rollDay();if(d!==S.day.d){CS=null;render()}syncNow()}else if(AUTH&&dirtyCount())syncNow()});
 setInterval(()=>{if(!document.hidden&&AUTH)syncNow()},5*60e3);
 
 const fromMail=readAuthHash();
 view=fromMail?"prefs":VIEWS[location.hash.slice(1)]?location.hash.slice(1):"home";
+{const q=new URLSearchParams(location.search);evOpen(q.get("src")==="push"?"push":"");if(q.has("src"))try{history.replaceState(null,"",location.pathname+location.hash)}catch(e){}}
 render();
 if(fromMail)finishMailLink(fromMail);else if(AUTH)syncNow();
 

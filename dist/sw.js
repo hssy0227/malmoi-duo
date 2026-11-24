@@ -1,5 +1,5 @@
 // 말모이 듀오 — 오프라인 캐시 (앱 파일이 바뀌면 빌드 버전이 바뀌어 새로 받음)
-const CACHE = "malmoi-fe122852";
+const CACHE = "malmoi-ad4e2ba7";
 const FILES = ["./", "./index.html", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/icon-180.png"];
 
 self.addEventListener("install", e => {
@@ -31,7 +31,7 @@ self.addEventListener("push", e => {
 });
 self.addEventListener("notificationclick", e => {
   e.notification.close();
-  const url = new URL((e.notification.data && e.notification.data.url) || "./#cards", self.registration.scope).href;
+  const u = new URL((e.notification.data && e.notification.data.url) || "./#cards", self.registration.scope); u.searchParams.set("src", "push"); const url = u.href;
   e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(cs => {
     for (const c of cs) { if ("focus" in c) { if ("navigate" in c) c.navigate(url).catch(() => {}); return c.focus(); } }
     return self.clients.openWindow(url);
