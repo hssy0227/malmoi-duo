@@ -1085,6 +1085,7 @@ const GM={stop:[],cache:null}, GNAMES=["Word Bomb","Word Craft","CrossWord"];
 const gOn=f=>GM.stop.push(f);
 const gT=(f,ms)=>{const id=setTimeout(f,ms);gOn(()=>clearTimeout(id));return id};
 function gmStop(){const a=GM.stop;GM.stop=[];a.forEach(f=>{try{f()}catch(e){}})}
+const gFocus=()=>{const c=gQ("#gbox"),t=gQ(".top");if(c&&t){c.style.minHeight=Math.max(300,innerHeight-t.offsetHeight-gQ("#tabs").offsetHeight-34)+"px";window.scrollTo({top:Math.max(0,c.getBoundingClientRect().top+scrollY-t.offsetHeight-8)})}};
 const gQ=(s,r)=>(r||document).querySelector(s);
 const gEl=h=>{const d=document.createElement("div");d.innerHTML=h.trim();return d.firstElementChild};
 const gRnd=n=>Math.floor(Math.random()*n);
@@ -1196,7 +1197,7 @@ function gBomb(box,D,L){
   const S2={combo:0,maxc:0,lives:MAXL,solved:0,t:0,run:false};
   let bombs=[],active=[],missed=[],recent=[],nextQ=0,nextD=.8,raf=0,last=0,fbT=0;
   const want=()=>S2.solved>=6?2:1;
-  const dur=()=>1.5*Math.max(2.6,7.4-S2.solved*.12-S2.t/70);
+  const dur=()=>Math.max(1.5,3-S2.t/60)*Math.max(2.6,7.4-S2.solved*.12-S2.t/70);
   const crack=()=>{const lost=MAXL-S2.lives;wall.querySelectorAll(".cr").forEach((c,i)=>c.classList.toggle("on",i<lost));
     if(lost>=5)[3,4,6].forEach(i=>{const m=wall.querySelector(`.mr[data-i="${i}"]`);if(m)m.setAttribute("opacity","0")})};
   const upd=()=>{gQ("#gbc",box).textContent=S2.combo;gQ("#gbl",box).textContent="❤️".repeat(S2.lives)+"🖤".repeat(MAXL-S2.lives)};
@@ -1332,7 +1333,7 @@ function gCross(box,D,L){
     "보기는 철자가 비슷해요. 이미 맞힌 단어와 <b>겹치는 칸의 글자</b>는 정해져 있어서, 보기도 그 글자에 맞춰 나와요 (뜻 없는 단어도 섞여 있어요)."+(L==="vi"?" 베트남어는 띄어쓰기 없이 한 칸에 한 글자(성조 포함)씩 들어가요.":""),
     "문제 번호는 앞 문제와 <b>이어진 칸</b> 순서예요. 맞히면 다음 문제로 자동 이동해요.",
     "시작 버튼을 누르면 타이머가 돌아요. <b>다 푸는 데 걸린 시간</b>이 짧을수록 좋아요. 최단 기록만 날짜와 함께 저장돼요."]});
-  gQ("#gcgo",box).onclick=()=>gCrossRun(box,D,L);
+  gQ("#gcgo",box).onclick=()=>gCrossRun(box,D,L);gFocus();
 }
 function gCrossRun(box,D,L){gmStop();
   let lay=null;for(let t=0;t<6;t++){const l=gGenCross(D.cross.a,10);if(!lay||l.placed.length>lay.placed.length)lay=l;if(l.placed.length>=9)break}
@@ -1405,6 +1406,7 @@ function gCrossRun(box,D,L){gmStop();
     gQ("#gcs",box).textContent=`맞힌 단어 ${doneCount()} / ${slots.length} · 오답 ${mistakes}회 · 격자의 칸을 눌러 문제를 고를 수 있어요`;
   }
   gQ("#gcnw",box).onclick=()=>gCrossRun(box,D,L);
+  gFocus();
   window.__x={slots,st,choose,select,sel:()=>sel,opts:k=>{genOpts(k);return st[k].opts.map(o=>o.c)},pattern:patternOf,rows:R,cols:C,mistakes:()=>mistakes,adj,lab};
   draw();
 }
