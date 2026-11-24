@@ -257,8 +257,8 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 .ghud b{color:var(--ink);font-size:15px;font-variant-numeric:tabular-nums}.glives{white-space:nowrap;font-size:12px}
 .gbtop{display:flex;gap:6px;height:66px;margin-bottom:8px}
 .gqb{flex:1;display:flex;gap:6px;min-width:0}
-.gstat{flex:none;width:96px;display:flex;flex-direction:column;justify-content:center;gap:1px;padding:4px 8px;border:1px solid var(--ln);border-radius:12px;background:var(--sf2);font-size:12px;line-height:1.3;color:var(--mut);white-space:nowrap}
-.gstat b{color:var(--ink);font-size:14px;font-variant-numeric:tabular-nums}.gstat .glives{font-size:10px;letter-spacing:-1px}
+.gstat{flex:none;width:132px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;text-align:center;padding:4px 8px;border:1px solid var(--ln);border-radius:12px;background:var(--sf2);font-size:12px;line-height:1.3;color:var(--mut);white-space:nowrap}
+.gst1{display:flex;gap:8px;justify-content:center;white-space:nowrap}.gstat b{color:var(--ink);font-size:14px;font-variant-numeric:tabular-nums}.gstat .glives{font-size:10px;letter-spacing:-1px}
 .gqc{flex:1;min-width:0;border:1.5px solid var(--am);background:var(--amb);border-radius:12px;padding:6px 8px;text-align:center;display:flex;flex-direction:column;justify-content:center;line-height:1.25;transition:background .2s}
 .gqc b{font-size:15px}.gqc small{font-size:10.5px;color:var(--mut);margin-top:2px}
 .gqc.hit{background:var(--okb);border-color:var(--ok)}
@@ -317,8 +317,8 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 .gpat{display:flex;gap:4px;justify-content:center;margin:2px 0 8px}
 .gpat span{width:24px;height:28px;border-bottom:2.5px solid var(--ln);text-align:center;font-weight:800;font-size:18px;line-height:26px;color:var(--am)}
 .gpat span.k{border-color:var(--am)}.gpat.up span,.gcwg.up .gcc span{text-transform:uppercase}
-.gblocks{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:6px auto 0;width:90%}
-.gblock{min-height:50px;border-radius:12px;border:1.5px solid var(--ln);background:var(--sf);font-weight:750;font-size:19px;letter-spacing:.4px;padding:4px;white-space:nowrap}
+.gblocks{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:6px auto 0;width:72%}
+.gblock{min-height:40px;border-radius:10px;border:1.5px solid var(--ln);background:var(--sf);font-weight:750;font-size:17px;letter-spacing:.4px;padding:4px;white-space:nowrap}
 .gblock.ok{background:var(--ok);border-color:var(--ok);color:#fff}
 .gblock.ng{background:var(--ngb);border-color:var(--ng);color:var(--ng);text-decoration:line-through}
 .gblock:disabled{cursor:default}
@@ -1179,7 +1179,7 @@ function gWallSVG(){
     cracks.map(d=>`<path class="cr" d="${d}" stroke="#2d241d" stroke-width="1.5" fill="none" stroke-linejoin="round"/>`).join("")+`</svg>`}
 function gBomb(box,D,L){
   const LN=[1,26,51,76],MAXL=5,WALL=20,BH=52,rec=gRec(L,"bomb"),pool=D.bomb.a,nm=LANGS[L].name;
-  box.innerHTML=`<div class="gbtop"><div class="gqb" id="gqb"></div><div class="gstat"><span>⏱ <b id="gbt">0</b>초</span><span>콤보 <b id="gbc">0</b></span><span id="gbl" class="glives"></span></div></div>
+  box.innerHTML=`<div class="gbtop"><div class="gqb" id="gqb"></div><div class="gstat"><div class="gst1"><span>⏱ <b id="gbt">0</b>초</span><span>콤보 <b id="gbc">0</b></span></div><span id="gbl" class="glives"></span></div></div>
   <div class="gfield" id="gbf"><div class="gfb" id="gbfb"></div>${gWallSVG()}
     <div class="gov gstartov" id="gbst">${gStart({icon:"💣",name:"Word Bomb",id:"gbgo",recLabel:"최고 기록",rec:rec&&`<b>${rec.sec}초</b> (${rec.date})`,scope:gScopeTxt(L,D.bomb,"단어"),rules:[
       `위에 <b>한글 뜻</b> 문제가 뜨고, 철자가 비슷한 ${nm} 단어들이 떨어져요.`,
