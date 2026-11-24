@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>말모이 듀오</title>
-<meta name="description" content="베트남어·영어 회화 문장 연습 — 카드, 퀴즈, 듣기, 말하기">
+<meta name="description" content="베트남어·영어 회화 문장 연습 — 카드, 퀴즈, 듣기, 말하기, 게임">
 <meta name="theme-color" content="#1c232c">
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icons/icon-192.png">
@@ -18,7 +18,7 @@
    IDEA: 손때 묻은 단어장 카드 — 앞면은 한국어, 뒷면은 원어와 단어 풀이
    PICTURE: 학습 화면 자체(카드·보기·마이크)가 주인공
    COLOUR and TYPE: 차콜 블루그레이 바탕 + 앰버 강조, 시스템 폰트만
-   LAYOUT: 상단 언어 전환, 하단 5탭, 한 열 모바일 우선(최대 720px) */
+   LAYOUT: 상단 언어 전환, 하단 6탭, 한 열 모바일 우선(최대 720px) */
 :root{--bg:#1c232c;--sf:#252e39;--sf2:#2e3946;--ln:#3b4757;--ink:#e9edf1;--mut:#9ba8b6;--am:#f2a43a;--am2:#d96c2b;--amk:#1c232c;--ok:#5cb88a;--ng:#e26b5a;--okb:rgba(92,184,138,.16);--ngb:rgba(226,107,90,.16);--amb:rgba(242,164,58,.14);color-scheme:dark}
 @media (prefers-color-scheme:light){:root:not([data-theme=dark]){--bg:#edf0f3;--sf:#ffffff;--sf2:#f3f5f7;--ln:#d5dce4;--ink:#1d252e;--mut:#5b6876;--am:#b8650f;--am2:#c25a1f;--amk:#ffffff;--ok:#1f8a57;--ng:#c4412f;--okb:rgba(31,138,87,.12);--ngb:rgba(196,65,47,.1);--amb:rgba(184,101,15,.1);color-scheme:light}}
 :root[data-theme=light]{--bg:#edf0f3;--sf:#ffffff;--sf2:#f3f5f7;--ln:#d5dce4;--ink:#1d252e;--mut:#5b6876;--am:#b8650f;--am2:#c25a1f;--amk:#ffffff;--ok:#1f8a57;--ng:#c4412f;--okb:rgba(31,138,87,.12);--ngb:rgba(196,65,47,.1);--amb:rgba(184,101,15,.1);color-scheme:light}
@@ -39,7 +39,7 @@ svg{width:20px;height:20px;fill:currentColor;flex:none}
 .ib{width:40px;height:40px;display:grid;place-items:center;border-radius:10px;color:var(--mut)}
 .ib:active{background:var(--sf)}
 main{max-width:720px;margin:0 auto;padding:14px max(14px,env(safe-area-inset-left)) calc(84px + env(safe-area-inset-bottom))}
-.tabs{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--sf);border-top:1px solid var(--ln);display:grid;grid-template-columns:repeat(5,minmax(0,1fr));padding:4px 4px calc(4px + env(safe-area-inset-bottom))}
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--sf);border-top:1px solid var(--ln);display:grid;grid-template-columns:repeat(6,minmax(0,1fr));padding:4px 4px calc(4px + env(safe-area-inset-bottom))}
 .tabs a{display:flex;flex-direction:column;align-items:center;gap:2px;padding:6px 0;color:var(--mut);text-decoration:none;font-size:11.5px;font-weight:600;white-space:nowrap;min-height:48px;border-radius:10px}
 .tabs a.on{color:var(--am)}
 .tabs svg{width:22px;height:22px}
@@ -239,6 +239,94 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
 .pop ul{margin:0;padding-left:1.1em;font-size:13px;line-height:1.5;display:grid;gap:4px}
 .pop kbd{font:inherit;font-weight:700;padding:0 5px;border-radius:5px;background:var(--sf2);border:1px solid var(--ln);white-space:nowrap}
 @media (min-width:560px){.cats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+/* 게임 */
+.gtabs{display:flex;gap:6px;margin-bottom:10px}
+.gtab{flex:1;height:38px;border-radius:999px;border:1px solid var(--ln);background:var(--sf);font-weight:650;font-size:14px;color:var(--mut);white-space:nowrap}
+.gtab.on{background:var(--am);border-color:var(--am);color:var(--amk)}
+.gcard{background:var(--sf);border:1px solid var(--ln);border-radius:14px;padding:12px}
+.gstart{padding:6px 2px;margin:auto;width:100%}
+.gtitle{font-size:26px;font-weight:800;color:var(--am);text-align:center}
+.grules{margin:10px 0 4px;padding-left:18px;font-size:13px;color:var(--mut);text-align:left}
+.grules li{margin-bottom:3px}.grules b{color:var(--ink)}
+.gscopeln{font-size:12px;color:var(--mut);text-align:center;margin-top:12px}.gwide{color:var(--am)}
+.grec{font-size:13px;color:var(--mut);text-align:center;margin-top:6px}.grec b{color:var(--am)}
+.grow{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:12px}
+.gstartrow{margin-top:26px}
+.btn.gbig{min-width:140px;min-height:50px;font-size:17px}
+.ghud{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:13px;color:var(--mut);margin-bottom:8px}
+.ghud b{color:var(--ink);font-size:15px;font-variant-numeric:tabular-nums}.glives{white-space:nowrap;font-size:12px}
+.gqb{display:flex;gap:6px;min-height:58px;margin-bottom:8px}
+.gqc{flex:1;min-width:0;border:1.5px solid var(--am);background:var(--amb);border-radius:12px;padding:6px 8px;text-align:center;display:flex;flex-direction:column;justify-content:center;line-height:1.25;transition:background .2s}
+.gqc b{font-size:15px}.gqc small{font-size:10.5px;color:var(--mut);margin-top:2px}
+.gqc.hit{background:var(--okb);border-color:var(--ok)}
+.gfield{position:relative;border-radius:12px;background:linear-gradient(transparent,var(--amb)),var(--sf2);overflow:hidden;border:1px solid var(--ln);touch-action:manipulation}
+.gwall{position:absolute;left:0;bottom:0;width:100%;height:20px;z-index:2;display:block}
+.gwall .cr{opacity:0;transition:opacity .25s}.gwall .cr.on{opacity:1}
+.gwall.hit{filter:brightness(.75) sepia(1) hue-rotate(-30deg) saturate(3)}
+.gbomb{position:absolute;top:0;width:24%;min-height:52px;border-radius:22px 22px 12px 12px;background:var(--ink);color:var(--bg);font-weight:700;font-size:16px;line-height:1.15;display:flex;align-items:center;justify-content:center;text-align:center;padding:4px;box-shadow:0 3px 0 rgba(0,0,0,.25);will-change:transform;touch-action:manipulation;word-break:keep-all;overflow-wrap:normal}
+.gbomb.lg{font-size:14px}
+.gbomb::before{content:"";position:absolute;top:-7px;left:50%;width:2px;height:8px;background:var(--am)}
+.gbomb.boom{background:var(--ok);color:#fff;animation:gbm .3s forwards}
+.gbomb.bad{background:var(--ng);color:#fff;animation:gbm .3s forwards}
+@keyframes gbm{to{opacity:0;transform:scale(1.4)}}
+.gov{position:absolute;inset:0;background:var(--sf);overflow-y:auto;padding:14px;z-index:4}
+.gstartov{display:flex}
+.gfb{position:absolute;left:0;right:0;top:10px;text-align:center;font-weight:800;font-size:16px;pointer-events:none;opacity:0;transition:opacity .15s;z-index:3;padding:0 8px}
+.gfb.on{opacity:1}.gfb.ok{color:var(--ok)}.gfb.ng{color:var(--ng)}
+.gshake{animation:gsh .3s}
+@keyframes gsh{20%{transform:translateX(-6px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(4px)}}
+.gres{padding:6px 2px}
+.gbignum{font-size:32px;font-weight:800;color:var(--am);text-align:center}
+.gc{text-align:center}.gmut{color:var(--mut);font-size:13px}
+.gres h4{margin:14px 0 6px;font-size:13px}
+.gchipx{display:inline-block;padding:3px 9px;border-radius:99px;background:var(--amb);color:var(--am);font-size:12px;font-weight:650;margin:2px 3px 2px 0}
+.gchipx.on{background:var(--am);color:var(--amk)}
+.glst{list-style:none;margin:0;padding:0}
+.glst li{padding:9px 10px;border:1px solid var(--ln);border-radius:10px;margin-bottom:6px;font-size:13.5px;line-height:1.45}
+.glst li b{font-size:14.5px}
+.gli{display:flex;align-items:center;gap:8px;justify-content:space-between}
+.gsm{display:block;color:var(--mut);font-size:12px}
+.gmine{color:var(--ng)}.gans{color:var(--ok);font-weight:650}
+.gsay{flex:none;width:34px;height:34px;display:grid;place-items:center;border-radius:9px;color:var(--mut)}.gsay svg{width:18px;height:18px}
+.gbar{height:8px;border-radius:99px;background:var(--ln);overflow:hidden;margin-bottom:12px}
+.gbar i{display:block;height:100%;width:100%;background:var(--am)}.gbar i.warn{background:var(--ng)}
+.gtimer b{font-variant-numeric:tabular-nums}
+.gprompt{text-align:center;font-size:18px;font-weight:700;margin:6px 0 10px;min-height:30px}
+.gprompt small{display:block;font-size:12px;font-weight:500;color:var(--mut)}
+.gslot{min-height:56px;border:1.5px dashed var(--ln);border-radius:12px;padding:6px;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:10px 0}
+.gslot.good{border-color:var(--ok);background:var(--okb)}.gslot.bad{border-color:var(--ng);background:var(--ngb)}
+.gchips{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;min-height:44px}
+.gchip{min-height:42px;padding:0 13px;border-radius:10px;border:1.5px solid var(--ln);background:var(--sf2);font-weight:650;font-size:15px;white-space:nowrap}
+.gchip.used{opacity:.22}
+.gslot .gchip{background:var(--amb);border-color:var(--am)}
+.gmsg{text-align:center;font-size:14px;margin-top:10px;min-height:22px}.gmsg.ok{color:var(--ok)}.gmsg.ng{color:var(--ng)}
+.gtbar{display:flex;justify-content:space-between;font-size:13px;color:var(--mut);margin:0 2px 8px}.gtbar b{color:var(--ink);font-variant-numeric:tabular-nums}
+.gqp{border:1.5px solid var(--am);background:var(--amb);border-radius:14px;padding:10px 12px 12px;margin-bottom:12px}
+.gqh{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:13px;color:var(--mut)}
+.gqh b{color:var(--ink);font-size:15px}
+.gnv{width:38px;height:34px;border-radius:8px;border:1px solid var(--ln);background:var(--sf);font-size:13px}
+.gseg{display:flex;gap:4px;justify-content:center;margin:8px 0 0}
+.gseg button{flex:1;height:34px;border-radius:8px;border:1px solid var(--ln);background:var(--sf);font-size:12.5px;font-weight:600;color:var(--mut)}
+.gseg button.on{background:var(--am);border-color:var(--am);color:var(--amk)}
+.gqt{font-size:20px;font-weight:750;line-height:1.35;text-align:center;margin:8px 0 6px;min-height:30px}
+.gqt small{display:block;font-size:13px;font-weight:500;color:var(--mut);margin-top:3px}
+.gqt .gexs{font-size:16px;font-weight:650}
+.gpat{display:flex;gap:4px;justify-content:center;margin:2px 0 8px}
+.gpat span{width:24px;height:28px;border-bottom:2.5px solid var(--ln);text-align:center;font-weight:800;font-size:18px;line-height:26px;color:var(--am)}
+.gpat span.k{border-color:var(--am)}.gpat.up span,.gcwg.up .gcc span{text-transform:uppercase}
+.gblocks{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:6px auto 0;width:90%}
+.gblock{min-height:50px;border-radius:12px;border:1.5px solid var(--ln);background:var(--sf);font-weight:750;font-size:19px;letter-spacing:.4px;padding:4px;white-space:nowrap}
+.gblock.ok{background:var(--ok);border-color:var(--ok);color:#fff}
+.gblock.ng{background:var(--ngb);border-color:var(--ng);color:var(--ng);text-decoration:line-through}
+.gblock:disabled{cursor:default}
+.gcw{overflow-x:auto;padding:2px}
+.gcwg{display:grid;gap:2px;margin:0 auto;width:max-content}
+.gcc{position:relative;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;border-radius:4px}
+.gcc.in{background:var(--sf2);border:1.5px solid var(--ln);cursor:pointer}
+.gcc.hl{background:var(--amb);border-color:var(--am)}
+.gcc.ok{background:var(--okb);border-color:var(--ok);color:var(--ok)}
+.gcc i{position:absolute;top:0;left:2px;font-size:7.5px;font-style:normal;font-weight:700;color:var(--mut)}
+.gtip{font-size:11.5px;color:var(--mut);text-align:center;margin-top:8px}
 </style>
 </head>
 <body>
@@ -257,6 +345,7 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
   <a href="#cards" data-v="cards"><svg viewBox="0 0 24 24"><rect x="3.5" y="6.5" width="13" height="14" rx="2.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 3.5h10a2.5 2.5 0 0 1 2.5 2.5v11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>카드</a>
   <a href="#speak" data-v="speak"><svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>말하기</a>
   <a href="#quiz" data-v="quiz"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m8 12.3 2.6 2.6L16 9.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>퀴즈</a>
+  <a href="#game" data-v="game"><svg viewBox="0 0 24 24"><rect x="2.5" y="7" width="19" height="11" rx="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M7.5 10.5v4M5.5 12.5h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="15.5" cy="11.3" r="1.2"/><circle cx="17.8" cy="13.7" r="1.2"/></svg>게임</a>
   <a href="#dict" data-v="dict"><svg viewBox="0 0 24 24"><path d="M5 4.5h10.5A3.5 3.5 0 0 1 19 8v11.5H8.5A3.5 3.5 0 0 1 5 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M5 16a3.5 3.5 0 0 1 3.5-3.5H19M9 8.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>사전</a>
 </nav>
 <div id="toast"></div>
@@ -267,6 +356,7 @@ textarea{width:100%;min-height:110px;border-radius:10px;border:1px solid var(--l
     <dt>카드</dt><dd>한국어를 보고 소리 내 말한 뒤 탭 → 정답·발음 확인 → <kbd>다시</kbd><kbd>어려움</kbd><kbd>알맞음</kbd><kbd>쉬움</kbd> 중 선택. <span class="mut">버튼 아래 숫자가 다음 복습 시점</span>. 이미 아는 건 <kbd>알아요</kbd>, 필요 없는 건 <kbd>스킵</kbd> — 카드에서 빠져요</dd>
     <dt>퀴즈</dt><dd>뜻·표현·듣기·빈칸 4가지 + 랜덤. 틀리면 한 번 더 고를 기회. 중간에 <kbd>나가기</kbd>로 저장(이어 풀기) 또는 기록 지우고 나가기. <span class="mut">틀린 문제는 카드 복습에 바로 추가</span></dd>
     <dt>말하기</dt><dd>마이크를 누르고 말하기. 초록은 맞음, 빨강은 놓침. <span class="mut">베트남어는 '성조 빼고' 점수만 높으면 성조 연습이 필요</span></dd>
+    <dt>게임</dt><dd>Word Bomb(떨어지는 단어 맞히기)·Word Craft(문장 조립)·CrossWord(낱말퍼즐). 모드의 상황·레벨에서 출제하고, 기록은 언어별 최고 기록만 날짜와 함께 남아요 <span class="mut">(로그인하면 계정에도 저장)</span></dd>
     <dt>사전</dt><dd>상황 탭은 옆으로 밀거나 <kbd>펼치기</kbd>. 성조 없이 검색 가능 <span class="mut">(bao nhieu)</span>. ★ 즐겨찾기. 상태(새것·읽음·학습 중·앎·스킵)로 거르고, 항목을 열어 상태를 바꿔요. 오른쪽 위 약자는 출처 — <kbd>출처</kbd> 범례를 누르면 그 출처만 보이고 어떻게 만든 건지 설명이 나와요</dd>
     <dt>모드</dt><dd>카드·말하기·퀴즈 위의 <kbd>모드</kbd>로 상황·레벨·문장/단어·★만 고르기. <span class="mut">지금 모드는 블록으로 표시</span></dd>
     <dt>계정</dt><dd>설정 → 계정에서 이메일 + PIN 6자리로 로그인하면 휴대폰·PC 어디서든 진도가 이어져요</dd>
@@ -307,7 +397,7 @@ const DEF = ()=>({lang:"vi",
   scope:{vi:{cats:[],lv:[1,2,3,4,5],type:"s",star:false},en:{cats:[],lv:[1,2,3,4,5],type:"s",star:false}},
   p:{vi:{},en:{}}, star:{vi:{},en:{}}, q:{vi:{},en:{}}, sp:{vi:{},en:{}},
   st:{vi:{},en:{}}, seen:{vi:{},en:{}}, mod:{vi:{},en:{}}, dirty:{vi:{},en:{}}, sync:{}, qsave:{},
-  day:{d:"",n:{vi:0,en:0}}, hist:{}});
+  day:{d:"",n:{vi:0,en:0}}, hist:{}, game:{vi:{},en:{}}, gmTab:0});
 function merge(a,b){for(const k in b){if(b[k]&&typeof b[k]==="object"&&!Array.isArray(b[k])&&a[k]&&typeof a[k]==="object"&&!Array.isArray(a[k]))merge(a[k],b[k]);else a[k]=b[k]}return a}
 let S = DEF();
 try{const raw=localStorage.getItem(LS); if(raw) S=merge(DEF(),JSON.parse(raw));}catch(e){}
@@ -885,13 +975,17 @@ function applyRow(r){const L=r.lang,id=r.item_id;
   if(r.speak_best!=null)S.sp[L][id]=r.speak_best;else delete S.sp[L][id];
   if(r.seen_at)S.seen[L][id]=r.seen_at;else delete S.seen[L][id];
   S.mod[L][id]=r.updated_at;delete S.dirty[L][id];}
-const stateBlob=()=>({set:S.set,scope:S.scope,hist:S.hist,day:S.day,seenHelp:S.seenHelp||0});
+const stateBlob=()=>({set:S.set,scope:S.scope,hist:S.hist,day:S.day,seenHelp:S.seenHelp||0,game:S.game});
 function applyState(d){if(!d)return;
   if(d.set)S.set=merge(DEF().set,d.set);
   if(d.scope)S.scope=merge(DEF().scope,d.scope);
   if(d.hist)for(const k in d.hist)S.hist[k]=Math.max(S.hist[k]||0,d.hist[k]);
   if(d.day&&d.day.d===S.day.d)for(const L of ["vi","en"])S.day.n[L]=Math.max(S.day.n[L]||0,(d.day.n||{})[L]||0);
-  if(d.seenHelp)S.seenHelp=1;}
+  if(d.seenHelp)S.seenHelp=1;
+  if(d.game)for(const L of ["vi","en"]){const a=S.game[L]=S.game[L]||{},b=d.game[L]||{};
+    if(b.bomb&&(!a.bomb||b.bomb.sec>a.bomb.sec))a.bomb=b.bomb;
+    if(b.craft&&(!a.craft||b.craft.n>a.craft.n))a.craft=b.craft;
+    if(b.cross&&(!a.cross||b.cross.ms<a.cross.ms))a.cross=b.cross;}}
 function markAllDirty(now){for(const L of ["vi","en"]){
   const ids=new Set([...Object.keys(S.p[L]),...Object.keys(S.q[L]),...Object.keys(S.sp[L]),...Object.keys(S.star[L]),...Object.keys(S.st[L]),...Object.keys(S.seen[L])]);
   for(const id of ids){S.mod[L][id]=now?Date.now():(S.mod[L][id]||(S.p[L][id]&&S.p[L][id].s)||1);S.dirty[L][id]=1}}}
@@ -930,7 +1024,7 @@ async function syncNow(){
   }catch(e){SYNC.err=e.message||"동기화하지 못했어요"}
   finally{
     SYNC.busy=false;save();
-    if(changed&&view!=="cards"&&view!=="prefs"){CS=null;SP=null;render()}else updAcc();
+    if(changed&&view!=="cards"&&view!=="prefs"&&view!=="game"){CS=null;SP=null;render()}else updAcc();
     if(SYNC.again){SYNC.again=false;setTimeout(syncNow,500)}
   }
 }
@@ -983,12 +1077,349 @@ async function finishMailLink(o){
   syncNow();
 }
 
+/* ---------- 게임: Word Bomb · Word Craft · CrossWord (영어·베트남어 공통) ---------- */
+const GM={stop:[],cache:null}, GNAMES=["Word Bomb","Word Craft","CrossWord"];
+const gOn=f=>GM.stop.push(f);
+const gT=(f,ms)=>{const id=setTimeout(f,ms);gOn(()=>clearTimeout(id));return id};
+function gmStop(){const a=GM.stop;GM.stop=[];a.forEach(f=>{try{f()}catch(e){}})}
+const gQ=(s,r)=>(r||document).querySelector(s);
+const gEl=h=>{const d=document.createElement("div");d.innerHTML=h.trim();return d.firstElementChild};
+const gRnd=n=>Math.floor(Math.random()*n);
+const gShuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=gRnd(i+1);[a[i],a[j]]=[a[j],a[i]]}return a};
+const gLev=(a,b)=>{a=Array.from(a);b=Array.from(b);const m=a.length,n=b.length;let p=Array.from({length:n+1},(_,j)=>j);
+  for(let i=1;i<=m;i++){const c=[i];for(let j=1;j<=n;j++)c[j]=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));p=c}return p[n]};
+const gDate=()=>{const d=new Date();return (d.getMonth()+1)+"/"+d.getDate()+"("+"일월화수목금토"[d.getDay()]+")"};
+const gMMSS=ms=>{const t=Math.round(ms/1000);return Math.floor(t/60)+":"+String(t%60).padStart(2,"0")};
+const gRec=(L,k)=>(S.game[L]||{})[k]||null;
+function gSetRec(L,k,v){S.game[L]=S.game[L]||{};S.game[L][k]=v;save();schedSync()}
+const gSay=(L,t)=>`<button class="gsay" data-act="sayt" data-l="${L}" data-t="${enc(t)}" aria-label="듣기">${IC.spk}</button>`;
+/* 철자 비슷한 글자: 베트남어는 성조·모음 모자(â/ă/ê/ô/ơ/ư) 바꾸기 위주, 영어는 비슷한 자음·모음 */
+const VV=["aàáảãạ","ăằắẳẵặ","âầấẩẫậ","eèéẻẽẹ","êềếểễệ","iìíỉĩị","oòóỏõọ","ôồốổỗộ","ơờớởỡợ","uùúủũụ","ưừứửữự","yỳýỷỹỵ"],VG=[[0,1,2],[3,4],[5],[6,7,8],[9,10],[11]];
+const VC={d:"đ",đ:"d",s:"x",x:"s",n:"m",m:"n",l:"n",c:"t",t:"c",g:"k",k:"g",h:"k",b:"v",v:"b",p:"b",r:"d"};
+const EG=["aeiou","ckq","sz","mn","bpdt","gj","lr","fv","hwy"];
+function gSimCh(L,ch){
+  if(L==="vi"){const r=VV.findIndex(x=>x.includes(ch));
+    if(r>=0){const t=VV[r].indexOf(ch),grp=VG.find(g=>g.includes(r));
+      if(grp.length<2||Math.random()<.65){let u=gRnd(5);if(u>=t)u++;return VV[r][u]}
+      const o=grp.filter(x=>x!==r);return VV[o[gRnd(o.length)]][t]}
+    return VC[ch]||ch}
+  const g=EG.find(x=>x.includes(ch));if(!g)return ch;const o=g.replace(ch,"");return o[gRnd(o.length)]}
+/* 베트남어 가짜 단어: 음절마다 성조 표시는 1개만 — 성조 바꾸기 / 모음 모자 바꾸기 / (가끔) 자음 바꾸기 */
+const GBAD=new Set(["đĩ","địt","lồn","buồi","cặc","đụ","đéo","đù","chịch","cứt","đái","dái","fuck","shit","cunt","dick","cock","piss","slut","whore","bitch","fag","tits","porn","rape","anal","nazi"]);
+const gBad=s=>s.split(" ").some(x=>GBAD.has(x));
+const gVPos=ch=>{const r=VV.findIndex(x=>x.includes(ch));return r<0?null:[r,VV[r].indexOf(ch)]};
+function gMutVi(arr,free,t){const w=arr.slice(),seg=[];let k=0;for(const p of t.split(" ")){const n=Array.from(p).length;seg.push([k,k+n]);k+=n}
+  const muts=[];
+  for(const [a,b] of seg){const vs=[];for(let i=a;i<b;i++){const v=gVPos(w[i]);if(v)vs.push([i,...v])}if(!vs.length)continue;
+    const fin=!gVPos(w[b-1]),tail=w.slice(a,b).join(""),stop=/(p|t|c|ch)$/.test(tail),tones=stop?[2,5]:[0,1,2,3,4,5];
+    const toned=vs.find(v=>v[2]>0);
+    if(toned){if(free.includes(toned[0]))tones.forEach(u=>{if(u!==toned[2]&&(u||!stop))muts.push([toned[0],VV[toned[1]][u],3])})}
+    else{const hat=vs.filter(v=>[1,2,4,7,8,10].includes(v[1])),m=hat.length?hat[hat.length-1]:vs.length===1||fin?vs[vs.length-1]:vs[0];
+      if(free.includes(m[0]))tones.forEach(u=>{if(u)muts.push([m[0],VV[m[1]][u],3])})}
+    if(vs.length===1){const v=vs[0];if(free.includes(v[0])){const grp=VG.find(g=>g.includes(v[1]));grp.filter(r=>r!==v[1]).forEach(r=>muts.push([v[0],VV[r][v[2]],2]))}}
+    if(free.includes(a)&&VC[w[a]]&&gVPos(w[a+1]||"")&&!(w[a]==="g"&&w[a+1]==="i"))muts.push([a,VC[w[a]],.8])
+    const VF={n:"m",m:"n",t:"c",c:"t",p:"t"},z=b-1;if(z>a&&free.includes(z)&&VF[w[z]]&&gVPos(w[z-1]))muts.push([z,VF[w[z]],.5])}
+  for(let g=0;g<12&&muts.length;g++){const tot=muts.reduce((s,m)=>s+m[2],0);let r=Math.random()*tot;const i=muts.findIndex(x=>(r-=x[2])<0),m=muts[i<0?0:i];
+    const c=w.slice();c[m[0]]=m[1];const o=c.join("");if(!gBad(gSpace(o,t)))return o;muts.splice(i<0?0:i,1)}
+  return w.join("")}
+function gMut(L,arr,free,t){if(L==="vi")return gMutVi(arr,free,t||arr.join(""));const w=arr.slice();if(!free.length)return w.join("");
+  let pos=free;
+  const cnt=1+(pos.length>3&&Math.random()<.35?1:0);
+  for(let j=0;j<cnt;j++){const i=pos[gRnd(pos.length)];w[i]=gSimCh(L,w[i])}
+  return gBad(w.join(""))?arr.join(""):w.join("")}
+const gSpace=(c,t)=>{const a=Array.from(c);let i=0;return Array.from(t).map(ch=>ch===" "?" ":a[i++]).join("")};
+/* 베트남어 문장 조각: 풀이에 있는 여러 음절 단어(cảm ơn 등)는 한 조각으로 */
+function gChunks(L,s){const toks=s.t.split(/\s+/).filter(Boolean);if(L!=="vi")return toks;
+  const terms=s.w.map(x=>x[0].toLowerCase().split(" ")).filter(a=>a.length>1).sort((a,b)=>b.length-a.length);
+  const low=toks.map(t=>t.toLowerCase().replace(/[.,!?;:"“”…()]/g,""));const out=[];
+  for(let i=0;i<toks.length;){let n=1;for(const tm of terms)if(tm.length<=toks.length-i&&tm.every((x,j)=>low[i+j]===x)){n=tm.length;break}
+    out.push(toks.slice(i,i+n).join(" "));i+=n}
+  return out}
+/* 출제 데이터: 지금 모드(상황·레벨·★)를 따르고, 너무 적으면 전체에서 */
+function gData(L){
+  const sc=S.scope[L],key=L+"|"+JSON.stringify([sc.lv,sc.cats,sc.star]);
+  if(GM.cache&&GM.cache.key===key)return GM.cache;
+  const inSc=it=>(!sc.lv.length||sc.lv.includes(it.l))&&(!sc.cats.length||(it.kind==="w"?[...it.cs].some(c=>sc.cats.includes(c)):sc.cats.includes(it.c)))&&(!sc.star||S.star[L][it.id]);
+  const live=it=>S.st[L][it.id]!=="x";
+  const all=WORD[L].filter(live).map(w=>{const t=w.t.normalize("NFC"),c=t.replace(/ /g,""),ms=w.k.split(" · ").map(x=>x.trim()).filter(Boolean);
+    return {id:w.id,t,c,a:Array.from(c),ms,ko:ms.slice(0,2).join(" · "),ex:w.ex,syl:t.split(" ").length,src:w}});
+  const B=L==="en"?x=>/^[a-z]{3,12}$/.test(x.t):x=>x.t===x.t.toLowerCase()&&/^\p{L}+( \p{L}+)?$/u.test(x.t)&&x.t.length<=12&&x.a.length>=2;
+  const X=L==="en"?x=>/^[a-z]{3,9}$/.test(x.t):x=>B(x)&&x.a.length<=8;
+  const pick=(f,min)=>{const a=all.filter(x=>f(x)&&inSc(x.src));return a.length>=min?{a,wide:false}:{a:all.filter(f),wide:true}};
+  const bomb=pick(B,30),cross=pick(X,40),sc2=new Set();cross.a=cross.a.filter(x=>!sc2.has(x.c)&&sc2.add(x.c));
+  const sents=SENT[L].filter(live).map(s=>{const ch=gChunks(L,s);return {s,ch,n:ch.length}}).filter(x=>x.n>=3&&x.n<=10);
+  const sIn=sents.filter(x=>inSc(x.s)),craft=sIn.length>=15?{a:sIn,wide:false}:{a:sents,wide:true};
+  const allB=all.filter(B);
+  GM.cache={key,L,bomb,cross,craft,allB,byT:new Map(all.map(x=>[x.t,x])),allC:new Set(all.map(x=>x.c)),sim:new Map()};
+  return GM.cache}
+const gOver=(a,b)=>a.ms.some(m=>b.ms.includes(m));
+/* 철자 비슷한 단어(실제 단어 + 베트남어는 성조만 바꾼 가짜 단어) */
+function gSim(D,x){if(D.sim.has(x.t))return D.sim.get(x.t);
+  const L=D.L,n=x.a.length,lim=Math.max(2,Math.ceil(n/2));
+  const real=D.allB.filter(y=>y.t!==x.t&&Math.abs(y.a.length-n)<=2&&!gOver(x,y)).map(y=>[gLev(x.c,y.c)+Math.random()*.3,y.t]).filter(z=>z[0]<=lim+.3).sort((a,b)=>a[0]-b[0]).slice(0,6).map(z=>z[1]);
+  const out=real.slice(),need=L==="vi"?Math.max(2,4-out.length):Math.max(0,4-out.length);
+  for(let g=0,k=0;k<need&&g<40;g++){const f=gSpace(gMut(L,x.a,x.a.map((_,i)=>i),x.t),x.t);if(f!==x.t&&!out.includes(f)&&!D.byT.has(f)){out.push(f);k++}}
+  D.sim.set(x.t,out);return out}
+function gStart(o){return `<div class="gstart"><div class="gtitle">${o.icon} ${o.name}</div><ul class="grules">${o.rules.map(r=>`<li>${r}</li>`).join("")}</ul>
+  <div class="gscopeln">출제: ${o.scope}</div><div class="grec">🏆 ${o.recLabel} ${o.rec||"아직 없어요"}</div>
+  <div class="grow gstartrow"><button class="btn pri gbig" id="${o.id}">시작</button></div></div>`}
+const gScopeTxt=(L,p,unit)=>`${scopeChips(L).filter((_,i)=>i!==2).join(" · ")} · ${unit} ${p.a.length.toLocaleString()}개${p.wide?" <span class='gwide'>(범위가 좁아 전체에서 출제)</span>":""}`;
+
+/* ═════════ 1. Word Bomb ═════════ */
+function gWallSVG(){
+  const mer=Array.from({length:10},(_,i)=>`<rect class="mr" data-i="${i}" x="${i*36+1}" y="0" width="25" height="8" fill="#a08c77" stroke="#6f5f50" stroke-width=".8"/>`).join("");
+  const bricks=`<path d="M0 13.5H360M0 17.5H360" stroke="#6f5f50" stroke-width=".7" fill="none"/>`+
+    Array.from({length:18},(_,i)=>`<path d="M${i*20+(i%2?10:0)} 8V13.5M${i*20+(i%2?0:10)} 13.5V17.5M${i*20+(i%2?10:0)} 17.5V20" stroke="#6f5f50" stroke-width=".7" fill="none"/>`).join("");
+  const cracks=["M40 8 L44 12 L40 15 L45 20","M300 8 L296 11 L300 14 L295 20","M150 8 L154 11 L150 14 L156 17 L152 20",
+    "M215 8 L211 12 L216 15 L212 20 M216 15 L222 18","M95 8 L99 11 L94 14 L100 17 L96 20 M250 8 L254 12 L249 16 L254 20"];
+  return `<svg class="gwall" viewBox="0 0 360 20" preserveAspectRatio="none" aria-hidden="true">${mer}<rect x="0" y="8" width="360" height="12" fill="#8d7b68"/>${bricks}`+
+    cracks.map(d=>`<path class="cr" d="${d}" stroke="#2d241d" stroke-width="1.5" fill="none" stroke-linejoin="round"/>`).join("")+`</svg>`}
+function gBomb(box,D,L){
+  const LN=[1,26,51,76],MAXL=5,WALL=20,BH=52,rec=gRec(L,"bomb"),pool=D.bomb.a,nm=LANGS[L].name;
+  box.innerHTML=`<div class="ghud"><span>버틴 시간 <b id="gbt">0</b>초</span><span>콤보 <b id="gbc">0</b></span><span id="gbl" class="glives"></span></div>
+  <div class="gqb" id="gqb"></div>
+  <div class="gfield" id="gbf"><div class="gfb" id="gbfb"></div>${gWallSVG()}
+    <div class="gov gstartov" id="gbst">${gStart({icon:"💣",name:"Word Bomb",id:"gbgo",recLabel:"최고 기록",rec:rec&&`<b>${rec.sec}초</b> (${rec.date})`,scope:gScopeTxt(L,D.bomb,"단어"),rules:[
+      `위에 <b>한글 뜻</b> 문제가 뜨고, 철자가 비슷한 ${nm} 단어들이 떨어져요.`,
+      L==="vi"?"성조나 모음 모양(â·ơ·ư 등)만 다른 <b>가짜 단어</b>도 섞여 떨어져요.":"affect·effect처럼 <b>한두 글자만 다른 단어</b>가 함께 떨어져요.",
+      "뜻에 맞는 단어를 성벽에 닿기 전에 터치! (문제는 처음 1개, 6문제를 맞히면 최대 2개)",
+      "<b>정답 단어</b>는 성벽에 가까워질수록 <b>진해지고</b>, <b>오답 단어</b>는 <b>흐려져서</b> 사라져요.",
+      "정답 단어가 성벽에 닿으면 ❤️ 1개 감소, 성벽에 금이 가요 (총 5개). 점점 빨라져요.",
+      "<b>몇 초까지 버티는지</b>가 기록이에요."]})}</div></div>`;
+  const f=gQ("#gbf",box),wall=gQ(".gwall",box);
+  const H=Math.round(Math.max(340,Math.min(640,innerHeight-f.getBoundingClientRect().top-86)));f.style.height=H+"px";
+  const S2={combo:0,maxc:0,lives:MAXL,solved:0,t:0,run:false};
+  let bombs=[],active=[],missed=[],recent=[],nextQ=0,nextD=.8,raf=0,last=0,fbT=0;
+  const want=()=>S2.solved>=6?2:1;
+  const dur=()=>Math.max(2.6,7.4-S2.solved*.12-S2.t/70);
+  const crack=()=>{const lost=MAXL-S2.lives;wall.querySelectorAll(".cr").forEach((c,i)=>c.classList.toggle("on",i<lost));
+    if(lost>=5)[3,4,6].forEach(i=>{const m=wall.querySelector(`.mr[data-i="${i}"]`);if(m)m.setAttribute("opacity","0")})};
+  const upd=()=>{gQ("#gbc",box).textContent=S2.combo;gQ("#gbl",box).textContent="❤️".repeat(S2.lives)+"🖤".repeat(MAXL-S2.lives)};
+  const say=(t,c)=>{const e=gQ("#gbfb",box);e.textContent=t;e.className="gfb on "+c;clearTimeout(fbT);fbT=setTimeout(()=>e.classList.remove("on"),800)};gOn(()=>clearTimeout(fbT));
+  const hintOf=q=>L==="en"?`${q.a.length}글자 · ${q.t[0]}…`:`${q.syl}음절 · ${q.t.split(" ")[0][0]}…`;
+  const drawQ=()=>{gQ("#gqb",box).innerHTML=active.map(q=>`<div class="gqc ${q.cls||""}"><b>${esc(q.ko)}</b><small>${hintOf(q)}</small></div>`).join("")||`<div class="gqc"><small>다음 문제…</small></div>`};
+  const spawn=w=>{const free=[0,1,2,3].filter(l=>!bombs.some(b=>b.lane===l&&b.y<95));if(!free.length)return false;
+    const lane=free[gRnd(free.length)],e=gEl(`<button class="gbomb${w.length>9?" lg":""}" style="left:${LN[lane]}%">${esc(w)}</button>`);f.appendChild(e);
+    const b={w,lane,y:-56,v:(H+60)/dur(),e,dead:false};e.onpointerdown=ev=>{ev.preventDefault();tap(b)};bombs.push(b);return true};
+  const onScreen=()=>new Set(bombs.map(b=>b.w));
+  const newQ=()=>{const sc=onScreen(),ok=x=>!sc.has(x.t)&&!recent.includes(x.t)&&!active.some(q=>q.t===x.t||gOver(q,x));
+    let c=null;if(active.length&&Math.random()<.35){const nb=gSim(D,active[0]).map(t=>D.byT.get(t)).filter(x=>x&&ok(x));if(nb.length)c=nb}
+    if(!c){c=[];for(let g=0;g<60&&c.length<8;g++){const x=pool[gRnd(pool.length)];if(ok(x)&&!c.includes(x))c.push(x)}}
+    if(!c.length)return;const x=c[gRnd(c.length)];recent.push(x.t);if(recent.length>14)recent.shift();
+    const q={...x,pending:!spawn(x.t)};active.push(q);drawQ()};
+  const spawnDecoy=()=>{const sc=onScreen(),aw=new Set(active.map(q=>q.t)),bad=t=>{const y=D.byT.get(t);return y&&active.some(q=>gOver(q,y))};
+    let c=[];active.forEach(q=>gSim(D,q).forEach(t=>{if(!sc.has(t)&&!aw.has(t)&&!bad(t))c.push(t)}));
+    if(!c.length||Math.random()<.2){c=[];for(let g=0;g<20;g++){const x=pool[gRnd(pool.length)];if(!sc.has(x.t)&&!aw.has(x.t)&&!bad(x.t))c.push(x.t)}}
+    if(c.length)spawn(c[gRnd(c.length)])};
+  const kill=(b,anim)=>{b.dead=true;bombs=bombs.filter(x=>x!==b);if(anim)gT(()=>b.e.remove(),320);else b.e.remove()};
+  const tap=b=>{if(!S2.run||b.dead)return;const q=active.find(x=>x.t===b.w);
+    if(q){S2.combo++;S2.maxc=Math.max(S2.maxc,S2.combo);S2.solved++;b.e.classList.add("boom");kill(b,true);
+      q.cls="hit";drawQ();active=active.filter(x=>x!==q);gT(()=>{if(!active.length)drawQ()},350);nextQ=Math.min(nextQ,.35);say(`✔ 정답! ${q.t} = ${q.ko}`,"ok")}
+    else{S2.combo=0;b.e.classList.add("bad");kill(b,true);say(`✘ ${b.w} — 문제가 아니에요`,"ng")}
+    upd()};
+  const miss=b=>{const q=active.find(x=>x.t===b.w);kill(b,false);if(!q)return;
+    active=active.filter(x=>x!==q);missed.push(q);S2.lives--;S2.combo=0;crack();
+    wall.classList.add("hit");gT(()=>wall.classList.remove("hit"),250);
+    f.classList.add("gshake");gT(()=>f.classList.remove("gshake"),300);upd();drawQ();say(`✘ 놓쳤어요: ${q.t}`,"ng");
+    if(S2.lives<=0)end()};
+  const exOf=q=>{const s=(q.ex||[]).map(id=>ITEM[L][id]).find(Boolean);return s?`<span class="gsm">${esc(s.t)} — ${esc(s.k)}</span>`:""};
+  const end=()=>{S2.run=false;cancelAnimationFrame(raf);
+    const sec=Math.round(S2.t*10)/10,prev=gRec(L,"bomb"),nb=!prev||sec>prev.sec;if(nb)gSetRec(L,"bomb",{sec,date:gDate()});const best=nb?{sec,date:gDate()}:prev;
+    const ov=gEl(`<div class="gov"><div class="gres"><div class="gc gmut">성벽이 무너졌어요</div><div class="gbignum">${sec}초</div>
+    <div class="gc">${nb?'<span class="gchipx on">🎉 최고 기록 갱신!</span>':`<span class="gchipx">🏆 최고 ${best.sec}초 (${best.date})</span>`}<span class="gchipx">맞힌 문제 ${S2.solved}</span><span class="gchipx">최대 콤보 ${S2.maxc}</span></div>
+    <h4>놓친 문제 ${missed.length}개 · 다시 보기</h4><ul class="glst">${missed.map(q=>`<li><div class="gli"><span><b>${esc(q.ko)}</b> → <span class="gans">${esc(q.t)}</span></span>${gSay(L,q.t)}</div>${exOf(q)}</li>`).join("")}</ul>
+    <div class="grow"><button class="btn pri" id="gbre">다시 하기</button></div></div></div>`);
+    f.appendChild(ov);gQ("#gbre",box).onclick=()=>{gmStop();gBomb(box,D,L)}};
+  const loop=ts=>{if(!S2.run)return;const dt=Math.min(.05,(ts-last)/1000||0);last=ts;S2.t+=dt;gQ("#gbt",box).textContent=Math.floor(S2.t);
+    active.forEach(q=>{if(q.pending&&spawn(q.t))q.pending=false});
+    nextQ-=dt;if(active.length<want()&&nextQ<=0){newQ();nextQ=.7}
+    nextD-=dt;if(nextD<=0){if(bombs.length<7)spawnDecoy();nextD=Math.max(.55,1.5-S2.t/90-S2.solved*.02)}
+    const DD=H-WALL-BH+4;
+    for(const b of bombs.slice()){if(b.dead)continue;b.y+=b.v*dt;b.e.style.transform=`translateY(${b.y}px)`;
+      const m=Math.max(0,Math.min(1,b.y/DD)),isAns=active.some(q=>q.t===b.w);
+      if(isAns){b.e.style.opacity=(.3+.7*m).toFixed(2);b.e.style.filter="";if(b.y>=DD)miss(b)}
+      else{b.e.style.opacity=Math.max(0,1-.95*m).toFixed(2);b.e.style.filter=`blur(${(m*m*3).toFixed(1)}px)`;if(b.y>=DD+8)kill(b,false)}}
+    raf=requestAnimationFrame(loop)};
+  gQ("#gbgo",box).onclick=()=>{gQ("#gbst",box).remove();S2.run=true;last=performance.now();upd();newQ();raf=requestAnimationFrame(loop)};
+  gOn(()=>{S2.run=false;cancelAnimationFrame(raf)});
+  upd();drawQ();
+  window.__b={S:S2,bombs:()=>bombs,active:()=>active,missed:()=>missed,tap:w=>{const b=bombs.find(x=>x.w===w);if(b)tap(b)},H,wallH:()=>wall.getBoundingClientRect().height,sim:x=>gSim(D,D.byT.get(x))};
+}
+
+/* ═════════ 2. Word Craft: 문장 조립 서바이벌 (40초부터 한 문제마다 1초씩 줄어듦) ═════════ */
+function gCraft(box,D,L){
+  const rec=gRec(L,"craft"),START=40,MINT=5,nm=LANGS[L].name,pool=D.craft.a;
+  const limitOf=lv=>Math.max(MINT,START-lv);
+  const by={};pool.forEach(x=>(by[x.n]=by[x.n]||[]).push(x));const used=new Set();
+  const nextS=lv=>{const n=Math.min(10,3+Math.floor(lv/3));let c=[];for(const k of [n,n-1,n+1,n+2,n-2])c=c.concat((by[k]||[]).filter(x=>!used.has(x)));
+    if(!c.length){used.clear();c=pool}const x=c.slice(0,400)[gRnd(Math.min(400,c.length))];used.add(x);return x};
+  box.innerHTML=gStart({icon:"✍️",name:"Word Craft",id:"gast",recLabel:"최고 기록",rec:rec&&`<b>${rec.n}문제</b> (${rec.date})`,scope:gScopeTxt(L,D.craft,"문장"),rules:[
+    `한국어 문장을 보고, 섞인 ${nm} 조각을 순서대로 눌러 문장을 만들어요.`+(L==="vi"?" (cảm ơn처럼 여러 음절 단어는 한 조각)":""),
+    "처음엔 짧은 문장, 맞힐수록 문장이 길어져요.",
+    `제한 시간은 처음 <b>${START}초</b>. 한 문제를 맞힐 때마다 <b>1초씩 줄어요</b> (최소 ${MINT}초).`,
+    "틀리거나 시간이 지나면 끝! <b>몇 문제까지 가는지</b>가 기록이에요."]});
+  const play=lv=>{gmStop();
+    const x=nextS(lv),toks=x.ch,ans=toks.join(" "),limit=limitOf(lv);
+    let ord=gShuf(toks.map((t,i)=>i));if(toks.length>1&&ord.every((v,i)=>v===i))ord.reverse();
+    let placed=[],t0=Date.now(),done=false;
+    box.innerHTML=`<div class="ghud"><span>문제 <b>${lv+1}</b></span><span>이번 제한 <b>${limit}초</b></span><span class="gtimer"><b id="gat">0.0</b>초</span></div>
+    <div class="gbar"><i id="gab"></i></div><div class="gprompt"><small>${nm}로 맞춰 보세요</small>${esc(x.s.k)}</div>
+    <div class="gslot" id="gasl"></div><div class="gchips" id="gach"></div><div class="gmsg" id="gamsg"></div><div class="grow"><button class="btn sm" id="garst">처음부터</button></div>`;
+    const draw=()=>{const sl=gQ("#gasl",box),ch=gQ("#gach",box);sl.innerHTML="";ch.innerHTML="";
+      placed.forEach(i=>{const b=gEl(`<button class="gchip">${esc(toks[i])}</button>`);b.onclick=()=>{if(done)return;placed=placed.filter(v=>v!==i);draw()};sl.appendChild(b)});
+      ord.forEach(i=>{const u=placed.includes(i),b=gEl(`<button class="gchip ${u?"used":""}">${esc(toks[i])}</button>`);if(!u)b.onclick=()=>{if(done)return;placed.push(i);draw();if(placed.length===toks.length)finish(false)};ch.appendChild(b)})};
+    const finish=timeout=>{if(done)return;done=true;clearInterval(id);
+      const sec=Math.min(limit,(Date.now()-t0)/1000),mine=placed.map(i=>toks[i]).join(" "),ok=!timeout&&mine===ans;
+      gQ("#gasl",box).classList.add(ok?"good":"bad");const am=gQ("#gamsg",box);am.className="gmsg "+(ok?"ok":"ng");
+      if(ok){am.textContent=`✔ 정답! ${sec.toFixed(1)}초 · 다음은 ${limitOf(lv+1)}초`;gT(()=>play(lv+1),850)}
+      else{am.textContent=timeout?"⏱ 시간 초과!":"✘ 오답!";gT(()=>over(lv,{x,mine,timeout}),1000)}};
+    const id=setInterval(()=>{const s=(Date.now()-t0)/1000,e=gQ("#gat",box),bar=gQ("#gab",box);if(!e)return;e.textContent=s.toFixed(1);const r=Math.max(0,1-s/limit);bar.style.width=r*100+"%";bar.classList.toggle("warn",r<.25);if(s>=limit)finish(true)},100);
+    gOn(()=>clearInterval(id));
+    gQ("#garst",box).onclick=()=>{if(done)return;placed=[];draw()};
+    draw();window.__a={ans,toks,limit,lv,place:i=>{placed.push(i);draw();if(placed.length===toks.length)finish(false)},ord};
+  };
+  const over=(lv,f)=>{gmStop();
+    const prev=gRec(L,"craft"),nb=lv>0&&(!prev||lv>prev.n);if(nb)gSetRec(L,"craft",{n:lv,date:gDate()});const best=nb?{n:lv,date:gDate()}:prev;
+    box.innerHTML=`<div class="gres"><div class="gc gmut">게임 종료</div><div class="gbignum">${lv}문제</div>
+    <div class="gc">${nb?'<span class="gchipx on">🎉 최고 기록 갱신!</span>':`<span class="gchipx">🏆 최고 ${best?best.n+"문제 ("+best.date+")":"-"}</span>`}<span class="gchipx">마지막 제한 ${limitOf(lv)}초</span></div>
+    <h4>마지막 문제 다시 보기</h4><ul class="glst"><li><b>${esc(f.x.s.k)}</b><span class="gsm gmine">${f.timeout?"시간 초과"+(f.mine?" · 내 답: "+esc(f.mine):""):"내 답: "+esc(f.mine)}</span>
+      <div class="gli"><span class="gans">정답: ${esc(f.x.s.t)}</span>${gSay(L,f.x.s.t)}</div></li></ul>
+    <div class="grow"><button class="btn pri" id="gare">다시 하기</button></div></div>`;
+    gQ("#gare",box).onclick=()=>play(0)};
+  gQ("#gast",box).onclick=()=>play(0);
+  window.__asm={play,limitOf};
+}
+
+/* ═════════ 3. CrossWord: 보기 블록에서 고르는 가로세로 낱말퍼즐 (최대 10단어) ═════════ */
+function gGenCross(pool,target){
+  const N=15;let best=null;
+  for(let at=0;at<30;at++){
+    const g=Array.from({length:N},()=>Array(N).fill("")),dr=Array.from({length:N},()=>Array.from({length:N},()=>[false,false])),placed=[],byCh=new Map();
+    const can=(w,r,c,d)=>{const a=d,b=1-d,L=w.length;
+      if(r<0||c<0||r+a*(L-1)>=N||c+b*(L-1)>=N)return -1;
+      const br=r-a,bc=c-b;if(br>=0&&bc>=0&&g[br][bc])return -1;
+      const er=r+a*L,ec=c+b*L;if(er<N&&ec<N&&g[er][ec])return -1;
+      let x=0;
+      for(let i=0;i<L;i++){const rr=r+a*i,cc=c+b*i,ch=g[rr][cc];
+        if(ch){if(ch!==w[i]||dr[rr][cc][d])return -1;x++}
+        else{const pr=rr+b,pc=cc+a,qr=rr-b,qc=cc-a;if(pr<N&&pc<N&&g[pr][pc])return -1;if(qr>=0&&qc>=0&&g[qr][qc])return -1}}
+      return x};
+    const put=(x,r,c,d)=>{const w=x.a;for(let i=0;i<w.length;i++){const rr=r+d*i,cc=c+(1-d)*i;if(!g[rr][cc]){g[rr][cc]=w[i];if(!byCh.has(w[i]))byCh.set(w[i],[]);byCh.get(w[i]).push([rr,cc])}dr[rr][cc][d]=true}placed.push({x,w:x.c,r,c,d})};
+    const cand=gShuf(pool).slice(0,600);const f=cand.find(x=>x.a.length>=5&&x.a.length<=8)||cand[0];put(f,7,Math.floor((N-f.a.length)/2),0);
+    for(const x of cand){if(placed.length>=target)break;if(placed.some(p=>p.x===x||p.w.includes(x.c)||x.c.includes(p.w)))continue;
+      const opts=[],seen=new Set();
+      x.a.forEach((ch,i)=>(byCh.get(ch)||[]).forEach(([r,c])=>{for(const d of [0,1]){const r0=r-d*i,c0=c-(1-d)*i,k=r0+","+c0+","+d;if(seen.has(k))continue;seen.add(k);const n=can(x.a,r0,c0,d);if(n>=1)opts.push([r0,c0,d,n])}}));
+      if(opts.length){const mx=Math.max(...opts.map(o=>o[3])),top=opts.filter(o=>o[3]>=Math.min(mx,2));
+        const fit=top.filter(o=>{let c0=N,c1=-1;placed.forEach(p=>{c0=Math.min(c0,p.c);c1=Math.max(c1,p.c+(1-p.d)*(p.w.length-1))});c0=Math.min(c0,o[1]);c1=Math.max(c1,o[1]+(1-o[2])*(x.a.length-1));return c1-c0<11});
+        const p=(fit.length?fit:top)[gRnd((fit.length?fit:top).length)];put(x,p[0],p[1],p[2])}}
+    let r0=N,r1=-1,c0=N,c1=-1;placed.forEach(p=>{r0=Math.min(r0,p.r);c0=Math.min(c0,p.c);r1=Math.max(r1,p.r+p.d*(p.w.length-1));c1=Math.max(c1,p.c+(1-p.d)*(p.w.length-1))});
+    const area=(r1-r0+1)*(c1-c0+1),sc=placed.length*1000-area-Math.max(0,(c1-c0+1)-11)*60;
+    if(!best||sc>best.sc)best={sc,placed:placed.map(p=>({...p,r:p.r-r0,c:p.c-c0})),rows:r1-r0+1,cols:c1-c0+1};
+    if(placed.length>=target&&area<=90)break}
+  return best}
+function gExample(L,x){const t=x.t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),re=new RegExp("(^|[^\\p{L}])("+t+(L==="en"?"\\p{L}{0,3}":"")+")(?![\\p{L}])","iu");
+  for(const id of x.ex||[]){const s=ITEM[L][id];if(s&&s.kind==="s"&&re.test(s.t))return {t:s.t.replace(re,(m,a)=>a+"＿＿＿"),k:s.k}}return null}
+function gCross(box,D,L){
+  const rec=gRec(L,"cross");
+  box.innerHTML=gStart({icon:"🧩",name:"CrossWord",id:"gcgo",recLabel:"최단 기록",rec:rec&&`<b>${gMMSS(rec.ms)}</b> (${rec.date})`,scope:gScopeTxt(L,D.cross,"단어"),rules:[
+    "가로·세로로 얽힌 <b>최대 10개 단어</b> 퍼즐이에요. 격자의 칸이나 ◀ ▶ 로 문제를 고르세요.",
+    "위에 <b>한글 뜻</b>(또는 <b>예문 빈칸</b>)이 나오면, 아래 <b>보기 블록 중 정답</b>을 누르세요. 바로 ✔ / ✘ 로 알려줘요.",
+    "보기는 철자가 비슷해요. 이미 맞힌 단어와 <b>겹치는 칸의 글자</b>는 정해져 있어서, 보기도 그 글자에 맞춰 나와요 (뜻 없는 단어도 섞여 있어요)."+(L==="vi"?" 베트남어는 띄어쓰기 없이 한 칸에 한 글자(성조 포함)씩 들어가요.":""),
+    "문제 번호는 앞 문제와 <b>이어진 칸</b> 순서예요. 맞히면 다음 문제로 자동 이동해요.",
+    "시작 버튼을 누르면 타이머가 돌아요. <b>다 푸는 데 걸린 시간</b>이 짧을수록 좋아요. 최단 기록만 날짜와 함께 저장돼요."]});
+  gQ("#gcgo",box).onclick=()=>gCrossRun(box,D,L);
+}
+function gCrossRun(box,D,L){gmStop();
+  let lay=null;for(let t=0;t<6;t++){const l=gGenCross(D.cross.a,10);if(!lay||l.placed.length>lay.placed.length)lay=l;if(l.placed.length>=9)break}
+  const R=lay.rows,C=lay.cols,cellsOf=s=>Array.from({length:s.len},(_,i)=>[s.r+s.d*i,s.c+(1-s.d)*i,i]);
+  /* 문제 번호: 1번과 이어진 칸이 2번, 2번과 이어진 칸이 3번 … */
+  const raw=lay.placed.map(p=>({...p,len:p.x.a.length})).sort((a,b)=>a.r-b.r||a.c-b.c||a.d-b.d);
+  const key=(r,c)=>r+","+c,cellSet=raw.map(s=>new Set(cellsOf(s).map(x=>key(x[0],x[1]))));
+  const adj=raw.map((s,i)=>raw.map((t,j)=>j!==i&&[...cellSet[i]].some(k=>cellSet[j].has(k))?j:-1).filter(j=>j>=0));
+  const seen=new Set(),ord=[];const visit=i=>{seen.add(i);ord.push(i)};visit(0);
+  while(ord.length<raw.length){let nx=-1;
+    for(let k=ord.length-1;k>=0&&nx<0;k--){const c=adj[ord[k]].filter(j=>!seen.has(j)).sort((a,b)=>adj[b].filter(x=>!seen.has(x)).length-adj[a].filter(x=>!seen.has(x)).length);if(c.length)nx=c[0]}
+    if(nx<0)nx=raw.findIndex((_,j)=>!seen.has(j));visit(nx)}
+  const slots=ord.map((i,k)=>({...raw[i],num:k+1}));
+  const lab=Array.from({length:R},()=>Array(C).fill(""));
+  slots.forEach(s=>{const t=lab[s.r][s.c];lab[s.r][s.c]=t?t+"·"+s.num:""+s.num});
+  const answers=new Set(slots.map(s=>s.w));
+  const st=slots.map(()=>({done:false,wrong:new Set(),opts:null,key:""}));
+  let sel=0,mode="ko",mistakes=0,msg={t:"",c:""},advT=0;
+  const slotAt=(r,c)=>slots.map((s,k)=>k).filter(k=>cellsOf(slots[k]).some(x=>x[0]===r&&x[1]===c));
+  const locked=()=>{const Lk=Array.from({length:R},()=>Array(C).fill(""));slots.forEach((s,k)=>{if(st[k].done)cellsOf(s).forEach(([r,c,i])=>{Lk[r][c]=s.x.a[i]})});return Lk};
+  const patternOf=k=>{const Lk=locked();return cellsOf(slots[k]).map(([r,c])=>Lk[r][c])};
+  /* 보기: 교차 글자 패턴에 맞는 실제 단어 → 부족하면 철자 비슷한 가짜 단어 */
+  const genOpts=k=>{if(st[k].done&&st[k].opts)return;const s=slots[k],pat=patternOf(k),pk=pat.join(".");if(st[k].opts&&st[k].key===pk)return;
+    const fits=a=>a.length===s.len&&pat.every((ch,i)=>!ch||a[i]===ch);
+    const real=D.cross.a.filter(y=>y.c!==s.w&&!answers.has(y.c)&&fits(y.a)).map(y=>[gLev(s.w,y.c)+Math.random()*.3,y]).sort((a,b)=>a[0]-b[0]).slice(0,30).map(z=>z[1]);
+    const opts=[{c:s.w,d:s.x.t}];real.slice(0,3).forEach(y=>opts.push({c:y.c,d:y.t}));const free=pat.map((ch,i)=>ch?-1:i).filter(i=>i>=0);
+    for(let guard=0;opts.length<4&&free.length&&guard<200;guard++){const base=Math.random()<.6||!real.length?s.x:real[gRnd(real.length)];
+      const cand=gMut(L,base.a,free,base.t);if(fits(Array.from(cand))&&!opts.some(o=>o.c===cand))opts.push({c:cand,d:gSpace(cand,s.x.t)})}
+    for(const i of free){if(opts.length>=2)break;const v=gVPos(s.x.a[i]);if(!v)continue;for(let u=0;u<6&&opts.length<3;u++){if(u===v[1])continue;const c2=s.x.a.slice();c2[i]=VV[v[0]][u];const cs=c2.join("");if(!opts.some(o=>o.c===cs))opts.push({c:cs,d:gSpace(cs,s.x.t)})}}
+    st[k].opts=gShuf(opts);st[k].key=pk;st[k].wrong=new Set()};
+  const rec0=gRec(L,"cross");let t0=Date.now(),elapsed=0,fin=false,newRec=false;
+  box.innerHTML=`<div class="gtbar"><span>⏱ <b id="gtk">0:00</b></span><span>🏆 최단 ${rec0?`<b>${gMMSS(rec0.ms)}</b> (${rec0.date})`:"기록 없음"}</span></div>
+  <div class="gqp" id="gqp"></div>
+  <div class="gcw"><div class="gcwg${L==="en"?" up":""}" id="gcg"></div></div>
+  <div class="gsm gc" id="gcs"></div>
+  <div class="grow"><button class="btn sm" id="gcnw">새 퍼즐</button></div>`;
+  const W0=Math.min(box.clientWidth||360,520)-30,cs=Math.max(20,Math.min(30,Math.floor(W0/C)-2));
+  const g=gQ("#gcg",box);g.style.gridTemplateColumns=`repeat(${C}, ${cs}px)`;g.style.gridAutoRows=cs+"px";
+  const cells=[];
+  for(let r=0;r<R;r++)for(let c=0;c<C;c++){const live=slots.some(s=>cellsOf(s).some(x=>x[0]===r&&x[1]===c));
+    const e=gEl(`<div class="gcc ${live?"in":"blk"}">${lab[r][c]?`<i>${lab[r][c]}</i>`:""}<span></span></div>`);
+    if(live)e.onclick=()=>{const ks=slotAt(r,c);const nk=ks.length>1&&ks[0]===sel?ks[1]:(ks.includes(sel)&&ks.length===1?sel:ks[0]);select(nk)};
+    g.appendChild(e);cells.push(e)}
+  const tk=setInterval(()=>{if(fin)return;elapsed=Date.now()-t0;const e=gQ("#gtk",box);if(e)e.textContent=gMMSS(elapsed)},500);gOn(()=>clearInterval(tk));
+  const finish=()=>{fin=true;elapsed=Date.now()-t0;gQ("#gtk",box).textContent=gMMSS(elapsed);const prev=gRec(L,"cross");newRec=!prev||elapsed<prev.ms;if(newRec)gSetRec(L,"cross",{ms:elapsed,date:gDate()})};
+  const hint=s=>{if(mode==="ko")return esc(s.x.ko);const e=gExample(L,s.x);return e?`<span class="gexs">${esc(e.t)}</span><small>${esc(e.k)}</small>`:`${esc(s.x.ko)}<small>예문이 없어 뜻으로 보여줘요</small>`};
+  const doneCount=()=>st.filter(x=>x.done).length;
+  function select(k){sel=k;msg={t:"",c:""};draw()}
+  function choose(k,w){const s=slots[k],Sx=st[k];if(Sx.done||Sx.wrong.has(w))return;
+    if(w===s.w){Sx.done=true;const auto=[];slots.forEach((s2,j)=>{if(!st[j].done&&patternOf(j).every(Boolean)){st[j].done=true;auto.push(s2.num)}});msg={t:`✔ 정답! ${s.x.t} = ${s.x.ko}`+(auto.length?` · 글자가 다 채워진 ${auto.join(", ")}번도 완성`:""),c:"ok"};if(S.set.auto)speak(s.x.t,L);if(doneCount()===slots.length)finish();draw();
+      if(doneCount()<slots.length){clearTimeout(advT);advT=setTimeout(()=>{if(sel===k){const nx=slots.map((_,i)=>(k+1+i)%slots.length).find(i=>!st[i].done);if(nx!=null)select(nx)}},1100)}}
+    else{Sx.wrong.add(w);mistakes++;msg={t:"✘ 오답이에요. 다른 보기를 골라 보세요",c:"ng"};draw()}}
+  gOn(()=>clearTimeout(advT));
+  function draw(){
+    genOpts(sel);
+    const Lk=locked(),cur=slots[sel],Sx=st[sel],cs2=new Set(cellsOf(cur).map(x=>x[0]+","+x[1]));
+    for(let r=0;r<R;r++)for(let c=0;c<C;c++){const e=cells[r*C+c];if(!e.classList.contains("in"))continue;let cls="gcc in";
+      if(Lk[r][c])cls+=" ok";if(cs2.has(r+","+c))cls+=" hl";e.className=cls;e.lastChild.textContent=Lk[r][c]}
+    const pat=patternOf(sel),all=doneCount()===slots.length;
+    gQ("#gqp",box).innerHTML=`<div class="gqh"><button class="gnv" id="gpv" aria-label="이전 문제">◀</button><span><b>${cur.num}번 ${cur.d?"세로 ↓":"가로 →"}</b> · ${cur.len}글자${L==="vi"&&cur.x.syl>1?` (${cur.x.syl}음절)`:""}</span><span>${doneCount()} / ${slots.length}</span><button class="gnv" id="gnx" aria-label="다음 문제">▶</button></div>
+    <div class="gseg"><button data-m="ko" class="${mode==="ko"?"on":""}">한글 뜻</button><button data-m="ex" class="${mode==="ex"?"on":""}">예문 빈칸</button></div>
+    <div class="gqt">${hint(cur)}</div>
+    <div class="gpat${L==="en"?" up":""}">${pat.map(ch=>`<span class="${ch?"k":""}">${ch||""}</span>`).join("")}</div>
+    <div class="gblocks">${Sx.opts.map(o=>`<button class="gblock ${Sx.done&&o.c===cur.w?"ok":""} ${Sx.wrong.has(o.c)?"ng":""}" data-w="${esc(o.c)}" ${Sx.done||Sx.wrong.has(o.c)?"disabled":""}>${esc(o.d)}</button>`).join("")}</div>
+    <div class="gmsg ${all?"ok":msg.c}">${all?`🎉 퍼즐 완성! ${gMMSS(elapsed)} · 오답 ${mistakes}회${newRec?" · 🏆 최단 기록 갱신!":""}`:esc(msg.t)}</div>
+    <div class="gtip">${pat.some(Boolean)?"겹치는 칸의 글자가 정해져서, 보기도 그 글자에 맞춰 나와요 (뜻 없는 단어도 섞여 있어요)":"다른 단어를 맞히면 겹치는 칸의 글자가 정해져 보기가 바뀌어요"}</div>`;
+    gQ("#gqp",box).querySelectorAll(".gblock").forEach(b=>b.onclick=()=>choose(sel,b.dataset.w));
+    gQ("#gqp",box).querySelectorAll(".gseg button").forEach(b=>b.onclick=()=>{mode=b.dataset.m;draw()});
+    gQ("#gpv",box).onclick=()=>select((sel+slots.length-1)%slots.length);gQ("#gnx",box).onclick=()=>select((sel+1)%slots.length);
+    gQ("#gcs",box).textContent=`맞힌 단어 ${doneCount()} / ${slots.length} · 오답 ${mistakes}회 · 격자의 칸을 눌러 문제를 고를 수 있어요`;
+  }
+  gQ("#gcnw",box).onclick=()=>gCrossRun(box,D,L);
+  window.__x={slots,st,choose,select,sel:()=>sel,opts:k=>{genOpts(k);return st[k].opts.map(o=>o.c)},pattern:patternOf,rows:R,cols:C,mistakes:()=>mistakes,adj,lab};
+  draw();
+}
+
+/* 게임 화면: 위에 모드(상황·레벨) + 게임 탭 3개 */
+const gScopeBtn=L=>`<button class="scope" data-act="scope" aria-label="게임 출제 범위 바꾸기">${scopeChips(L).filter((_,i)=>i!==2).map((x,i)=>`<span class="sb${i?"":" sb0"}">${esc(x)}</span>`).join("")}<span class="md">${IC.filt}모드</span></button>`;
+function vGame(){const L=S.lang,t=S.gmTab||0;
+  return gScopeBtn(L)+`<div class="gtabs" role="tablist">${GNAMES.map((n,i)=>`<button class="gtab${i===t?" on":""}" data-gt="${i}" role="tab" aria-selected="${i===t}">${n}</button>`).join("")}</div><div class="gcard" id="gbox"></div>`}
+function gmShow(){gmStop();const box=gQ("#gbox");if(!box)return;box.innerHTML="";[gBomb,gCraft,gCross][S.gmTab||0](box,gData(S.lang),S.lang)}
+function gmMount(){document.querySelectorAll(".gtab").forEach(b=>b.onclick=()=>{b.blur();S.gmTab=+b.dataset.gt;save();
+  document.querySelectorAll(".gtab").forEach(x=>{const on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-selected",String(on))});gmShow()});gmShow()}
+
 /* ---------- 렌더 & 이벤트 ---------- */
-const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,dict:vDict,prefs:vPrefs};
+const VIEWS={home:vHome,cards:vCards,quiz:vQuiz,speak:vSpeak,game:vGame,dict:vDict,prefs:vPrefs};
 function render(){
   document.querySelectorAll("#langSeg button").forEach(b=>b.classList.toggle("on",b.dataset.l===S.lang));
   document.querySelectorAll("#tabs a").forEach(a=>a.classList.toggle("on",a.dataset.v===view));
+  gmStop();
   $("#view").innerHTML=VIEWS[view]();
+  if(view==="game")gmMount();
   if(view==="home"){const wk=$("#wk");if(wk){wk.scrollLeft=WKX==null?wk.scrollWidth:WKX;wk.addEventListener("scroll",()=>{WKX=wk.scrollLeft>=wk.scrollWidth-wk.clientWidth-2?null:wk.scrollLeft},{passive:true})}}
   if(view==="dict"){const on=document.querySelector("#dcats .chip.on");if(on&&!DS.wrap)try{on.scrollIntoView({inline:"center",block:"nearest"})}catch(e){}const so=document.querySelector("#dsrcs .chip.on");if(so)try{so.scrollIntoView({inline:"center",block:"nearest"})}catch(e){}renderDictList();const q=$("#dq");let t=0;q.addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{DS.q=q.value;DS.open=null;DS.lim=200;renderDictList()},150)})}
 }
