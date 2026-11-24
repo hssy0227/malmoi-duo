@@ -920,6 +920,7 @@ function srcLegend(){
 
 /* ---------- 설정 ---------- */
 function vPrefs(){
+  if(typeof checkAdmin==='function')checkAdmin();
   const vrow=L=>{const list=voicesFor(L), cur=voiceFor(L);
     return `<div class="fld"><label>${LANGS[L].name} 음성</label>${list.length?`<select data-ch="voice" data-l="${L}">${list.map(v=>`<option value="${esc(v.voiceURI)}" ${cur&&cur.voiceURI===v.voiceURI?"selected":""}>${esc(v.name)} (${esc(v.lang)})</option>`).join("")}</select>`:`<span class="sm" style="color:var(--ng)">없음</span>`}
       ${list.length?"":`<div class="d">${L==="vi"?"이 기기에 베트남어 음성이 없어요. iPhone: 설정 → 손쉬운 사용 → 읽기 및 말하기 → 음성 → 베트남어 다운로드. 갤럭시: 설정 → 일반 → 텍스트 음성 변환(TTS) → 엔진 설정 → 베트남어 음성 설치 (설정 검색창에 'TTS').":"영어 음성이 없어요. 기기 TTS 설정에서 영어 음성을 설치하세요."} 설치 후 앱을 다시 여세요.</div>`}</div>
@@ -1655,7 +1656,7 @@ const AD_ACT={
   adback:()=>{AD.uid=null;render();adLoad()},
   aditem:b=>adItemSheet(b.dataset.l,b.dataset.id),
 };
-async function checkAdmin(){if(!SB_ON||!AUTH)return;const now=Date.now();if(S.sync.adminAt&&now-S.sync.adminAt<10*6e4)return;
+async function checkAdmin(){if(!SB_ON||!AUTH)return;const now=Date.now();if(S.sync.adminAt&&now-S.sync.adminAt<(S.sync.admin?10*6e4:15e3))return;
   try{const r=await sbFetch("/rest/v1/rpc/is_admin",{method:"POST",body:{}}),was=!!S.sync.admin;S.sync.admin=r===true;S.sync.adminAt=now;save();if(was!==S.sync.admin&&view==="prefs")setTimeout(render,0)}catch(e){if(e.status===404){S.sync.admin=false;S.sync.adminAt=now}}}
 
 /* ---------- 렌더 & 이벤트 ---------- */
